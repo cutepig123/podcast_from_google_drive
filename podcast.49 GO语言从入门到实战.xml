@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .49 GO语言从入门到实战 ]]></title>
+		<itunes:subtitle><![CDATA[ .49 GO语言从入门到实战 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .49 GO语言从入门到实战. ]]></itunes:summary>
+		<description><![CDATA[ .49 GO语言从入门到实战 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1dZdtlMx2Fu1u7ZPAkDwl18sigGXAijoh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dZdtlMx2Fu1u7ZPAkDwl18sigGXAijoh</guid>
+			
+
+			<title><![CDATA[ 55-结束语.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55-结束语.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55-结束语.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55-结束语.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dZdtlMx2Fu1u7ZPAkDwl18sigGXAijoh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1dJW1Dl5O5jREvZhQ_yhIkKPvqs5M9RNA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dJW1Dl5O5jREvZhQ_yhIkKPvqs5M9RNA</guid>
+			
+
+			<title><![CDATA[ 54-chaos_engineering.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54-chaos_engineering.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54-chaos_engineering.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54-chaos_engineering.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dJW1Dl5O5jREvZhQ_yhIkKPvqs5M9RNA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1dDwkY68en4eIc79HRk_eX98pBlZTsuIi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dDwkY68en4eIc79HRk_eX98pBlZTsuIi</guid>
+			
+
+			<title><![CDATA[ 53-面向恢复的设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53-面向恢复的设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53-面向恢复的设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53-面向恢复的设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dDwkY68en4eIc79HRk_eX98pBlZTsuIi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1czVXgw2HB-gEbnJMpQGtfM_qEW-1PDuY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1czVXgw2HB-gEbnJMpQGtfM_qEW-1PDuY</guid>
+			
+
+			<title><![CDATA[ 52-面向错误的设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52-面向错误的设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52-面向错误的设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52-面向错误的设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1czVXgw2HB-gEbnJMpQGtfM_qEW-1PDuY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cupP1OSDEJZKmLjz7R8fPfXOnpZF4g77</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cupP1OSDEJZKmLjz7R8fPfXOnpZF4g77</guid>
+			
+
+			<title><![CDATA[ 51-高效字符串连接.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51-高效字符串连接.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51-高效字符串连接.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51-高效字符串连接.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cupP1OSDEJZKmLjz7R8fPfXOnpZF4g77"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ci04_xXQYgN4aL9PpRJr9R3wMMMlveD1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ci04_xXQYgN4aL9PpRJr9R3wMMMlveD1</guid>
+			
+
+			<title><![CDATA[ 50-GC友好的代码.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50-GC友好的代码.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50-GC友好的代码.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50-GC友好的代码.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ci04_xXQYgN4aL9PpRJr9R3wMMMlveD1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cPezEMntD3UX0gTo5lhp4GEYBZ54XdRO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cPezEMntD3UX0gTo5lhp4GEYBZ54XdRO</guid>
+			
+
+			<title><![CDATA[ 49-别让性能被锁住.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49-别让性能被锁住.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49-别让性能被锁住.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49-别让性能被锁住.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cPezEMntD3UX0gTo5lhp4GEYBZ54XdRO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cLxap9DRp8kDVpSn48Vn0Iqqctd0LGGA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cLxap9DRp8kDVpSn48Vn0Iqqctd0LGGA</guid>
+			
+
+			<title><![CDATA[ 48-性能调优示例.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48-性能调优示例.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48-性能调优示例.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48-性能调优示例.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cLxap9DRp8kDVpSn48Vn0Iqqctd0LGGA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cIMEHy9u1OeHe3ObDfAZpw23HWDdrXMP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cIMEHy9u1OeHe3ObDfAZpw23HWDdrXMP</guid>
+			
+
+			<title><![CDATA[ 47-性能分析工具.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47-性能分析工具.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47-性能分析工具.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47-性能分析工具.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cIMEHy9u1OeHe3ObDfAZpw23HWDdrXMP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cFbVDa7i_KgigI317jtC1P1hdAVY9efX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cFbVDa7i_KgigI317jtC1P1hdAVY9efX</guid>
+			
+
+			<title><![CDATA[ 46-构建Restful服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46-构建Restful服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46-构建Restful服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46-构建Restful服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cFbVDa7i_KgigI317jtC1P1hdAVY9efX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1byGRb-GADnOLS_sHkxFiFIoHZBSaMcFw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1byGRb-GADnOLS_sHkxFiFIoHZBSaMcFw</guid>
+			
+
+			<title><![CDATA[ 45 HTTP服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45 HTTP服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45 HTTP服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45 HTTP服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1byGRb-GADnOLS_sHkxFiFIoHZBSaMcFw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bgHwYtGkTE7mtuggDIcJCFlm_Hfuy3R9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bgHwYtGkTE7mtuggDIcJCFlm_Hfuy3R9</guid>
+			
+
+			<title><![CDATA[ 44 easyjson.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44 easyjson.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44 easyjson.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44 easyjson.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bgHwYtGkTE7mtuggDIcJCFlm_Hfuy3R9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bVIYlc577VeFs-fKynfJNcoMIo8srNE-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bVIYlc577VeFs-fKynfJNcoMIo8srNE-</guid>
+			
+
+			<title><![CDATA[ 43内置JSON解析.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43内置JSON解析.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43内置JSON解析.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43内置JSON解析.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bVIYlc577VeFs-fKynfJNcoMIo8srNE-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b91rwGzYyvGikx8AozXrqRSwmyBczq0Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b91rwGzYyvGikx8AozXrqRSwmyBczq0Y</guid>
+			
+
+			<title><![CDATA[ 42实现micro-kernelframework.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42实现micro-kernelframework.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42实现micro-kernelframework.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42实现micro-kernelframework.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b91rwGzYyvGikx8AozXrqRSwmyBczq0Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b3tYPRmUnHqptJelFXhbLi-i9FiJ7_Qr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b3tYPRmUnHqptJelFXhbLi-i9FiJ7_Qr</guid>
+			
+
+			<title><![CDATA[ 41 实现pipe-filter framework.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41 实现pipe-filter framework.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41 实现pipe-filter framework.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41 实现pipe-filter framework.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b3tYPRmUnHqptJelFXhbLi-i9FiJ7_Qr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ax1oCNBKaQhAPCzLR54Vz1gkBC-my0tt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ax1oCNBKaQhAPCzLR54Vz1gkBC-my0tt</guid>
+			
+
+			<title><![CDATA[ 40 不安全编程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40 不安全编程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40 不安全编程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40 不安全编程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ax1oCNBKaQhAPCzLR54Vz1gkBC-my0tt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1as8aPfeiVQXwwR1cqym5D6LaMepwJNlU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1as8aPfeiVQXwwR1cqym5D6LaMepwJNlU</guid>
+			
+
+			<title><![CDATA[ 39 万能程序.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39 万能程序.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39 万能程序.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39 万能程序.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1as8aPfeiVQXwwR1cqym5D6LaMepwJNlU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aoAHgmIHXsx1AJe94T4rdUFsNd7zcylk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aoAHgmIHXsx1AJe94T4rdUFsNd7zcylk</guid>
+			
+
+			<title><![CDATA[ 38 反射编程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38 反射编程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38 反射编程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38 反射编程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aoAHgmIHXsx1AJe94T4rdUFsNd7zcylk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ak5x00Qf7PeOkPjvex-TZN8bu08ZWpz5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ak5x00Qf7PeOkPjvex-TZN8bu08ZWpz5</guid>
+			
+
+			<title><![CDATA[ 37 BDD.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37 BDD.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37 BDD.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37 BDD.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ak5x00Qf7PeOkPjvex-TZN8bu08ZWpz5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aYQoi0zTpiQ-KGJhM09KZ1alxQPVDI4E</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aYQoi0zTpiQ-KGJhM09KZ1alxQPVDI4E</guid>
+			
+
+			<title><![CDATA[ 36 Benchmark.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36 Benchmark.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36 Benchmark.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36 Benchmark.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aYQoi0zTpiQ-KGJhM09KZ1alxQPVDI4E"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aRkxohvcfoGDeaqTIZi0lJavQHFRfgIb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aRkxohvcfoGDeaqTIZi0lJavQHFRfgIb</guid>
+			
+
+			<title><![CDATA[ 35 单元测试.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35 单元测试.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35 单元测试.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35 单元测试.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aRkxohvcfoGDeaqTIZi0lJavQHFRfgIb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aLYfVLRBEIGYhet2dyTpjhf1j89nQmrM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aLYfVLRBEIGYhet2dyTpjhf1j89nQmrM</guid>
+			
+
+			<title><![CDATA[ 34 sync.pool 对象缓存.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34 sync.pool 对象缓存.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34 sync.pool 对象缓存.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34 sync.pool 对象缓存.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aLYfVLRBEIGYhet2dyTpjhf1j89nQmrM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aA-v7Z2d8iWZ9zt3ETUhygfluwNG0J2F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aA-v7Z2d8iWZ9zt3ETUhygfluwNG0J2F</guid>
+			
+
+			<title><![CDATA[ 33 对象池.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33 对象池.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33 对象池.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33 对象池.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aA-v7Z2d8iWZ9zt3ETUhygfluwNG0J2F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1a7Mj1rAvdV0Z0_4cGXJq0YABnY4yAs3z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1a7Mj1rAvdV0Z0_4cGXJq0YABnY4yAs3z</guid>
+			
+
+			<title><![CDATA[ 32 所有任务完成.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32 所有任务完成.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32 所有任务完成.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32 所有任务完成.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1a7Mj1rAvdV0Z0_4cGXJq0YABnY4yAs3z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_xV_3DINmLhA3eQTfTREGjQ9TClkTOQg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_xV_3DINmLhA3eQTfTREGjQ9TClkTOQg</guid>
+			
+
+			<title><![CDATA[ 31 仅需任意任务完成.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31 仅需任意任务完成.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31 仅需任意任务完成.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31 仅需任意任务完成.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_xV_3DINmLhA3eQTfTREGjQ9TClkTOQg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_qKo1NG3ZX-D-EVNmVGxW_GaLAXrODMW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_qKo1NG3ZX-D-EVNmVGxW_GaLAXrODMW</guid>
+			
+
+			<title><![CDATA[ 30 只运行一次.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30 只运行一次.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30 只运行一次.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30 只运行一次.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_qKo1NG3ZX-D-EVNmVGxW_GaLAXrODMW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_iOHaDX8GKoXy7EFHqJ8dlFCDoXW0azn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_iOHaDX8GKoXy7EFHqJ8dlFCDoXW0azn</guid>
+			
+
+			<title><![CDATA[ 29 Context与任务取消.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29 Context与任务取消.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29 Context与任务取消.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29 Context与任务取消.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_iOHaDX8GKoXy7EFHqJ8dlFCDoXW0azn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_gw6LwwLthnMyTlk5mcjHK-a1leUjNFa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_gw6LwwLthnMyTlk5mcjHK-a1leUjNFa</guid>
+			
+
+			<title><![CDATA[ 28 任务的取消.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28 任务的取消.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28 任务的取消.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28 任务的取消.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_gw6LwwLthnMyTlk5mcjHK-a1leUjNFa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_euX73ukiYuuxOUQLRWFWJJ1tBfwouj9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_euX73ukiYuuxOUQLRWFWJJ1tBfwouj9</guid>
+			
+
+			<title><![CDATA[ 27 channel的关闭和广播.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27 channel的关闭和广播.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27 channel的关闭和广播.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27 channel的关闭和广播.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_euX73ukiYuuxOUQLRWFWJJ1tBfwouj9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_VQUeRzznJ5lpW01sqkK2Ynvj6UpyMGa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_VQUeRzznJ5lpW01sqkK2Ynvj6UpyMGa</guid>
+			
+
+			<title><![CDATA[ 26 多路选择和超时.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26 多路选择和超时.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26 多路选择和超时.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26 多路选择和超时.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_VQUeRzznJ5lpW01sqkK2Ynvj6UpyMGa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_PjoolVoStcny1fH9yzIx_arVzl_FtTe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_PjoolVoStcny1fH9yzIx_arVzl_FtTe</guid>
+			
+
+			<title><![CDATA[ 25 CSP并发机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25 CSP并发机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25 CSP并发机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25 CSP并发机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_PjoolVoStcny1fH9yzIx_arVzl_FtTe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_9uPgyrPBqrUtcAzRRhPV-59HiiJ-fWC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_9uPgyrPBqrUtcAzRRhPV-59HiiJ-fWC</guid>
+			
+
+			<title><![CDATA[ 24 共享内存并发机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24 共享内存并发机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24 共享内存并发机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24 共享内存并发机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_9uPgyrPBqrUtcAzRRhPV-59HiiJ-fWC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zzd86bcZ4b_hwPmVxS2aFwumHuLHckli</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zzd86bcZ4b_hwPmVxS2aFwumHuLHckli</guid>
+			
+
+			<title><![CDATA[ 23 协程机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23 协程机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23 协程机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23 协程机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zzd86bcZ4b_hwPmVxS2aFwumHuLHckli"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZvRhlyP-F6Zm4ZOr8e4gznow9S33LCdY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZvRhlyP-F6Zm4ZOr8e4gznow9S33LCdY</guid>
+			
+
+			<title><![CDATA[ 22 依赖管理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22 依赖管理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22 依赖管理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22 依赖管理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZvRhlyP-F6Zm4ZOr8e4gznow9S33LCdY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zo5Wzi0UdFYgZ9K3370EYhQVm07_1_RX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zo5Wzi0UdFYgZ9K3370EYhQVm07_1_RX</guid>
+			
+
+			<title><![CDATA[ 21 构建可复用的模块（包）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21 构建可复用的模块（包）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21 构建可复用的模块（包）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21 构建可复用的模块（包）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zo5Wzi0UdFYgZ9K3370EYhQVm07_1_RX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZmHyXND8eFUYG-uEX3pT0ky0IiubtpTm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZmHyXND8eFUYG-uEX3pT0ky0IiubtpTm</guid>
+			
+
+			<title><![CDATA[ 20 panic和recover.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20 panic和recover.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20 panic和recover.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20 panic和recover.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZmHyXND8eFUYG-uEX3pT0ky0IiubtpTm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZeIt9celWDpGqtLTNh9vNVaP1j9Tg48R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZeIt9celWDpGqtLTNh9vNVaP1j9Tg48R</guid>
+			
+
+			<title><![CDATA[ 19 编写好的错误处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19 编写好的错误处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19 编写好的错误处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19 编写好的错误处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZeIt9celWDpGqtLTNh9vNVaP1j9Tg48R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZVTA8O8w6zy-hR5UPRnJADGHnKJNjOtH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZVTA8O8w6zy-hR5UPRnJADGHnKJNjOtH</guid>
+			
+
+			<title><![CDATA[ 18 不一样的接口类型，一样的多态.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18 不一样的接口类型，一样的多态.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18 不一样的接口类型，一样的多态.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18 不一样的接口类型，一样的多态.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZVTA8O8w6zy-hR5UPRnJADGHnKJNjOtH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZJOGWp_d6IgO4EJFX4i5qM9mAtS4sFkV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZJOGWp_d6IgO4EJFX4i5qM9mAtS4sFkV</guid>
+			
+
+			<title><![CDATA[ 17 扩展与复用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17 扩展与复用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17 扩展与复用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17 扩展与复用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZJOGWp_d6IgO4EJFX4i5qM9mAtS4sFkV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZEM5wxuHd37YqkLcVbvbPFofMlLY0C_f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZEM5wxuHd37YqkLcVbvbPFofMlLY0C_f</guid>
+			
+
+			<title><![CDATA[ 16 Go语言的相关接口.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16 Go语言的相关接口.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16 Go语言的相关接口.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16 Go语言的相关接口.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZEM5wxuHd37YqkLcVbvbPFofMlLY0C_f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Z-Mo1b3r0NO3NA1xA8DrlruRBaf3SKxg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Z-Mo1b3r0NO3NA1xA8DrlruRBaf3SKxg</guid>
+			
+
+			<title><![CDATA[ 15 行为的定义和实现.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15 行为的定义和实现.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15 行为的定义和实现.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15 行为的定义和实现.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Z-Mo1b3r0NO3NA1xA8DrlruRBaf3SKxg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YmujSThaQeRu5100KGltzaRcqDSQo4bW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YmujSThaQeRu5100KGltzaRcqDSQo4bW</guid>
+			
+
+			<title><![CDATA[ 14 可变参数和 defer.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14 可变参数和 defer.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14 可变参数和 defer.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14 可变参数和 defer.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YmujSThaQeRu5100KGltzaRcqDSQo4bW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Yg5EYPtgYeFhsURAmfmMcFo5Sz1VYUwg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Yg5EYPtgYeFhsURAmfmMcFo5Sz1VYUwg</guid>
+			
+
+			<title><![CDATA[ 13 Go 语言的函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13 Go 语言的函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13 Go 语言的函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13 Go 语言的函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Yg5EYPtgYeFhsURAmfmMcFo5Sz1VYUwg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YeHLKyDzfgMgDmJVp6i0qMhkG7zlTVEG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YeHLKyDzfgMgDmJVp6i0qMhkG7zlTVEG</guid>
+			
+
+			<title><![CDATA[ 12 字符串.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12 字符串.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12 字符串.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12 字符串.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YeHLKyDzfgMgDmJVp6i0qMhkG7zlTVEG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YZZYV54scIL31KSaXjM2DyQdgG4H2-lv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YZZYV54scIL31KSaXjM2DyQdgG4H2-lv</guid>
+			
+
+			<title><![CDATA[ 11 Map与工厂模式，在Go语言中实现Set.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11 Map与工厂模式，在Go语言中实现Set.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11 Map与工厂模式，在Go语言中实现Set.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11 Map与工厂模式，在Go语言中实现Set.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YZZYV54scIL31KSaXjM2DyQdgG4H2-lv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YJeWVlCL-BMlWksU63oAgxZW_GMRVfAv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YJeWVlCL-BMlWksU63oAgxZW_GMRVfAv</guid>
+			
+
+			<title><![CDATA[ 10 Map 声明、元素访问及遍历.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10 Map 声明、元素访问及遍历.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10 Map 声明、元素访问及遍历.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10 Map 声明、元素访问及遍历.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YJeWVlCL-BMlWksU63oAgxZW_GMRVfAv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YC5Ad4ePINMLvqof94zHDOlBHVX51VWV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YC5Ad4ePINMLvqof94zHDOlBHVX51VWV</guid>
+			
+
+			<title><![CDATA[ 09 数组和切片.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09 数组和切片.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09 数组和切片.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09 数组和切片.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YC5Ad4ePINMLvqof94zHDOlBHVX51VWV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y2Rxh7frakXWVU6MVt62tNjFIf9qTNkZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y2Rxh7frakXWVU6MVt62tNjFIf9qTNkZ</guid>
+			
+
+			<title><![CDATA[ 08 条件和循环.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08 条件和循环.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08 条件和循环.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08 条件和循环.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y2Rxh7frakXWVU6MVt62tNjFIf9qTNkZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XvGeE0YgDr66eyHCsw0LykkE217fiiIK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XvGeE0YgDr66eyHCsw0LykkE217fiiIK</guid>
+			
+
+			<title><![CDATA[ 07 运算符.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07 运算符.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07 运算符.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07 运算符.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XvGeE0YgDr66eyHCsw0LykkE217fiiIK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XrwXstGIsu04ppMYBnHi76qg-2FaIE4o</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XrwXstGIsu04ppMYBnHi76qg-2FaIE4o</guid>
+			
+
+			<title><![CDATA[ 06  数据类型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06  数据类型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06  数据类型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06  数据类型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XrwXstGIsu04ppMYBnHi76qg-2FaIE4o"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XkMSZHLSAo9R_7DyX7AWew1WFSUVdipA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XkMSZHLSAo9R_7DyX7AWew1WFSUVdipA</guid>
+			
+
+			<title><![CDATA[ 05 变量、常量以及与其他语言的差异.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05 变量、常量以及与其他语言的差异.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05 变量、常量以及与其他语言的差异.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05 变量、常量以及与其他语言的差异.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XkMSZHLSAo9R_7DyX7AWew1WFSUVdipA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Xgw3XHJ6EZqbX6gSSiJv4ot3GPBixWT9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Xgw3XHJ6EZqbX6gSSiJv4ot3GPBixWT9</guid>
+			
+
+			<title><![CDATA[ 04  编写第一个Go程序.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04  编写第一个Go程序.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04  编写第一个Go程序.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04  编写第一个Go程序.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Xgw3XHJ6EZqbX6gSSiJv4ot3GPBixWT9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XTwwdFSFCSZq7teDpNa6x-82AWbvO0t5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XTwwdFSFCSZq7teDpNa6x-82AWbvO0t5</guid>
+			
+
+			<title><![CDATA[ 03 Go 语言简介：历史背景、发展现状及语言特性.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03 Go 语言简介：历史背景、发展现状及语言特性.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03 Go 语言简介：历史背景、发展现状及语言特性.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03 Go 语言简介：历史背景、发展现状及语言特性.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XTwwdFSFCSZq7teDpNa6x-82AWbvO0t5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XKKufiVOh7xPpgvVvnUSEaU-52m4MEAj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XKKufiVOh7xPpgvVvnUSEaU-52m4MEAj</guid>
+			
+
+			<title><![CDATA[ 02 内容综述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02 内容综述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02 内容综述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02 内容综述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XKKufiVOh7xPpgvVvnUSEaU-52m4MEAj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1X1nXtsasIKhHQCOMPz-YLzPhTCo-aVVP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1X1nXtsasIKhHQCOMPz-YLzPhTCo-aVVP</guid>
+			
+
+			<title><![CDATA[ 01 Go语言课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01 Go语言课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01 Go语言课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01 Go语言课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1X1nXtsasIKhHQCOMPz-YLzPhTCo-aVVP"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

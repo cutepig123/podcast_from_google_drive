@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第三模块 ：微服务网关Zuul架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第三模块 ：微服务网关Zuul架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第三模块 ：微服务网关Zuul架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第三模块 ：微服务网关Zuul架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1z5A6fKvEcDCq3rmAlKYM6JVsXtAkP3hJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1z5A6fKvEcDCq3rmAlKYM6JVsXtAkP3hJ</guid>
+			
+
+			<title><![CDATA[ 65.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 65.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 65.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 65.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1z5A6fKvEcDCq3rmAlKYM6JVsXtAkP3hJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yudLxPuxsdBgyUFigBva6OgaojLVTuEs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yudLxPuxsdBgyUFigBva6OgaojLVTuEs</guid>
+			
+
+			<title><![CDATA[ 64.Zuul网关生产最佳实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 64.Zuul网关生产最佳实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 64.Zuul网关生产最佳实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 64.Zuul网关生产最佳实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yudLxPuxsdBgyUFigBva6OgaojLVTuEs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yoGEwJ9GTbK28rfrjNGIIuiaw6WNn-rA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yoGEwJ9GTbK28rfrjNGIIuiaw6WNn-rA</guid>
+			
+
+			<title><![CDATA[ 63.Zuul2.0简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 63.Zuul2.0简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 63.Zuul2.0简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 63.Zuul2.0简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yoGEwJ9GTbK28rfrjNGIIuiaw6WNn-rA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ybxzGueobWH19sF60c5sXB3p6zBZtQRI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ybxzGueobWH19sF60c5sXB3p6zBZtQRI</guid>
+			
+
+			<title><![CDATA[ 62.Spring Cloud Zuul(Lab05).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62.Spring Cloud Zuul(Lab05).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62.Spring Cloud Zuul(Lab05).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62.Spring Cloud Zuul(Lab05).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ybxzGueobWH19sF60c5sXB3p6zBZtQRI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yYdEWUxhZcQ2vKLpqLXEUqKB18Dse019</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yYdEWUxhZcQ2vKLpqLXEUqKB18Dse019</guid>
+			
+
+			<title><![CDATA[ 61.基于网关的两层路由体系.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61.基于网关的两层路由体系.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61.基于网关的两层路由体系.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61.基于网关的两层路由体系.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yYdEWUxhZcQ2vKLpqLXEUqKB18Dse019"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yNXFzzFARIks5yGbzUCw8gtS2xvRdEY_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yNXFzzFARIks5yGbzUCw8gtS2xvRdEY_</guid>
+			
+
+			<title><![CDATA[ 60.Zuul网关路由管理实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60.Zuul网关路由管理实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60.Zuul网关路由管理实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60.Zuul网关路由管理实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yNXFzzFARIks5yGbzUCw8gtS2xvRdEY_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yK8nX0VdS_f-c_HN2d-qp8kdGr7XqF7v</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yK8nX0VdS_f-c_HN2d-qp8kdGr7XqF7v</guid>
+			
+
+			<title><![CDATA[ 59.Zuul网关生产部署实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59.Zuul网关生产部署实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59.Zuul网关生产部署实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59.Zuul网关生产部署实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yK8nX0VdS_f-c_HN2d-qp8kdGr7XqF7v"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yBKfEgQz-zRjPntCWbN4IICAr-NiSGRX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yBKfEgQz-zRjPntCWbN4IICAr-NiSGRX</guid>
+			
+
+			<title><![CDATA[ 58.Zuul网关对接Apollo(Lab04).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58.Zuul网关对接Apollo(Lab04).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58.Zuul网关对接Apollo(Lab04).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58.Zuul网关对接Apollo(Lab04).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yBKfEgQz-zRjPntCWbN4IICAr-NiSGRX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y6sGe-ZbK5TW8Ht__qV8a6M3jf_6ts7W</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y6sGe-ZbK5TW8Ht__qV8a6M3jf_6ts7W</guid>
+			
+
+			<title><![CDATA[ 57.后置过滤器实验(Lab03).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57.后置过滤器实验(Lab03).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57.后置过滤器实验(Lab03).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57.后置过滤器实验(Lab03).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y6sGe-ZbK5TW8Ht__qV8a6M3jf_6ts7W"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y5Vq2DVSMWspCb8NAAO9kSLZWYz_EgPV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y5Vq2DVSMWspCb8NAAO9kSLZWYz_EgPV</guid>
+			
+
+			<title><![CDATA[ 56.路由过滤器实验(Lab02).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56.路由过滤器实验(Lab02).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56.路由过滤器实验(Lab02).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56.路由过滤器实验(Lab02).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y5Vq2DVSMWspCb8NAAO9kSLZWYz_EgPV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y14zo6hiA0GY__Cz477vAqxTVme2voqF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y14zo6hiA0GY__Cz477vAqxTVme2voqF</guid>
+			
+
+			<title><![CDATA[ 55.前置过滤器实验(Lab01).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55.前置过滤器实验(Lab01).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55.前置过滤器实验(Lab01).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55.前置过滤器实验(Lab01).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y14zo6hiA0GY__Cz477vAqxTVme2voqF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xrVdCpf4_Te5Hv1xwCWxmY2SzyNukH_r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xrVdCpf4_Te5Hv1xwCWxmY2SzyNukH_r</guid>
+			
+
+			<title><![CDATA[ 54.Zuul网关过滤器管理工具(Code Review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54.Zuul网关过滤器管理工具(Code Review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54.Zuul网关过滤器管理工具(Code Review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54.Zuul网关过滤器管理工具(Code Review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xrVdCpf4_Te5Hv1xwCWxmY2SzyNukH_r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xQSTuc6IE7Sv2ZaXqVu0NynlH47p2318</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xQSTuc6IE7Sv2ZaXqVu0NynlH47p2318</guid>
+			
+
+			<title><![CDATA[ 53.Zuul网关代码剖析(Code Review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53.Zuul网关代码剖析(Code Review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53.Zuul网关代码剖析(Code Review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53.Zuul网关代码剖析(Code Review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xQSTuc6IE7Sv2ZaXqVu0NynlH47p2318"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xLy9J7pfSVfbhsYPmnoJc4IpN1ySfDW4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xLy9J7pfSVfbhsYPmnoJc4IpN1ySfDW4</guid>
+			
+
+			<title><![CDATA[ 52.Zuul网关架构剖析.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52.Zuul网关架构剖析.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52.Zuul网关架构剖析.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52.Zuul网关架构剖析.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xLy9J7pfSVfbhsYPmnoJc4IpN1ySfDW4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xJual-TXGCiSKT1v0jvBicTr4OEh8iNX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xJual-TXGCiSKT1v0jvBicTr4OEh8iNX</guid>
+			
+
+			<title><![CDATA[ 51.Zuul网关高级应用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51.Zuul网关高级应用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51.Zuul网关高级应用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51.Zuul网关高级应用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xJual-TXGCiSKT1v0jvBicTr4OEh8iNX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1x7RF7fB82t9UqvPUR4TRmivOofo4i3xF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1x7RF7fB82t9UqvPUR4TRmivOofo4i3xF</guid>
+			
+
+			<title><![CDATA[ 50.Zuul网关和基本应用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50.Zuul网关和基本应用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50.Zuul网关和基本应用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50.Zuul网关和基本应用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1x7RF7fB82t9UqvPUR4TRmivOofo4i3xF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1x2odUqrg0LwT1lx58cx5DpDdcCSD6mkm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1x2odUqrg0LwT1lx58cx5DpDdcCSD6mkm</guid>
+			
+
+			<title><![CDATA[ 49.第三模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49.第三模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49.第三模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49.第三模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1x2odUqrg0LwT1lx58cx5DpDdcCSD6mkm"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

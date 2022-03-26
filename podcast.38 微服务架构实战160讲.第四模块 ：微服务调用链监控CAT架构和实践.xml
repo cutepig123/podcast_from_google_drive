@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第四模块 ：微服务调用链监控CAT架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第四模块 ：微服务调用链监控CAT架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第四模块 ：微服务调用链监控CAT架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第四模块 ：微服务调用链监控CAT架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1-fHAyFJYX6gqe5dpcfiabWoyFs-hmhd4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-fHAyFJYX6gqe5dpcfiabWoyFs-hmhd4</guid>
+			
+
+			<title><![CDATA[ 84.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 84.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 84.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 84.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-fHAyFJYX6gqe5dpcfiabWoyFs-hmhd4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-brVMv_XCBFTMEb3LwjOVEYkUOG2CuN0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-brVMv_XCBFTMEb3LwjOVEYkUOG2CuN0</guid>
+			
+
+			<title><![CDATA[ 83.【实验】Spring Cloud Sleuth.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 83.【实验】Spring Cloud Sleuth.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 83.【实验】Spring Cloud Sleuth.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 83.【实验】Spring Cloud Sleuth.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-brVMv_XCBFTMEb3LwjOVEYkUOG2CuN0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-_ztt5no8gCEq0Ji0fIVgtWSR7x3A97H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-_ztt5no8gCEq0Ji0fIVgtWSR7x3A97H</guid>
+			
+
+			<title><![CDATA[ 82.Spring Cloud Sleuth 简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 82.Spring Cloud Sleuth 简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 82.Spring Cloud Sleuth 简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 82.Spring Cloud Sleuth 简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-_ztt5no8gCEq0Ji0fIVgtWSR7x3A97H"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-XblTYeEnMHchv-tTTSBKaQ3hZlapw8W</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-XblTYeEnMHchv-tTTSBKaQ3hZlapw8W</guid>
+			
+
+			<title><![CDATA[ 81.CAT 生产治理实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 81.CAT 生产治理实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 81.CAT 生产治理实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 81.CAT 生产治理实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-XblTYeEnMHchv-tTTSBKaQ3hZlapw8W"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-VlJL-pMSxValGJdtJWjBQ_sEP_gbUg9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-VlJL-pMSxValGJdtJWjBQ_sEP_gbUg9</guid>
+			
+
+			<title><![CDATA[ 80.CAT 生产部署实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 80.CAT 生产部署实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 80.CAT 生产部署实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 80.CAT 生产部署实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-VlJL-pMSxValGJdtJWjBQ_sEP_gbUg9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-TNZYJbKJpsrmU9-E3hIPFWN_aDD4LAj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-TNZYJbKJpsrmU9-E3hIPFWN_aDD4LAj</guid>
+			
+
+			<title><![CDATA[ 79.CAT 生产埋点实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 79.CAT 生产埋点实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 79.CAT 生产埋点实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 79.CAT 生产埋点实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-TNZYJbKJpsrmU9-E3hIPFWN_aDD4LAj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-NlmU3-8jRTSO1O7_jS-MwKAmQn3mrqz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-NlmU3-8jRTSO1O7_jS-MwKAmQn3mrqz</guid>
+			
+
+			<title><![CDATA[ 78.【实验】Zuul 网关集成 CAT.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 78.【实验】Zuul 网关集成 CAT.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 78.【实验】Zuul 网关集成 CAT.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 78.【实验】Zuul 网关集成 CAT.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-NlmU3-8jRTSO1O7_jS-MwKAmQn3mrqz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-GoZKEbp6oBJls7KMnDgSxp2mowJKgcR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-GoZKEbp6oBJls7KMnDgSxp2mowJKgcR</guid>
+			
+
+			<title><![CDATA[ 77.Zuul 网关集成 CAT 代码剖析（Code Review）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 77.Zuul 网关集成 CAT 代码剖析（Code Review）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 77.Zuul 网关集成 CAT 代码剖析（Code Review）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 77.Zuul 网关集成 CAT 代码剖析（Code Review）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-GoZKEbp6oBJls7KMnDgSxp2mowJKgcR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-C_x9vZW-wudcCnFIkdcYkFmo0MikEiA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-C_x9vZW-wudcCnFIkdcYkFmo0MikEiA</guid>
+			
+
+			<title><![CDATA[ 76.【实验】CAT 埋点案例.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 76.【实验】CAT 埋点案例.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 76.【实验】CAT 埋点案例.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 76.【实验】CAT 埋点案例.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-C_x9vZW-wudcCnFIkdcYkFmo0MikEiA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-Ax6blhlh-DNn-3Bso6-Nua8rc7pp3VU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-Ax6blhlh-DNn-3Bso6-Nua8rc7pp3VU</guid>
+			
+
+			<title><![CDATA[ 75.CAT 埋点案例和代码剖析（Code Review）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 75.CAT 埋点案例和代码剖析（Code Review）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 75.CAT 埋点案例和代码剖析（Code Review）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 75.CAT 埋点案例和代码剖析（Code Review）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-Ax6blhlh-DNn-3Bso6-Nua8rc7pp3VU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-ABnQh-iBtqIMilUTTM41Bm6Mfm_gsfp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-ABnQh-iBtqIMilUTTM41Bm6Mfm_gsfp</guid>
+			
+
+			<title><![CDATA[ 74.【实验】CAT 本地部署.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 74.【实验】CAT 本地部署.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 74.【实验】CAT 本地部署.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 74.【实验】CAT 本地部署.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-ABnQh-iBtqIMilUTTM41Bm6Mfm_gsfp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-5EWMt0Gvm4LfPATtR3JKCwyNUkPyd4v</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-5EWMt0Gvm4LfPATtR3JKCwyNUkPyd4v</guid>
+			
+
+			<title><![CDATA[ 73.CAT 架构设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 73.CAT 架构设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 73.CAT 架构设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 73.CAT 架构设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-5EWMt0Gvm4LfPATtR3JKCwyNUkPyd4v"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-24s5fJCgdjI3YrrMvQAe_miumdrNNLO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-24s5fJCgdjI3YrrMvQAe_miumdrNNLO</guid>
+			
+
+			<title><![CDATA[ 72.CAT 告警简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 72.CAT 告警简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 72.CAT 告警简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 72.CAT 告警简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-24s5fJCgdjI3YrrMvQAe_miumdrNNLO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ib4y4rPgnbZDLNtPXTgDkV2tYq5-BJkw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ib4y4rPgnbZDLNtPXTgDkV2tYq5-BJkw</guid>
+			
+
+			<title><![CDATA[ 71.CAT 典型报表.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 71.CAT 典型报表.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 71.CAT 典型报表.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 71.CAT 典型报表.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ib4y4rPgnbZDLNtPXTgDkV2tYq5-BJkw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zow9ZM9ULQej-pG7tW138zxdKFDyrVcR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zow9ZM9ULQej-pG7tW138zxdKFDyrVcR</guid>
+			
+
+			<title><![CDATA[ 70.点评 CAT 背景介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 70.点评 CAT 背景介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 70.点评 CAT 背景介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 70.点评 CAT 背景介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zow9ZM9ULQej-pG7tW138zxdKFDyrVcR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zbfnJwMVo8OQQnsYKhRHcy5sy--6yOOl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zbfnJwMVo8OQQnsYKhRHcy5sy--6yOOl</guid>
+			
+
+			<title><![CDATA[ 69.调用链监控产品和比较.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 69.调用链监控产品和比较.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 69.调用链监控产品和比较.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 69.调用链监控产品和比较.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zbfnJwMVo8OQQnsYKhRHcy5sy--6yOOl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1z_96WyqcBiay5km_IhkGx6DVYZI-iaPy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1z_96WyqcBiay5km_IhkGx6DVYZI-iaPy</guid>
+			
+
+			<title><![CDATA[ 68.调用链监控原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 68.调用链监控原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 68.调用链监控原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 68.调用链监控原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1z_96WyqcBiay5km_IhkGx6DVYZI-iaPy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zNMmgLHgyIcA-kK0l73U5FMx4qtD2mHO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zNMmgLHgyIcA-kK0l73U5FMx4qtD2mHO</guid>
+			
+
+			<title><![CDATA[ 67.调用链监控业务需求.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 67.调用链监控业务需求.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 67.调用链监控业务需求.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 67.调用链监控业务需求.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zNMmgLHgyIcA-kK0l73U5FMx4qtD2mHO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zA-IRwWn_aPM4umaiB0FhHzH_3QuUDfb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zA-IRwWn_aPM4umaiB0FhHzH_3QuUDfb</guid>
+			
+
+			<title><![CDATA[ 66.第四模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 66.第四模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 66.第四模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 66.第四模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zA-IRwWn_aPM4umaiB0FhHzH_3QuUDfb"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

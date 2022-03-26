@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第五章：数据访问进阶 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第五章：数据访问进阶 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第五章：数据访问进阶. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第五章：数据访问进阶 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1XxH2vuHwhqMrbDNJ3lxK5-lZxTVa8BlB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XxH2vuHwhqMrbDNJ3lxK5-lZxTVa8BlB</guid>
+			
+
+			<title><![CDATA[ 38讲SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38讲SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38讲SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38讲SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XxH2vuHwhqMrbDNJ3lxK5-lZxTVa8BlB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Xpv-kPVJFNuhWgAXCZtbS4_rphLom_Ng</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Xpv-kPVJFNuhWgAXCZtbS4_rphLom_Ng</guid>
+			
+
+			<title><![CDATA[ 37讲通过AOP打印数据访问层的摘要（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37讲通过AOP打印数据访问层的摘要（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37讲通过AOP打印数据访问层的摘要（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37讲通过AOP打印数据访问层的摘要（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Xpv-kPVJFNuhWgAXCZtbS4_rphLom_Ng"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XnO43MepWxvsf210LAmqsKJ2Hi85ZgAq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XnO43MepWxvsf210LAmqsKJ2Hi85ZgAq</guid>
+			
+
+			<title><![CDATA[ 36讲通过AOP打印数据访问层的摘要（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36讲通过AOP打印数据访问层的摘要（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36讲通过AOP打印数据访问层的摘要（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36讲通过AOP打印数据访问层的摘要（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XnO43MepWxvsf210LAmqsKJ2Hi85ZgAq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XjmcJ70HlGXw0TTdYqztjHdkc6aAto8l</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XjmcJ70HlGXw0TTdYqztjHdkc6aAto8l</guid>
+			
+
+			<title><![CDATA[ 35讲通过Reactive的方式访问RDBMS.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35讲通过Reactive的方式访问RDBMS.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35讲通过Reactive的方式访问RDBMS.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35讲通过Reactive的方式访问RDBMS.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XjmcJ70HlGXw0TTdYqztjHdkc6aAto8l"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Xh_9Oa_0uAbCXYDVG_C9AHQpBkZtOf1w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Xh_9Oa_0uAbCXYDVG_C9AHQpBkZtOf1w</guid>
+			
+
+			<title><![CDATA[ 34讲通过Reactive的方式访问MongoDB.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34讲通过Reactive的方式访问MongoDB.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34讲通过Reactive的方式访问MongoDB.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34讲通过Reactive的方式访问MongoDB.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Xh_9Oa_0uAbCXYDVG_C9AHQpBkZtOf1w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XgC8cMT2_T7LHPXQvnlhQv1xOtuwwkof</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XgC8cMT2_T7LHPXQvnlhQv1xOtuwwkof</guid>
+			
+
+			<title><![CDATA[ 33讲通过Reactive的方式访问Redis.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33讲通过Reactive的方式访问Redis.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33讲通过Reactive的方式访问Redis.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33讲通过Reactive的方式访问Redis.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XgC8cMT2_T7LHPXQvnlhQv1xOtuwwkof"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XUR1b8SMZzYJu1tB6UJnE4-N9oV9awns</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XUR1b8SMZzYJu1tB6UJnE4-N9oV9awns</guid>
+			
+
+			<title><![CDATA[ 32讲ProjectReactor介绍（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32讲ProjectReactor介绍（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32讲ProjectReactor介绍（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32讲ProjectReactor介绍（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XUR1b8SMZzYJu1tB6UJnE4-N9oV9awns"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XN34c7q8ubFpLz3fakzxEISLrW-MZ9Po</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XN34c7q8ubFpLz3fakzxEISLrW-MZ9Po</guid>
+			
+
+			<title><![CDATA[ 31讲ProjectReactor介绍（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31讲ProjectReactor介绍（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31讲ProjectReactor介绍（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31讲ProjectReactor介绍（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XN34c7q8ubFpLz3fakzxEISLrW-MZ9Po"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

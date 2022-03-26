@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .57 Vue开发实战 ]]></title>
+		<itunes:subtitle><![CDATA[ .57 Vue开发实战 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .57 Vue开发实战. ]]></itunes:summary>
+		<description><![CDATA[ .57 Vue开发实战 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1VO_vTqLe6guzm-XLhwIl77WjqvlANRxB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VO_vTqLe6guzm-XLhwIl77WjqvlANRxB</guid>
+			
+
+			<title><![CDATA[ 55.GitHub 相关生态应用（持续集成、单测覆盖率、文档发布、issue 管理）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55.GitHub 相关生态应用（持续集成、单测覆盖率、文档发布、issue 管理）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55.GitHub 相关生态应用（持续集成、单测覆盖率、文档发布、issue 管理）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55.GitHub 相关生态应用（持续集成、单测覆盖率、文档发布、issue 管理）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VO_vTqLe6guzm-XLhwIl77WjqvlANRxB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VJMwZPNCEShXszkKF4LHeWg58bTjpJpV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VJMwZPNCEShXszkKF4LHeWg58bTjpJpV</guid>
+			
+
+			<title><![CDATA[ 54.如何发布组件到 npm.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54.如何发布组件到 npm.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54.如何发布组件到 npm.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54.如何发布组件到 npm.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VJMwZPNCEShXszkKF4LHeWg58bTjpJpV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1V97MvgGyoUjLiJgN-bKti9X-vOWrDswF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1V97MvgGyoUjLiJgN-bKti9X-vOWrDswF</guid>
+			
+
+			<title><![CDATA[ 53.如何做好组件的单元测试.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53.如何做好组件的单元测试.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53.如何做好组件的单元测试.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53.如何做好组件的单元测试.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1V97MvgGyoUjLiJgN-bKti9X-vOWrDswF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1V4xGK7SYGK5kfQBRMPQxVOqVTaMDlTC7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1V4xGK7SYGK5kfQBRMPQxVOqVTaMDlTC7</guid>
+			
+
+			<title><![CDATA[ 52.如何构建可交互的组件文档.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52.如何构建可交互的组件文档.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52.如何构建可交互的组件文档.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52.如何构建可交互的组件文档.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1V4xGK7SYGK5kfQBRMPQxVOqVTaMDlTC7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UsztSkOEUIHoXRxsF3uYnA21eWQ_WeyG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UsztSkOEUIHoXRxsF3uYnA21eWQ_WeyG</guid>
+			
+
+			<title><![CDATA[ 51.如何高效地构建打包发布.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51.如何高效地构建打包发布.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51.如何高效地构建打包发布.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51.如何高效地构建打包发布.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UsztSkOEUIHoXRxsF3uYnA21eWQ_WeyG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UqsGPmeA17-wdLvU1bDTgSD7NIrLLYs7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UqsGPmeA17-wdLvU1bDTgSD7NIrLLYs7</guid>
+			
+
+			<title><![CDATA[ 50-如何做好国际化.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50-如何做好国际化.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50-如何做好国际化.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50-如何做好国际化.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UqsGPmeA17-wdLvU1bDTgSD7NIrLLYs7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UkgAQYLfWAovC9rfgIo4ySLRlp22d3uw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UkgAQYLfWAovC9rfgIo4ySLRlp22d3uw</guid>
+			
+
+			<title><![CDATA[ 49-如何定制主题及动态切换主题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49-如何定制主题及动态切换主题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49-如何定制主题及动态切换主题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49-如何定制主题及动态切换主题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UkgAQYLfWAovC9rfgIo4ySLRlp22d3uw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UdR-srZlqoQi2MUKvvXboNKI1sHKZtSs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UdR-srZlqoQi2MUKvvXboNKI1sHKZtSs</guid>
+			
+
+			<title><![CDATA[ 48-如何管理系统中使用的图标.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48-如何管理系统中使用的图标.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48-如何管理系统中使用的图标.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48-如何管理系统中使用的图标.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UdR-srZlqoQi2MUKvvXboNKI1sHKZtSs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UYWJI_4NlTGKu_NUb4vJzH45-S0b0-Pa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UYWJI_4NlTGKu_NUb4vJzH45-S0b0-Pa</guid>
+			
+
+			<title><![CDATA[ 47-自己封装一个支持自动校验的表单项.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47-自己封装一个支持自动校验的表单项.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47-自己封装一个支持自动校验的表单项.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47-自己封装一个支持自动校验的表单项.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UYWJI_4NlTGKu_NUb4vJzH45-S0b0-Pa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UUbNGBa81ctFhBd9EkBshybtCJOCg7Fb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UUbNGBa81ctFhBd9EkBshybtCJOCg7Fb</guid>
+			
+
+			<title><![CDATA[ 46-创建一个分步表单.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46-创建一个分步表单.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46-创建一个分步表单.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46-创建一个分步表单.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UUbNGBa81ctFhBd9EkBshybtCJOCg7Fb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UDMhsOts9cZ9QlVKozaideQcQRBC8bhT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UDMhsOts9cZ9QlVKozaideQcQRBC8bhT</guid>
+			
+
+			<title><![CDATA[ 45-初始数据、自动校验、动态赋值.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45-初始数据、自动校验、动态赋值.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45-初始数据、自动校验、动态赋值.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45-初始数据、自动校验、动态赋值.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UDMhsOts9cZ9QlVKozaideQcQRBC8bhT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1U-A4SzArWQ2OPlN1xEcOyy7uOQzkHOB-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1U-A4SzArWQ2OPlN1xEcOyy7uOQzkHOB-</guid>
+			
+
+			<title><![CDATA[ 44-创建一个普通表单.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44-创建一个普通表单.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44-创建一个普通表单.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44-创建一个普通表单.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1U-A4SzArWQ2OPlN1xEcOyy7uOQzkHOB-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TvE7L3wo9vyTapwqh4lPf1xoO24a2gzJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TvE7L3wo9vyTapwqh4lPf1xoO24a2gzJ</guid>
+			
+
+			<title><![CDATA[ 43-如何与服务端进行交互（Axios）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43-如何与服务端进行交互（Axios）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43-如何与服务端进行交互（Axios）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43-如何与服务端进行交互（Axios）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TvE7L3wo9vyTapwqh4lPf1xoO24a2gzJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TdOzzL5S_mY-0bYY8zwqzhZTd15ZJU2n</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TdOzzL5S_mY-0bYY8zwqzhZTd15ZJU2n</guid>
+			
+
+			<title><![CDATA[ 42-如何高效地使用Mock数据进行开发.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42-如何高效地使用Mock数据进行开发.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42-如何高效地使用Mock数据进行开发.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42-如何高效地使用Mock数据进行开发.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TdOzzL5S_mY-0bYY8zwqzhZTd15ZJU2n"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TSObpQINaTCHoTZbCL5yG-yC-J9iCvWZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TSObpQINaTCHoTZbCL5yG-yC-J9iCvWZ</guid>
+			
+
+			<title><![CDATA[ 41-如何在组件中使用ECharts、Antv等其他第三方库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41-如何在组件中使用ECharts、Antv等其他第三方库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41-如何在组件中使用ECharts、Antv等其他第三方库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41-如何在组件中使用ECharts、Antv等其他第三方库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TSObpQINaTCHoTZbCL5yG-yC-J9iCvWZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TRQcpIeMVhYGZq0kc4tWY06zi_z7lMWS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TRQcpIeMVhYGZq0kc4tWY06zi_z7lMWS</guid>
+			
+
+			<title><![CDATA[ 40-更加精细化的权限设计（权限组件、权限指令）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40-更加精细化的权限设计（权限组件、权限指令）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40-更加精细化的权限设计（权限组件、权限指令）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40-更加精细化的权限设计（权限组件、权限指令）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TRQcpIeMVhYGZq0kc4tWY06zi_z7lMWS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TOnWRboIOHCS4Cdjvyx8TCTQhdYPwObZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TOnWRboIOHCS4Cdjvyx8TCTQhdYPwObZ</guid>
+			
+
+			<title><![CDATA[ 39-如何使用路由管理用户权限.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39-如何使用路由管理用户权限.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39-如何使用路由管理用户权限.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39-如何使用路由管理用户权限.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TOnWRboIOHCS4Cdjvyx8TCTQhdYPwObZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TJDf1rP49cHWab4vPzu9ob5Hog2p_GQG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TJDf1rP49cHWab4vPzu9ob5Hog2p_GQG</guid>
+			
+
+			<title><![CDATA[ 38-如何将菜单和路由结合.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38-如何将菜单和路由结合.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38-如何将菜单和路由结合.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38-如何将菜单和路由结合.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TJDf1rP49cHWab4vPzu9ob5Hog2p_GQG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TCKWx9bhv8goV9mZNOWx4bdfYO3hwTwj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TCKWx9bhv8goV9mZNOWx4bdfYO3hwTwj</guid>
+			
+
+			<title><![CDATA[ 37-实现一个可动态改变的页面布局.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37-实现一个可动态改变的页面布局.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37-实现一个可动态改变的页面布局.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37-实现一个可动态改变的页面布局.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TCKWx9bhv8goV9mZNOWx4bdfYO3hwTwj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TAFaJZVpwQnJL1mJgAuS6Z0vRjJMFREz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TAFaJZVpwQnJL1mJgAuS6Z0vRjJMFREz</guid>
+			
+
+			<title><![CDATA[ 36-如何设计一个高扩展性的路由.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36-如何设计一个高扩展性的路由.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36-如何设计一个高扩展性的路由.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36-如何设计一个高扩展性的路由.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TAFaJZVpwQnJL1mJgAuS6Z0vRjJMFREz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T1JHYzJzCoeVeVK4-5U0A8Nxw9gXEXgD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T1JHYzJzCoeVeVK4-5U0A8Nxw9gXEXgD</guid>
+			
+
+			<title><![CDATA[ 35-如何自定义Webpack和Babel配置.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35-如何自定义Webpack和Babel配置.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35-如何自定义Webpack和Babel配置.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35-如何自定义Webpack和Babel配置.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T1JHYzJzCoeVeVK4-5U0A8Nxw9gXEXgD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SvNU-T4aAB_buI4sTWXYP7mWtKZWGMGA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SvNU-T4aAB_buI4sTWXYP7mWtKZWGMGA</guid>
+			
+
+			<title><![CDATA[ 34使用Vue_CLI_3快速创建项目.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34使用Vue_CLI_3快速创建项目.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34使用Vue_CLI_3快速创建项目.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34使用Vue_CLI_3快速创建项目.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SvNU-T4aAB_buI4sTWXYP7mWtKZWGMGA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SfcmEBSnCTRgvZnvJEoMKJ4wz4HrVhWC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SfcmEBSnCTRgvZnvJEoMKJ4wz4HrVhWC</guid>
+			
+
+			<title><![CDATA[ 33Ant_Design_Pro介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33Ant_Design_Pro介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33Ant_Design_Pro介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33Ant_Design_Pro介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SfcmEBSnCTRgvZnvJEoMKJ4wz4HrVhWC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Sckd6XKPVcZpWAfy1o1qlcy9IycZMs_u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Sckd6XKPVcZpWAfy1o1qlcy9IycZMs_u</guid>
+			
+
+			<title><![CDATA[ 32习题解答（2）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32习题解答（2）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32习题解答（2）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32习题解答（2）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Sckd6XKPVcZpWAfy1o1qlcy9IycZMs_u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SQymmry1zqU-XolHAAeEkdikoeOvsamY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SQymmry1zqU-XolHAAeEkdikoeOvsamY</guid>
+			
+
+			<title><![CDATA[ 31习题解答（1）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31习题解答（1）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31习题解答（1）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31习题解答（1）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SQymmry1zqU-XolHAAeEkdikoeOvsamY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SAR9OSl41kKGADup4b6s97O8g2aKPStq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SAR9OSl41kKGADup4b6s97O8g2aKPStq</guid>
+			
+
+			<title><![CDATA[ 30单元测试的重要性及其使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30单元测试的重要性及其使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30单元测试的重要性及其使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30单元测试的重要性及其使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SAR9OSl41kKGADup4b6s97O8g2aKPStq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S1ssj0Ny3qjLhReMIWfe_ju8gugw_M2z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S1ssj0Ny3qjLhReMIWfe_ju8gugw_M2z</guid>
+			
+
+			<title><![CDATA[ 29提升开发效率和体验的常用工具（ESLint、Prettier、vue-devtools）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29提升开发效率和体验的常用工具（ESLint、Prettier、vue-devtools）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29提升开发效率和体验的常用工具（ESLint、Prettier、vue-devtools）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29提升开发效率和体验的常用工具（ESLint、Prettier、vue-devtools）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S1ssj0Ny3qjLhReMIWfe_ju8gugw_M2z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RvjnGuhWWPHJbbOS0Cmv9Aj2u4HaweaE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RvjnGuhWWPHJbbOS0Cmv9Aj2u4HaweaE</guid>
+			
+
+			<title><![CDATA[ 28UI组件库对比(Element UI、Ant Design Vue、iView).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28UI组件库对比(Element UI、Ant Design Vue、iView).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28UI组件库对比(Element UI、Ant Design Vue、iView).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28UI组件库对比(Element UI、Ant Design Vue、iView).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RvjnGuhWWPHJbbOS0Cmv9Aj2u4HaweaE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Rrhrx_zujslwx9cFNfi7ZSHXztjzsCED</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rrhrx_zujslwx9cFNfi7ZSHXztjzsCED</guid>
+			
+
+			<title><![CDATA[ 27Nuxt核心原理是什么？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27Nuxt核心原理是什么？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27Nuxt核心原理是什么？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27Nuxt核心原理是什么？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rrhrx_zujslwx9cFNfi7ZSHXztjzsCED"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RcAXIlxW25EBHFKDpzpN3UmbYZpSV-V6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RcAXIlxW25EBHFKDpzpN3UmbYZpSV-V6</guid>
+			
+
+			<title><![CDATA[ 26Nuxt解决了哪些问题？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26Nuxt解决了哪些问题？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26Nuxt解决了哪些问题？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26Nuxt解决了哪些问题？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RcAXIlxW25EBHFKDpzpN3UmbYZpSV-V6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R_K6spFvnd1ABIcG9MOoOpfK1c7rFG1z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R_K6spFvnd1ABIcG9MOoOpfK1c7rFG1z</guid>
+			
+
+			<title><![CDATA[ 25选择何种模式的路由及底层原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25选择何种模式的路由及底层原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25选择何种模式的路由及底层原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25选择何种模式的路由及底层原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R_K6spFvnd1ABIcG9MOoOpfK1c7rFG1z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RSwvfPtQFnU7ayFck38VbXefnaXu14qP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RSwvfPtQFnU7ayFck38VbXefnaXu14qP</guid>
+			
+
+			<title><![CDATA[ 24Vue Router的使用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24Vue Router的使用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24Vue Router的使用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24Vue Router的使用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RSwvfPtQFnU7ayFck38VbXefnaXu14qP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R9k4PjBXdtZQsUCbZnl-C-u-5mTUczEI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R9k4PjBXdtZQsUCbZnl-C-u-5mTUczEI</guid>
+			
+
+			<title><![CDATA[ 23Vuex最佳实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23Vuex最佳实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23Vuex最佳实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23Vuex最佳实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R9k4PjBXdtZQsUCbZnl-C-u-5mTUczEI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R35J4oodDlcWbKDNR6qYmgRDI5dkzYHP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R35J4oodDlcWbKDNR6qYmgRDI5dkzYHP</guid>
+			
+
+			<title><![CDATA[ 22Vuex核心概念及底层原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22Vuex核心概念及底层原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22Vuex核心概念及底层原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22Vuex核心概念及底层原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R35J4oodDlcWbKDNR6qYmgRDI5dkzYHP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QzNNnMzAVy4ll24gXXPEZr7llwtaOKJs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QzNNnMzAVy4ll24gXXPEZr7llwtaOKJs</guid>
+			
+
+			<title><![CDATA[ 21如何在Vue中使用Vuex.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21如何在Vue中使用Vuex.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21如何在Vue中使用Vuex.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21如何在Vue中使用Vuex.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QzNNnMzAVy4ll24gXXPEZr7llwtaOKJs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Qq44InjrSGzMd8zlRFsURBwHiUK7p6Xf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Qq44InjrSGzMd8zlRFsURBwHiUK7p6Xf</guid>
+			
+
+			<title><![CDATA[ 20为什么需要Vuex.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20为什么需要Vuex.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20为什么需要Vuex.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20为什么需要Vuex.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Qq44InjrSGzMd8zlRFsURBwHiUK7p6Xf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QfLC_zA2NQzDxwbWO6Nw3xx3AraKMXwZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QfLC_zA2NQzDxwbWO6Nw3xx3AraKMXwZ</guid>
+			
+
+			<title><![CDATA[ 19习题解答(2).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19习题解答(2).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19习题解答(2).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19习题解答(2).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QfLC_zA2NQzDxwbWO6Nw3xx3AraKMXwZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QPUXIj3MJy8UKF9PaBie_yDs9TIu5xC0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QPUXIj3MJy8UKF9PaBie_yDs9TIu5xC0</guid>
+			
+
+			<title><![CDATA[ 18习题解答(1).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18习题解答(1).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18习题解答(1).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18习题解答(1).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QPUXIj3MJy8UKF9PaBie_yDs9TIu5xC0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QGkg5PZu_VzROq-xsBzUd59DLBVDNLe2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QGkg5PZu_VzROq-xsBzUd59DLBVDNLe2</guid>
+			
+
+			<title><![CDATA[ 17template和JSX的对比以及它们的本质.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17template和JSX的对比以及它们的本质.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17template和JSX的对比以及它们的本质.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17template和JSX的对比以及它们的本质.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QGkg5PZu_VzROq-xsBzUd59DLBVDNLe2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QCtyiPoPDvQ7Ewh_bJ2_kdVpvFIzMH9Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QCtyiPoPDvQ7Ewh_bJ2_kdVpvFIzMH9Y</guid>
+			
+
+			<title><![CDATA[ 16 template和JSX的对比以及它们的本质.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16 template和JSX的对比以及它们的本质.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16 template和JSX的对比以及它们的本质.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16 template和JSX的对比以及它们的本质.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QCtyiPoPDvQ7Ewh_bJ2_kdVpvFIzMH9Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q7xVosp-KQEoVZr5SciVQl8cUhaYri8d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q7xVosp-KQEoVZr5SciVQl8cUhaYri8d</guid>
+			
+
+			<title><![CDATA[ 15 如何优雅地获取跨层级组件实例（拒绝递归）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15 如何优雅地获取跨层级组件实例（拒绝递归）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15 如何优雅地获取跨层级组件实例（拒绝递归）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15 如何优雅地获取跨层级组件实例（拒绝递归）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q7xVosp-KQEoVZr5SciVQl8cUhaYri8d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q0wbFW4ygFMsXXiSaYspTqUlhqdL0eTD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q0wbFW4ygFMsXXiSaYspTqUlhqdL0eTD</guid>
+			
+
+			<title><![CDATA[ 14 常用高级特性provide-inject.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14 常用高级特性provide-inject.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14 常用高级特性provide-inject.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14 常用高级特性provide-inject.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q0wbFW4ygFMsXXiSaYspTqUlhqdL0eTD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PwhULDvPIkjoqiYvwt-fUzCGMqgT2KlQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PwhULDvPIkjoqiYvwt-fUzCGMqgT2KlQ</guid>
+			
+
+			<title><![CDATA[ 13 指令的本质是什么.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13 指令的本质是什么.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13 指令的本质是什么.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13 指令的本质是什么.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PwhULDvPIkjoqiYvwt-fUzCGMqgT2KlQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PlJM4EN4S1vRfgErekXplcZUMtdyx1Bu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PlJM4EN4S1vRfgErekXplcZUMtdyx1Bu</guid>
+			
+
+			<title><![CDATA[ 12 生命周期的应用场景和函数式组件.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12 生命周期的应用场景和函数式组件.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12 生命周期的应用场景和函数式组件.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12 生命周期的应用场景和函数式组件.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PlJM4EN4S1vRfgErekXplcZUMtdyx1Bu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PjS_JySJkHaA_nv6u-rR2yTIooChEIU8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PjS_JySJkHaA_nv6u-rR2yTIooChEIU8</guid>
+			
+
+			<title><![CDATA[ 11 合理应用计算属性和侦听器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11 合理应用计算属性和侦听器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11 合理应用计算属性和侦听器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11 合理应用计算属性和侦听器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PjS_JySJkHaA_nv6u-rR2yTIooChEIU8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Pajs2R5nVmjXOt9gQkgyCFjHtnWF9tV3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Pajs2R5nVmjXOt9gQkgyCFjHtnWF9tV3</guid>
+			
+
+			<title><![CDATA[ 10 如何触发组件的更新.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10 如何触发组件的更新.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10 如何触发组件的更新.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10 如何触发组件的更新.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Pajs2R5nVmjXOt9gQkgyCFjHtnWF9tV3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PZBUFV0lVKc65TPBTkNKTlcBGGOANX-e</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PZBUFV0lVKc65TPBTkNKTlcBGGOANX-e</guid>
+			
+
+			<title><![CDATA[ 09 理解虚拟DOM及key属性的作用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09 理解虚拟DOM及key属性的作用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09 理解虚拟DOM及key属性的作用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09 理解虚拟DOM及key属性的作用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PZBUFV0lVKc65TPBTkNKTlcBGGOANX-e"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PV0CB_V3cVsQaIaZmjwu6iz-i4D8e-v_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PV0CB_V3cVsQaIaZmjwu6iz-i4D8e-v_</guid>
+			
+
+			<title><![CDATA[ 08 双向绑定和单向数据流不冲突.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08 双向绑定和单向数据流不冲突.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08 双向绑定和单向数据流不冲突.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08 双向绑定和单向数据流不冲突.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PV0CB_V3cVsQaIaZmjwu6iz-i4D8e-v_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PR_sMIc5cgmjKXYEowWNZRtovcvcZ6wA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PR_sMIc5cgmjKXYEowWNZRtovcvcZ6wA</guid>
+			
+
+			<title><![CDATA[ 07 Vue组件的核心概念(3)：插槽.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07 Vue组件的核心概念(3)：插槽.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07 Vue组件的核心概念(3)：插槽.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07 Vue组件的核心概念(3)：插槽.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PR_sMIc5cgmjKXYEowWNZRtovcvcZ6wA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PKGz47c4Tt6rFBSde3gFnUbDcw5A4Y7s</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PKGz47c4Tt6rFBSde3gFnUbDcw5A4Y7s</guid>
+			
+
+			<title><![CDATA[ 06 Vue组件的核心概念(2)：事件.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06 Vue组件的核心概念(2)：事件.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06 Vue组件的核心概念(2)：事件.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06 Vue组件的核心概念(2)：事件.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PKGz47c4Tt6rFBSde3gFnUbDcw5A4Y7s"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PA4aQMYYlr0-xlnWkGVLH5wfaOdw8sQT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PA4aQMYYlr0-xlnWkGVLH5wfaOdw8sQT</guid>
+			
+
+			<title><![CDATA[ 05 Vue组件的核心概念(1)：属性.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05 Vue组件的核心概念(1)：属性.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05 Vue组件的核心概念(1)：属性.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05 Vue组件的核心概念(1)：属性.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PA4aQMYYlr0-xlnWkGVLH5wfaOdw8sQT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1P05hCy1pi6PgBpzZ1fpKpLzBM3Aw48qk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1P05hCy1pi6PgBpzZ1fpKpLzBM3Aw48qk</guid>
+			
+
+			<title><![CDATA[ 04 开发环境搭建.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04 开发环境搭建.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04 开发环境搭建.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04 开发环境搭建.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1P05hCy1pi6PgBpzZ1fpKpLzBM3Aw48qk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Oq18quRG8D3-EHA0I8Z7njm5jXHg-bVi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Oq18quRG8D3-EHA0I8Z7njm5jXHg-bVi</guid>
+			
+
+			<title><![CDATA[ 03 内容综述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03 内容综述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03 内容综述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03 内容综述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Oq18quRG8D3-EHA0I8Z7njm5jXHg-bVi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OgaekwxcMgBG671s2gA1z3svUG_6kVKG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OgaekwxcMgBG671s2gA1z3svUG_6kVKG</guid>
+			
+
+			<title><![CDATA[ 02 Vue简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02 Vue简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02 Vue简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02 Vue简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OgaekwxcMgBG671s2gA1z3svUG_6kVKG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OX2qOoeI1ajRmZB3zBFswpK9GXzEyuk6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OX2qOoeI1ajRmZB3zBFswpK9GXzEyuk6</guid>
+			
+
+			<title><![CDATA[ 01 课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01 课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01 课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01 课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OX2qOoeI1ajRmZB3zBFswpK9GXzEyuk6"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .06 9小时搞定微信小程序开发.第四章 微信小程序开发之原生组件 ]]></title>
+		<itunes:subtitle><![CDATA[ .06 9小时搞定微信小程序开发.第四章 微信小程序开发之原生组件 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .06 9小时搞定微信小程序开发.第四章 微信小程序开发之原生组件. ]]></itunes:summary>
+		<description><![CDATA[ .06 9小时搞定微信小程序开发.第四章 微信小程序开发之原生组件 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1uirto_SHhiel0miS0w9A7JyKQrWp_4GU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uirto_SHhiel0miS0w9A7JyKQrWp_4GU</guid>
+			
+
+			<title><![CDATA[ 59.微信小程序开放能力组件之web-view.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59.微信小程序开放能力组件之web-view.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59.微信小程序开放能力组件之web-view.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59.微信小程序开放能力组件之web-view.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uirto_SHhiel0miS0w9A7JyKQrWp_4GU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ucQudfuBmPQT35eIQllL5gW4vpi2iOjX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ucQudfuBmPQT35eIQllL5gW4vpi2iOjX</guid>
+			
+
+			<title><![CDATA[ 58.微信小程序开放能力组件之open-data.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58.微信小程序开放能力组件之open-data.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58.微信小程序开放能力组件之open-data.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58.微信小程序开放能力组件之open-data.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ucQudfuBmPQT35eIQllL5gW4vpi2iOjX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1u_i2iaV-dnGrRikYRkZMMgBdwmk6obiL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1u_i2iaV-dnGrRikYRkZMMgBdwmk6obiL</guid>
+			
+
+			<title><![CDATA[ 57.微信小程序画布组件canvas.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57.微信小程序画布组件canvas.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57.微信小程序画布组件canvas.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57.微信小程序画布组件canvas.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1u_i2iaV-dnGrRikYRkZMMgBdwmk6obiL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uQ2JnpwXQ5fhQ19m-jwdkjlBoopkLw-P</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uQ2JnpwXQ5fhQ19m-jwdkjlBoopkLw-P</guid>
+			
+
+			<title><![CDATA[ 56.微信小程序地图组件map.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56.微信小程序地图组件map.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56.微信小程序地图组件map.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56.微信小程序地图组件map.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uQ2JnpwXQ5fhQ19m-jwdkjlBoopkLw-P"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1u2xqFOMMkRBKLXhj7oLR7MaYYY2QtMgv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1u2xqFOMMkRBKLXhj7oLR7MaYYY2QtMgv</guid>
+			
+
+			<title><![CDATA[ 55.微信小程序媒体组件之live-player和live-pusher.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55.微信小程序媒体组件之live-player和live-pusher.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55.微信小程序媒体组件之live-player和live-pusher.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55.微信小程序媒体组件之live-player和live-pusher.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1u2xqFOMMkRBKLXhj7oLR7MaYYY2QtMgv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tvtjJVAP6DRljW7CVTyqsqY2F32YrNk6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tvtjJVAP6DRljW7CVTyqsqY2F32YrNk6</guid>
+			
+
+			<title><![CDATA[ 54.微信小程序媒体组件之camera.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54.微信小程序媒体组件之camera.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54.微信小程序媒体组件之camera.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54.微信小程序媒体组件之camera.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tvtjJVAP6DRljW7CVTyqsqY2F32YrNk6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tlcNAkUDQHd09aJ5GEFgNW3Y6w-EFlIW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tlcNAkUDQHd09aJ5GEFgNW3Y6w-EFlIW</guid>
+			
+
+			<title><![CDATA[ 53.微信小程序媒体组件之video.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53.微信小程序媒体组件之video.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53.微信小程序媒体组件之video.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53.微信小程序媒体组件之video.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tlcNAkUDQHd09aJ5GEFgNW3Y6w-EFlIW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tj6G--pA0C6kzuv99vEGm4khi40NI7qs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tj6G--pA0C6kzuv99vEGm4khi40NI7qs</guid>
+			
+
+			<title><![CDATA[ 52.微信小程序媒体组件之image.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52.微信小程序媒体组件之image.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52.微信小程序媒体组件之image.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52.微信小程序媒体组件之image.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tj6G--pA0C6kzuv99vEGm4khi40NI7qs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tWkWSK8iy9fEeWFduWg5SX0mCKfu89zh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tWkWSK8iy9fEeWFduWg5SX0mCKfu89zh</guid>
+			
+
+			<title><![CDATA[ 51.微信小程序媒体组件之audio.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51.微信小程序媒体组件之audio.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51.微信小程序媒体组件之audio.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51.微信小程序媒体组件之audio.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tWkWSK8iy9fEeWFduWg5SX0mCKfu89zh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tNXo3GAuhaiuwOfYdlS37ndd06INIrGs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tNXo3GAuhaiuwOfYdlS37ndd06INIrGs</guid>
+			
+
+			<title><![CDATA[ 50.微信小程序导航组件navigator.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50.微信小程序导航组件navigator.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50.微信小程序导航组件navigator.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50.微信小程序导航组件navigator.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tNXo3GAuhaiuwOfYdlS37ndd06INIrGs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1t5cjSheUoV9Nun6Ax_Z6wRdmPsev2S-V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1t5cjSheUoV9Nun6Ax_Z6wRdmPsev2S-V</guid>
+			
+
+			<title><![CDATA[ 49.微信小程序表单组件之text-area.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49.微信小程序表单组件之text-area.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49.微信小程序表单组件之text-area.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49.微信小程序表单组件之text-area.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1t5cjSheUoV9Nun6Ax_Z6wRdmPsev2S-V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1soQJubNmaeY5mG54JaHG0aAPi-Pajl1C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1soQJubNmaeY5mG54JaHG0aAPi-Pajl1C</guid>
+			
+
+			<title><![CDATA[ 48.微信小程序表单组件之switch.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48.微信小程序表单组件之switch.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48.微信小程序表单组件之switch.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48.微信小程序表单组件之switch.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1soQJubNmaeY5mG54JaHG0aAPi-Pajl1C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1slZQNNhYUQX7cPJzLO7FCMRleeRZ4bYt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1slZQNNhYUQX7cPJzLO7FCMRleeRZ4bYt</guid>
+			
+
+			<title><![CDATA[ 47.信小程序表单组件之slider.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47.信小程序表单组件之slider.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47.信小程序表单组件之slider.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47.信小程序表单组件之slider.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1slZQNNhYUQX7cPJzLO7FCMRleeRZ4bYt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sJI7uEwzuxXgV6h1gd9O6cDYGw6hZLBd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sJI7uEwzuxXgV6h1gd9O6cDYGw6hZLBd</guid>
+			
+
+			<title><![CDATA[ 46.微信小程序表单组件之radio.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46.微信小程序表单组件之radio.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46.微信小程序表单组件之radio.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46.微信小程序表单组件之radio.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sJI7uEwzuxXgV6h1gd9O6cDYGw6hZLBd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sA0QaooZWYqcHkLNNabN-oi9Ia2EZPoZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sA0QaooZWYqcHkLNNabN-oi9Ia2EZPoZ</guid>
+			
+
+			<title><![CDATA[ 45.微信小程序表单组件之picker-view.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45.微信小程序表单组件之picker-view.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45.微信小程序表单组件之picker-view.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45.微信小程序表单组件之picker-view.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sA0QaooZWYqcHkLNNabN-oi9Ia2EZPoZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1s6nJmzXnHIxnRkm_AVFLldBQ03BXfSU_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1s6nJmzXnHIxnRkm_AVFLldBQ03BXfSU_</guid>
+			
+
+			<title><![CDATA[ 44.微信小程序表单组件之picker.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44.微信小程序表单组件之picker.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44.微信小程序表单组件之picker.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44.微信小程序表单组件之picker.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1s6nJmzXnHIxnRkm_AVFLldBQ03BXfSU_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1s3jwfKgKphTHITFbIj4GPMyS1HGrDg77</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1s3jwfKgKphTHITFbIj4GPMyS1HGrDg77</guid>
+			
+
+			<title><![CDATA[ 43.微信小程序表单组件之label.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43.微信小程序表单组件之label.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43.微信小程序表单组件之label.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43.微信小程序表单组件之label.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1s3jwfKgKphTHITFbIj4GPMyS1HGrDg77"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rssX0wuJ1K7vU4mfOe5bAd2FkHwMs1s6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rssX0wuJ1K7vU4mfOe5bAd2FkHwMs1s6</guid>
+			
+
+			<title><![CDATA[ 42.微信小程序表单组件之input.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42.微信小程序表单组件之input.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42.微信小程序表单组件之input.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42.微信小程序表单组件之input.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rssX0wuJ1K7vU4mfOe5bAd2FkHwMs1s6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rlNk4-ABpKO3BdT5hXW6vfN_upKReOGR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rlNk4-ABpKO3BdT5hXW6vfN_upKReOGR</guid>
+			
+
+			<title><![CDATA[ 41.微信小程序表单组件之form.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41.微信小程序表单组件之form.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41.微信小程序表单组件之form.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41.微信小程序表单组件之form.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rlNk4-ABpKO3BdT5hXW6vfN_upKReOGR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rahUS0QkKU6-hF7L2Y94RiYYH0AQPMo4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rahUS0QkKU6-hF7L2Y94RiYYH0AQPMo4</guid>
+			
+
+			<title><![CDATA[ 40.微信小程序表单组件之checkbox.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40.微信小程序表单组件之checkbox.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40.微信小程序表单组件之checkbox.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40.微信小程序表单组件之checkbox.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rahUS0QkKU6-hF7L2Y94RiYYH0AQPMo4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rSgtd4IWIaVqNCzfvyhxMVNjwXCDSoIw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rSgtd4IWIaVqNCzfvyhxMVNjwXCDSoIw</guid>
+			
+
+			<title><![CDATA[ 39.微信小程序表单组件之button.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39.微信小程序表单组件之button.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39.微信小程序表单组件之button.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39.微信小程序表单组件之button.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rSgtd4IWIaVqNCzfvyhxMVNjwXCDSoIw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rBDHftiGg7GjhVQ2VZcjOV1H_SO8r0zH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rBDHftiGg7GjhVQ2VZcjOV1H_SO8r0zH</guid>
+			
+
+			<title><![CDATA[ 38.微信小程序基础内容组件之progress.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38.微信小程序基础内容组件之progress.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38.微信小程序基础内容组件之progress.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38.微信小程序基础内容组件之progress.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rBDHftiGg7GjhVQ2VZcjOV1H_SO8r0zH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1r6-2lbzlH2JLFjSJXnTaO_jvhEpBrqMT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1r6-2lbzlH2JLFjSJXnTaO_jvhEpBrqMT</guid>
+			
+
+			<title><![CDATA[ 37.微信小程序基础内容组件之rich-text.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37.微信小程序基础内容组件之rich-text.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37.微信小程序基础内容组件之rich-text.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37.微信小程序基础内容组件之rich-text.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1r6-2lbzlH2JLFjSJXnTaO_jvhEpBrqMT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1r35nEXGfk5AYtd2le5dc36r3__x6KAnU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1r35nEXGfk5AYtd2le5dc36r3__x6KAnU</guid>
+			
+
+			<title><![CDATA[ 36.微信小程序基础内容组件之text.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36.微信小程序基础内容组件之text.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36.微信小程序基础内容组件之text.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36.微信小程序基础内容组件之text.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1r35nEXGfk5AYtd2le5dc36r3__x6KAnU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qoGMmwosch3EWZBclLjzA_qtzmOFNsT2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qoGMmwosch3EWZBclLjzA_qtzmOFNsT2</guid>
+			
+
+			<title><![CDATA[ 35.微信小程序基础内容组件之icon.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35.微信小程序基础内容组件之icon.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35.微信小程序基础内容组件之icon.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35.微信小程序基础内容组件之icon.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qoGMmwosch3EWZBclLjzA_qtzmOFNsT2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qexJBudWXoFiRK4Pklht4ebaW0BdGu9o</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qexJBudWXoFiRK4Pklht4ebaW0BdGu9o</guid>
+			
+
+			<title><![CDATA[ 34.cover-view原生视图容器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34.cover-view原生视图容器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34.cover-view原生视图容器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34.cover-view原生视图容器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qexJBudWXoFiRK4Pklht4ebaW0BdGu9o"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qYOEx-KHfBlzQ2xqbpsxa0JRXKhgK-6R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qYOEx-KHfBlzQ2xqbpsxa0JRXKhgK-6R</guid>
+			
+
+			<title><![CDATA[ 33.movable-view移动缩放容器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33.movable-view移动缩放容器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33.movable-view移动缩放容器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33.movable-view移动缩放容器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qYOEx-KHfBlzQ2xqbpsxa0JRXKhgK-6R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qFUR4MMb1u5_sx9yT3kVvqPMCf51Z6uD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qFUR4MMb1u5_sx9yT3kVvqPMCf51Z6uD</guid>
+			
+
+			<title><![CDATA[ 32.swiper滑块容器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32.swiper滑块容器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32.swiper滑块容器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32.swiper滑块容器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qFUR4MMb1u5_sx9yT3kVvqPMCf51Z6uD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qCZV1zRP1cSRLCMyZZ7P4dynuCPCFLct</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qCZV1zRP1cSRLCMyZZ7P4dynuCPCFLct</guid>
+			
+
+			<title><![CDATA[ 31.scroll-view滚动容器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31.scroll-view滚动容器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31.scroll-view滚动容器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31.scroll-view滚动容器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qCZV1zRP1cSRLCMyZZ7P4dynuCPCFLct"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1q8d4nvc9IzgCIuO5nmV6Dyn1lIN1QRCS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1q8d4nvc9IzgCIuO5nmV6Dyn1lIN1QRCS</guid>
+			
+
+			<title><![CDATA[ 30.view容器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30.view容器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30.view容器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30.view容器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1q8d4nvc9IzgCIuO5nmV6Dyn1lIN1QRCS"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

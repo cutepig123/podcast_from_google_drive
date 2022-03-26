@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1NbyfglPH_XvHPrIRFEwUHBB_4ZuJoX5F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NbyfglPH_XvHPrIRFEwUHBB_4ZuJoX5F</guid>
+			
+
+			<title><![CDATA[ 99  SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 99  SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 99  SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 99  SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NbyfglPH_XvHPrIRFEwUHBB_4ZuJoX5F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NFwEymiHVuHhT6cYYVU1dbfhIh9NAhwl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NFwEymiHVuHhT6cYYVU1dbfhIh9NAhwl</guid>
+			
+
+			<title><![CDATA[ 98  如何定制自己的DiscoveryClient.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 98  如何定制自己的DiscoveryClient.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 98  如何定制自己的DiscoveryClient.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 98  如何定制自己的DiscoveryClient.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NFwEymiHVuHhT6cYYVU1dbfhIh9NAhwl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N8BwJICpOuUcAZNuB8VSSKrWkVLKtDLV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N8BwJICpOuUcAZNuB8VSSKrWkVLKtDLV</guid>
+			
+
+			<title><![CDATA[ 97  使用Nacos作为服务注册中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 97  使用Nacos作为服务注册中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 97  使用Nacos作为服务注册中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 97  使用Nacos作为服务注册中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N8BwJICpOuUcAZNuB8VSSKrWkVLKtDLV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N5qD3S4C_v7GoDTcaCttSZCfPsvW8KGz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N5qD3S4C_v7GoDTcaCttSZCfPsvW8KGz</guid>
+			
+
+			<title><![CDATA[ 96  使用Consul作为服务注册中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 96  使用Consul作为服务注册中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 96  使用Consul作为服务注册中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 96  使用Consul作为服务注册中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N5qD3S4C_v7GoDTcaCttSZCfPsvW8KGz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mx48nOCApouDafurpoDaMj2eE-SLeOYe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mx48nOCApouDafurpoDaMj2eE-SLeOYe</guid>
+			
+
+			<title><![CDATA[ 95  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 95  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 95  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 95  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mx48nOCApouDafurpoDaMj2eE-SLeOYe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MvYEbU2OkuIkwBpuoAzXFQSGoeiRYIhG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MvYEbU2OkuIkwBpuoAzXFQSGoeiRYIhG</guid>
+			
+
+			<title><![CDATA[ 93  使用Feign访问服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 93  使用Feign访问服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 93  使用Feign访问服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 93  使用Feign访问服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MvYEbU2OkuIkwBpuoAzXFQSGoeiRYIhG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MYPjuH5na7NKKBLYhS_Fi-ANknPdLN_y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MYPjuH5na7NKKBLYhS_Fi-ANknPdLN_y</guid>
+			
+
+			<title><![CDATA[ 92  使用Spring Cloud Loadbalancer访问服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 92  使用Spring Cloud Loadbalancer访问服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 92  使用Spring Cloud Loadbalancer访问服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 92  使用Spring Cloud Loadbalancer访问服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MYPjuH5na7NKKBLYhS_Fi-ANknPdLN_y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MOp6J4bX6slcRa4ajywaA7-xjnr5YyVn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MOp6J4bX6slcRa4ajywaA7-xjnr5YyVn</guid>
+			
+
+			<title><![CDATA[ 92  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 92  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 92  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 92  深入理解服务发现背后的DiscoveryClient.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MOp6J4bX6slcRa4ajywaA7-xjnr5YyVn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MMv16z2D99C9Tz8dur-rItCaEXaRydw9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MMv16z2D99C9Tz8dur-rItCaEXaRydw9</guid>
+			
+
+			<title><![CDATA[ 91  使用Eureka作为服务注册中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 91  使用Eureka作为服务注册中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 91  使用Eureka作为服务注册中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 91  使用Eureka作为服务注册中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MMv16z2D99C9Tz8dur-rItCaEXaRydw9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MGERf6YlYPoowb5b1vzLYoLdMGTCY0ou</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MGERf6YlYPoowb5b1vzLYoLdMGTCY0ou</guid>
+			
+
+			<title><![CDATA[ 123  结束语.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 123  结束语.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 123  结束语.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 123  结束语.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MGERf6YlYPoowb5b1vzLYoLdMGTCY0ou"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MADfCYKZBZI6xqF87_lCX6E86gUmelAJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MADfCYKZBZI6xqF87_lCX6E86gUmelAJ</guid>
+			
+
+			<title><![CDATA[ 122  SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 122  SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 122  SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 122  SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MADfCYKZBZI6xqF87_lCX6E86gUmelAJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M1g8i2dCEszaQvER6ybh4Bju7mVsOjSI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M1g8i2dCEszaQvER6ybh4Bju7mVsOjSI</guid>
+			
+
+			<title><![CDATA[ 119  使用Spring Cloud Sleuth实现链路追踪.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 119  使用Spring Cloud Sleuth实现链路追踪.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 119  使用Spring Cloud Sleuth实现链路追踪.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 119  使用Spring Cloud Sleuth实现链路追踪.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M1g8i2dCEszaQvER6ybh4Bju7mVsOjSI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LyI1wZyExqMpZ2l3OswhRXc4_NqBMvpn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LyI1wZyExqMpZ2l3OswhRXc4_NqBMvpn</guid>
+			
+
+			<title><![CDATA[ 118  通过Dapper理解链路治理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 118  通过Dapper理解链路治理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 118  通过Dapper理解链路治理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 118  通过Dapper理解链路治理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LyI1wZyExqMpZ2l3OswhRXc4_NqBMvpn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ls5pm1MaTEiTlcYUK_bvsNomboxDIG-e</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ls5pm1MaTEiTlcYUK_bvsNomboxDIG-e</guid>
+			
+
+			<title><![CDATA[ 116  通过Spring Cloud Stream访问Kafka.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 116  通过Spring Cloud Stream访问Kafka.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 116  通过Spring Cloud Stream访问Kafka.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 116  通过Spring Cloud Stream访问Kafka.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ls5pm1MaTEiTlcYUK_bvsNomboxDIG-e"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LkbrxhoWp3eQTwosO8_tn1kHzDGrppOo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LkbrxhoWp3eQTwosO8_tn1kHzDGrppOo</guid>
+			
+
+			<title><![CDATA[ 115  通过Spring Cloud Stream访问RabbitMQ.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 115  通过Spring Cloud Stream访问RabbitMQ.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 115  通过Spring Cloud Stream访问RabbitMQ.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 115  通过Spring Cloud Stream访问RabbitMQ.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LkbrxhoWp3eQTwosO8_tn1kHzDGrppOo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LM-XiWYZ6aTPLtOx2NAQMJyLu95UqQN-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LM-XiWYZ6aTPLtOx2NAQMJyLu95UqQN-</guid>
+			
+
+			<title><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LM-XiWYZ6aTPLtOx2NAQMJyLu95UqQN-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LGB1kMt0X9ss9TK7ePhi-ScWSSVBBOPH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LGB1kMt0X9ss9TK7ePhi-ScWSSVBBOPH</guid>
+			
+
+			<title><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LGB1kMt0X9ss9TK7ePhi-ScWSSVBBOPH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LCZwWuGgr7BSF38HvoekeEijj00CeOGg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LCZwWuGgr7BSF38HvoekeEijj00CeOGg</guid>
+			
+
+			<title><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LCZwWuGgr7BSF38HvoekeEijj00CeOGg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LBeMvrFuj8R0X6Dhb9RLCXN21HeWIePf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LBeMvrFuj8R0X6Dhb9RLCXN21HeWIePf</guid>
+			
+
+			<title><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LBeMvrFuj8R0X6Dhb9RLCXN21HeWIePf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L9JFKQbb0BairSh02_6jAEvAWky50iSR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L9JFKQbb0BairSh02_6jAEvAWky50iSR</guid>
+			
+
+			<title><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L9JFKQbb0BairSh02_6jAEvAWky50iSR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L81GRJ34ulrb_bOfJRkU0NoH66eUUDYL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L81GRJ34ulrb_bOfJRkU0NoH66eUUDYL</guid>
+			
+
+			<title><![CDATA[ 106  SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 106  SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 106  SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 106  SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L81GRJ34ulrb_bOfJRkU0NoH66eUUDYL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L18MkNKIw8MpxOavl6eBr0HLr571k043</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L18MkNKIw8MpxOavl6eBr0HLr571k043</guid>
+			
+
+			<title><![CDATA[ 105  使用Resilience4j实现服务限流（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 105  使用Resilience4j实现服务限流（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 105  使用Resilience4j实现服务限流（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 105  使用Resilience4j实现服务限流（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L18MkNKIw8MpxOavl6eBr0HLr571k043"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L0zCejglVm9nKc1p3P0WisZ918tm6bLx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L0zCejglVm9nKc1p3P0WisZ918tm6bLx</guid>
+			
+
+			<title><![CDATA[ 103  使用Resilience4j实现服务熔断.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 103  使用Resilience4j实现服务熔断.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 103  使用Resilience4j实现服务熔断.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 103  使用Resilience4j实现服务熔断.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L0zCejglVm9nKc1p3P0WisZ918tm6bLx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KtVL53QwsyVeS2Mt3BPPGbb544x13D10</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KtVL53QwsyVeS2Mt3BPPGbb544x13D10</guid>
+			
+
+			<title><![CDATA[ 102  如何观察服务熔断.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 102  如何观察服务熔断.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 102  如何观察服务熔断.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 102  如何观察服务熔断.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KtVL53QwsyVeS2Mt3BPPGbb544x13D10"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KcVB5zytKHwzyGc7u1g7zJX442FwGCAn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KcVB5zytKHwzyGc7u1g7zJX442FwGCAn</guid>
+			
+
+			<title><![CDATA[ 101  使用Hystrix 实现服务熔断（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 101  使用Hystrix 实现服务熔断（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 101  使用Hystrix 实现服务熔断（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 101  使用Hystrix 实现服务熔断（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KcVB5zytKHwzyGc7u1g7zJX442FwGCAn"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

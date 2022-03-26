@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .33 算法面试通关40讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .33 算法面试通关40讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .33 算法面试通关40讲. ]]></itunes:summary>
+		<description><![CDATA[ .33 算法面试通关40讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=18vIkp_GE56eL3Jd9MLdl99QP28_iCGwQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18vIkp_GE56eL3Jd9MLdl99QP28_iCGwQ</guid>
+			
+
+			<title><![CDATA[ intro.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ intro.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ intro.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ intro.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18vIkp_GE56eL3Jd9MLdl99QP28_iCGwQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18nOXdqxQk1ds_bN0KIJ1FfkTObkPOPjF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18nOXdqxQk1ds_bN0KIJ1FfkTObkPOPjF</guid>
+			
+
+			<title><![CDATA[ 62.最后的一些经验分享.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62.最后的一些经验分享.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62.最后的一些经验分享.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62.最后的一些经验分享.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18nOXdqxQk1ds_bN0KIJ1FfkTObkPOPjF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18icTHcu7XqJh259tULVqVbAJAInsuBq-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18icTHcu7XqJh259tULVqVbAJAInsuBq-</guid>
+			
+
+			<title><![CDATA[ 61.白板实战番外篇：斐波拉契数列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61.白板实战番外篇：斐波拉契数列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61.白板实战番外篇：斐波拉契数列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61.白板实战番外篇：斐波拉契数列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18icTHcu7XqJh259tULVqVbAJAInsuBq-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18_GcQqCpKS_8qT1kym37lKM5aQfMKfEu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18_GcQqCpKS_8qT1kym37lKM5aQfMKfEu</guid>
+			
+
+			<title><![CDATA[ 60.回到起点：斐波拉契数列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60.回到起点：斐波拉契数列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60.回到起点：斐波拉契数列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60.回到起点：斐波拉契数列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18_GcQqCpKS_8qT1kym37lKM5aQfMKfEu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18XjRruY44Se64-RX6N677PnKn98zQXhA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18XjRruY44Se64-RX6N677PnKn98zQXhA</guid>
+			
+
+			<title><![CDATA[ 59.FAQ答疑&面试中切题四件套.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59.FAQ答疑&面试中切题四件套.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59.FAQ答疑&面试中切题四件套.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59.FAQ答疑&面试中切题四件套.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18XjRruY44Se64-RX6N677PnKn98zQXhA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18UZKNhNRIjuxCCSfI8cZYJsTUQixK_EN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18UZKNhNRIjuxCCSfI8cZYJsTUQixK_EN</guid>
+			
+
+			<title><![CDATA[ 58.课程重点回顾.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58.课程重点回顾.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58.课程重点回顾.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58.课程重点回顾.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18UZKNhNRIjuxCCSfI8cZYJsTUQixK_EN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18PLIGHw9DOUmcDaOcu8HK2UaTycswO4H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18PLIGHw9DOUmcDaOcu8HK2UaTycswO4H</guid>
+			
+
+			<title><![CDATA[ 57.理论讲解：布隆过滤器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57.理论讲解：布隆过滤器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57.理论讲解：布隆过滤器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57.理论讲解：布隆过滤器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18PLIGHw9DOUmcDaOcu8HK2UaTycswO4H"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18JIvcyWWpAfdoiBBz-kg-B_bzAR4Quud</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18JIvcyWWpAfdoiBBz-kg-B_bzAR4Quud</guid>
+			
+
+			<title><![CDATA[ 56.面试题：设计和实现一个LRU Cache缓存机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56.面试题：设计和实现一个LRU Cache缓存机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56.面试题：设计和实现一个LRU Cache缓存机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56.面试题：设计和实现一个LRU Cache缓存机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18JIvcyWWpAfdoiBBz-kg-B_bzAR4Quud"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18628RTCQfKCq0g_cXjs9W9AJ3jdb7bc9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18628RTCQfKCq0g_cXjs9W9AJ3jdb7bc9</guid>
+			
+
+			<title><![CDATA[ 55.理论讲解： LRU Cache.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55.理论讲解： LRU Cache.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55.理论讲解： LRU Cache.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55.理论讲解： LRU Cache.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18628RTCQfKCq0g_cXjs9W9AJ3jdb7bc9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1830pSRPLEDh4v7c5YtRwvauBCub1W4ky</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1830pSRPLEDh4v7c5YtRwvauBCub1W4ky</guid>
+			
+
+			<title><![CDATA[ 54.面试题：岛屿的个数&朋友圈（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54.面试题：岛屿的个数&朋友圈（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54.面试题：岛屿的个数&朋友圈（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54.面试题：岛屿的个数&朋友圈（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1830pSRPLEDh4v7c5YtRwvauBCub1W4ky"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=181KjTXVquY7h7mVdCCE1G6NL4-n87Xjg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=181KjTXVquY7h7mVdCCE1G6NL4-n87Xjg</guid>
+			
+
+			<title><![CDATA[ 53.面试题：岛屿的个数&朋友圈（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53.面试题：岛屿的个数&朋友圈（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53.面试题：岛屿的个数&朋友圈（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53.面试题：岛屿的个数&朋友圈（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=181KjTXVquY7h7mVdCCE1G6NL4-n87Xjg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17xjD3rvhSFUox38_wB9QdX5JUhrw16ZT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17xjD3rvhSFUox38_wB9QdX5JUhrw16ZT</guid>
+			
+
+			<title><![CDATA[ 52.理论讲解：并查集.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52.理论讲解：并查集.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52.理论讲解：并查集.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52.理论讲解：并查集.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17xjD3rvhSFUox38_wB9QdX5JUhrw16ZT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17kJFXdO3zcURlapp69T1P3COUK4fGGLL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17kJFXdO3zcURlapp69T1P3COUK4fGGLL</guid>
+			
+
+			<title><![CDATA[ 51.面试题：编辑距离.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51.面试题：编辑距离.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51.面试题：编辑距离.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51.面试题：编辑距离.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17kJFXdO3zcURlapp69T1P3COUK4fGGLL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17ipyLhXwaSe5VRI-krf4jA0cgee_xWy1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17ipyLhXwaSe5VRI-krf4jA0cgee_xWy1</guid>
+			
+
+			<title><![CDATA[ 50.面试题：零钱兑换.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50.面试题：零钱兑换.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50.面试题：零钱兑换.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50.面试题：零钱兑换.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17ipyLhXwaSe5VRI-krf4jA0cgee_xWy1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17fiUnp7sTLOvMnRzTzPMD0EI93KGw4DW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17fiUnp7sTLOvMnRzTzPMD0EI93KGw4DW</guid>
+			
+
+			<title><![CDATA[ 49.面试题：最长上升子序列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49.面试题：最长上升子序列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49.面试题：最长上升子序列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49.面试题：最长上升子序列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17fiUnp7sTLOvMnRzTzPMD0EI93KGw4DW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17bnj58abEXBJ47mm8yUtAwJgY5UO9Fyq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17bnj58abEXBJ47mm8yUtAwJgY5UO9Fyq</guid>
+			
+
+			<title><![CDATA[ 48.面试题：股票买卖系列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48.面试题：股票买卖系列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48.面试题：股票买卖系列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48.面试题：股票买卖系列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17bnj58abEXBJ47mm8yUtAwJgY5UO9Fyq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17Ofw-owm-AoD3DMGYjCy0WsBf3o_wECa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17Ofw-owm-AoD3DMGYjCy0WsBf3o_wECa</guid>
+			
+
+			<title><![CDATA[ 47.面试题：乘积最大子序列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47.面试题：乘积最大子序列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47.面试题：乘积最大子序列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47.面试题：乘积最大子序列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17Ofw-owm-AoD3DMGYjCy0WsBf3o_wECa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=177iWIJUaDZ8lIEVV7sg-9A8J3CN_GG6d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=177iWIJUaDZ8lIEVV7sg-9A8J3CN_GG6d</guid>
+			
+
+			<title><![CDATA[ 46.面试题：三角形的最小路径和.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46.面试题：三角形的最小路径和.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46.面试题：三角形的最小路径和.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46.面试题：三角形的最小路径和.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=177iWIJUaDZ8lIEVV7sg-9A8J3CN_GG6d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17-C-0zf3c9-i06J0QPWvdYs2TQHpOKaf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17-C-0zf3c9-i06J0QPWvdYs2TQHpOKaf</guid>
+			
+
+			<title><![CDATA[ 45.面试题：爬楼梯.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45.面试题：爬楼梯.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45.面试题：爬楼梯.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45.面试题：爬楼梯.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17-C-0zf3c9-i06J0QPWvdYs2TQHpOKaf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16qQ4QXIiiG1DVB4fYNYoBpKXsG9dxe4u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16qQ4QXIiiG1DVB4fYNYoBpKXsG9dxe4u</guid>
+			
+
+			<title><![CDATA[ 44.理论理解：动态规划（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44.理论理解：动态规划（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44.理论理解：动态规划（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44.理论理解：动态规划（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16qQ4QXIiiG1DVB4fYNYoBpKXsG9dxe4u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16oE_11XTq8cOCMX4YQxYLwKxQHWm1U9U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16oE_11XTq8cOCMX4YQxYLwKxQHWm1U9U</guid>
+			
+
+			<title><![CDATA[ 43.理论理解：动态规划（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43.理论理解：动态规划（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43.理论理解：动态规划（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43.理论理解：动态规划（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16oE_11XTq8cOCMX4YQxYLwKxQHWm1U9U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16MnsmisB3keGD-zWBO2PIfCpobTo3U6t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16MnsmisB3keGD-zWBO2PIfCpobTo3U6t</guid>
+			
+
+			<title><![CDATA[ 42.面试题：N皇后问题的另一种解法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42.面试题：N皇后问题的另一种解法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42.面试题：N皇后问题的另一种解法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42.面试题：N皇后问题的另一种解法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16MnsmisB3keGD-zWBO2PIfCpobTo3U6t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16KRct48c6qAh7zfFtCvNWX112Q2TUsEk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16KRct48c6qAh7zfFtCvNWX112Q2TUsEk</guid>
+			
+
+			<title><![CDATA[ 41.面试题：2的幂次方问题&比特位计数问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41.面试题：2的幂次方问题&比特位计数问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41.面试题：2的幂次方问题&比特位计数问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41.面试题：2的幂次方问题&比特位计数问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16KRct48c6qAh7zfFtCvNWX112Q2TUsEk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16AH1yNxCMjRJU_R6VNzHnF58IRLtwmnm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16AH1yNxCMjRJU_R6VNzHnF58IRLtwmnm</guid>
+			
+
+			<title><![CDATA[ 40.面试题：统计位1的个数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40.面试题：统计位1的个数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40.面试题：统计位1的个数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40.面试题：统计位1的个数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16AH1yNxCMjRJU_R6VNzHnF58IRLtwmnm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=168i6A2QndNUiPkATOZSa1fmyYKhtBvst</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=168i6A2QndNUiPkATOZSa1fmyYKhtBvst</guid>
+			
+
+			<title><![CDATA[ 39.理论讲解：位运算.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39.理论讲解：位运算.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39.理论讲解：位运算.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39.理论讲解：位运算.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=168i6A2QndNUiPkATOZSa1fmyYKhtBvst"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15zdnIJxnUA2iPY44y6hQdUXgGZCh5lAv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15zdnIJxnUA2iPY44y6hQdUXgGZCh5lAv</guid>
+			
+
+			<title><![CDATA[ 38.面试题：二维网格中的单词搜索问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38.面试题：二维网格中的单词搜索问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38.面试题：二维网格中的单词搜索问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38.面试题：二维网格中的单词搜索问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15zdnIJxnUA2iPY44y6hQdUXgGZCh5lAv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15rg9oWdJSuB6heDg6-Ibo0HahuEiRt-G</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15rg9oWdJSuB6heDg6-Ibo0HahuEiRt-G</guid>
+			
+
+			<title><![CDATA[ 37.面试题：实现一个字典树.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37.面试题：实现一个字典树.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37.面试题：实现一个字典树.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37.面试题：实现一个字典树.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15rg9oWdJSuB6heDg6-Ibo0HahuEiRt-G"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15qXnyHNllWHmisBkTmAMATnCNBwlKP02</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15qXnyHNllWHmisBkTmAMATnCNBwlKP02</guid>
+			
+
+			<title><![CDATA[ 36.理论讲解：字典树.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36.理论讲解：字典树.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36.理论讲解：字典树.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36.理论讲解：字典树.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15qXnyHNllWHmisBkTmAMATnCNBwlKP02"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15UQ74GXoyp7ByrOG2nyy3MrombgeYR5f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15UQ74GXoyp7ByrOG2nyy3MrombgeYR5f</guid>
+			
+
+			<title><![CDATA[ 35.面试题：实现一个求解平方根的函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35.面试题：实现一个求解平方根的函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35.面试题：实现一个求解平方根的函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35.面试题：实现一个求解平方根的函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15UQ74GXoyp7ByrOG2nyy3MrombgeYR5f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15HgUVqWdTgbOuuxnZnZMSYtmhtIwe0GR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15HgUVqWdTgbOuuxnZnZMSYtmhtIwe0GR</guid>
+			
+
+			<title><![CDATA[ 34.理论讲解：二分查找.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34.理论讲解：二分查找.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34.理论讲解：二分查找.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34.理论讲解：二分查找.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15HgUVqWdTgbOuuxnZnZMSYtmhtIwe0GR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15HLBHit5-NdzWGa1iIFmSGG8bIXOXCnG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15HLBHit5-NdzWGa1iIFmSGG8bIXOXCnG</guid>
+			
+
+			<title><![CDATA[ 33.面试题：数独问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33.面试题：数独问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33.面试题：数独问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33.面试题：数独问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15HLBHit5-NdzWGa1iIFmSGG8bIXOXCnG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15BE45z77pO9ibmdzg28zSqnPzJQLQhRX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15BE45z77pO9ibmdzg28zSqnPzJQLQhRX</guid>
+			
+
+			<title><![CDATA[ 32.面试题：N皇后问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32.面试题：N皇后问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32.面试题：N皇后问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32.面试题：N皇后问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15BE45z77pO9ibmdzg28zSqnPzJQLQhRX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14dKfJufSvltSsznD-qtjMMST42Mt2WdK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14dKfJufSvltSsznD-qtjMMST42Mt2WdK</guid>
+			
+
+			<title><![CDATA[ 31.理论讲解：剪枝.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31.理论讲解：剪枝.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31.理论讲解：剪枝.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31.理论讲解：剪枝.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14dKfJufSvltSsznD-qtjMMST42Mt2WdK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14KyTVZT7Qdtd-cgF6Pyfr5RnhvslGfkU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14KyTVZT7Qdtd-cgF6Pyfr5RnhvslGfkU</guid>
+			
+
+			<title><![CDATA[ 30.面试题：生成有效括号组合.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30.面试题：生成有效括号组合.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30.面试题：生成有效括号组合.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30.面试题：生成有效括号组合.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14KyTVZT7Qdtd-cgF6Pyfr5RnhvslGfkU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Iy8RZzka2-IL1B-nPaPfuRpRl03V9Nw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Iy8RZzka2-IL1B-nPaPfuRpRl03V9Nw</guid>
+			
+
+			<title><![CDATA[ 29.面试题：二叉树的最大和最小深度.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29.面试题：二叉树的最大和最小深度.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29.面试题：二叉树的最大和最小深度.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29.面试题：二叉树的最大和最小深度.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Iy8RZzka2-IL1B-nPaPfuRpRl03V9Nw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14EDy_Ak-8XIW41R6J021klkz35sZ-LgH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14EDy_Ak-8XIW41R6J021klkz35sZ-LgH</guid>
+			
+
+			<title><![CDATA[ 28.面试题：二叉树层次遍历.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28.面试题：二叉树层次遍历.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28.面试题：二叉树层次遍历.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28.面试题：二叉树层次遍历.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14EDy_Ak-8XIW41R6J021klkz35sZ-LgH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=144FIHhaj3bwLybvfjvm-nF2XdRi8QIeq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=144FIHhaj3bwLybvfjvm-nF2XdRi8QIeq</guid>
+			
+
+			<title><![CDATA[ 27.理论讲解：深度优先搜索.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27.理论讲解：深度优先搜索.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27.理论讲解：深度优先搜索.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27.理论讲解：深度优先搜索.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=144FIHhaj3bwLybvfjvm-nF2XdRi8QIeq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13syfdlSpjPaq4Vx3bc9e_7xmI4_9lD7u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13syfdlSpjPaq4Vx3bc9e_7xmI4_9lD7u</guid>
+			
+
+			<title><![CDATA[ 26.理论讲解：广度优先搜索.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26.理论讲解：广度优先搜索.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26.理论讲解：广度优先搜索.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26.理论讲解：广度优先搜索.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13syfdlSpjPaq4Vx3bc9e_7xmI4_9lD7u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13ij6UcpKhZFNI_7XAF9hWMDAhgIRGlhW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13ij6UcpKhZFNI_7XAF9hWMDAhgIRGlhW</guid>
+			
+
+			<title><![CDATA[ 25.面试题：买卖股票的最佳时机.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25.面试题：买卖股票的最佳时机.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25.面试题：买卖股票的最佳时机.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25.面试题：买卖股票的最佳时机.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13ij6UcpKhZFNI_7XAF9hWMDAhgIRGlhW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13gPGqFQjn8Y0g_IZppi5npVhddMmuAPg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13gPGqFQjn8Y0g_IZppi5npVhddMmuAPg</guid>
+			
+
+			<title><![CDATA[ 24.理论讲解：贪心算法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24.理论讲解：贪心算法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24.理论讲解：贪心算法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24.理论讲解：贪心算法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13gPGqFQjn8Y0g_IZppi5npVhddMmuAPg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13OPfAJ7TA8vNfVHDuTssUB5gKVa9Jq6d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13OPfAJ7TA8vNfVHDuTssUB5gKVa9Jq6d</guid>
+			
+
+			<title><![CDATA[ 23.面试题：求众数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23.面试题：求众数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23.面试题：求众数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23.面试题：求众数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13OPfAJ7TA8vNfVHDuTssUB5gKVa9Jq6d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13KOlrgl-zlh7X7CKi1RDcIgZIWDkSZ4L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13KOlrgl-zlh7X7CKi1RDcIgZIWDkSZ4L</guid>
+			
+
+			<title><![CDATA[ 22.面试题：Pow(x,n).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22.面试题：Pow(x,n).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22.面试题：Pow(x,n).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22.面试题：Pow(x,n).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13KOlrgl-zlh7X7CKi1RDcIgZIWDkSZ4L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13AF5MifK0UEblFUGBAQfHAXty_FfWtLi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13AF5MifK0UEblFUGBAQfHAXty_FfWtLi</guid>
+			
+
+			<title><![CDATA[ 21.理论讲解：递归&分治.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21.理论讲解：递归&分治.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21.理论讲解：递归&分治.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21.理论讲解：递归&分治.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13AF5MifK0UEblFUGBAQfHAXty_FfWtLi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12vhL1AlfrjZfe5UI2me9FK8UiChpTamj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12vhL1AlfrjZfe5UI2me9FK8UiChpTamj</guid>
+			
+
+			<title><![CDATA[ 20.理论讲解：二叉树遍历.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20.理论讲解：二叉树遍历.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20.理论讲解：二叉树遍历.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20.理论讲解：二叉树遍历.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12vhL1AlfrjZfe5UI2me9FK8UiChpTamj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12u2zw4O1Xi4TQEDa_Do0wMKF17EVVT5k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12u2zw4O1Xi4TQEDa_Do0wMKF17EVVT5k</guid>
+			
+
+			<title><![CDATA[ 19.面试题：二叉树&二叉搜索树的最近公共祖先.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19.面试题：二叉树&二叉搜索树的最近公共祖先.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19.面试题：二叉树&二叉搜索树的最近公共祖先.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19.面试题：二叉树&二叉搜索树的最近公共祖先.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12u2zw4O1Xi4TQEDa_Do0wMKF17EVVT5k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12fqgS1e4fh39QifAhnnaAe412-B6lIz5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12fqgS1e4fh39QifAhnnaAe412-B6lIz5</guid>
+			
+
+			<title><![CDATA[ 18.面试题：验证二叉搜索树.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18.面试题：验证二叉搜索树.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18.面试题：验证二叉搜索树.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18.面试题：验证二叉搜索树.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12fqgS1e4fh39QifAhnnaAe412-B6lIz5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12T4mQlK-jiSW4Wn_cHEPfK1PykX8vPqk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12T4mQlK-jiSW4Wn_cHEPfK1PykX8vPqk</guid>
+			
+
+			<title><![CDATA[ 17.理论讲解：树&二叉树&二叉搜索树.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17.理论讲解：树&二叉树&二叉搜索树.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17.理论讲解：树&二叉树&二叉搜索树.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17.理论讲解：树&二叉树&二叉搜索树.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12T4mQlK-jiSW4Wn_cHEPfK1PykX8vPqk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12QGWTr4Qu4-hoabEaCLy2zyQg-hvRj5M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12QGWTr4Qu4-hoabEaCLy2zyQg-hvRj5M</guid>
+			
+
+			<title><![CDATA[ 16.面试题：三数之和.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16.面试题：三数之和.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16.面试题：三数之和.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16.面试题：三数之和.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12QGWTr4Qu4-hoabEaCLy2zyQg-hvRj5M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12NaauXJtSvYehuEquusL2IU7p6fVOyCS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12NaauXJtSvYehuEquusL2IU7p6fVOyCS</guid>
+			
+
+			<title><![CDATA[ 15.面试题：两数之和.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15.面试题：两数之和.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15.面试题：两数之和.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15.面试题：两数之和.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12NaauXJtSvYehuEquusL2IU7p6fVOyCS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12AAkfERbPb7wyRk935Bw1ow6cCFLyIps</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12AAkfERbPb7wyRk935Bw1ow6cCFLyIps</guid>
+			
+
+			<title><![CDATA[ 14.面试题：有效的字母异位词.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14.面试题：有效的字母异位词.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14.面试题：有效的字母异位词.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14.面试题：有效的字母异位词.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12AAkfERbPb7wyRk935Bw1ow6cCFLyIps"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12-nVmBAzA_DxzaVxzlwvi1_dJmrcnttt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12-nVmBAzA_DxzaVxzlwvi1_dJmrcnttt</guid>
+			
+
+			<title><![CDATA[ 13.理论讲解：哈希表.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13.理论讲解：哈希表.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13.理论讲解：哈希表.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13.理论讲解：哈希表.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12-nVmBAzA_DxzaVxzlwvi1_dJmrcnttt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11su8gX_YqRYoo0VHv2LlJ-9taq41Vqtq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11su8gX_YqRYoo0VHv2LlJ-9taq41Vqtq</guid>
+			
+
+			<title><![CDATA[ 12.面试题：返回滑动窗口中的最大值.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12.面试题：返回滑动窗口中的最大值.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12.面试题：返回滑动窗口中的最大值.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12.面试题：返回滑动窗口中的最大值.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11su8gX_YqRYoo0VHv2LlJ-9taq41Vqtq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11g6pM11Ls52Sh0PdkqYPEnTWHMVd7R1k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11g6pM11Ls52Sh0PdkqYPEnTWHMVd7R1k</guid>
+			
+
+			<title><![CDATA[ 11.面试题：返回数据流中的第K大元素.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11.面试题：返回数据流中的第K大元素.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11.面试题：返回数据流中的第K大元素.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11.面试题：返回数据流中的第K大元素.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11g6pM11Ls52Sh0PdkqYPEnTWHMVd7R1k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11axuFEKUz-VP0J2amjS0iiUpnsV95blT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11axuFEKUz-VP0J2amjS0iiUpnsV95blT</guid>
+			
+
+			<title><![CDATA[ 10.理论讲解：优先队列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10.理论讲解：优先队列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10.理论讲解：优先队列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10.理论讲解：优先队列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11axuFEKUz-VP0J2amjS0iiUpnsV95blT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11MKD3Pr5LzSN-NJkSKA06wnjXQLq99Ga</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11MKD3Pr5LzSN-NJkSKA06wnjXQLq99Ga</guid>
+			
+
+			<title><![CDATA[ 09.面试题：用队列实现栈&用栈实现队列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09.面试题：用队列实现栈&用栈实现队列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09.面试题：用队列实现栈&用栈实现队列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09.面试题：用队列实现栈&用栈实现队列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11MKD3Pr5LzSN-NJkSKA06wnjXQLq99Ga"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11HgWpYeV-YCzR6ImW_FUmWMUaXJ8xo2u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11HgWpYeV-YCzR6ImW_FUmWMUaXJ8xo2u</guid>
+			
+
+			<title><![CDATA[ 08.面试题：判断括号字符串是否有效.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08.面试题：判断括号字符串是否有效.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08.面试题：判断括号字符串是否有效.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08.面试题：判断括号字符串是否有效.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11HgWpYeV-YCzR6ImW_FUmWMUaXJ8xo2u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11GQNQPdAGk3839eEb_nhCHXJd7mDCYiw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11GQNQPdAGk3839eEb_nhCHXJd7mDCYiw</guid>
+			
+
+			<title><![CDATA[ 07.理论讲解：堆栈&队列.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07.理论讲解：堆栈&队列.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07.理论讲解：堆栈&队列.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07.理论讲解：堆栈&队列.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11GQNQPdAGk3839eEb_nhCHXJd7mDCYiw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=119koGEeDYoXZj-ULa47Bjxmt_u2Pi_TB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=119koGEeDYoXZj-ULa47Bjxmt_u2Pi_TB</guid>
+			
+
+			<title><![CDATA[ 06.面试题：反转一个单链表&判断链表是否有环.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06.面试题：反转一个单链表&判断链表是否有环.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06.面试题：反转一个单链表&判断链表是否有环.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06.面试题：反转一个单链表&判断链表是否有环.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=119koGEeDYoXZj-ULa47Bjxmt_u2Pi_TB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10x7PK8C6r0B_UL-lyaLZPDkas8xDy2-E</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10x7PK8C6r0B_UL-lyaLZPDkas8xDy2-E</guid>
+			
+
+			<title><![CDATA[ 05.理论讲解：数组&链表.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05.理论讲解：数组&链表.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05.理论讲解：数组&链表.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05.理论讲解：数组&链表.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10x7PK8C6r0B_UL-lyaLZPDkas8xDy2-E"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10fNTzCV6gZXtGPL_omRb0ZomG9JcODGj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10fNTzCV6gZXtGPL_omRb0ZomG9JcODGj</guid>
+			
+
+			<title><![CDATA[ 04.如何通过LeetCode来进行算法题目练习.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04.如何通过LeetCode来进行算法题目练习.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04.如何通过LeetCode来进行算法题目练习.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04.如何通过LeetCode来进行算法题目练习.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10fNTzCV6gZXtGPL_omRb0ZomG9JcODGj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10ViyajIIMV4YN5A0B4Cac3t1qfVKmkFZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10ViyajIIMV4YN5A0B4Cac3t1qfVKmkFZ</guid>
+			
+
+			<title><![CDATA[ 03.如何计算算法的复杂度.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03.如何计算算法的复杂度.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03.如何计算算法的复杂度.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03.如何计算算法的复杂度.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10ViyajIIMV4YN5A0B4Cac3t1qfVKmkFZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10IQCFTOi5Mf0TK0xMAQa9y8x6e1b415p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10IQCFTOi5Mf0TK0xMAQa9y8x6e1b415p</guid>
+			
+
+			<title><![CDATA[ 02.如何事半功倍地学习算法与数据结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02.如何事半功倍地学习算法与数据结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02.如何事半功倍地学习算法与数据结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02.如何事半功倍地学习算法与数据结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10IQCFTOi5Mf0TK0xMAQa9y8x6e1b415p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10EzLsjLoecuYR8niEh9AGm1d5tfHkiGq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10EzLsjLoecuYR8niEh9AGm1d5tfHkiGq</guid>
+			
+
+			<title><![CDATA[ 01.合格程序员的第一步：算法与数据结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01.合格程序员的第一步：算法与数据结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01.合格程序员的第一步：算法与数据结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01.合格程序员的第一步：算法与数据结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10EzLsjLoecuYR8niEh9AGm1d5tfHkiGq"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

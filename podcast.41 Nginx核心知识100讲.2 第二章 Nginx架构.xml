@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .41 Nginx核心知识100讲.2 第二章 Nginx架构 ]]></title>
+		<itunes:subtitle><![CDATA[ .41 Nginx核心知识100讲.2 第二章 Nginx架构 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .41 Nginx核心知识100讲.2 第二章 Nginx架构. ]]></itunes:summary>
+		<description><![CDATA[ .41 Nginx核心知识100讲.2 第二章 Nginx架构 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=14pycXIi6YFcn8DPltqot0iEWXyH1Ndh7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14pycXIi6YFcn8DPltqot0iEWXyH1Ndh7</guid>
+			
+
+			<title><![CDATA[ 41 使用动态模块来提升运维效率.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41 使用动态模块来提升运维效率.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41 使用动态模块来提升运维效率.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41 使用动态模块来提升运维效率.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14pycXIi6YFcn8DPltqot0iEWXyH1Ndh7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14nUiHg5Qagqi_zOQ9_V-8VGAKBGSHPAm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14nUiHg5Qagqi_zOQ9_V-8VGAKBGSHPAm</guid>
+			
+
+			<title><![CDATA[ 40 Nginx中最常用的容器 红黑树.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40 Nginx中最常用的容器 红黑树.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40 Nginx中最常用的容器 红黑树.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40 Nginx中最常用的容器 红黑树.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14nUiHg5Qagqi_zOQ9_V-8VGAKBGSHPAm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14jaiYKhgZXsFeNr-nysCkTKIragBgMSR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14jaiYKhgZXsFeNr-nysCkTKIragBgMSR</guid>
+			
+
+			<title><![CDATA[ 39 哈希表的max_size与bucket_size如何配置.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39 哈希表的max_size与bucket_size如何配置.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39 哈希表的max_size与bucket_size如何配置.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39 哈希表的max_size与bucket_size如何配置.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14jaiYKhgZXsFeNr-nysCkTKIragBgMSR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14id0FeC_W5v-tOqvXt8dEf_hQJ_2LfVQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14id0FeC_W5v-tOqvXt8dEf_hQJ_2LfVQ</guid>
+			
+
+			<title><![CDATA[ 38 用好共享内存的工具 Slab管理器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38 用好共享内存的工具 Slab管理器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38 用好共享内存的工具 Slab管理器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38 用好共享内存的工具 Slab管理器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14id0FeC_W5v-tOqvXt8dEf_hQJ_2LfVQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14fBbBFYCwO-lkJU4uwmI4ZjeFBbAGEpi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14fBbBFYCwO-lkJU4uwmI4ZjeFBbAGEpi</guid>
+			
+
+			<title><![CDATA[ 37 所有worker进程协同工作的关键.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37 所有worker进程协同工作的关键.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37 所有worker进程协同工作的关键.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37 所有worker进程协同工作的关键.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14fBbBFYCwO-lkJU4uwmI4ZjeFBbAGEpi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14bS_JZGmXpasn8AFIyhhEMj7P3gmLyQB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14bS_JZGmXpasn8AFIyhhEMj7P3gmLyQB</guid>
+			
+
+			<title><![CDATA[ 36 内存池对性能的影响.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36 内存池对性能的影响.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36 内存池对性能的影响.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36 内存池对性能的影响.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14bS_JZGmXpasn8AFIyhhEMj7P3gmLyQB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14LgzEXcuarrKd8aVwN0DczLFDdHhZSQt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14LgzEXcuarrKd8aVwN0DczLFDdHhZSQt</guid>
+			
+
+			<title><![CDATA[ 35 Nginx如何通过连接池处理网络请求.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35 Nginx如何通过连接池处理网络请求.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35 Nginx如何通过连接池处理网络请求.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35 Nginx如何通过连接池处理网络请求.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14LgzEXcuarrKd8aVwN0DczLFDdHhZSQt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14LYeSd_6455IJCUk_OaGReLZpMYMm1-Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14LYeSd_6455IJCUk_OaGReLZpMYMm1-Y</guid>
+			
+
+			<title><![CDATA[ 34 Nginx模块的分类.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34 Nginx模块的分类.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34 Nginx模块的分类.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34 Nginx模块的分类.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14LYeSd_6455IJCUk_OaGReLZpMYMm1-Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14KeAfdQKt1A_8XkGDHKK3Dhiw1qBckS8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14KeAfdQKt1A_8XkGDHKK3Dhiw1qBckS8</guid>
+			
+
+			<title><![CDATA[ 33 Nginx的模块究竟是什么？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33 Nginx的模块究竟是什么？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33 Nginx的模块究竟是什么？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33 Nginx的模块究竟是什么？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14KeAfdQKt1A_8XkGDHKK3Dhiw1qBckS8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Jlp3KadzPcV5_VrLGa9hiBk3CwBAtoP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Jlp3KadzPcV5_VrLGa9hiBk3CwBAtoP</guid>
+			
+
+			<title><![CDATA[ 32 同步&异步、阻塞&非阻塞之间的区别.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32 同步&异步、阻塞&非阻塞之间的区别.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32 同步&异步、阻塞&非阻塞之间的区别.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32 同步&异步、阻塞&非阻塞之间的区别.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Jlp3KadzPcV5_VrLGa9hiBk3CwBAtoP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14HyT6wnxgAslFKEDhH06HGT3ixsoYDta</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14HyT6wnxgAslFKEDhH06HGT3ixsoYDta</guid>
+			
+
+			<title><![CDATA[ 31 Nginx的请求切换.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31 Nginx的请求切换.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31 Nginx的请求切换.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31 Nginx的请求切换.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14HyT6wnxgAslFKEDhH06HGT3ixsoYDta"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14GcvoJaM1nRAm4aAdXEW3jwK-N2XD55y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14GcvoJaM1nRAm4aAdXEW3jwK-N2XD55y</guid>
+			
+
+			<title><![CDATA[ 30 epoll的优劣及原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30 epoll的优劣及原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30 epoll的优劣及原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30 epoll的优劣及原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14GcvoJaM1nRAm4aAdXEW3jwK-N2XD55y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14CMAsiSp83HbTp3GHPasVDMsgxYL9B4Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14CMAsiSp83HbTp3GHPasVDMsgxYL9B4Y</guid>
+			
+
+			<title><![CDATA[ 29 Nginx的事件驱动模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29 Nginx的事件驱动模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29 Nginx的事件驱动模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29 Nginx的事件驱动模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14CMAsiSp83HbTp3GHPasVDMsgxYL9B4Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=149IfQaKBx-9xZKivDwb3DmWBkW6Bb7dC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=149IfQaKBx-9xZKivDwb3DmWBkW6Bb7dC</guid>
+			
+
+			<title><![CDATA[ 28 Nginx网络事件实例演示.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28 Nginx网络事件实例演示.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28 Nginx网络事件实例演示.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28 Nginx网络事件实例演示.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=149IfQaKBx-9xZKivDwb3DmWBkW6Bb7dC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=146vbP1eTC4RAw1lKm02S38qaO0kR9_2_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=146vbP1eTC4RAw1lKm02S38qaO0kR9_2_</guid>
+			
+
+			<title><![CDATA[ 27 网络收发与Nginx事件间的对应关系.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27 网络收发与Nginx事件间的对应关系.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27 网络收发与Nginx事件间的对应关系.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27 网络收发与Nginx事件间的对应关系.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=146vbP1eTC4RAw1lKm02S38qaO0kR9_2_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=143H74-AUEvziEj1nLij1oupQLAJqUSa2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=143H74-AUEvziEj1nLij1oupQLAJqUSa2</guid>
+			
+
+			<title><![CDATA[ 26 优雅地关闭worker进程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26 优雅地关闭worker进程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26 优雅地关闭worker进程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26 优雅地关闭worker进程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=143H74-AUEvziEj1nLij1oupQLAJqUSa2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=141SSauAU2jCYlhM7xQ52iCSayIbjtFX6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=141SSauAU2jCYlhM7xQ52iCSayIbjtFX6</guid>
+			
+
+			<title><![CDATA[ 25 热升级的完整流程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25 热升级的完整流程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25 热升级的完整流程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25 热升级的完整流程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=141SSauAU2jCYlhM7xQ52iCSayIbjtFX6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13yTM7TFL1jymxyG9qhbDvMSRg9V2ufH-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13yTM7TFL1jymxyG9qhbDvMSRg9V2ufH-</guid>
+			
+
+			<title><![CDATA[ 24 reload重载配置文件的真相.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24 reload重载配置文件的真相.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24 reload重载配置文件的真相.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24 reload重载配置文件的真相.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13yTM7TFL1jymxyG9qhbDvMSRg9V2ufH-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13wSPl2tvdjTkUaHsEq84m1O-5naTqAwT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13wSPl2tvdjTkUaHsEq84m1O-5naTqAwT</guid>
+			
+
+			<title><![CDATA[ 23 使用信号管理Nginx的父子进程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23 使用信号管理Nginx的父子进程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23 使用信号管理Nginx的父子进程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23 使用信号管理Nginx的父子进程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13wSPl2tvdjTkUaHsEq84m1O-5naTqAwT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13okaqR66ucZA_jX_XL-WeF-Xw9X5hSg4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13okaqR66ucZA_jX_XL-WeF-Xw9X5hSg4</guid>
+			
+
+			<title><![CDATA[ 22 Nginx的进程结构实例演示.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22 Nginx的进程结构实例演示.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22 Nginx的进程结构实例演示.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22 Nginx的进程结构实例演示.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13okaqR66ucZA_jX_XL-WeF-Xw9X5hSg4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13kl52Fin03YOr6forZcucQsnW-VeX6JU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13kl52Fin03YOr6forZcucQsnW-VeX6JU</guid>
+			
+
+			<title><![CDATA[ 21 Nginx的进程结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21 Nginx的进程结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21 Nginx的进程结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21 Nginx的进程结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13kl52Fin03YOr6forZcucQsnW-VeX6JU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13jpB8jtZdjxfcluCTZUlJKHVZ8Opj-yp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13jpB8jtZdjxfcluCTZUlJKHVZ8Opj-yp</guid>
+			
+
+			<title><![CDATA[ 20 Nginx的请求处理流程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20 Nginx的请求处理流程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20 Nginx的请求处理流程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20 Nginx的请求处理流程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13jpB8jtZdjxfcluCTZUlJKHVZ8Opj-yp"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

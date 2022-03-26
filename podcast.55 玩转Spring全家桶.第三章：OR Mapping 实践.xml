@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第三章：OR Mapping 实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第三章：OR Mapping 实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第三章：OR Mapping 实践. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第三章：OR Mapping 实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1TdJ1iOp69QaKv469t_d0fxfYT2vCyUn5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TdJ1iOp69QaKv469t_d0fxfYT2vCyUn5</guid>
+			
+
+			<title><![CDATA[ 23讲SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23讲SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23讲SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23讲SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TdJ1iOp69QaKv469t_d0fxfYT2vCyUn5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ta9FOGRGYjkye8BBU6nHjtBFZcmBE76F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ta9FOGRGYjkye8BBU6nHjtBFZcmBE76F</guid>
+			
+
+			<title><![CDATA[ 22讲让MyBatis更好用的那些工具-MyBatisPageHelper.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22讲让MyBatis更好用的那些工具-MyBatisPageHelper.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22讲让MyBatis更好用的那些工具-MyBatisPageHelper.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22讲让MyBatis更好用的那些工具-MyBatisPageHelper.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ta9FOGRGYjkye8BBU6nHjtBFZcmBE76F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TJMAHOS0htN4YM5z8PUXzzIBdvH4CUXb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TJMAHOS0htN4YM5z8PUXzzIBdvH4CUXb</guid>
+			
+
+			<title><![CDATA[ 21讲让MyBatis更好用的那些工具-MyBatisGenerator.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21讲让MyBatis更好用的那些工具-MyBatisGenerator.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21讲让MyBatis更好用的那些工具-MyBatisGenerator.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21讲让MyBatis更好用的那些工具-MyBatisGenerator.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TJMAHOS0htN4YM5z8PUXzzIBdvH4CUXb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1THG3RH3uKY9a86f-KBCV1YpkB-RdY-fm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1THG3RH3uKY9a86f-KBCV1YpkB-RdY-fm</guid>
+			
+
+			<title><![CDATA[ 20讲通过MyBatis操作数据库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20讲通过MyBatis操作数据库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20讲通过MyBatis操作数据库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20讲通过MyBatis操作数据库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1THG3RH3uKY9a86f-KBCV1YpkB-RdY-fm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TCizMgXessKR0S_QKg_S0qkmfxflJpIa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TCizMgXessKR0S_QKg_S0qkmfxflJpIa</guid>
+			
+
+			<title><![CDATA[ 19讲SpringDataJPA的Repository是怎么从接口变成Bean的.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19讲SpringDataJPA的Repository是怎么从接口变成Bean的.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19讲SpringDataJPA的Repository是怎么从接口变成Bean的.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19讲SpringDataJPA的Repository是怎么从接口变成Bean的.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TCizMgXessKR0S_QKg_S0qkmfxflJpIa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TAXIKe90P2XRYiD-lWK-RLc5tlNxXidU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TAXIKe90P2XRYiD-lWK-RLc5tlNxXidU</guid>
+			
+
+			<title><![CDATA[ 18讲通过SpringDataJPA操作数据库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18讲通过SpringDataJPA操作数据库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18讲通过SpringDataJPA操作数据库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18讲通过SpringDataJPA操作数据库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TAXIKe90P2XRYiD-lWK-RLc5tlNxXidU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T6OYELTEkFeX2FpRjcYIXR42OjYCXjCJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T6OYELTEkFeX2FpRjcYIXR42OjYCXjCJ</guid>
+			
+
+			<title><![CDATA[ 17讲开始我们的线上咖啡馆实战项目-SpringBucks.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17讲开始我们的线上咖啡馆实战项目-SpringBucks.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17讲开始我们的线上咖啡馆实战项目-SpringBucks.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17讲开始我们的线上咖啡馆实战项目-SpringBucks.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T6OYELTEkFeX2FpRjcYIXR42OjYCXjCJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T513EMWa_82SkJ3FDA92rh5jrZHCzPzc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T513EMWa_82SkJ3FDA92rh5jrZHCzPzc</guid>
+			
+
+			<title><![CDATA[ 16讲定义JPA的实体对象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16讲定义JPA的实体对象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16讲定义JPA的实体对象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16讲定义JPA的实体对象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T513EMWa_82SkJ3FDA92rh5jrZHCzPzc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T-z61p3GToy4UOHnCk3ccUr-KQcV_UWC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T-z61p3GToy4UOHnCk3ccUr-KQcV_UWC</guid>
+			
+
+			<title><![CDATA[ 15讲认识SpringDataJPA.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15讲认识SpringDataJPA.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15讲认识SpringDataJPA.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15讲认识SpringDataJPA.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T-z61p3GToy4UOHnCk3ccUr-KQcV_UWC"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

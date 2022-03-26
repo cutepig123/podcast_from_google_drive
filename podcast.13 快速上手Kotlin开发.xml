@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .13 快速上手Kotlin开发 ]]></title>
+		<itunes:subtitle><![CDATA[ .13 快速上手Kotlin开发 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .13 快速上手Kotlin开发. ]]></itunes:summary>
+		<description><![CDATA[ .13 快速上手Kotlin开发 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1dQ7w1XBquAQYTUC6FwnX1dO7DTH08gmT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dQ7w1XBquAQYTUC6FwnX1dO7DTH08gmT</guid>
+			
+
+			<title><![CDATA[ 50. Android MVP 的 Kotlin 代码.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50. Android MVP 的 Kotlin 代码.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50. Android MVP 的 Kotlin 代码.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50. Android MVP 的 Kotlin 代码.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dQ7w1XBquAQYTUC6FwnX1dO7DTH08gmT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1dBUg_JpAl2VWAGvPv2b1v8MjKKf2mEYZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dBUg_JpAl2VWAGvPv2b1v8MjKKf2mEYZ</guid>
+			
+
+			<title><![CDATA[ 49. 如何用 Kotlin 实现 Android MVP.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49. 如何用 Kotlin 实现 Android MVP.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49. 如何用 Kotlin 实现 Android MVP.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49. 如何用 Kotlin 实现 Android MVP.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dBUg_JpAl2VWAGvPv2b1v8MjKKf2mEYZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1d3PCUAjZp53g0F9Gh2kzDQYciYXFWxlF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1d3PCUAjZp53g0F9Gh2kzDQYciYXFWxlF</guid>
+			
+
+			<title><![CDATA[ 48. 创建 Kotlin Native 基础库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48. 创建 Kotlin Native 基础库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48. 创建 Kotlin Native 基础库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48. 创建 Kotlin Native 基础库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1d3PCUAjZp53g0F9Gh2kzDQYciYXFWxlF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cyP4UcYAyM-giTNGK9hYdKSWm3AmzLZ6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cyP4UcYAyM-giTNGK9hYdKSWm3AmzLZ6</guid>
+			
+
+			<title><![CDATA[ 47. Kotlin Native 开发.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47. Kotlin Native 开发.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47. Kotlin Native 开发.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47. Kotlin Native 开发.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cyP4UcYAyM-giTNGK9hYdKSWm3AmzLZ6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cstRNnRrnu0XP8jPTKToOYUhiD8gOsZT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cstRNnRrnu0XP8jPTKToOYUhiD8gOsZT</guid>
+			
+
+			<title><![CDATA[ 46. Kotlin 开发 Web 前端.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46. Kotlin 开发 Web 前端.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46. Kotlin 开发 Web 前端.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46. Kotlin 开发 Web 前端.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cstRNnRrnu0XP8jPTKToOYUhiD8gOsZT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1crgEJOOFQTg6CMGLMDCzWuqBj6DFWPLM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1crgEJOOFQTg6CMGLMDCzWuqBj6DFWPLM</guid>
+			
+
+			<title><![CDATA[ 45. Spring Boot 创建 RESTful Web 服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45. Spring Boot 创建 RESTful Web 服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45. Spring Boot 创建 RESTful Web 服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45. Spring Boot 创建 RESTful Web 服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1crgEJOOFQTg6CMGLMDCzWuqBj6DFWPLM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cqKEkLliuJiGJNPqFchUJWsuN_MIUwX-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cqKEkLliuJiGJNPqFchUJWsuN_MIUwX-</guid>
+			
+
+			<title><![CDATA[ 44. Http Servlet 创建 Kotlin 版 Web 应用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44. Http Servlet 创建 Kotlin 版 Web 应用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44. Http Servlet 创建 Kotlin 版 Web 应用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44. Http Servlet 创建 Kotlin 版 Web 应用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cqKEkLliuJiGJNPqFchUJWsuN_MIUwX-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ckbdXfvik_Hw0LnHVBJXUJ3HB4W0CIo1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ckbdXfvik_Hw0LnHVBJXUJ3HB4W0CIo1</guid>
+			
+
+			<title><![CDATA[ 43. Kotlin 服务端开发框架.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43. Kotlin 服务端开发框架.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43. Kotlin 服务端开发框架.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43. Kotlin 服务端开发框架.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ckbdXfvik_Hw0LnHVBJXUJ3HB4W0CIo1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1chi7huAP5XzoIcROdoclcBsJtlipykf0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1chi7huAP5XzoIcROdoclcBsJtlipykf0</guid>
+			
+
+			<title><![CDATA[ 42. 滥用特性的后果：没人懂的代码.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42. 滥用特性的后果：没人懂的代码.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42. 滥用特性的后果：没人懂的代码.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42. 滥用特性的后果：没人懂的代码.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1chi7huAP5XzoIcROdoclcBsJtlipykf0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cX8sA86-5XvQNAT4rIj4_ZV49aUMvVaR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cX8sA86-5XvQNAT4rIj4_ZV49aUMvVaR</guid>
+			
+
+			<title><![CDATA[ 41. 用 Kotlin 改写现有工程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41. 用 Kotlin 改写现有工程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41. 用 Kotlin 改写现有工程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41. 用 Kotlin 改写现有工程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cX8sA86-5XvQNAT4rIj4_ZV49aUMvVaR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cUAAtKJNphgx6NNUxS2j-vyuI-q7p9EA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cUAAtKJNphgx6NNUxS2j-vyuI-q7p9EA</guid>
+			
+
+			<title><![CDATA[ 40. 在团队中使用 Kotlin.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40. 在团队中使用 Kotlin.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40. 在团队中使用 Kotlin.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40. 在团队中使用 Kotlin.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cUAAtKJNphgx6NNUxS2j-vyuI-q7p9EA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cKljZZyQEjmgvAWIefnQZhZgsY62kj0-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cKljZZyQEjmgvAWIefnQZhZgsY62kj0-</guid>
+			
+
+			<title><![CDATA[ 39. KTX 小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39. KTX 小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39. KTX 小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39. KTX 小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cKljZZyQEjmgvAWIefnQZhZgsY62kj0-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cBlLzo1JzaLsiwQ9eLFMCetmU93Qnhzf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cBlLzo1JzaLsiwQ9eLFMCetmU93Qnhzf</guid>
+			
+
+			<title><![CDATA[ 38. KTX 的实现.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38. KTX 的实现.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38. KTX 的实现.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38. KTX 的实现.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cBlLzo1JzaLsiwQ9eLFMCetmU93Qnhzf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1c6C4xGsVvUs8Mq_D1aVLL-ttcNhXtMQZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1c6C4xGsVvUs8Mq_D1aVLL-ttcNhXtMQZ</guid>
+			
+
+			<title><![CDATA[ 37. Google 推出 KTX 的目的.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37. Google 推出 KTX 的目的.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37. Google 推出 KTX 的目的.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37. Google 推出 KTX 的目的.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1c6C4xGsVvUs8Mq_D1aVLL-ttcNhXtMQZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bwNJPVxF5To6XUiFJbFL-IHQLQva0KMv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bwNJPVxF5To6XUiFJbFL-IHQLQva0KMv</guid>
+			
+
+			<title><![CDATA[ 36. Kotlinx-io 的对象缓存池.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36. Kotlinx-io 的对象缓存池.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36. Kotlinx-io 的对象缓存池.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36. Kotlinx-io 的对象缓存池.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bwNJPVxF5To6XUiFJbFL-IHQLQva0KMv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1brU3Us-l_a-f8SX6h3cWgOvXslFdCjbP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1brU3Us-l_a-f8SX6h3cWgOvXslFdCjbP</guid>
+			
+
+			<title><![CDATA[ 35. NIO 与 BIO.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35. NIO 与 BIO.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35. NIO 与 BIO.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35. NIO 与 BIO.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1brU3Us-l_a-f8SX6h3cWgOvXslFdCjbP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1boh6L5r3fQ814ormucoQgxAgYaLVXqUt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1boh6L5r3fQ814ormucoQgxAgYaLVXqUt</guid>
+			
+
+			<title><![CDATA[ 34. 小结  动手设计Channel版的EventBus.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34. 小结  动手设计Channel版的EventBus.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34. 小结  动手设计Channel版的EventBus.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34. 小结  动手设计Channel版的EventBus.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1boh6L5r3fQ814ormucoQgxAgYaLVXqUt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bnMG_TMtHhkdDy9P6kol1de-7uTFwT38</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bnMG_TMtHhkdDy9P6kol1de-7uTFwT38</guid>
+			
+
+			<title><![CDATA[ 33. 协程通信：Channel的使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33. 协程通信：Channel的使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33. 协程通信：Channel的使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33. 协程通信：Channel的使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bnMG_TMtHhkdDy9P6kol1de-7uTFwT38"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bi1ZZO_VFCc9naEqf0UXlI8vz0oADJZF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bi1ZZO_VFCc9naEqf0UXlI8vz0oADJZF</guid>
+			
+
+			<title><![CDATA[ 32. 动手设计Kotlin 协程的yield.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32. 动手设计Kotlin 协程的yield.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32. 动手设计Kotlin 协程的yield.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32. 动手设计Kotlin 协程的yield.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bi1ZZO_VFCc9naEqf0UXlI8vz0oADJZF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bdLcswdQEV6uLYq9fm4Dz6qfJo3P0FEe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bdLcswdQEV6uLYq9fm4Dz6qfJo3P0FEe</guid>
+			
+
+			<title><![CDATA[ 31. 协程的内部实现原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31. 协程的内部实现原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31. 协程的内部实现原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31. 协程的内部实现原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bdLcswdQEV6uLYq9fm4Dz6qfJo3P0FEe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bW-d5VePt-URz8RuahUi9DmqNHOPPHE-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bW-d5VePt-URz8RuahUi9DmqNHOPPHE-</guid>
+			
+
+			<title><![CDATA[ 30. suspend  知其然知其所以然.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30. suspend  知其然知其所以然.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30. suspend  知其然知其所以然.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30. suspend  知其然知其所以然.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bW-d5VePt-URz8RuahUi9DmqNHOPPHE-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bOjgwUjsiY2irLG-FGFItff4HwWRbRQv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bOjgwUjsiY2irLG-FGFItff4HwWRbRQv</guid>
+			
+
+			<title><![CDATA[ 29. 协程的语法糖.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29. 协程的语法糖.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29. 协程的语法糖.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29. 协程的语法糖.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bOjgwUjsiY2irLG-FGFItff4HwWRbRQv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bEFCRO3nIuFUEi_76vT9bHZDevKkcHF0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bEFCRO3nIuFUEi_76vT9bHZDevKkcHF0</guid>
+			
+
+			<title><![CDATA[ 28. 协程的启动参数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28. 协程的启动参数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28. 协程的启动参数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28. 协程的启动参数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bEFCRO3nIuFUEi_76vT9bHZDevKkcHF0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bA4SZotitpXIFGD1LjnhFLFnvijmIhc7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bA4SZotitpXIFGD1LjnhFLFnvijmIhc7</guid>
+			
+
+			<title><![CDATA[ 27. 在Kotlin 中使用协程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27. 在Kotlin 中使用协程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27. 在Kotlin 中使用协程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27. 在Kotlin 中使用协程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bA4SZotitpXIFGD1LjnhFLFnvijmIhc7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b4-DW0hFuLw2pKkuV69YNLmZvZTXIR9C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b4-DW0hFuLw2pKkuV69YNLmZvZTXIR9C</guid>
+			
+
+			<title><![CDATA[ 26. 协程  提升性能的利器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26. 协程  提升性能的利器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26. 协程  提升性能的利器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26. 协程  提升性能的利器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b4-DW0hFuLw2pKkuV69YNLmZvZTXIR9C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b1y_G0Xu1gkBMJtuH4R3yabxCoD-q3OW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b1y_G0Xu1gkBMJtuH4R3yabxCoD-q3OW</guid>
+			
+
+			<title><![CDATA[ 25. Kotlin 的真泛型与实现方式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25. Kotlin 的真泛型与实现方式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25. Kotlin 的真泛型与实现方式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25. Kotlin 的真泛型与实现方式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b1y_G0Xu1gkBMJtuH4R3yabxCoD-q3OW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b-TMJIpl1LSKpz1u8-sCA8DEZeKYXifS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b-TMJIpl1LSKpz1u8-sCA8DEZeKYXifS</guid>
+			
+
+			<title><![CDATA[ 24. Kotlin 内联  noinline与crossinline.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24. Kotlin 内联  noinline与crossinline.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24. Kotlin 内联  noinline与crossinline.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24. Kotlin 内联  noinline与crossinline.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b-TMJIpl1LSKpz1u8-sCA8DEZeKYXifS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aybgXpq-_qEzF0wMVAuCwIaeDy3OXm97</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aybgXpq-_qEzF0wMVAuCwIaeDy3OXm97</guid>
+			
+
+			<title><![CDATA[ 23. Kotlin 的空安全是如何实现的.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23. Kotlin 的空安全是如何实现的.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23. Kotlin 的空安全是如何实现的.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23. Kotlin 的空安全是如何实现的.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aybgXpq-_qEzF0wMVAuCwIaeDy3OXm97"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1asst8fXADmIRSMPUeKKsfJY-10uYez1K</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1asst8fXADmIRSMPUeKKsfJY-10uYez1K</guid>
+			
+
+			<title><![CDATA[ 22. 理解 Kotlin 中的常量与只读.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22. 理解 Kotlin 中的常量与只读.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22. 理解 Kotlin 中的常量与只读.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22. 理解 Kotlin 中的常量与只读.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1asst8fXADmIRSMPUeKKsfJY-10uYez1K"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1anRTIrrwiuQjQl6D_Zxjwc1jR65m53hr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1anRTIrrwiuQjQl6D_Zxjwc1jR65m53hr</guid>
+			
+
+			<title><![CDATA[ 21. 定义自己的 DSL.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21. 定义自己的 DSL.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21. 定义自己的 DSL.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21. 定义自己的 DSL.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1anRTIrrwiuQjQl6D_Zxjwc1jR65m53hr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1alo-bczY99T6dRJJ0V0coW06K6KPj1xt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1alo-bczY99T6dRJJ0V0coW06K6KPj1xt</guid>
+			
+
+			<title><![CDATA[ 20. 构建 DSL 的常用方式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20. 构建 DSL 的常用方式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20. 构建 DSL 的常用方式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20. 构建 DSL 的常用方式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1alo-bczY99T6dRJJ0V0coW06K6KPj1xt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aUisoGLpgxnBecpBPj-2hUnh1_hgjvy2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aUisoGLpgxnBecpBPj-2hUnh1_hgjvy2</guid>
+			
+
+			<title><![CDATA[ 19. DSL 是什么，原来早就用过了.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19. DSL 是什么，原来早就用过了.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19. DSL 是什么，原来早就用过了.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19. DSL 是什么，原来早就用过了.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aUisoGLpgxnBecpBPj-2hUnh1_hgjvy2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aNnltL5Z-7t-J3PZfOhN-oyUUyl4YWrT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aNnltL5Z-7t-J3PZfOhN-oyUUyl4YWrT</guid>
+			
+
+			<title><![CDATA[ 18. 神奇的符号  Kotlin 的反引号.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18. 神奇的符号  Kotlin 的反引号.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18. 神奇的符号  Kotlin 的反引号.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18. 神奇的符号  Kotlin 的反引号.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aNnltL5Z-7t-J3PZfOhN-oyUUyl4YWrT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1a43-x7ycEB3kA6xvOXeI1MhwkX6g6xn0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1a43-x7ycEB3kA6xvOXeI1MhwkX6g6xn0</guid>
+			
+
+			<title><![CDATA[ 17. 运算符与中缀  定义你的专有运算符.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17. 运算符与中缀  定义你的专有运算符.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17. 运算符与中缀  定义你的专有运算符.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17. 运算符与中缀  定义你的专有运算符.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1a43-x7ycEB3kA6xvOXeI1MhwkX6g6xn0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_kPr7fNaMRoRYF7wY0iZalnnx4vli6s-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_kPr7fNaMRoRYF7wY0iZalnnx4vli6s-</guid>
+			
+
+			<title><![CDATA[ 16. 作用域函数  你会爱上的自带函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16. 作用域函数  你会爱上的自带函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16. 作用域函数  你会爱上的自带函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16. 作用域函数  你会爱上的自带函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_kPr7fNaMRoRYF7wY0iZalnnx4vli6s-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_ZyV7RuY7qsKWFQXBwyWe1c-Krl3cGuN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_ZyV7RuY7qsKWFQXBwyWe1c-Krl3cGuN</guid>
+			
+
+			<title><![CDATA[ 15. Kotlin海量的集合操作符.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15. Kotlin海量的集合操作符.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15. Kotlin海量的集合操作符.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15. Kotlin海量的集合操作符.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_ZyV7RuY7qsKWFQXBwyWe1c-Krl3cGuN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_WNPAeWOsE55rc1s4n7PX4xnmKuP-s78</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_WNPAeWOsE55rc1s4n7PX4xnmKuP-s78</guid>
+			
+
+			<title><![CDATA[ 14. Kotlin 的循环语法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14. Kotlin 的循环语法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14. Kotlin 的循环语法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14. Kotlin 的循环语法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_WNPAeWOsE55rc1s4n7PX4xnmKuP-s78"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_KSiFXw3tPPx8xzBjppRouGrMZsiHpq4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_KSiFXw3tPPx8xzBjppRouGrMZsiHpq4</guid>
+			
+
+			<title><![CDATA[ 13. 解构  特殊的数据拆箱方式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13. 解构  特殊的数据拆箱方式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13. 解构  特殊的数据拆箱方式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13. 解构  特殊的数据拆箱方式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_KSiFXw3tPPx8xzBjppRouGrMZsiHpq4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_AQXmOrtmKaV4iGiIgu9w8d96U3i6Sa9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_AQXmOrtmKaV4iGiIgu9w8d96U3i6Sa9</guid>
+			
+
+			<title><![CDATA[ 12. Kotlin 独有的特殊类.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12. Kotlin 独有的特殊类.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12. Kotlin 独有的特殊类.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12. Kotlin 独有的特殊类.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_AQXmOrtmKaV4iGiIgu9w8d96U3i6Sa9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_35H6lhyt3LpmsDTRUOFuXbj2ZUuHM7H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_35H6lhyt3LpmsDTRUOFuXbj2ZUuHM7H</guid>
+			
+
+			<title><![CDATA[ 11. 没有反射的动态代理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11. 没有反射的动态代理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11. 没有反射的动态代理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11. 没有反射的动态代理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_35H6lhyt3LpmsDTRUOFuXbj2ZUuHM7H"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zz8tHX5yrE0O0KBaMjph7xD3RB8oPW1p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zz8tHX5yrE0O0KBaMjph7xD3RB8oPW1p</guid>
+			
+
+			<title><![CDATA[ 10. 伴生对象  Kotlin 特有的单例对象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10. 伴生对象  Kotlin 特有的单例对象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10. 伴生对象  Kotlin 特有的单例对象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10. 伴生对象  Kotlin 特有的单例对象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zz8tHX5yrE0O0KBaMjph7xD3RB8oPW1p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zw4ZWhMJ_dXjV0GZ012WZBZ1D--53S7c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zw4ZWhMJ_dXjV0GZ012WZBZ1D--53S7c</guid>
+			
+
+			<title><![CDATA[ 09. 创建对象的关键  Kotlin的构造函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09. 创建对象的关键  Kotlin的构造函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09. 创建对象的关键  Kotlin的构造函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09. 创建对象的关键  Kotlin的构造函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zw4ZWhMJ_dXjV0GZ012WZBZ1D--53S7c"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zq3UqapqlfHTgcCjbEADghfydX-X5xRH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zq3UqapqlfHTgcCjbEADghfydX-X5xRH</guid>
+			
+
+			<title><![CDATA[ 08. 函数的参数是函数  高阶函数的注意事项.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08. 函数的参数是函数  高阶函数的注意事项.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08. 函数的参数是函数  高阶函数的注意事项.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08. 函数的参数是函数  高阶函数的注意事项.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zq3UqapqlfHTgcCjbEADghfydX-X5xRH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZiZssYt63C5hRrOhYhhgho6Pq-mDrC2w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZiZssYt63C5hRrOhYhhgho6Pq-mDrC2w</guid>
+			
+
+			<title><![CDATA[ 07. DSL的基础  Lambda闭包的语法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07. DSL的基础  Lambda闭包的语法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07. DSL的基础  Lambda闭包的语法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07. DSL的基础  Lambda闭包的语法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZiZssYt63C5hRrOhYhhgho6Pq-mDrC2w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZhDWjX0y4dpb2MKqMwe1S0L1D91huJ9y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZhDWjX0y4dpb2MKqMwe1S0L1D91huJ9y</guid>
+			
+
+			<title><![CDATA[ 06. 用扩展函数简化代码调用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06. 用扩展函数简化代码调用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06. 用扩展函数简化代码调用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06. 用扩展函数简化代码调用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZhDWjX0y4dpb2MKqMwe1S0L1D91huJ9y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZaA9vnqjknloJlxsoeyE5GbZaCDLvwzp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZaA9vnqjknloJlxsoeyE5GbZaCDLvwzp</guid>
+			
+
+			<title><![CDATA[ 05. 函数也能嵌套？这个特性要注意.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05. 函数也能嵌套？这个特性要注意.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05. 函数也能嵌套？这个特性要注意.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05. 函数也能嵌套？这个特性要注意.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZaA9vnqjknloJlxsoeyE5GbZaCDLvwzp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZV4_3PGbMY3dnEOxAj0WScojQd2tpEP4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZV4_3PGbMY3dnEOxAj0WScojQd2tpEP4</guid>
+			
+
+			<title><![CDATA[ 04. 新手使用 Kotlin 常碰到的问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04. 新手使用 Kotlin 常碰到的问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04. 新手使用 Kotlin 常碰到的问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04. 新手使用 Kotlin 常碰到的问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZV4_3PGbMY3dnEOxAj0WScojQd2tpEP4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZK4AbsKttotDJZ2a_m_CmS5MBbM1vY8s</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZK4AbsKttotDJZ2a_m_CmS5MBbM1vY8s</guid>
+			
+
+			<title><![CDATA[ 03. Kotlin 与 Java 完全兼容，就可以随便调用了吗？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03. Kotlin 与 Java 完全兼容，就可以随便调用了吗？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03. Kotlin 与 Java 完全兼容，就可以随便调用了吗？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03. Kotlin 与 Java 完全兼容，就可以随便调用了吗？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZK4AbsKttotDJZ2a_m_CmS5MBbM1vY8s"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Z79R-Xv4EeYUtcryeXfbvqpLmKzdy9h7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Z79R-Xv4EeYUtcryeXfbvqpLmKzdy9h7</guid>
+			
+
+			<title><![CDATA[ 02. Kotlin 最基础语法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02. Kotlin 最基础语法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02. Kotlin 最基础语法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02. Kotlin 最基础语法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Z79R-Xv4EeYUtcryeXfbvqpLmKzdy9h7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YylXSPAAsptrPaR5T3ssDQZ4YvSVUJLd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YylXSPAAsptrPaR5T3ssDQZ4YvSVUJLd</guid>
+			
+
+			<title><![CDATA[ 01. 讲给你的 Kotlin 快速上手课程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01. 讲给你的 Kotlin 快速上手课程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01. 讲给你的 Kotlin 快速上手课程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01. 讲给你的 Kotlin 快速上手课程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YylXSPAAsptrPaR5T3ssDQZ4YvSVUJLd"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

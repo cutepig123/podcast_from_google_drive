@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第二模块 ：微服务配置中心Apollo架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第二模块 ：微服务配置中心Apollo架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第二模块 ：微服务配置中心Apollo架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第二模块 ：微服务配置中心Apollo架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1qKcXiM1y-iST2obvLPM98UvDtqdKOXAL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qKcXiM1y-iST2obvLPM98UvDtqdKOXAL</guid>
+			
+
+			<title><![CDATA[ 48.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qKcXiM1y-iST2obvLPM98UvDtqdKOXAL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qJA-18H70iGYSBOgk-qixttptMxKXtV5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qJA-18H70iGYSBOgk-qixttptMxKXtV5</guid>
+			
+
+			<title><![CDATA[ 47.Apollo FAQ和开发常见问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47.Apollo FAQ和开发常见问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47.Apollo FAQ和开发常见问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47.Apollo FAQ和开发常见问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qJA-18H70iGYSBOgk-qixttptMxKXtV5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qBdBzmPcNdhtEMHi5TT415b9RVh5qusH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qBdBzmPcNdhtEMHi5TT415b9RVh5qusH</guid>
+			
+
+			<title><![CDATA[ 46.Apollo vs Spring Cloud Config.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46.Apollo vs Spring Cloud Config.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46.Apollo vs Spring Cloud Config.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46.Apollo vs Spring Cloud Config.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qBdBzmPcNdhtEMHi5TT415b9RVh5qusH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pwoKKHJxbfRkSKLmjJoh2o00XztYSSQ-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pwoKKHJxbfRkSKLmjJoh2o00XztYSSQ-</guid>
+			
+
+			<title><![CDATA[ 45.Spring Cloud Config简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45.Spring Cloud Config简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45.Spring Cloud Config简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45.Spring Cloud Config简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pwoKKHJxbfRkSKLmjJoh2o00XztYSSQ-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pha4fmwPJZo1cYh6mgWLJsvg9_M2-sK-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pha4fmwPJZo1cYh6mgWLJsvg9_M2-sK-</guid>
+			
+
+			<title><![CDATA[ 44.Apollo开放平台接入实操(Lab06).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44.Apollo开放平台接入实操(Lab06).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44.Apollo开放平台接入实操(Lab06).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44.Apollo开放平台接入实操(Lab06).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pha4fmwPJZo1cYh6mgWLJsvg9_M2-sK-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pYixiZJHBy0CX33rQ34iEodCL_BzmHvK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pYixiZJHBy0CX33rQ34iEodCL_BzmHvK</guid>
+			
+
+			<title><![CDATA[ 43.Apollo Client和Spring Boot集成(Lab05).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43.Apollo Client和Spring Boot集成(Lab05).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43.Apollo Client和Spring Boot集成(Lab05).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43.Apollo Client和Spring Boot集成(Lab05).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pYixiZJHBy0CX33rQ34iEodCL_BzmHvK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pO-vbOpblJG3x3JGGhivlcmBdsdPmU4x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pO-vbOpblJG3x3JGGhivlcmBdsdPmU4x</guid>
+			
+
+			<title><![CDATA[ 42.Apollo Client和Spring集成~代码方式(Lab04).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42.Apollo Client和Spring集成~代码方式(Lab04).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42.Apollo Client和Spring集成~代码方式(Lab04).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42.Apollo Client和Spring集成~代码方式(Lab04).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pO-vbOpblJG3x3JGGhivlcmBdsdPmU4x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pKM2jG_LLoUjC1znXTr-sriUCQxtOGvz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pKM2jG_LLoUjC1znXTr-sriUCQxtOGvz</guid>
+			
+
+			<title><![CDATA[ 41.Apollo Client和Spring集成~XML方式(Lab03).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41.Apollo Client和Spring集成~XML方式(Lab03).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41.Apollo Client和Spring集成~XML方式(Lab03).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41.Apollo Client和Spring集成~XML方式(Lab03).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pKM2jG_LLoUjC1znXTr-sriUCQxtOGvz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pG4BQXRQQhBytvY6F4P2MRVqSUqOhKcZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pG4BQXRQQhBytvY6F4P2MRVqSUqOhKcZ</guid>
+			
+
+			<title><![CDATA[ 40.Apollo Client API实操(Lab02).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40.Apollo Client API实操(Lab02).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40.Apollo Client API实操(Lab02).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40.Apollo Client API实操(Lab02).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pG4BQXRQQhBytvY6F4P2MRVqSUqOhKcZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ou0QBAj8AFPMLQOfu89-yeMsimckb90n</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ou0QBAj8AFPMLQOfu89-yeMsimckb90n</guid>
+			
+
+			<title><![CDATA[ 39.Apollo Java客户端和多语言接入.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39.Apollo Java客户端和多语言接入.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39.Apollo Java客户端和多语言接入.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39.Apollo Java客户端和多语言接入.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ou0QBAj8AFPMLQOfu89-yeMsimckb90n"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1orqpKyc9adgrO8Dly3EeXyOMNVc8H9pq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1orqpKyc9adgrO8Dly3EeXyOMNVc8H9pq</guid>
+			
+
+			<title><![CDATA[ 38.Apollo分布式部署指南.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38.Apollo分布式部署指南.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38.Apollo分布式部署指南.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38.Apollo分布式部署指南.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1orqpKyc9adgrO8Dly3EeXyOMNVc8H9pq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oocHhhLkGf3DJQYa67hohIJ4WhVoUEtX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oocHhhLkGf3DJQYa67hohIJ4WhVoUEtX</guid>
+			
+
+			<title><![CDATA[ 37.Apollo架构设计之高可用和监控.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37.Apollo架构设计之高可用和监控.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37.Apollo架构设计之高可用和监控.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37.Apollo架构设计之高可用和监控.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oocHhhLkGf3DJQYa67hohIJ4WhVoUEtX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ol3OnN9Pamgi59EjKduoAHftNUkUHbTk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ol3OnN9Pamgi59EjKduoAHftNUkUHbTk</guid>
+			
+
+			<title><![CDATA[ 36.Apollo架构设计之客户端.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36.Apollo架构设计之客户端.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36.Apollo架构设计之客户端.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36.Apollo架构设计之客户端.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ol3OnN9Pamgi59EjKduoAHftNUkUHbTk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ocSGlzNvlejQQsilshl4qMTxPFGNASY4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ocSGlzNvlejQQsilshl4qMTxPFGNASY4</guid>
+			
+
+			<title><![CDATA[ 35.Apollo架构设计之服务器端.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35.Apollo架构设计之服务器端.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35.Apollo架构设计之服务器端.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35.Apollo架构设计之服务器端.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ocSGlzNvlejQQsilshl4qMTxPFGNASY4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oZoagyJH_ptCPTNuMn6ES5W0uJLkom7A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oZoagyJH_ptCPTNuMn6ES5W0uJLkom7A</guid>
+			
+
+			<title><![CDATA[ 34.Apollo快速起步扩展实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34.Apollo快速起步扩展实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34.Apollo快速起步扩展实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34.Apollo快速起步扩展实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oZoagyJH_ptCPTNuMn6ES5W0uJLkom7A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oWPB3i_3NQvJra-zBW7sfjeevC6AOFlG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oWPB3i_3NQvJra-zBW7sfjeevC6AOFlG</guid>
+			
+
+			<title><![CDATA[ 33.Apollo快速起步(Lab01).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33.Apollo快速起步(Lab01).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33.Apollo快速起步(Lab01).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33.Apollo快速起步(Lab01).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oWPB3i_3NQvJra-zBW7sfjeevC6AOFlG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oTCwAic50Do9pE3nBELPpdzB3coI_OL-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oTCwAic50Do9pE3nBELPpdzB3coI_OL-</guid>
+			
+
+			<title><![CDATA[ 32.Apollo核心概念.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32.Apollo核心概念.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32.Apollo核心概念.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32.Apollo核心概念.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oTCwAic50Do9pE3nBELPpdzB3coI_OL-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oM9iZ87Ud6xWXMsPH6kjWMp5_H0HTJKv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oM9iZ87Ud6xWXMsPH6kjWMp5_H0HTJKv</guid>
+			
+
+			<title><![CDATA[ 31.携程 Apollo 配置中心介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31.携程 Apollo 配置中心介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31.携程 Apollo 配置中心介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31.携程 Apollo 配置中心介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oM9iZ87Ud6xWXMsPH6kjWMp5_H0HTJKv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oJR_ky4RHOQ7c2GVqc1Qh0QNkCsIyZim</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oJR_ky4RHOQ7c2GVqc1Qh0QNkCsIyZim</guid>
+			
+
+			<title><![CDATA[ 30.开关驱动开发原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30.开关驱动开发原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30.开关驱动开发原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30.开关驱动开发原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oJR_ky4RHOQ7c2GVqc1Qh0QNkCsIyZim"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oHvEWEQ5C8R5JX8QY0x44TTAHlROsboc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oHvEWEQ5C8R5JX8QY0x44TTAHlROsboc</guid>
+			
+
+			<title><![CDATA[ 29.配置定义和场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29.配置定义和场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29.配置定义和场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29.配置定义和场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oHvEWEQ5C8R5JX8QY0x44TTAHlROsboc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1o7cRB3Lp9WQ8xfWFUp8Ui84qH7ziq-w1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1o7cRB3Lp9WQ8xfWFUp8Ui84qH7ziq-w1</guid>
+			
+
+			<title><![CDATA[ 28.业务需求.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28.业务需求.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28.业务需求.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28.业务需求.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1o7cRB3Lp9WQ8xfWFUp8Ui84qH7ziq-w1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1o2BEiCqi7HalDMtp2LbsYzCTJj-B_EJm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1o2BEiCqi7HalDMtp2LbsYzCTJj-B_EJm</guid>
+			
+
+			<title><![CDATA[ 27.课程概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27.课程概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27.课程概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27.课程概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1o2BEiCqi7HalDMtp2LbsYzCTJj-B_EJm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nqY-KTVEyNux4alRQsuUq0Vb8KckgEaR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nqY-KTVEyNux4alRQsuUq0Vb8KckgEaR</guid>
+			
+
+			<title><![CDATA[ 26.第二模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26.第二模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26.第二模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26.第二模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nqY-KTVEyNux4alRQsuUq0Vb8KckgEaR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nenexUghqvziJvuzQ_iXrVUNGOgFPKHT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nenexUghqvziJvuzQ_iXrVUNGOgFPKHT</guid>
+			
+
+			<title><![CDATA[ 25.Apollo作者的产品介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25.Apollo作者的产品介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25.Apollo作者的产品介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25.Apollo作者的产品介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nenexUghqvziJvuzQ_iXrVUNGOgFPKHT"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

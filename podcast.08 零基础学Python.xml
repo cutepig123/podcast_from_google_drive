@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .08 零基础学Python ]]></title>
+		<itunes:subtitle><![CDATA[ .08 零基础学Python ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .08 零基础学Python. ]]></itunes:summary>
+		<description><![CDATA[ .08 零基础学Python ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1MWCOhfOGwRuYTKOAyfCrO6hHV-9xoZ8-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MWCOhfOGwRuYTKOAyfCrO6hHV-9xoZ8-</guid>
+			
+
+			<title><![CDATA[ 71_如何分析源代码并设计合理的代码结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 71_如何分析源代码并设计合理的代码结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 71_如何分析源代码并设计合理的代码结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 71_如何分析源代码并设计合理的代码结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MWCOhfOGwRuYTKOAyfCrO6hHV-9xoZ8-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MGhrmZYarMd5KG27gDytx5bN4psgk8u4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MGhrmZYarMd5KG27gDytx5bN4psgk8u4</guid>
+			
+
+			<title><![CDATA[ 70_使用爬虫爬取图片链接并下载图片.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 70_使用爬虫爬取图片链接并下载图片.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 70_使用爬虫爬取图片链接并下载图片.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 70_使用爬虫爬取图片链接并下载图片.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MGhrmZYarMd5KG27gDytx5bN4psgk8u4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MFdUeevZYloFFLOjJ6--P9UetD5-Y5Zs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MFdUeevZYloFFLOjJ6--P9UetD5-Y5Zs</guid>
+			
+
+			<title><![CDATA[ 69_使用爬虫爬取新闻网站.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 69_使用爬虫爬取新闻网站.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 69_使用爬虫爬取新闻网站.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 69_使用爬虫爬取新闻网站.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MFdUeevZYloFFLOjJ6--P9UetD5-Y5Zs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M0zCjW5VsSrT0UYwlZ4W53gfyit-PhAg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M0zCjW5VsSrT0UYwlZ4W53gfyit-PhAg</guid>
+			
+
+			<title><![CDATA[ 68_BeautifulSoup的安装和使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 68_BeautifulSoup的安装和使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 68_BeautifulSoup的安装和使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 68_BeautifulSoup的安装和使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M0zCjW5VsSrT0UYwlZ4W53gfyit-PhAg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Lu8182Zl_x9ZfQCdllzC9hcPAt7nc0uW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Lu8182Zl_x9ZfQCdllzC9hcPAt7nc0uW</guid>
+			
+
+			<title><![CDATA[ 67_结合正则表达式爬取图片链接.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 67_结合正则表达式爬取图片链接.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 67_结合正则表达式爬取图片链接.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 67_结合正则表达式爬取图片链接.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Lu8182Zl_x9ZfQCdllzC9hcPAt7nc0uW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LtP-NwuHSvvj5N9DRtLpvJDPuxd52mrO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LtP-NwuHSvvj5N9DRtLpvJDPuxd52mrO</guid>
+			
+
+			<title><![CDATA[ 66_requests库的基本使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 66_requests库的基本使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 66_requests库的基本使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 66_requests库的基本使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LtP-NwuHSvvj5N9DRtLpvJDPuxd52mrO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LhHDYqmn0sth7V8Ah1jVTG20Webk04YZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LhHDYqmn0sth7V8Ah1jVTG20Webk04YZ</guid>
+			
+
+			<title><![CDATA[ 65_http头部信息的模拟.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 65_http头部信息的模拟.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 65_http头部信息的模拟.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 65_http头部信息的模拟.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LhHDYqmn0sth7V8Ah1jVTG20Webk04YZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LcT4T2gBa3PSmWDGGu8lqwDfw1XXORou</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LcT4T2gBa3PSmWDGGu8lqwDfw1XXORou</guid>
+			
+
+			<title><![CDATA[ 64_网页常见的两种请求方式get和post.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 64_网页常见的两种请求方式get和post.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 64_网页常见的两种请求方式get和post.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 64_网页常见的两种请求方式get和post.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LcT4T2gBa3PSmWDGGu8lqwDfw1XXORou"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LGV59mpFcMuZ7VfO4WkvOte8VnvT6t5G</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LGV59mpFcMuZ7VfO4WkvOte8VnvT6t5G</guid>
+			
+
+			<title><![CDATA[ 63_网页数据的采集与urllib库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 63_网页数据的采集与urllib库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 63_网页数据的采集与urllib库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 63_网页数据的采集与urllib库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LGV59mpFcMuZ7VfO4WkvOte8VnvT6t5G"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LBE29yoFPGRoWbeJP8K_-GxrpipoYnO5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LBE29yoFPGRoWbeJP8K_-GxrpipoYnO5</guid>
+			
+
+			<title><![CDATA[ 62_根据特征值分类的模型和代码.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62_根据特征值分类的模型和代码.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62_根据特征值分类的模型和代码.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62_根据特征值分类的模型和代码.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LBE29yoFPGRoWbeJP8K_-GxrpipoYnO5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L7qYMJS3_iwZSMHdMmodg37UU4Txoqn4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L7qYMJS3_iwZSMHdMmodg37UU4Txoqn4</guid>
+			
+
+			<title><![CDATA[ 61_Tensorflow的安装.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61_Tensorflow的安装.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61_Tensorflow的安装.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61_Tensorflow的安装.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L7qYMJS3_iwZSMHdMmodg37UU4Txoqn4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L36RMDZ0ESb47z0dze6Kx4wN9GfJlpEk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L36RMDZ0ESb47z0dze6Kx4wN9GfJlpEk</guid>
+			
+
+			<title><![CDATA[ 60_机器学习分类的原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60_机器学习分类的原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60_机器学习分类的原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60_机器学习分类的原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L36RMDZ0ESb47z0dze6Kx4wN9GfJlpEk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KyA24fye3418A4gDdfPKYkZeSRY5CheF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KyA24fye3418A4gDdfPKYkZeSRY5CheF</guid>
+			
+
+			<title><![CDATA[ 59_Matplotlib的安装与绘图.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59_Matplotlib的安装与绘图.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59_Matplotlib的安装与绘图.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59_Matplotlib的安装与绘图.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KyA24fye3418A4gDdfPKYkZeSRY5CheF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KqpB6ywwFqcgSO7FtBwLMVNW_WWKTn9v</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KqpB6ywwFqcgSO7FtBwLMVNW_WWKTn9v</guid>
+			
+
+			<title><![CDATA[ 58_层次化索引.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58_层次化索引.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58_层次化索引.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58_层次化索引.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KqpB6ywwFqcgSO7FtBwLMVNW_WWKTn9v"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KgIntpmd-moUsFTcX4R85lFcKZBYC_Q_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KgIntpmd-moUsFTcX4R85lFcKZBYC_Q_</guid>
+			
+
+			<title><![CDATA[ 57_Dataframe的基本操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57_Dataframe的基本操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57_Dataframe的基本操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57_Dataframe的基本操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KgIntpmd-moUsFTcX4R85lFcKZBYC_Q_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Kbzy8mUGBcgoBphi7Q19VP7JuX8s1Yin</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Kbzy8mUGBcgoBphi7Q19VP7JuX8s1Yin</guid>
+			
+
+			<title><![CDATA[ 56_Series的基本操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56_Series的基本操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56_Series的基本操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56_Series的基本操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Kbzy8mUGBcgoBphi7Q19VP7JuX8s1Yin"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KUa6CpsaUvqzxRxgRKY-KSbtiU2vnitJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KUa6CpsaUvqzxRxgRKY-KSbtiU2vnitJ</guid>
+			
+
+			<title><![CDATA[ 55_Pandas安装与Series结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55_Pandas安装与Series结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55_Pandas安装与Series结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55_Pandas安装与Series结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KUa6CpsaUvqzxRxgRKY-KSbtiU2vnitJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1KJUPao5pet6UVGsd_Pse38v1zCIvN9jv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1KJUPao5pet6UVGsd_Pse38v1zCIvN9jv</guid>
+			
+
+			<title><![CDATA[ 54_NumPy数组的索引和切片.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54_NumPy数组的索引和切片.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54_NumPy数组的索引和切片.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54_NumPy数组的索引和切片.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1KJUPao5pet6UVGsd_Pse38v1zCIvN9jv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1K7uChXVWpK20BIkxeZW9vxD4M-JPiUVw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1K7uChXVWpK20BIkxeZW9vxD4M-JPiUVw</guid>
+			
+
+			<title><![CDATA[ 53_NumPy数组和标量的计算.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53_NumPy数组和标量的计算.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53_NumPy数组和标量的计算.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53_NumPy数组和标量的计算.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1K7uChXVWpK20BIkxeZW9vxD4M-JPiUVw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1K5DZZecB54S0sYoduUYgVugDY2HC-JP7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1K5DZZecB54S0sYoduUYgVugDY2HC-JP7</guid>
+			
+
+			<title><![CDATA[ 52_NumPy的数组与数据类型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52_NumPy的数组与数据类型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52_NumPy的数组与数据类型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52_NumPy的数组与数据类型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1K5DZZecB54S0sYoduUYgVugDY2HC-JP7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1JzJUbFG2SrHyvLfTbqrp-azQUTQoUPkz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JzJUbFG2SrHyvLfTbqrp-azQUTQoUPkz</guid>
+			
+
+			<title><![CDATA[ 51_机器学习的一般流程与NumPy安装.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51_机器学习的一般流程与NumPy安装.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51_机器学习的一般流程与NumPy安装.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51_机器学习的一般流程与NumPy安装.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JzJUbFG2SrHyvLfTbqrp-azQUTQoUPkz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Jpd21Pl0s9l6fh9c9tZyGU7W4oZLCySW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Jpd21Pl0s9l6fh9c9tZyGU7W4oZLCySW</guid>
+			
+
+			<title><![CDATA[ 50_文件夹操作库os.path.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50_文件夹操作库os.path.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50_文件夹操作库os.path.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50_文件夹操作库os.path.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Jpd21Pl0s9l6fh9c9tZyGU7W4oZLCySW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1JdOV-zhaihQgugo020vgHYyzAOvRhmDL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JdOV-zhaihQgugo020vgHYyzAOvRhmDL</guid>
+			
+
+			<title><![CDATA[ 49_使用命令行对文件和文件夹操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49_使用命令行对文件和文件夹操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49_使用命令行对文件和文件夹操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49_使用命令行对文件和文件夹操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JdOV-zhaihQgugo020vgHYyzAOvRhmDL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1JSmM0ibQpmeu1xyjRKdr_qk6uCslAiWG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JSmM0ibQpmeu1xyjRKdr_qk6uCslAiWG</guid>
+			
+
+			<title><![CDATA[ 48_数学相关库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48_数学相关库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48_数学相关库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48_数学相关库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JSmM0ibQpmeu1xyjRKdr_qk6uCslAiWG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J4ZstX2Mx6SJHJ4t-HUr6NqlCVxgEaAK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J4ZstX2Mx6SJHJ4t-HUr6NqlCVxgEaAK</guid>
+			
+
+			<title><![CDATA[ 47_日期与时间函数库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47_日期与时间函数库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47_日期与时间函数库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47_日期与时间函数库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J4ZstX2Mx6SJHJ4t-HUr6NqlCVxgEaAK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Iz-Vrv3X6c9YBBc2k2YB9_Z5fNoqL_-O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Iz-Vrv3X6c9YBBc2k2YB9_Z5fNoqL_-O</guid>
+			
+
+			<title><![CDATA[ 46_正则表达式库替换函数sub的实例.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46_正则表达式库替换函数sub的实例.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46_正则表达式库替换函数sub的实例.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46_正则表达式库替换函数sub的实例.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Iz-Vrv3X6c9YBBc2k2YB9_Z5fNoqL_-O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Iqw6mBnuF0cI5ehL_qL4ttHtj1hc7bEZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Iqw6mBnuF0cI5ehL_qL4ttHtj1hc7bEZ</guid>
+			
+
+			<title><![CDATA[ 45_正则表达式库函数match与search的区别.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45_正则表达式库函数match与search的区别.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45_正则表达式库函数match与search的区别.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45_正则表达式库函数match与search的区别.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Iqw6mBnuF0cI5ehL_qL4ttHtj1hc7bEZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Iq5Tb6UmXM6vL8Lbkgmdd0SmsPu0jYVf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Iq5Tb6UmXM6vL8Lbkgmdd0SmsPu0jYVf</guid>
+			
+
+			<title><![CDATA[ 44_正则表达式分组功能实例.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44_正则表达式分组功能实例.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44_正则表达式分组功能实例.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44_正则表达式分组功能实例.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Iq5Tb6UmXM6vL8Lbkgmdd0SmsPu0jYVf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IexYoqdeiL5YfNUcvrF91iL05B7f7ZNU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IexYoqdeiL5YfNUcvrF91iL05B7f7ZNU</guid>
+			
+
+			<title><![CDATA[ 43_正则表达式的元字符.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43_正则表达式的元字符.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43_正则表达式的元字符.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43_正则表达式的元字符.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IexYoqdeiL5YfNUcvrF91iL05B7f7ZNU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IbyMAqb8FmO0YbDvFX7ZCO60XUj_Xf_-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IbyMAqb8FmO0YbDvFX7ZCO60XUj_Xf_-</guid>
+			
+
+			<title><![CDATA[ 42_正则表达式库re.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42_正则表达式库re.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42_正则表达式库re.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42_正则表达式库re.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IbyMAqb8FmO0YbDvFX7ZCO60XUj_Xf_-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IYxjTtqQFM5M6fEhspLAtn1hwpIdgVOB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IYxjTtqQFM5M6fEhspLAtn1hwpIdgVOB</guid>
+			
+
+			<title><![CDATA[ 41_Python标准库的定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41_Python标准库的定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41_Python标准库的定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41_Python标准库的定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IYxjTtqQFM5M6fEhspLAtn1hwpIdgVOB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IYIo1M7VmTthOnWVBO5RTx0Yr7co-i6A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IYIo1M7VmTthOnWVBO5RTx0Yr7co-i6A</guid>
+			
+
+			<title><![CDATA[ 40_经典的生产者和消费者问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40_经典的生产者和消费者问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40_经典的生产者和消费者问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40_经典的生产者和消费者问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IYIo1M7VmTthOnWVBO5RTx0Yr7co-i6A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ISwhUXjBFShJnsDVOlfUXcSrUTCd5Us9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ISwhUXjBFShJnsDVOlfUXcSrUTCd5Us9</guid>
+			
+
+			<title><![CDATA[ 39_多线程编程的定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39_多线程编程的定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39_多线程编程的定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39_多线程编程的定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ISwhUXjBFShJnsDVOlfUXcSrUTCd5Us9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I6T6bhvg-rI7lb5Og_AL8cz7v5yf72iK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I6T6bhvg-rI7lb5Og_AL8cz7v5yf72iK</guid>
+			
+
+			<title><![CDATA[ 38_类的使用-自定义with语句.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38_类的使用-自定义with语句.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38_类的使用-自定义with语句.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38_类的使用-自定义with语句.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I6T6bhvg-rI7lb5Og_AL8cz7v5yf72iK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HoA64QVdVeoY4D5vKRwwJjHboVSn33Rw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HoA64QVdVeoY4D5vKRwwJjHboVSn33Rw</guid>
+			
+
+			<title><![CDATA[ 37_类的继承.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37_类的继承.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37_类的继承.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37_类的继承.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HoA64QVdVeoY4D5vKRwwJjHboVSn33Rw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HeXKynJDn9nLL6zVGMSh6cqEQ5TXb7P9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HeXKynJDn9nLL6zVGMSh6cqEQ5TXb7P9</guid>
+			
+
+			<title><![CDATA[ 36_如何增加类的属性和方法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36_如何增加类的属性和方法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36_如何增加类的属性和方法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36_如何增加类的属性和方法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HeXKynJDn9nLL6zVGMSh6cqEQ5TXb7P9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HW2zYl5H_4FP_orJwbFbexg1m8f8X75e</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HW2zYl5H_4FP_orJwbFbexg1m8f8X75e</guid>
+			
+
+			<title><![CDATA[ 35_类与实例.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35_类与实例.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35_类与实例.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35_类与实例.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HW2zYl5H_4FP_orJwbFbexg1m8f8X75e"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HIIgyUV3hSPUlS3AyfbwJSHJ7tYfYBVT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HIIgyUV3hSPUlS3AyfbwJSHJ7tYfYBVT</guid>
+			
+
+			<title><![CDATA[ 34_PEP8编码规范.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34_PEP8编码规范.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34_PEP8编码规范.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34_PEP8编码规范.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HIIgyUV3hSPUlS3AyfbwJSHJ7tYfYBVT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HGE4Ghf7fFiOe_9x4fX4HnRBHSuoDnSK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HGE4Ghf7fFiOe_9x4fX4HnRBHSuoDnSK</guid>
+			
+
+			<title><![CDATA[ 33_模块的定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33_模块的定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33_模块的定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33_模块的定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HGE4Ghf7fFiOe_9x4fX4HnRBHSuoDnSK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HFEpNdHJiD9vfo7HdjbeL71EdZgWpPKG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HFEpNdHJiD9vfo7HdjbeL71EdZgWpPKG</guid>
+			
+
+			<title><![CDATA[ 32_自定义上下文管理器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32_自定义上下文管理器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32_自定义上下文管理器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32_自定义上下文管理器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HFEpNdHJiD9vfo7HdjbeL71EdZgWpPKG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H7M4IBJidKmz8k9JsNy2xWCyjRlL-AJ9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H7M4IBJidKmz8k9JsNy2xWCyjRlL-AJ9</guid>
+			
+
+			<title><![CDATA[ 31_装饰器的使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31_装饰器的使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31_装饰器的使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31_装饰器的使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H7M4IBJidKmz8k9JsNy2xWCyjRlL-AJ9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gltg_xGFDGCuQ-dPxRLZolI4YpTaYdPj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gltg_xGFDGCuQ-dPxRLZolI4YpTaYdPj</guid>
+			
+
+			<title><![CDATA[ 30_装饰器的定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30_装饰器的定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30_装饰器的定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30_装饰器的定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gltg_xGFDGCuQ-dPxRLZolI4YpTaYdPj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gjjljg1o7r-cli6dCBWZHmtQJ-6i5UB5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gjjljg1o7r-cli6dCBWZHmtQJ-6i5UB5</guid>
+			
+
+			<title><![CDATA[ 29_闭包的使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29_闭包的使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29_闭包的使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29_闭包的使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gjjljg1o7r-cli6dCBWZHmtQJ-6i5UB5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ga8ftPEfU7GjZogybvj-qWf_txzt0alQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ga8ftPEfU7GjZogybvj-qWf_txzt0alQ</guid>
+			
+
+			<title><![CDATA[ 28_闭包的定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28_闭包的定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28_闭包的定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28_闭包的定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ga8ftPEfU7GjZogybvj-qWf_txzt0alQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GIp5JDGsZPrHE3taw5UXGBoEyPYxQsCE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GIp5JDGsZPrHE3taw5UXGBoEyPYxQsCE</guid>
+			
+
+			<title><![CDATA[ 27_Python内建函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27_Python内建函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27_Python内建函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27_Python内建函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GIp5JDGsZPrHE3taw5UXGBoEyPYxQsCE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GHUe7V3ti_On-qXCL5oPi9rdEMfhwrHi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GHUe7V3ti_On-qXCL5oPi9rdEMfhwrHi</guid>
+			
+
+			<title><![CDATA[ 26_lambda表达式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26_lambda表达式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26_lambda表达式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26_lambda表达式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GHUe7V3ti_On-qXCL5oPi9rdEMfhwrHi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G5KnwumPGijz3XHmF-SnzNa0Aq8sBdfh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G5KnwumPGijz3XHmF-SnzNa0Aq8sBdfh</guid>
+			
+
+			<title><![CDATA[ 25_函数的迭代器与生成器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25_函数的迭代器与生成器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25_函数的迭代器与生成器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25_函数的迭代器与生成器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G5KnwumPGijz3XHmF-SnzNa0Aq8sBdfh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Foqp21uq_Ew26H9Uj3uIkEtzwVoMApo6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Foqp21uq_Ew26H9Uj3uIkEtzwVoMApo6</guid>
+			
+
+			<title><![CDATA[ 24_函数的变量作用域.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24_函数的变量作用域.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24_函数的变量作用域.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24_函数的变量作用域.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Foqp21uq_Ew26H9Uj3uIkEtzwVoMApo6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FVdOd3h_NQ77GWN0zYdi94iUo9cw2lbN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FVdOd3h_NQ77GWN0zYdi94iUo9cw2lbN</guid>
+			
+
+			<title><![CDATA[ 23_函数的可变长参数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23_函数的可变长参数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23_函数的可变长参数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23_函数的可变长参数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FVdOd3h_NQ77GWN0zYdi94iUo9cw2lbN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FQojuA-BElA8s57xXp12k_VwZ5lCUNQk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FQojuA-BElA8s57xXp12k_VwZ5lCUNQk</guid>
+			
+
+			<title><![CDATA[ 22_函数的定义和常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22_函数的定义和常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22_函数的定义和常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22_函数的定义和常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FQojuA-BElA8s57xXp12k_VwZ5lCUNQk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FLmbqExvdzQ74BUknV8-rOCLbsUcc7tG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FLmbqExvdzQ74BUknV8-rOCLbsUcc7tG</guid>
+			
+
+			<title><![CDATA[ 21_异常的检测和处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21_异常的检测和处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21_异常的检测和处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21_异常的检测和处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FLmbqExvdzQ74BUknV8-rOCLbsUcc7tG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FJ6c3XTv2bqTIE3t-gbH3r5I2Qh1ZazN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FJ6c3XTv2bqTIE3t-gbH3r5I2Qh1ZazN</guid>
+			
+
+			<title><![CDATA[ 20_文件的常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20_文件的常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20_文件的常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20_文件的常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FJ6c3XTv2bqTIE3t-gbH3r5I2Qh1ZazN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FHHahLEzdlLwrCLR07pI8iPO3B3s4G3Z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FHHahLEzdlLwrCLR07pI8iPO3B3s4G3Z</guid>
+			
+
+			<title><![CDATA[ 19_文件的内建函数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19_文件的内建函数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19_文件的内建函数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19_文件的内建函数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FHHahLEzdlLwrCLR07pI8iPO3B3s4G3Z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1F98tGdvpXtHwuMmO_VUFwoDtpINVuJI7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1F98tGdvpXtHwuMmO_VUFwoDtpINVuJI7</guid>
+			
+
+			<title><![CDATA[ 18_列表推导式与字典推导式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18_列表推导式与字典推导式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18_列表推导式与字典推导式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18_列表推导式与字典推导式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1F98tGdvpXtHwuMmO_VUFwoDtpINVuJI7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ExxRXKV6l7CGAzTwfJ8FX10dDi2hYEiX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ExxRXKV6l7CGAzTwfJ8FX10dDi2hYEiX</guid>
+			
+
+			<title><![CDATA[ 17_字典的定义和常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17_字典的定义和常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17_字典的定义和常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17_字典的定义和常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ExxRXKV6l7CGAzTwfJ8FX10dDi2hYEiX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EbFB3V32Zi3CuesLYrGV3X5Wqrd7mOTC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EbFB3V32Zi3CuesLYrGV3X5Wqrd7mOTC</guid>
+			
+
+			<title><![CDATA[ 16_while循环语句中的if嵌套.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16_while循环语句中的if嵌套.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16_while循环语句中的if嵌套.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16_while循环语句中的if嵌套.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EbFB3V32Zi3CuesLYrGV3X5Wqrd7mOTC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EZhFi0kx0EQfbmmHe8wIXvB-FBjZCsDD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EZhFi0kx0EQfbmmHe8wIXvB-FBjZCsDD</guid>
+			
+
+			<title><![CDATA[ 15_for循环语句中的if嵌套.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15_for循环语句中的if嵌套.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15_for循环语句中的if嵌套.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15_for循环语句中的if嵌套.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EZhFi0kx0EQfbmmHe8wIXvB-FBjZCsDD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EVfba0-6xdwEpVKZJR9DGCsUkC0aPJh_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EVfba0-6xdwEpVKZJR9DGCsUkC0aPJh_</guid>
+			
+
+			<title><![CDATA[ 14_while循环.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14_while循环.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14_while循环.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14_while循环.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EVfba0-6xdwEpVKZJR9DGCsUkC0aPJh_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ERtMT5Oshp3UlFMAiDlg61AMLKZivzSv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ERtMT5Oshp3UlFMAiDlg61AMLKZivzSv</guid>
+			
+
+			<title><![CDATA[ 13_for循环.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13_for循环.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13_for循环.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13_for循环.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ERtMT5Oshp3UlFMAiDlg61AMLKZivzSv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EN2g0gz1O0CBkvwawd_wrEIleDedtpTN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EN2g0gz1O0CBkvwawd_wrEIleDedtpTN</guid>
+			
+
+			<title><![CDATA[ 12_条件语句.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12_条件语句.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12_条件语句.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12_条件语句.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EN2g0gz1O0CBkvwawd_wrEIleDedtpTN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EJzzHoMsrxNhbRH-psk2myBvhEHyM1gy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EJzzHoMsrxNhbRH-psk2myBvhEHyM1gy</guid>
+			
+
+			<title><![CDATA[ 11_列表的定义和常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11_列表的定义和常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11_列表的定义和常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11_列表的定义和常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EJzzHoMsrxNhbRH-psk2myBvhEHyM1gy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E1bsCbXnOeV-UkB7nopRswji2ctguwaM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E1bsCbXnOeV-UkB7nopRswji2ctguwaM</guid>
+			
+
+			<title><![CDATA[ 10_元组的定义和常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10_元组的定义和常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10_元组的定义和常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10_元组的定义和常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E1bsCbXnOeV-UkB7nopRswji2ctguwaM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dw7xA_SlvQXk-Usdp2NERSR7CUzowxgK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dw7xA_SlvQXk-Usdp2NERSR7CUzowxgK</guid>
+			
+
+			<title><![CDATA[ 09_字符串的常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09_字符串的常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09_字符串的常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09_字符串的常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dw7xA_SlvQXk-Usdp2NERSR7CUzowxgK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DbvTikWRfu6vvME_oiqhh11n-iXOaE6n</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DbvTikWRfu6vvME_oiqhh11n-iXOaE6n</guid>
+			
+
+			<title><![CDATA[ 08_字符串的定义和使用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08_字符串的定义和使用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08_字符串的定义和使用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08_字符串的定义和使用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DbvTikWRfu6vvME_oiqhh11n-iXOaE6n"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DRmw9dJgBR4H24TlLkNajfnrUy0RtO0s</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DRmw9dJgBR4H24TlLkNajfnrUy0RtO0s</guid>
+			
+
+			<title><![CDATA[ 07_序列的概念.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07_序列的概念.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07_序列的概念.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07_序列的概念.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DRmw9dJgBR4H24TlLkNajfnrUy0RtO0s"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DNU0xfvEHfPOrUy0G0AfHbZVgEu58AIF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DNU0xfvEHfPOrUy0G0AfHbZVgEu58AIF</guid>
+			
+
+			<title><![CDATA[ 06_变量的定义和常用操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06_变量的定义和常用操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06_变量的定义和常用操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06_变量的定义和常用操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DNU0xfvEHfPOrUy0G0AfHbZVgEu58AIF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1D0VFTDezCpO3TtehpbTzVI4QrAdsuYV5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1D0VFTDezCpO3TtehpbTzVI4QrAdsuYV5</guid>
+			
+
+			<title><![CDATA[ 05_基础数据类型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05_基础数据类型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05_基础数据类型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05_基础数据类型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1D0VFTDezCpO3TtehpbTzVI4QrAdsuYV5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CsPpeHjyYsgFGVOfGlTmraw3Spsir-CO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CsPpeHjyYsgFGVOfGlTmraw3Spsir-CO</guid>
+			
+
+			<title><![CDATA[ 04_Python程序的书写规则.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04_Python程序的书写规则.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04_Python程序的书写规则.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04_Python程序的书写规则.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CsPpeHjyYsgFGVOfGlTmraw3Spsir-CO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Cq_Wn9C0ehHTIvcluAn7OPqN9_xv5UvS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Cq_Wn9C0ehHTIvcluAn7OPqN9_xv5UvS</guid>
+			
+
+			<title><![CDATA[ 03_Python的安装.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03_Python的安装.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03_Python的安装.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03_Python的安装.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Cq_Wn9C0ehHTIvcluAn7OPqN9_xv5UvS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CjkqQ6tLD55hxeQhvb-48zBYrGdDBZ7I</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CjkqQ6tLD55hxeQhvb-48zBYrGdDBZ7I</guid>
+			
+
+			<title><![CDATA[ 02_Python的发展历史与版本.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02_Python的发展历史与版本.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02_Python的发展历史与版本.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02_Python的发展历史与版本.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CjkqQ6tLD55hxeQhvb-48zBYrGdDBZ7I"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CezScLoe2N4ndPkZqBHQGCY-WL4H7NGL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CezScLoe2N4ndPkZqBHQGCY-WL4H7NGL</guid>
+			
+
+			<title><![CDATA[ 01_Python语言的特点.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01_Python语言的特点.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01_Python语言的特点.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01_Python语言的特点.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CezScLoe2N4ndPkZqBHQGCY-WL4H7NGL"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

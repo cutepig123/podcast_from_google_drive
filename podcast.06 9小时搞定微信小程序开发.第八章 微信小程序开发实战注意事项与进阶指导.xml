@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .06 9小时搞定微信小程序开发.第八章 微信小程序开发实战注意事项与进阶指导 ]]></title>
+		<itunes:subtitle><![CDATA[ .06 9小时搞定微信小程序开发.第八章 微信小程序开发实战注意事项与进阶指导 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .06 9小时搞定微信小程序开发.第八章 微信小程序开发实战注意事项与进阶指导. ]]></itunes:summary>
+		<description><![CDATA[ .06 9小时搞定微信小程序开发.第八章 微信小程序开发实战注意事项与进阶指导 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1lymavaqN2kwQghnElO_8EJ6Ci8iyModt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lymavaqN2kwQghnElO_8EJ6Ci8iyModt</guid>
+			
+
+			<title><![CDATA[ 91.小程序之性能优化.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 91.小程序之性能优化.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 91.小程序之性能优化.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 91.小程序之性能优化.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lymavaqN2kwQghnElO_8EJ6Ci8iyModt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lqgt4AItjko-pZW1dM2Dxk8Yoit0lT7q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lqgt4AItjko-pZW1dM2Dxk8Yoit0lT7q</guid>
+			
+
+			<title><![CDATA[ 90.小程序之WePY框架介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 90.小程序之WePY框架介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 90.小程序之WePY框架介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 90.小程序之WePY框架介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lqgt4AItjko-pZW1dM2Dxk8Yoit0lT7q"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

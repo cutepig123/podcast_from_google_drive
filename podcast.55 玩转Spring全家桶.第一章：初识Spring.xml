@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第一章：初识Spring ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第一章：初识Spring ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第一章：初识Spring. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第一章：初识Spring ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1YCL2LRn6UmU9GFRCniZJSpBOyYiKkvMv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YCL2LRn6UmU9GFRCniZJSpBOyYiKkvMv</guid>
+			
+
+			<title><![CDATA[ 04讲编写你的第一个Spring程序.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04讲编写你的第一个Spring程序.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04讲编写你的第一个Spring程序.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04讲编写你的第一个Spring程序.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YCL2LRn6UmU9GFRCniZJSpBOyYiKkvMv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y7XkRn8cdrY98foA2xYLcjGAy5UP1jcB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y7XkRn8cdrY98foA2xYLcjGAy5UP1jcB</guid>
+			
+
+			<title><![CDATA[ 03讲跟着Spring了解技术趋势.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03讲跟着Spring了解技术趋势.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03讲跟着Spring了解技术趋势.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03讲跟着Spring了解技术趋势.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y7XkRn8cdrY98foA2xYLcjGAy5UP1jcB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y4mRJBzxb_RseWF5ySXBS-gaA1tjEJ-Z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y4mRJBzxb_RseWF5ySXBS-gaA1tjEJ-Z</guid>
+			
+
+			<title><![CDATA[ 02讲一起认识Spring家族的主要成员.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02讲一起认识Spring家族的主要成员.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02讲一起认识Spring家族的主要成员.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02讲一起认识Spring家族的主要成员.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y4mRJBzxb_RseWF5ySXBS-gaA1tjEJ-Z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XyaisdJk4XJxtkiHGWE2WeoSK0tAQveB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XyaisdJk4XJxtkiHGWE2WeoSK0tAQveB</guid>
+			
+
+			<title><![CDATA[ 01讲Spring课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01讲Spring课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01讲Spring课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01讲Spring课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XyaisdJk4XJxtkiHGWE2WeoSK0tAQveB"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

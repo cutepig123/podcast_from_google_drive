@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第七章：访问 Web 资源 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第七章：访问 Web 资源 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第七章：访问 Web 资源. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第七章：访问 Web 资源 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1SyJRUvhMtocvQ1TYrIF-TLfZb7sRWi-C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SyJRUvhMtocvQ1TYrIF-TLfZb7sRWi-C</guid>
+			
+
+			<title><![CDATA[ 57讲SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57讲SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57讲SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57讲SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SyJRUvhMtocvQ1TYrIF-TLfZb7sRWi-C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SvlhXHUbNDg9bkjaPGS4h-YdRwQV5bng</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SvlhXHUbNDg9bkjaPGS4h-YdRwQV5bng</guid>
+			
+
+			<title><![CDATA[ 56讲通过WebClient访问Web资源.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56讲通过WebClient访问Web资源.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56讲通过WebClient访问Web资源.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56讲通过WebClient访问Web资源.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SvlhXHUbNDg9bkjaPGS4h-YdRwQV5bng"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SqJ3eyHo9EDE9YLldUgRpffdPRBT2UMT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SqJ3eyHo9EDE9YLldUgRpffdPRBT2UMT</guid>
+			
+
+			<title><![CDATA[ 55讲简单定制RestTemplate.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55讲简单定制RestTemplate.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55讲简单定制RestTemplate.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55讲简单定制RestTemplate.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SqJ3eyHo9EDE9YLldUgRpffdPRBT2UMT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SnQYmLIsVONScppXxWGUFP1Sy-DZd47P</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SnQYmLIsVONScppXxWGUFP1Sy-DZd47P</guid>
+			
+
+			<title><![CDATA[ 54讲RestTemplate的高阶用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54讲RestTemplate的高阶用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54讲RestTemplate的高阶用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54讲RestTemplate的高阶用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SnQYmLIsVONScppXxWGUFP1Sy-DZd47P"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SmEZKV5mQ5zhUPD-DCCIzAAjIKfL3b4H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SmEZKV5mQ5zhUPD-DCCIzAAjIKfL3b4H</guid>
+			
+
+			<title><![CDATA[ 53讲通过RestTemplate访问Web资源.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53讲通过RestTemplate访问Web资源.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53讲通过RestTemplate访问Web资源.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53讲通过RestTemplate访问Web资源.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SmEZKV5mQ5zhUPD-DCCIzAAjIKfL3b4H"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

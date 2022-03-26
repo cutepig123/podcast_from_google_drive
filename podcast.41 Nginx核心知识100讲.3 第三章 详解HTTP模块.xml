@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .41 Nginx核心知识100讲.3 第三章 详解HTTP模块 ]]></title>
+		<itunes:subtitle><![CDATA[ .41 Nginx核心知识100讲.3 第三章 详解HTTP模块 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .41 Nginx核心知识100讲.3 第三章 详解HTTP模块. ]]></itunes:summary>
+		<description><![CDATA[ .41 Nginx核心知识100讲.3 第三章 详解HTTP模块 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=17uTtDsTC68ECpUNLv1eu_08D8VKK4RCW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17uTtDsTC68ECpUNLv1eu_08D8VKK4RCW</guid>
+			
+
+			<title><![CDATA[ 81 - 对客户端使用keepalive提升连接效率.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 81 - 对客户端使用keepalive提升连接效率.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 81 - 对客户端使用keepalive提升连接效率.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 81 - 对客户端使用keepalive提升连接效率.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17uTtDsTC68ECpUNLv1eu_08D8VKK4RCW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17s4I50dHC46hvp2WRNM-dDXWvKFJsLbQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17s4I50dHC46hvp2WRNM-dDXWvKFJsLbQ</guid>
+			
+
+			<title><![CDATA[ 80 - 使用变量获得用户的地理位置：geoip模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 80 - 使用变量获得用户的地理位置：geoip模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 80 - 使用变量获得用户的地理位置：geoip模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 80 - 使用变量获得用户的地理位置：geoip模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17s4I50dHC46hvp2WRNM-dDXWvKFJsLbQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17nWg7JonYmBcuLgvkIqMiJ1L8NcHSG5c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17nWg7JonYmBcuLgvkIqMiJ1L8NcHSG5c</guid>
+			
+
+			<title><![CDATA[ 79 - 根据IP地址范围的匹配生成新变量：geo模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 79 - 根据IP地址范围的匹配生成新变量：geo模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 79 - 根据IP地址范围的匹配生成新变量：geo模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 79 - 根据IP地址范围的匹配生成新变量：geo模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17nWg7JonYmBcuLgvkIqMiJ1L8NcHSG5c"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17ctwm_TfLQCfMke0MzmJ3GkPafCwJTaU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17ctwm_TfLQCfMke0MzmJ3GkPafCwJTaU</guid>
+			
+
+			<title><![CDATA[ 78 - 通过变量指定少量用户实现AB测试：split_client模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 78 - 通过变量指定少量用户实现AB测试：split_client模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 78 - 通过变量指定少量用户实现AB测试：split_client模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 78 - 通过变量指定少量用户实现AB测试：split_client模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17ctwm_TfLQCfMke0MzmJ3GkPafCwJTaU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17TNFzqoRoOv_EAhCwJK_votfPMh9UqsM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17TNFzqoRoOv_EAhCwJK_votfPMh9UqsM</guid>
+			
+
+			<title><![CDATA[ 77 - 为复杂的业务生成新的变量：map模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 77 - 为复杂的业务生成新的变量：map模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 77 - 为复杂的业务生成新的变量：map模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 77 - 为复杂的业务生成新的变量：map模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17TNFzqoRoOv_EAhCwJK_votfPMh9UqsM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17NVSFrmRVzsH48ChjxBy_zYbcfKPF-cU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17NVSFrmRVzsH48ChjxBy_zYbcfKPF-cU</guid>
+			
+
+			<title><![CDATA[ 76 - 使用变量实现防盗链功能实践：secure_link模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 76 - 使用变量实现防盗链功能实践：secure_link模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 76 - 使用变量实现防盗链功能实践：secure_link模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 76 - 使用变量实现防盗链功能实践：secure_link模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17NVSFrmRVzsH48ChjxBy_zYbcfKPF-cU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17KQGHBF6sErdSHHXDzWyhubzKSNGZKiw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17KQGHBF6sErdSHHXDzWyhubzKSNGZKiw</guid>
+			
+
+			<title><![CDATA[ 75 - 使用变量防盗链的referer模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 75 - 使用变量防盗链的referer模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 75 - 使用变量防盗链的referer模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 75 - 使用变量防盗链的referer模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17KQGHBF6sErdSHHXDzWyhubzKSNGZKiw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17DfXczWhazTL_u-TA5t5RhnqQKQ5Iohd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17DfXczWhazTL_u-TA5t5RhnqQKQ5Iohd</guid>
+			
+
+			<title><![CDATA[ 74 - HTTP框架提供的其他变量.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 74 - HTTP框架提供的其他变量.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 74 - HTTP框架提供的其他变量.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 74 - HTTP框架提供的其他变量.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17DfXczWhazTL_u-TA5t5RhnqQKQ5Iohd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17C7JVEIqMdlxDEoWoy8t07MXYP-LMAau</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17C7JVEIqMdlxDEoWoy8t07MXYP-LMAau</guid>
+			
+
+			<title><![CDATA[ 73 - HTTP框架提供的请求相关的变量.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 73 - HTTP框架提供的请求相关的变量.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 73 - HTTP框架提供的请求相关的变量.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 73 - HTTP框架提供的请求相关的变量.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17C7JVEIqMdlxDEoWoy8t07MXYP-LMAau"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=176jKczgza5bQRnO1blScL6WJBN-IOOt-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=176jKczgza5bQRnO1blScL6WJBN-IOOt-</guid>
+			
+
+			<title><![CDATA[ 72 - Nginx变量的运行原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 72 - Nginx变量的运行原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 72 - Nginx变量的运行原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 72 - Nginx变量的运行原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=176jKczgza5bQRnO1blScL6WJBN-IOOt-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=172MznfEEHtJPPqKxQycqNQyPaaMcOGFZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=172MznfEEHtJPPqKxQycqNQyPaaMcOGFZ</guid>
+			
+
+			<title><![CDATA[ 71 - 用过滤模块在http响应的前后添加内容：addition模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 71 - 用过滤模块在http响应的前后添加内容：addition模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 71 - 用过滤模块在http响应的前后添加内容：addition模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 71 - 用过滤模块在http响应的前后添加内容：addition模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=172MznfEEHtJPPqKxQycqNQyPaaMcOGFZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=170IQ7sSwwz41YUY9JrPQT2a5UUTiN9Zh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=170IQ7sSwwz41YUY9JrPQT2a5UUTiN9Zh</guid>
+			
+
+			<title><![CDATA[ 70 - 用过滤模块更改响应中的字符串：sub模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 70 - 用过滤模块更改响应中的字符串：sub模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 70 - 用过滤模块更改响应中的字符串：sub模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 70 - 用过滤模块更改响应中的字符串：sub模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=170IQ7sSwwz41YUY9JrPQT2a5UUTiN9Zh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16ygWyvnpEloVjZLDYISGEsJKrEUXqe9h</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16ygWyvnpEloVjZLDYISGEsJKrEUXqe9h</guid>
+			
+
+			<title><![CDATA[ 69 - HTTP过滤模块的调用流程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 69 - HTTP过滤模块的调用流程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 69 - HTTP过滤模块的调用流程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 69 - HTTP过滤模块的调用流程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16ygWyvnpEloVjZLDYISGEsJKrEUXqe9h"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16tknP7G_4Fa_3ugHXpJhEiKoLXutIx4h</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16tknP7G_4Fa_3ugHXpJhEiKoLXutIx4h</guid>
+			
+
+			<title><![CDATA[ 68 - access日志的详细用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 68 - access日志的详细用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 68 - access日志的详细用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 68 - access日志的详细用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16tknP7G_4Fa_3ugHXpJhEiKoLXutIx4h"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16rK2j-lw031Rv1_qjV7k2TMOIjtsNlRD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16rK2j-lw031Rv1_qjV7k2TMOIjtsNlRD</guid>
+			
+
+			<title><![CDATA[ 67 - 提升多个小文件性能的concat模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 67 - 提升多个小文件性能的concat模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 67 - 提升多个小文件性能的concat模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 67 - 提升多个小文件性能的concat模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16rK2j-lw031Rv1_qjV7k2TMOIjtsNlRD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16l0TavuVbK19q274oZY9Bd5xmAsjVcz_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16l0TavuVbK19q274oZY9Bd5xmAsjVcz_</guid>
+			
+
+			<title><![CDATA[ 66 - index和autoindex模块的用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 66 - index和autoindex模块的用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 66 - index和autoindex模块的用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 66 - index和autoindex模块的用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16l0TavuVbK19q274oZY9Bd5xmAsjVcz_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16gcE4n5uSU4_gdHpqA36WqqIavD6wpY6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16gcE4n5uSU4_gdHpqA36WqqIavD6wpY6</guid>
+			
+
+			<title><![CDATA[ 65 - static模块对url不以斜杠结尾却访问目录的做法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 65 - static模块对url不以斜杠结尾却访问目录的做法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 65 - static模块对url不以斜杠结尾却访问目录的做法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 65 - static模块对url不以斜杠结尾却访问目录的做法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16gcE4n5uSU4_gdHpqA36WqqIavD6wpY6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16btRxJJ99MULe_uB93vmsnvFeD9rUgQN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16btRxJJ99MULe_uB93vmsnvFeD9rUgQN</guid>
+			
+
+			<title><![CDATA[ 64 - static模块提供的3个变量.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 64 - static模块提供的3个变量.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 64 - static模块提供的3个变量.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 64 - static模块提供的3个变量.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16btRxJJ99MULe_uB93vmsnvFeD9rUgQN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16a726wCQoglsfb-Kf2e3bPlH5P03O52L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16a726wCQoglsfb-Kf2e3bPlH5P03O52L</guid>
+			
+
+			<title><![CDATA[ 63 - content阶段：详解root和alias指令.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 63 - content阶段：详解root和alias指令.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 63 - content阶段：详解root和alias指令.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 63 - content阶段：详解root和alias指令.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16a726wCQoglsfb-Kf2e3bPlH5P03O52L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16_0rz1Gn06tUipByi6NodxErzGdET_Tk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16_0rz1Gn06tUipByi6NodxErzGdET_Tk</guid>
+			
+
+			<title><![CDATA[ 62 - 实时拷贝流量：precontent阶段的mirror模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62 - 实时拷贝流量：precontent阶段的mirror模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62 - 实时拷贝流量：precontent阶段的mirror模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62 - 实时拷贝流量：precontent阶段的mirror模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16_0rz1Gn06tUipByi6NodxErzGdET_Tk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16R6YsC0_m8p4xuItcU4k8JkLsmSfHDYr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16R6YsC0_m8p4xuItcU4k8JkLsmSfHDYr</guid>
+			
+
+			<title><![CDATA[ 61 - precontent阶段：按序访问资源的try_files模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61 - precontent阶段：按序访问资源的try_files模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61 - precontent阶段：按序访问资源的try_files模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61 - precontent阶段：按序访问资源的try_files模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16R6YsC0_m8p4xuItcU4k8JkLsmSfHDYr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16OSEo1CWAaatULnWw_L2BPOBcITJv6z9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16OSEo1CWAaatULnWw_L2BPOBcITJv6z9</guid>
+			
+
+			<title><![CDATA[ 60 - access阶段的satisfy指令.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60 - access阶段的satisfy指令.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60 - access阶段的satisfy指令.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60 - access阶段的satisfy指令.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16OSEo1CWAaatULnWw_L2BPOBcITJv6z9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=169-qez3oSazeyYONb27-Bsa2lDzOGQ4f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=169-qez3oSazeyYONb27-Bsa2lDzOGQ4f</guid>
+			
+
+			<title><![CDATA[ 59 - access阶段：使用第三方做权限控制的auth_request模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59 - access阶段：使用第三方做权限控制的auth_request模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59 - access阶段：使用第三方做权限控制的auth_request模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59 - access阶段：使用第三方做权限控制的auth_request模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=169-qez3oSazeyYONb27-Bsa2lDzOGQ4f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=165wY32oSD6JWP6waGRkjtf7BJYdG8QDI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=165wY32oSD6JWP6waGRkjtf7BJYdG8QDI</guid>
+			
+
+			<title><![CDATA[ 58 - access阶段：对用户名密码做限制的auth_basic模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58 - access阶段：对用户名密码做限制的auth_basic模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58 - access阶段：对用户名密码做限制的auth_basic模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58 - access阶段：对用户名密码做限制的auth_basic模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=165wY32oSD6JWP6waGRkjtf7BJYdG8QDI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=165NBGyo5d5_juzphzWcH9mCRghXjItbT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=165NBGyo5d5_juzphzWcH9mCRghXjItbT</guid>
+			
+
+			<title><![CDATA[ 57 - access阶段：对ip做限制的access模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57 - access阶段：对ip做限制的access模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57 - access阶段：对ip做限制的access模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57 - access阶段：对ip做限制的access模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=165NBGyo5d5_juzphzWcH9mCRghXjItbT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=163Sgyj42iUcZ9tLcQ1xGf31VRN08KhEm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=163Sgyj42iUcZ9tLcQ1xGf31VRN08KhEm</guid>
+			
+
+			<title><![CDATA[ 56 - preaccess阶段：对请求做限制的limit_req模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56 - preaccess阶段：对请求做限制的limit_req模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56 - preaccess阶段：对请求做限制的limit_req模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56 - preaccess阶段：对请求做限制的limit_req模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=163Sgyj42iUcZ9tLcQ1xGf31VRN08KhEm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15y6YZQ6Tz3WpfR7ElVXpRvp9TKljC6K5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15y6YZQ6Tz3WpfR7ElVXpRvp9TKljC6K5</guid>
+			
+
+			<title><![CDATA[ 55 - preaccess阶段：对连接做限制的limit_conn模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55 - preaccess阶段：对连接做限制的limit_conn模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55 - preaccess阶段：对连接做限制的limit_conn模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55 - preaccess阶段：对连接做限制的limit_conn模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15y6YZQ6Tz3WpfR7ElVXpRvp9TKljC6K5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15wbpXWwXYDapkDP1b8z88oNeyneO57rW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15wbpXWwXYDapkDP1b8z88oNeyneO57rW</guid>
+			
+
+			<title><![CDATA[ 54 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15wbpXWwXYDapkDP1b8z88oNeyneO57rW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15uetEFhETKWsguM3La8CkCeokS6XJlnc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15uetEFhETKWsguM3La8CkCeokS6XJlnc</guid>
+			
+
+			<title><![CDATA[ 53 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53 - find_config阶段：找到处理请求的location指令块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15uetEFhETKWsguM3La8CkCeokS6XJlnc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15pNM4_a6u_Qk3rT2uzEJBAqhFHYLrhg0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15pNM4_a6u_Qk3rT2uzEJBAqhFHYLrhg0</guid>
+			
+
+			<title><![CDATA[ 52 - rewrite阶段的rewrite模块：条件判断.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52 - rewrite阶段的rewrite模块：条件判断.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52 - rewrite阶段的rewrite模块：条件判断.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52 - rewrite阶段的rewrite模块：条件判断.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15pNM4_a6u_Qk3rT2uzEJBAqhFHYLrhg0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15nJW_dfaLaua7psRuEbSBbmZY1xm3Dmi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15nJW_dfaLaua7psRuEbSBbmZY1xm3Dmi</guid>
+			
+
+			<title><![CDATA[ 51 - rewrite阶段的rewrite模块：重写URL.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51 - rewrite阶段的rewrite模块：重写URL.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51 - rewrite阶段的rewrite模块：重写URL.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51 - rewrite阶段的rewrite模块：重写URL.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15nJW_dfaLaua7psRuEbSBbmZY1xm3Dmi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15mUOyEID1YbX3DkqgTLYesCqSy-BizE0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15mUOyEID1YbX3DkqgTLYesCqSy-BizE0</guid>
+			
+
+			<title><![CDATA[ 50 - rewrite阶段的rewrite模块：return指令.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50 - rewrite阶段的rewrite模块：return指令.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50 - rewrite阶段的rewrite模块：return指令.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50 - rewrite阶段的rewrite模块：return指令.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15mUOyEID1YbX3DkqgTLYesCqSy-BizE0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15iOiurl7jZZYDj1D9RJPuVBp4d9WYBGv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15iOiurl7jZZYDj1D9RJPuVBp4d9WYBGv</guid>
+			
+
+			<title><![CDATA[ 49 - postread阶段：获取真实客户端地址的realip模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49 - postread阶段：获取真实客户端地址的realip模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49 - postread阶段：获取真实客户端地址的realip模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49 - postread阶段：获取真实客户端地址的realip模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15iOiurl7jZZYDj1D9RJPuVBp4d9WYBGv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15XgtMVqxySRiTrgVSWGyj-ZFJvpuhSuW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15XgtMVqxySRiTrgVSWGyj-ZFJvpuhSuW</guid>
+			
+
+			<title><![CDATA[ 48 - 11个阶段的顺序处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48 - 11个阶段的顺序处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48 - 11个阶段的顺序处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48 - 11个阶段的顺序处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15XgtMVqxySRiTrgVSWGyj-ZFJvpuhSuW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15QI7aA4BzbXXvGV0J4RlC_wli0DJIgPv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15QI7aA4BzbXXvGV0J4RlC_wli0DJIgPv</guid>
+			
+
+			<title><![CDATA[ 47 - 详解HTTP请求的11个阶段.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47 - 详解HTTP请求的11个阶段.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47 - 详解HTTP请求的11个阶段.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47 - 详解HTTP请求的11个阶段.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15QI7aA4BzbXXvGV0J4RlC_wli0DJIgPv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15NtpsttAPcYnyQHLmQ1BHugLZaYAg07j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15NtpsttAPcYnyQHLmQ1BHugLZaYAg07j</guid>
+			
+
+			<title><![CDATA[ 46 - 如何找到处理请求的server指令块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46 - 如何找到处理请求的server指令块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46 - 如何找到处理请求的server指令块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46 - 如何找到处理请求的server指令块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15NtpsttAPcYnyQHLmQ1BHugLZaYAg07j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15G48EHX2MSybp0TiYeWSLWr7gNRhU9c3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15G48EHX2MSybp0TiYeWSLWr7gNRhU9c3</guid>
+			
+
+			<title><![CDATA[ 45 - Nginx中的正则表达式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45 - Nginx中的正则表达式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45 - Nginx中的正则表达式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45 - Nginx中的正则表达式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15G48EHX2MSybp0TiYeWSLWr7gNRhU9c3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=158MFFKQtSXE00TpV1l16j1EN8jFvm4x4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=158MFFKQtSXE00TpV1l16j1EN8jFvm4x4</guid>
+			
+
+			<title><![CDATA[ 44 - 处理HTTP请求头部的流程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44 - 处理HTTP请求头部的流程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44 - 处理HTTP请求头部的流程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44 - 处理HTTP请求头部的流程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=158MFFKQtSXE00TpV1l16j1EN8jFvm4x4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=152M3IWlD6wNRmei3-pIUe-Qgxvs7xHB4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=152M3IWlD6wNRmei3-pIUe-Qgxvs7xHB4</guid>
+			
+
+			<title><![CDATA[ 43 - Listen指令的用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43 - Listen指令的用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43 - Listen指令的用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43 - Listen指令的用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=152M3IWlD6wNRmei3-pIUe-Qgxvs7xHB4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15-39_VlFem3GdcqkOMhTRkTC3SOkI8es</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15-39_VlFem3GdcqkOMhTRkTC3SOkI8es</guid>
+			
+
+			<title><![CDATA[ 42 - 冲突的配置指令以谁为准？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42 - 冲突的配置指令以谁为准？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42 - 冲突的配置指令以谁为准？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42 - 冲突的配置指令以谁为准？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15-39_VlFem3GdcqkOMhTRkTC3SOkI8es"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

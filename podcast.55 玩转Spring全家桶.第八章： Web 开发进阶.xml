@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第八章： Web 开发进阶 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第八章： Web 开发进阶 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第八章： Web 开发进阶. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第八章： Web 开发进阶 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1QSZZAfWYBD2l7WBqPgscc9GDZdGcXtLL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QSZZAfWYBD2l7WBqPgscc9GDZdGcXtLL</guid>
+			
+
+			<title><![CDATA[ 66SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 66SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 66SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 66SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QSZZAfWYBD2l7WBqPgscc9GDZdGcXtLL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QQDBrlQEOQv6-ukLcRSJ2CHRkTy9MOzk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QQDBrlQEOQv6-ukLcRSJ2CHRkTy9MOzk</guid>
+			
+
+			<title><![CDATA[ 65使用WebFlux代替SpringMVC（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 65使用WebFlux代替SpringMVC（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 65使用WebFlux代替SpringMVC（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 65使用WebFlux代替SpringMVC（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QQDBrlQEOQv6-ukLcRSJ2CHRkTy9MOzk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QNFhVj4nQrCL4ICZxtxRNmFDE1_dbd0M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QNFhVj4nQrCL4ICZxtxRNmFDE1_dbd0M</guid>
+			
+
+			<title><![CDATA[ 64使用WebFlux代替SpringMVC（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 64使用WebFlux代替SpringMVC（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 64使用WebFlux代替SpringMVC（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 64使用WebFlux代替SpringMVC（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QNFhVj4nQrCL4ICZxtxRNmFDE1_dbd0M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QLxwtI3zy84v9X2MiCVDafjQTQ9DO7vd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QLxwtI3zy84v9X2MiCVDafjQTQ9DO7vd</guid>
+			
+
+			<title><![CDATA[ 63分布式环境中如何解决Session的问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 63分布式环境中如何解决Session的问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 63分布式环境中如何解决Session的问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 63分布式环境中如何解决Session的问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QLxwtI3zy84v9X2MiCVDafjQTQ9DO7vd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QH2gMDytZnXIF_UpwgEq1cnJ5pqnzxp9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QH2gMDytZnXIF_UpwgEq1cnJ5pqnzxp9</guid>
+			
+
+			<title><![CDATA[ 62讲使用SpringDataREST实现简单的超媒体服务(下).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62讲使用SpringDataREST实现简单的超媒体服务(下).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62讲使用SpringDataREST实现简单的超媒体服务(下).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62讲使用SpringDataREST实现简单的超媒体服务(下).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QH2gMDytZnXIF_UpwgEq1cnJ5pqnzxp9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QGInDN8KdwJGJKMJNZ5GKCCbt81xqjnN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QGInDN8KdwJGJKMJNZ5GKCCbt81xqjnN</guid>
+			
+
+			<title><![CDATA[ 61讲使用SpringDataREST实现简单的超媒体服务(上).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61讲使用SpringDataREST实现简单的超媒体服务(上).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61讲使用SpringDataREST实现简单的超媒体服务(上).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61讲使用SpringDataREST实现简单的超媒体服务(上).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QGInDN8KdwJGJKMJNZ5GKCCbt81xqjnN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q7P5eq3zXiqRAWK6lUivEtLoOM9Y9-x-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q7P5eq3zXiqRAWK6lUivEtLoOM9Y9-x-</guid>
+			
+
+			<title><![CDATA[ 60讲什么是HATEOAS.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60讲什么是HATEOAS.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60讲什么是HATEOAS.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60讲什么是HATEOAS.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q7P5eq3zXiqRAWK6lUivEtLoOM9Y9-x-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q6KGRzmo15f6cs7xmNdWEikIRO8kl-RI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q6KGRzmo15f6cs7xmNdWEikIRO8kl-RI</guid>
+			
+
+			<title><![CDATA[ 59讲设计好的RESTfulWebService（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59讲设计好的RESTfulWebService（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59讲设计好的RESTfulWebService（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59讲设计好的RESTfulWebService（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q6KGRzmo15f6cs7xmNdWEikIRO8kl-RI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q2ZnvAoR3E9CoB98Lzcp5oXg5I3a2gvm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q2ZnvAoR3E9CoB98Lzcp5oXg5I3a2gvm</guid>
+			
+
+			<title><![CDATA[ 58讲设计好的RESTfulWebService（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58讲设计好的RESTfulWebService（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58讲设计好的RESTfulWebService（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58讲设计好的RESTfulWebService（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q2ZnvAoR3E9CoB98Lzcp5oXg5I3a2gvm"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

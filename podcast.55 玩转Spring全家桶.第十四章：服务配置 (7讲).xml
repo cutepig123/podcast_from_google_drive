@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第十四章：服务配置 (7讲) ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第十四章：服务配置 (7讲) ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第十四章：服务配置 (7讲). ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第十四章：服务配置 (7讲) ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1V_Xa2tt-XbGuz_H3ODDBjn5UK4v7STdn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1V_Xa2tt-XbGuz_H3ODDBjn5UK4v7STdn</guid>
+			
+
+			<title><![CDATA[ 113  SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 113  SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 113  SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 113  SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1V_Xa2tt-XbGuz_H3ODDBjn5UK4v7STdn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VY8kXJwSWwOYTD8oW609FnVX7nGnrMJv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VY8kXJwSWwOYTD8oW609FnVX7nGnrMJv</guid>
+			
+
+			<title><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 112  基于Nacos的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VY8kXJwSWwOYTD8oW609FnVX7nGnrMJv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VWJL-Gx_KGJyq3CZwsed0P6T1gR4JycZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VWJL-Gx_KGJyq3CZwsed0P6T1gR4JycZ</guid>
+			
+
+			<title><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 111  基于Consul的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VWJL-Gx_KGJyq3CZwsed0P6T1gR4JycZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VToKaF5bLZoCsJMAxC2sithxElcx29g7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VToKaF5bLZoCsJMAxC2sithxElcx29g7</guid>
+			
+
+			<title><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 110  深入理解Spring Cloud的配置抽象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VToKaF5bLZoCsJMAxC2sithxElcx29g7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VR_Su0Tri3GFUjU_n6vnIicj2VtcbVkB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VR_Su0Tri3GFUjU_n6vnIicj2VtcbVkB</guid>
+			
+
+			<title><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 109  基于Zookeeper的配置中心.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VR_Su0Tri3GFUjU_n6vnIicj2VtcbVkB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VPrChvfYr-LVaeJDe8822vVZpnfN1MAt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VPrChvfYr-LVaeJDe8822vVZpnfN1MAt</guid>
+			
+
+			<title><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 108  基于Git的配置中心（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VPrChvfYr-LVaeJDe8822vVZpnfN1MAt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VOQcLmj929MscXgixZiTMBnFZ1mB6dHh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VOQcLmj929MscXgixZiTMBnFZ1mB6dHh</guid>
+			
+
+			<title><![CDATA[ 107  基于Git的配置中心（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 107  基于Git的配置中心（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 107  基于Git的配置中心（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 107  基于Git的配置中心（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VOQcLmj929MscXgixZiTMBnFZ1mB6dHh"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

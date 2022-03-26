@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .41 Nginx核心知识100讲.1 第一章 初识Nginx ]]></title>
+		<itunes:subtitle><![CDATA[ .41 Nginx核心知识100讲.1 第一章 初识Nginx ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .41 Nginx核心知识100讲.1 第一章 初识Nginx. ]]></itunes:summary>
+		<description><![CDATA[ .41 Nginx核心知识100讲.1 第一章 初识Nginx ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=13bdC1-R8C-XQZVwaLskg4RUMubrybI6D</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13bdC1-R8C-XQZVwaLskg4RUMubrybI6D</guid>
+			
+
+			<title><![CDATA[ 19. 基于 OpenResty 用 Lua 语言实现简单服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19. 基于 OpenResty 用 Lua 语言实现简单服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19. 基于 OpenResty 用 Lua 语言实现简单服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19. 基于 OpenResty 用 Lua 语言实现简单服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13bdC1-R8C-XQZVwaLskg4RUMubrybI6D"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13_GW0bm1YcVTk1ruVwmGbgsCY8A9pJuQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13_GW0bm1YcVTk1ruVwmGbgsCY8A9pJuQ</guid>
+			
+
+			<title><![CDATA[ 18. 用免费 SSL 证书实现一个 HTTPS 站点.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18. 用免费 SSL 证书实现一个 HTTPS 站点.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18. 用免费 SSL 证书实现一个 HTTPS 站点.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18. 用免费 SSL 证书实现一个 HTTPS 站点.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13_GW0bm1YcVTk1ruVwmGbgsCY8A9pJuQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13Xl6zfnJ-DiIcKf-aI7Et6q143V0Ry8O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13Xl6zfnJ-DiIcKf-aI7Et6q143V0Ry8O</guid>
+			
+
+			<title><![CDATA[ 17. SSL 协议握手时 Nginx 的性能瓶颈在哪里？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17. SSL 协议握手时 Nginx 的性能瓶颈在哪里？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17. SSL 协议握手时 Nginx 的性能瓶颈在哪里？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17. SSL 协议握手时 Nginx 的性能瓶颈在哪里？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13Xl6zfnJ-DiIcKf-aI7Et6q143V0Ry8O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13TuzeQjhqiDyjNhbjosT3qvX78CclKxm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13TuzeQjhqiDyjNhbjosT3qvX78CclKxm</guid>
+			
+
+			<title><![CDATA[ 16. SSL 证书的公信力是如何保证的？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16. SSL 证书的公信力是如何保证的？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16. SSL 证书的公信力是如何保证的？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16. SSL 证书的公信力是如何保证的？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13TuzeQjhqiDyjNhbjosT3qvX78CclKxm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13MFuY0aF5ZyG141httzpxFHOeKOgyO6w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13MFuY0aF5ZyG141httzpxFHOeKOgyO6w</guid>
+			
+
+			<title><![CDATA[ 15. 对称加密与非对称加密各自的应用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15. 对称加密与非对称加密各自的应用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15. 对称加密与非对称加密各自的应用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15. 对称加密与非对称加密各自的应用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13MFuY0aF5ZyG141httzpxFHOeKOgyO6w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13KfoCe86El7PYXaCJwnYVJrProabfWLl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13KfoCe86El7PYXaCJwnYVJrProabfWLl</guid>
+			
+
+			<title><![CDATA[ 14. 从网络原理来看 SSL 安全协议.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14. 从网络原理来看 SSL 安全协议.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14. 从网络原理来看 SSL 安全协议.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14. 从网络原理来看 SSL 安全协议.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13KfoCe86El7PYXaCJwnYVJrProabfWLl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13EHisOGP_DJX9XFsDUkv1prbZQCejdzA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13EHisOGP_DJX9XFsDUkv1prbZQCejdzA</guid>
+			
+
+			<title><![CDATA[ 13. 用 GoAccess 实现可视化并实时监控 access 日志.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13. 用 GoAccess 实现可视化并实时监控 access 日志.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13. 用 GoAccess 实现可视化并实时监控 access 日志.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13. 用 GoAccess 实现可视化并实时监控 access 日志.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13EHisOGP_DJX9XFsDUkv1prbZQCejdzA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13623Rl95-AnbJd3OHOy4m4aqoGHY5voB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13623Rl95-AnbJd3OHOy4m4aqoGHY5voB</guid>
+			
+
+			<title><![CDATA[ 12. 用 Nginx 搭建一个具备缓存功能的反向代理服务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12. 用 Nginx 搭建一个具备缓存功能的反向代理服务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12. 用 Nginx 搭建一个具备缓存功能的反向代理服务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12. 用 Nginx 搭建一个具备缓存功能的反向代理服务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13623Rl95-AnbJd3OHOy4m4aqoGHY5voB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=132xS7I3zl7ENj77ErgBoYR3X9UxGycyq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=132xS7I3zl7ENj77ErgBoYR3X9UxGycyq</guid>
+			
+
+			<title><![CDATA[ 11. 用 Nginx 搭建一个可用的静态资源 Web 服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11. 用 Nginx 搭建一个可用的静态资源 Web 服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11. 用 Nginx 搭建一个可用的静态资源 Web 服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11. 用 Nginx 搭建一个可用的静态资源 Web 服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=132xS7I3zl7ENj77ErgBoYR3X9UxGycyq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12zUFfGBrmhcFrbeKVN3Mbox_NjMHshza</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12zUFfGBrmhcFrbeKVN3Mbox_NjMHshza</guid>
+			
+
+			<title><![CDATA[ 10. Nginx 命令行及演示：重载、热部署、日志切割.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10. Nginx 命令行及演示：重载、热部署、日志切割.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10. Nginx 命令行及演示：重载、热部署、日志切割.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10. Nginx 命令行及演示：重载、热部署、日志切割.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12zUFfGBrmhcFrbeKVN3Mbox_NjMHshza"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12wciMSLdC-wMHgDfHWEY-jqcy8JmOnOe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12wciMSLdC-wMHgDfHWEY-jqcy8JmOnOe</guid>
+			
+
+			<title><![CDATA[ 09. Nginx 配置文件的通用语法介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09. Nginx 配置文件的通用语法介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09. Nginx 配置文件的通用语法介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09. Nginx 配置文件的通用语法介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12wciMSLdC-wMHgDfHWEY-jqcy8JmOnOe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12un0QOeDaSZcX4ng1tbH1l2CoMB8MGWZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12un0QOeDaSZcX4ng1tbH1l2CoMB8MGWZ</guid>
+			
+
+			<title><![CDATA[ 08. 编译出适合自己的 Nginx.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08. 编译出适合自己的 Nginx.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08. 编译出适合自己的 Nginx.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08. 编译出适合自己的 Nginx.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12un0QOeDaSZcX4ng1tbH1l2CoMB8MGWZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12pd9_dBNmTL2IKzgKsVSwMRY8eFfAqiw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12pd9_dBNmTL2IKzgKsVSwMRY8eFfAqiw</guid>
+			
+
+			<title><![CDATA[ 07. 选择哪一个 Nginx 发行版本？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07. 选择哪一个 Nginx 发行版本？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07. 选择哪一个 Nginx 发行版本？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07. 选择哪一个 Nginx 发行版本？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12pd9_dBNmTL2IKzgKsVSwMRY8eFfAqiw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12iCk2pweTS4tE8Q8-0vl6fUA_AMhs-jQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12iCk2pweTS4tE8Q8-0vl6fUA_AMhs-jQ</guid>
+			
+
+			<title><![CDATA[ 06. Nginx 的版本发布历史.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06. Nginx 的版本发布历史.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06. Nginx 的版本发布历史.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06. Nginx 的版本发布历史.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12iCk2pweTS4tE8Q8-0vl6fUA_AMhs-jQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12c_6zB8CyhI7EmmUnqX3Dw3a6QZJEikv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12c_6zB8CyhI7EmmUnqX3Dw3a6QZJEikv</guid>
+			
+
+			<title><![CDATA[ 05. Nginx 的四个主要组成部分.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05. Nginx 的四个主要组成部分.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05. Nginx 的四个主要组成部分.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05. Nginx 的四个主要组成部分.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12c_6zB8CyhI7EmmUnqX3Dw3a6QZJEikv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12_2SOPDes1Uz4t5A7mszAMcv9qA6dCBs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12_2SOPDes1Uz4t5A7mszAMcv9qA6dCBs</guid>
+			
+
+			<title><![CDATA[ 04. 为什么用 Nginx：它的 5 个主要优点.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04. 为什么用 Nginx：它的 5 个主要优点.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04. 为什么用 Nginx：它的 5 个主要优点.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04. 为什么用 Nginx：它的 5 个主要优点.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12_2SOPDes1Uz4t5A7mszAMcv9qA6dCBs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12SIeQMBir4ilLyyOaBbItiYJw07rCoaD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12SIeQMBir4ilLyyOaBbItiYJw07rCoaD</guid>
+			
+
+			<title><![CDATA[ 03. Nginx 出现的历史背景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03. Nginx 出现的历史背景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03. Nginx 出现的历史背景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03. Nginx 出现的历史背景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12SIeQMBir4ilLyyOaBbItiYJw07rCoaD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12JpYXWiWvT-c4oTAgFdYC9t-BmKukJFH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12JpYXWiWvT-c4oTAgFdYC9t-BmKukJFH</guid>
+			
+
+			<title><![CDATA[ 02. Nginx 适用于哪些场景？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02. Nginx 适用于哪些场景？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02. Nginx 适用于哪些场景？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02. Nginx 适用于哪些场景？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12JpYXWiWvT-c4oTAgFdYC9t-BmKukJFH"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

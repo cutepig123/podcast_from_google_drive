@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .41 Nginx核心知识100讲.4 第四章 反向代理与负载均衡 ]]></title>
+		<itunes:subtitle><![CDATA[ .41 Nginx核心知识100讲.4 第四章 反向代理与负载均衡 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .41 Nginx核心知识100讲.4 第四章 反向代理与负载均衡. ]]></itunes:summary>
+		<description><![CDATA[ .41 Nginx核心知识100讲.4 第四章 反向代理与负载均衡 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=19IG0bGZasGrjbqrAY7_G4s14dre4reIX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19IG0bGZasGrjbqrAY7_G4s14dre4reIX</guid>
+			
+
+			<title><![CDATA[ 99 - 缓存的基本用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 99 - 缓存的基本用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 99 - 缓存的基本用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 99 - 缓存的基本用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19IG0bGZasGrjbqrAY7_G4s14dre4reIX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19G9SyG1vw4uktDvzcNmgPwohX8ZYEQjJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19G9SyG1vw4uktDvzcNmgPwohX8ZYEQjJ</guid>
+			
+
+			<title><![CDATA[ 98 - Nginx决策浏览器过期缓存是否有效.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 98 - Nginx决策浏览器过期缓存是否有效.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 98 - Nginx决策浏览器过期缓存是否有效.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 98 - Nginx决策浏览器过期缓存是否有效.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19G9SyG1vw4uktDvzcNmgPwohX8ZYEQjJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=195FjQbAPajKIgJyZ5XkZKUCta4QWquPi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=195FjQbAPajKIgJyZ5XkZKUCta4QWquPi</guid>
+			
+
+			<title><![CDATA[ 97 - 用好浏览器的缓存.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 97 - 用好浏览器的缓存.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 97 - 用好浏览器的缓存.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 97 - 用好浏览器的缓存.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=195FjQbAPajKIgJyZ5XkZKUCta4QWquPi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18zGb5u8POVSuhnjaUHeIavE2Ikrt4Wfj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18zGb5u8POVSuhnjaUHeIavE2Ikrt4Wfj</guid>
+			
+
+			<title><![CDATA[ 96 - 对上游使用SSL连接.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 96 - 对上游使用SSL连接.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 96 - 对上游使用SSL连接.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 96 - 对上游使用SSL连接.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18zGb5u8POVSuhnjaUHeIavE2Ikrt4Wfj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18wO3g3Vp00gwq83E6sHvaQ-gAecUvIHQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18wO3g3Vp00gwq83E6sHvaQ-gAecUvIHQ</guid>
+			
+
+			<title><![CDATA[ 95 - 上游出现失败时的容错方案.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 95 - 上游出现失败时的容错方案.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 95 - 上游出现失败时的容错方案.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 95 - 上游出现失败时的容错方案.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18wO3g3Vp00gwq83E6sHvaQ-gAecUvIHQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18v2b5tgxWluuEznLVKkFg3XG7Hfax3zv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18v2b5tgxWluuEznLVKkFg3XG7Hfax3zv</guid>
+			
+
+			<title><![CDATA[ 94 - 处理上游的响应头部.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 94 - 处理上游的响应头部.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 94 - 处理上游的响应头部.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 94 - 处理上游的响应头部.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18v2b5tgxWluuEznLVKkFg3XG7Hfax3zv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18sss_dHDgINWWAumzoHAmQId4Pq5OOGW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18sss_dHDgINWWAumzoHAmQId4Pq5OOGW</guid>
+			
+
+			<title><![CDATA[ 93 - 接收上游的响应.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 93 - 接收上游的响应.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 93 - 接收上游的响应.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 93 - 接收上游的响应.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18sss_dHDgINWWAumzoHAmQId4Pq5OOGW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18qlIsHwLVWIiGTPqC2vI0fRJrKWwOc8D</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18qlIsHwLVWIiGTPqC2vI0fRJrKWwOc8D</guid>
+			
+
+			<title><![CDATA[ 92 - 与上游服务建立连接.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 92 - 与上游服务建立连接.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 92 - 与上游服务建立连接.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 92 - 与上游服务建立连接.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18qlIsHwLVWIiGTPqC2vI0fRJrKWwOc8D"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18ijq44NynDdx0_twOE30yDoQ8VgwVcOw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18ijq44NynDdx0_twOE30yDoQ8VgwVcOw</guid>
+			
+
+			<title><![CDATA[ 91 - 接收用户请求包体的方式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 91 - 接收用户请求包体的方式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 91 - 接收用户请求包体的方式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 91 - 接收用户请求包体的方式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18ijq44NynDdx0_twOE30yDoQ8VgwVcOw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18e8pIK7jtRmstXOqJ-4Fv3iN65O3_mL-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18e8pIK7jtRmstXOqJ-4Fv3iN65O3_mL-</guid>
+			
+
+			<title><![CDATA[ 90 - 根据指令修改发往上游的请求.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 90 - 根据指令修改发往上游的请求.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 90 - 根据指令修改发往上游的请求.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 90 - 根据指令修改发往上游的请求.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18e8pIK7jtRmstXOqJ-4Fv3iN65O3_mL-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18_ZuqZ-1813yWKEw7RxPXTU0h9bkQQLt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18_ZuqZ-1813yWKEw7RxPXTU0h9bkQQLt</guid>
+			
+
+			<title><![CDATA[ 89 - proxy模块中的proxy_pass指令.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 89 - proxy模块中的proxy_pass指令.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 89 - proxy模块中的proxy_pass指令.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 89 - proxy模块中的proxy_pass指令.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18_ZuqZ-1813yWKEw7RxPXTU0h9bkQQLt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18QuuP6b5paERJULTC7-YK2TjAFJNAE8R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18QuuP6b5paERJULTC7-YK2TjAFJNAE8R</guid>
+			
+
+			<title><![CDATA[ 88 - http反向代理proxy处理请求的流程.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 88 - http反向代理proxy处理请求的流程.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 88 - http反向代理proxy处理请求的流程.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 88 - http反向代理proxy处理请求的流程.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18QuuP6b5paERJULTC7-YK2TjAFJNAE8R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18K_ZImyTzBVC4Nqju9Oa_MaSZFn9elCO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18K_ZImyTzBVC4Nqju9Oa_MaSZFn9elCO</guid>
+			
+
+			<title><![CDATA[ 87 - http upstream模块提供的变量.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 87 - http upstream模块提供的变量.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 87 - http upstream模块提供的变量.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 87 - http upstream模块提供的变量.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18K_ZImyTzBVC4Nqju9Oa_MaSZFn9elCO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18FRTmAgAB3pJxtZys_oZQ7gXkMIY_rjf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18FRTmAgAB3pJxtZys_oZQ7gXkMIY_rjf</guid>
+			
+
+			<title><![CDATA[ 86 - 最少连接算法以及如何跨worker进程生效.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 86 - 最少连接算法以及如何跨worker进程生效.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 86 - 最少连接算法以及如何跨worker进程生效.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 86 - 最少连接算法以及如何跨worker进程生效.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18FRTmAgAB3pJxtZys_oZQ7gXkMIY_rjf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=188UNyzCyiorGEUPTFKwOJewK2ttAkAfj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=188UNyzCyiorGEUPTFKwOJewK2ttAkAfj</guid>
+			
+
+			<title><![CDATA[ 85 - 一致性哈希算法：hash模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 85 - 一致性哈希算法：hash模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 85 - 一致性哈希算法：hash模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 85 - 一致性哈希算法：hash模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=188UNyzCyiorGEUPTFKwOJewK2ttAkAfj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=184HFufgnrpU36t9faaEv4wjWCZq8DpJJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=184HFufgnrpU36t9faaEv4wjWCZq8DpJJ</guid>
+			
+
+			<title><![CDATA[ 84 - 负载均衡哈希算法：ip_hash与hash模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 84 - 负载均衡哈希算法：ip_hash与hash模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 84 - 负载均衡哈希算法：ip_hash与hash模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 84 - 负载均衡哈希算法：ip_hash与hash模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=184HFufgnrpU36t9faaEv4wjWCZq8DpJJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=181WxAIGJrQpYT5aSEG1F0KTMgLs8FBqF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=181WxAIGJrQpYT5aSEG1F0KTMgLs8FBqF</guid>
+			
+
+			<title><![CDATA[ 83 - 负载均衡策略：round-robin.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 83 - 负载均衡策略：round-robin.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 83 - 负载均衡策略：round-robin.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 83 - 负载均衡策略：round-robin.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=181WxAIGJrQpYT5aSEG1F0KTMgLs8FBqF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17vHfK8gYNXi3Sk1vddYbhC6s4nupxThq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17vHfK8gYNXi3Sk1vddYbhC6s4nupxThq</guid>
+			
+
+			<title><![CDATA[ 82 - 反向代理与负载均衡原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 82 - 反向代理与负载均衡原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 82 - 反向代理与负载均衡原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 82 - 反向代理与负载均衡原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17vHfK8gYNXi3Sk1vddYbhC6s4nupxThq"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

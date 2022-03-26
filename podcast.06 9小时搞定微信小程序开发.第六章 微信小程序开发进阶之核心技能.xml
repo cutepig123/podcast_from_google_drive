@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .06 9小时搞定微信小程序开发.第六章 微信小程序开发进阶之核心技能 ]]></title>
+		<itunes:subtitle><![CDATA[ .06 9小时搞定微信小程序开发.第六章 微信小程序开发进阶之核心技能 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .06 9小时搞定微信小程序开发.第六章 微信小程序开发进阶之核心技能. ]]></itunes:summary>
+		<description><![CDATA[ .06 9小时搞定微信小程序开发.第六章 微信小程序开发进阶之核心技能 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1mpieghFwLImrhvsBB6wDa6Qp-hJ7Xtqj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mpieghFwLImrhvsBB6wDa6Qp-hJ7Xtqj</guid>
+			
+
+			<title><![CDATA[ 82.微信小程序开放功能之打开APP.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 82.微信小程序开放功能之打开APP.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 82.微信小程序开放功能之打开APP.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 82.微信小程序开放功能之打开APP.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mpieghFwLImrhvsBB6wDa6Qp-hJ7Xtqj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mnDTV4t5hCHJhHLtA5QiOhAzVdlQuNE9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mnDTV4t5hCHJhHLtA5QiOhAzVdlQuNE9</guid>
+			
+
+			<title><![CDATA[ 81.微信小程序开放功能之转发分享.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 81.微信小程序开放功能之转发分享.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 81.微信小程序开放功能之转发分享.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 81.微信小程序开放功能之转发分享.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mnDTV4t5hCHJhHLtA5QiOhAzVdlQuNE9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1miida-Y73JbgMXX2F3DaUN3q8FWebw_1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1miida-Y73JbgMXX2F3DaUN3q8FWebw_1</guid>
+			
+
+			<title><![CDATA[ 80.微信小程序开放功能之模板消息.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 80.微信小程序开放功能之模板消息.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 80.微信小程序开放功能之模板消息.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 80.微信小程序开放功能之模板消息.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1miida-Y73JbgMXX2F3DaUN3q8FWebw_1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mYJaVBt4qijTYSRXLnlhdIQOgiaprtI5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mYJaVBt4qijTYSRXLnlhdIQOgiaprtI5</guid>
+			
+
+			<title><![CDATA[ 79.微信小程序开放功能之微信支付.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 79.微信小程序开放功能之微信支付.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 79.微信小程序开放功能之微信支付.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 79.微信小程序开放功能之微信支付.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mYJaVBt4qijTYSRXLnlhdIQOgiaprtI5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mPld5-fz6stO9MbvXw61YnsQ2rwuxZvf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mPld5-fz6stO9MbvXw61YnsQ2rwuxZvf</guid>
+			
+
+			<title><![CDATA[ 78.微信小程序开放功能之登录授权.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 78.微信小程序开放功能之登录授权.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 78.微信小程序开放功能之登录授权.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 78.微信小程序开放功能之登录授权.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mPld5-fz6stO9MbvXw61YnsQ2rwuxZvf"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

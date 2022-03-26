@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第五模块 ：微服务容错限流Hystrix架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第五模块 ：微服务容错限流Hystrix架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第五模块 ：微服务容错限流Hystrix架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第五模块 ：微服务容错限流Hystrix架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=10jpMxPHO7cIgwJrbQxrPnurywLlcOQei</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10jpMxPHO7cIgwJrbQxrPnurywLlcOQei</guid>
+			
+
+			<title><![CDATA[ 99.Netflix Turbine 简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 99.Netflix Turbine 简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 99.Netflix Turbine 简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 99.Netflix Turbine 简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10jpMxPHO7cIgwJrbQxrPnurywLlcOQei"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10gzEug03acNZJnveolDI11PXpTXy7_o4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10gzEug03acNZJnveolDI11PXpTXy7_o4</guid>
+			
+
+			<title><![CDATA[ 98.【实验】Spring Cloud Hystrix 实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 98.【实验】Spring Cloud Hystrix 实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 98.【实验】Spring Cloud Hystrix 实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 98.【实验】Spring Cloud Hystrix 实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10gzEug03acNZJnveolDI11PXpTXy7_o4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10fizLBWiFIkoH6X5qKV3DLvm4x_NwYR2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10fizLBWiFIkoH6X5qKV3DLvm4x_NwYR2</guid>
+			
+
+			<title><![CDATA[ 97.网关集成 Hystrix (Code Review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 97.网关集成 Hystrix (Code Review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 97.网关集成 Hystrix (Code Review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 97.网关集成 Hystrix (Code Review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10fizLBWiFIkoH6X5qKV3DLvm4x_NwYR2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10d1YWbXMgppq2emEffkUccwYCojwMfB_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10d1YWbXMgppq2emEffkUccwYCojwMfB_</guid>
+			
+
+			<title><![CDATA[ 96.【实验】Hystrix + Dashboard 实验（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 96.【实验】Hystrix + Dashboard 实验（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 96.【实验】Hystrix + Dashboard 实验（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 96.【实验】Hystrix + Dashboard 实验（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10d1YWbXMgppq2emEffkUccwYCojwMfB_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10anEfNeu9NfqNtEDzOVwn_K21td_W34g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10anEfNeu9NfqNtEDzOVwn_K21td_W34g</guid>
+			
+
+			<title><![CDATA[ 95.【实验】Hystrix + Dashboard 实验（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 95.【实验】Hystrix + Dashboard 实验（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 95.【实验】Hystrix + Dashboard 实验（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 95.【实验】Hystrix + Dashboard 实验（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10anEfNeu9NfqNtEDzOVwn_K21td_W34g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10_s8OMpx1EPyRnDm5VG7DO-XjyAdRHYg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10_s8OMpx1EPyRnDm5VG7DO-XjyAdRHYg</guid>
+			
+
+			<title><![CDATA[ 94.Hystrix 模拟案例分析 (Code Review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 94.Hystrix 模拟案例分析 (Code Review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 94.Hystrix 模拟案例分析 (Code Review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 94.Hystrix 模拟案例分析 (Code Review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10_s8OMpx1EPyRnDm5VG7DO-XjyAdRHYg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Q-7lTsFb5r_43hvY3jHso_Lt82QQcxC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Q-7lTsFb5r_43hvY3jHso_Lt82QQcxC</guid>
+			
+
+			<title><![CDATA[ 93.【实验】Hystrix 基础实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 93.【实验】Hystrix 基础实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 93.【实验】Hystrix 基础实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 93.【实验】Hystrix 基础实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Q-7lTsFb5r_43hvY3jHso_Lt82QQcxC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Hp5JMs_BwaQmJrsLULQf7RAf5N_z7qX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Hp5JMs_BwaQmJrsLULQf7RAf5N_z7qX</guid>
+			
+
+			<title><![CDATA[ 92.Hystrix 主要配置项.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 92.Hystrix 主要配置项.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 92.Hystrix 主要配置项.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 92.Hystrix 主要配置项.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Hp5JMs_BwaQmJrsLULQf7RAf5N_z7qX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10FXR9gbvfAtnjorXUH3_1O6p75dEPC1O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10FXR9gbvfAtnjorXUH3_1O6p75dEPC1O</guid>
+			
+
+			<title><![CDATA[ 91.信号量 vs 线程池隔离.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 91.信号量 vs 线程池隔离.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 91.信号量 vs 线程池隔离.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 91.信号量 vs 线程池隔离.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10FXR9gbvfAtnjorXUH3_1O6p75dEPC1O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Cm6CtsPQlHVNmKSohTaqmMHhKlpcuLg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Cm6CtsPQlHVNmKSohTaqmMHhKlpcuLg</guid>
+			
+
+			<title><![CDATA[ 90.Hystrix 主要概念.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 90.Hystrix 主要概念.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 90.Hystrix 主要概念.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 90.Hystrix 主要概念.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Cm6CtsPQlHVNmKSohTaqmMHhKlpcuLg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=109k8aZZW7WFlpytLyZwRi8FCFt0XKROo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=109k8aZZW7WFlpytLyZwRi8FCFt0XKROo</guid>
+			
+
+			<title><![CDATA[ 89.Hystrix 设计原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 89.Hystrix 设计原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 89.Hystrix 设计原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 89.Hystrix 设计原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=109k8aZZW7WFlpytLyZwRi8FCFt0XKROo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1098ClPdultMr10HKBU-CDGb-0xuzBwH6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1098ClPdultMr10HKBU-CDGb-0xuzBwH6</guid>
+			
+
+			<title><![CDATA[ 88.Netflix Hystrix 背景介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 88.Netflix Hystrix 背景介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 88.Netflix Hystrix 背景介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 88.Netflix Hystrix 背景介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1098ClPdultMr10HKBU-CDGb-0xuzBwH6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=107OB9f-_-tk31yV7-E5291q5IH0K5DRA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=107OB9f-_-tk31yV7-E5291q5IH0K5DRA</guid>
+			
+
+			<title><![CDATA[ 87.容错限流原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 87.容错限流原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 87.容错限流原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 87.容错限流原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=107OB9f-_-tk31yV7-E5291q5IH0K5DRA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-y1Ba1V6TvfBxJefw9FAcUaP4cq5nA5p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-y1Ba1V6TvfBxJefw9FAcUaP4cq5nA5p</guid>
+			
+
+			<title><![CDATA[ 86.容错限流需求.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 86.容错限流需求.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 86.容错限流需求.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 86.容错限流需求.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-y1Ba1V6TvfBxJefw9FAcUaP4cq5nA5p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-qyC4CgVmAscfJjV8tucPxS_dgdscUNM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-qyC4CgVmAscfJjV8tucPxS_dgdscUNM</guid>
+			
+
+			<title><![CDATA[ 85.第五模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 85.第五模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 85.第五模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 85.第五模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-qyC4CgVmAscfJjV8tucPxS_dgdscUNM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-nzsaPYl1NntkMThqrvOgFJBLQD4p4Z8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-nzsaPYl1NntkMThqrvOgFJBLQD4p4Z8</guid>
+			
+
+			<title><![CDATA[ 101.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 101.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 101.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 101.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-nzsaPYl1NntkMThqrvOgFJBLQD4p4Z8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-kmBnrrl0AzSOxqiFACEWll9AcfA-myx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-kmBnrrl0AzSOxqiFACEWll9AcfA-myx</guid>
+			
+
+			<title><![CDATA[ 100.Hystrix 生产最佳实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 100.Hystrix 生产最佳实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 100.Hystrix 生产最佳实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 100.Hystrix 生产最佳实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-kmBnrrl0AzSOxqiFACEWll9AcfA-myx"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

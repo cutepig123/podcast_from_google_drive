@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第七模块 ：微服务监控告警Prometheus架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第七模块 ：微服务监控告警Prometheus架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第七模块 ：微服务监控告警Prometheus架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第七模块 ：微服务监控告警Prometheus架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1wq2VuiZc7v_SnJTawaBe_REIVfVDEFk3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wq2VuiZc7v_SnJTawaBe_REIVfVDEFk3</guid>
+			
+
+			<title><![CDATA[ 138.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 138.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 138.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 138.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wq2VuiZc7v_SnJTawaBe_REIVfVDEFk3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wjLfQX56P_SreEy4IF35fFthC2JF1bVm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wjLfQX56P_SreEy4IF35fFthC2JF1bVm</guid>
+			
+
+			<title><![CDATA[ 137.微服务监控体系总结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 137.微服务监控体系总结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 137.微服务监控体系总结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 137.微服务监控体系总结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wjLfQX56P_SreEy4IF35fFthC2JF1bVm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1weQYg8bFqwDEABL_n7C4kHERHEpmFvzy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1weQYg8bFqwDEABL_n7C4kHERHEpmFvzy</guid>
+			
+
+			<title><![CDATA[ 136.开源分布式监控平台 ZMon 简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 136.开源分布式监控平台 ZMon 简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 136.开源分布式监控平台 ZMon 简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 136.开源分布式监控平台 ZMon 简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1weQYg8bFqwDEABL_n7C4kHERHEpmFvzy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wYEwne7X4iFtvFMB0M4g85f_W5YJSnzJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wYEwne7X4iFtvFMB0M4g85f_W5YJSnzJ</guid>
+			
+
+			<title><![CDATA[ 135.主流开源时序数据库比较.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 135.主流开源时序数据库比较.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 135.主流开源时序数据库比较.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 135.主流开源时序数据库比较.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wYEwne7X4iFtvFMB0M4g85f_W5YJSnzJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wRRPntiaENO0Voxf-mRGSq0GII3bqq_r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wRRPntiaENO0Voxf-mRGSq0GII3bqq_r</guid>
+			
+
+			<title><![CDATA[ 134.Prometheus 监控最佳实践.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 134.Prometheus 监控最佳实践.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 134.Prometheus 监控最佳实践.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 134.Prometheus 监控最佳实践.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wRRPntiaENO0Voxf-mRGSq0GII3bqq_r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wMjMu0WQIBPOHTMvhNfjBGdngVa_7a9p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wMjMu0WQIBPOHTMvhNfjBGdngVa_7a9p</guid>
+			
+
+			<title><![CDATA[ 133.【实验】Spring Boot Actuator 监控实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 133.【实验】Spring Boot Actuator 监控实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 133.【实验】Spring Boot Actuator 监控实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 133.【实验】Spring Boot Actuator 监控实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wMjMu0WQIBPOHTMvhNfjBGdngVa_7a9p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wGEC4G6jxZcy0EhcSt9YBojlBz3Zik7x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wGEC4G6jxZcy0EhcSt9YBojlBz3Zik7x</guid>
+			
+
+			<title><![CDATA[ 132.【实验】NodeExporter 系统监控实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 132.【实验】NodeExporter 系统监控实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 132.【实验】NodeExporter 系统监控实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 132.【实验】NodeExporter 系统监控实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wGEC4G6jxZcy0EhcSt9YBojlBz3Zik7x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wE3045TLl-FwmBTgwDAjzOnsq2SiKcrr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wE3045TLl-FwmBTgwDAjzOnsq2SiKcrr</guid>
+			
+
+			<title><![CDATA[ 131.【实验】Java 应用埋点和监控实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 131.【实验】Java 应用埋点和监控实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 131.【实验】Java 应用埋点和监控实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 131.【实验】Java 应用埋点和监控实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wE3045TLl-FwmBTgwDAjzOnsq2SiKcrr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vzbWOBEBDgpytxCXYwyFUEC1rC8M8l4H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vzbWOBEBDgpytxCXYwyFUEC1rC8M8l4H</guid>
+			
+
+			<title><![CDATA[ 130.【实验】Prometheus + Alertmanager 告警实验（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 130.【实验】Prometheus + Alertmanager 告警实验（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 130.【实验】Prometheus + Alertmanager 告警实验（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 130.【实验】Prometheus + Alertmanager 告警实验（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vzbWOBEBDgpytxCXYwyFUEC1rC8M8l4H"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vrDZGx0DfYDmVPs1eMzFceMLo3r_Fp3z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vrDZGx0DfYDmVPs1eMzFceMLo3r_Fp3z</guid>
+			
+
+			<title><![CDATA[ 129.【实验】Prometheus + Alertmanager 告警实验（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 129.【实验】Prometheus + Alertmanager 告警实验（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 129.【实验】Prometheus + Alertmanager 告警实验（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 129.【实验】Prometheus + Alertmanager 告警实验（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vrDZGx0DfYDmVPs1eMzFceMLo3r_Fp3z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vbaO_-a9_KZmOABorqlIpdjlc_fuxyml</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vbaO_-a9_KZmOABorqlIpdjlc_fuxyml</guid>
+			
+
+			<title><![CDATA[ 128.【实验】Prometheus + Grafana 展示实验（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 128.【实验】Prometheus + Grafana 展示实验（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 128.【实验】Prometheus + Grafana 展示实验（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 128.【实验】Prometheus + Grafana 展示实验（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vbaO_-a9_KZmOABorqlIpdjlc_fuxyml"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vSedqNtRPZRjNsO7xJsYe-KKwQmTBeKo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vSedqNtRPZRjNsO7xJsYe-KKwQmTBeKo</guid>
+			
+
+			<title><![CDATA[ 127.【实验】Prometheus + Grafana 展示实验（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 127.【实验】Prometheus + Grafana 展示实验（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 127.【实验】Prometheus + Grafana 展示实验（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 127.【实验】Prometheus + Grafana 展示实验（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vSedqNtRPZRjNsO7xJsYe-KKwQmTBeKo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vH4S6fae99br0y9rndecleACIBoXSJ0E</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vH4S6fae99br0y9rndecleACIBoXSJ0E</guid>
+			
+
+			<title><![CDATA[ 126.【实验】Prometheus起步查询实验（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 126.【实验】Prometheus起步查询实验（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 126.【实验】Prometheus起步查询实验（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 126.【实验】Prometheus起步查询实验（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vH4S6fae99br0y9rndecleACIBoXSJ0E"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1v2l2fx3tY8mQBfLLT-oRhQ7cDYezEq34</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1v2l2fx3tY8mQBfLLT-oRhQ7cDYezEq34</guid>
+			
+
+			<title><![CDATA[ 125.【实验】Prometheus起步查询实验（中）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 125.【实验】Prometheus起步查询实验（中）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 125.【实验】Prometheus起步查询实验（中）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 125.【实验】Prometheus起步查询实验（中）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1v2l2fx3tY8mQBfLLT-oRhQ7cDYezEq34"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uwBO_-o_oljoX3lqV1-jHvLnEClCemUY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uwBO_-o_oljoX3lqV1-jHvLnEClCemUY</guid>
+			
+
+			<title><![CDATA[ 124.【实验】Prometheus 起步查询实验（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 124.【实验】Prometheus 起步查询实验（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 124.【实验】Prometheus 起步查询实验（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 124.【实验】Prometheus 起步查询实验（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uwBO_-o_oljoX3lqV1-jHvLnEClCemUY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uo-tX1PUlAy8X55U9rC61C7YFAcxqyNq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uo-tX1PUlAy8X55U9rC61C7YFAcxqyNq</guid>
+			
+
+			<title><![CDATA[ 123.Prometheus 基本概念.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 123.Prometheus 基本概念.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 123.Prometheus 基本概念.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 123.Prometheus 基本概念.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uo-tX1PUlAy8X55U9rC61C7YFAcxqyNq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uioPckg3ocebPj0KyawdHxusfHBfvLbc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uioPckg3ocebPj0KyawdHxusfHBfvLbc</guid>
+			
+
+			<title><![CDATA[ 122.Prometheus 架构设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 122.Prometheus 架构设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 122.Prometheus 架构设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 122.Prometheus 架构设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uioPckg3ocebPj0KyawdHxusfHBfvLbc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1u_H6aoxQNRC5t2Ghhvf2GUS4TGIdZ9c7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1u_H6aoxQNRC5t2Ghhvf2GUS4TGIdZ9c7</guid>
+			
+
+			<title><![CDATA[ 121.Prometheus 简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 121.Prometheus 简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 121.Prometheus 简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 121.Prometheus 简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1u_H6aoxQNRC5t2Ghhvf2GUS4TGIdZ9c7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uZxwXntKdW9ZC-1YSFjCjUm5KV6Leujg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uZxwXntKdW9ZC-1YSFjCjUm5KV6Leujg</guid>
+			
+
+			<title><![CDATA[ 120.BusDevOps 和测量驱动开发 MDD.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 120.BusDevOps 和测量驱动开发 MDD.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 120.BusDevOps 和测量驱动开发 MDD.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 120.BusDevOps 和测量驱动开发 MDD.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uZxwXntKdW9ZC-1YSFjCjUm5KV6Leujg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uUpVRnH2cunEkExYNqtpJUBM-tUwHG8S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uUpVRnH2cunEkExYNqtpJUBM-tUwHG8S</guid>
+			
+
+			<title><![CDATA[ 119.监控模式分类.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 119.监控模式分类.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 119.监控模式分类.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 119.监控模式分类.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uUpVRnH2cunEkExYNqtpJUBM-tUwHG8S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uSOdXT6_FjdELwMpg-7u7Ex1AodN0Qjx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uSOdXT6_FjdELwMpg-7u7Ex1AodN0Qjx</guid>
+			
+
+			<title><![CDATA[ 118.第七模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 118.第七模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 118.第七模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 118.第七模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uSOdXT6_FjdELwMpg-7u7Ex1AodN0Qjx"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

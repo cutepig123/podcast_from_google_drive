@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .07 微服务架构核心20讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .07 微服务架构核心20讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .07 微服务架构核心20讲. ]]></itunes:summary>
+		<description><![CDATA[ .07 微服务架构核心20讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1CKI1rqET0d9PfnPXVcQbGwTkqMyW1evv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CKI1rqET0d9PfnPXVcQbGwTkqMyW1evv</guid>
+			
+
+			<title><![CDATA[ 第20讲：容器集群调度和基于容器的发布体系.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第20讲：容器集群调度和基于容器的发布体系.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第20讲：容器集群调度和基于容器的发布体系.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第20讲：容器集群调度和基于容器的发布体系.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CKI1rqET0d9PfnPXVcQbGwTkqMyW1evv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1C8yfUrtJ8XYqJQ4Q8K72PvGOnn2ga0wD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1C8yfUrtJ8XYqJQ4Q8K72PvGOnn2ga0wD</guid>
+			
+
+			<title><![CDATA[ 第19讲：Docker 容器部署技术 & 持续交付流水线.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第19讲：Docker 容器部署技术 & 持续交付流水线.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第19讲：Docker 容器部署技术 & 持续交付流水线.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第19讲：Docker 容器部署技术 & 持续交付流水线.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1C8yfUrtJ8XYqJQ4Q8K72PvGOnn2ga0wD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Bkt0j7POvaJf7L48fCebsvMVpp1ZF7lC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Bkt0j7POvaJf7L48fCebsvMVpp1ZF7lC</guid>
+			
+
+			<title><![CDATA[ 第18讲：微服务的容错限流是如何工作的？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第18讲：微服务的容错限流是如何工作的？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第18讲：微服务的容错限流是如何工作的？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第18讲：微服务的容错限流是如何工作的？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Bkt0j7POvaJf7L48fCebsvMVpp1ZF7lC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BiUcIGlpzkw7adruie5zZh57xHN8cCOM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BiUcIGlpzkw7adruie5zZh57xHN8cCOM</guid>
+			
+
+			<title><![CDATA[ 第17讲：微服务的调用链监控该如何选型？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第17讲：微服务的调用链监控该如何选型？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第17讲：微服务的调用链监控该如何选型？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第17讲：微服务的调用链监控该如何选型？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BiUcIGlpzkw7adruie5zZh57xHN8cCOM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BSxr0IGb5KlN1KfQ6-hsEYtt2iYjv30T</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BSxr0IGb5KlN1KfQ6-hsEYtt2iYjv30T</guid>
+			
+
+			<title><![CDATA[ 第16讲：微服务监控系统分层和监控架构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第16讲：微服务监控系统分层和监控架构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第16讲：微服务监控系统分层和监控架构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第16讲：微服务监控系统分层和监控架构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BSxr0IGb5KlN1KfQ6-hsEYtt2iYjv30T"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BR_2mY180LI4leu_Trrq9-kpZh3uP_IM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BR_2mY180LI4leu_Trrq9-kpZh3uP_IM</guid>
+			
+
+			<title><![CDATA[ 第15讲：微服务框架需要考虑哪些治理环节？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第15讲：微服务框架需要考虑哪些治理环节？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第15讲：微服务框架需要考虑哪些治理环节？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第15讲：微服务框架需要考虑哪些治理环节？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BR_2mY180LI4leu_Trrq9-kpZh3uP_IM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BHG49o5suA-45Lf4qBvVW3faFLJoPJhW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BHG49o5suA-45Lf4qBvVW3faFLJoPJhW</guid>
+			
+
+			<title><![CDATA[ 第14讲：微服务通讯方式 RPC vs REST.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第14讲：微服务通讯方式 RPC vs REST.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第14讲：微服务通讯方式 RPC vs REST.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第14讲：微服务通讯方式 RPC vs REST.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BHG49o5suA-45Lf4qBvVW3faFLJoPJhW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BBozeFmz4eBkHpxXJPTVp5-tEYFDosi2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BBozeFmz4eBkHpxXJPTVp5-tEYFDosi2</guid>
+			
+
+			<title><![CDATA[ 第13讲：集中式配置中心的作用和原理是什么？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第13讲：集中式配置中心的作用和原理是什么？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第13讲：集中式配置中心的作用和原理是什么？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第13讲：集中式配置中心的作用和原理是什么？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BBozeFmz4eBkHpxXJPTVp5-tEYFDosi2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1B2pG-v9t8Hfi3pl2a0cgdj8AvxAS0rEQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1B2pG-v9t8Hfi3pl2a0cgdj8AvxAS0rEQ</guid>
+			
+
+			<title><![CDATA[ 第12讲：跟 Netflix 学习微服务路由发现体系.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第12讲：跟 Netflix 学习微服务路由发现体系.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第12讲：跟 Netflix 学习微服务路由发现体系.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第12讲：跟 Netflix 学习微服务路由发现体系.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1B2pG-v9t8Hfi3pl2a0cgdj8AvxAS0rEQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AzZRuBdRQFNeZjVrcD9UGkxyHsLt3zvh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AzZRuBdRQFNeZjVrcD9UGkxyHsLt3zvh</guid>
+			
+
+			<title><![CDATA[ 第11讲：微服务 API 服务网关（二）开源网关 Zuul.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第11讲：微服务 API 服务网关（二）开源网关 Zuul.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第11讲：微服务 API 服务网关（二）开源网关 Zuul.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第11讲：微服务 API 服务网关（二）开源网关 Zuul.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AzZRuBdRQFNeZjVrcD9UGkxyHsLt3zvh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Aq3sXgeXfEWGrjsnRlr7tkEkjDwSarS2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Aq3sXgeXfEWGrjsnRlr7tkEkjDwSarS2</guid>
+			
+
+			<title><![CDATA[ 第10讲：微服务 API 服务网关（一）原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第10讲：微服务 API 服务网关（一）原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第10讲：微服务 API 服务网关（一）原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第10讲：微服务 API 服务网关（一）原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Aq3sXgeXfEWGrjsnRlr7tkEkjDwSarS2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AoiZuQT7vT4D4iviLLsg_aG_YFFWm4Li</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AoiZuQT7vT4D4iviLLsg_aG_YFFWm4Li</guid>
+			
+
+			<title><![CDATA[ 第09讲：微服务最经典的三种服务发现机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第09讲：微服务最经典的三种服务发现机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第09讲：微服务最经典的三种服务发现机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第09讲：微服务最经典的三种服务发现机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AoiZuQT7vT4D4iviLLsg_aG_YFFWm4Li"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AkPSZbN0gsytvJV-kkc5UW9G_F9BBNed</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AkPSZbN0gsytvJV-kkc5UW9G_F9BBNed</guid>
+			
+
+			<title><![CDATA[ 第08讲：微服务总体技术架构体系是怎样设计的？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第08讲：微服务总体技术架构体系是怎样设计的？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第08讲：微服务总体技术架构体系是怎样设计的？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第08讲：微服务总体技术架构体系是怎样设计的？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AkPSZbN0gsytvJV-kkc5UW9G_F9BBNed"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AYbgqKN1O-zZEIcOW2LcmLtPFh7FpLn6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AYbgqKN1O-zZEIcOW2LcmLtPFh7FpLn6</guid>
+			
+
+			<title><![CDATA[ 第07讲：如何给出一个清晰简洁的服务分层方式？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第07讲：如何给出一个清晰简洁的服务分层方式？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第07讲：如何给出一个清晰简洁的服务分层方式？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第07讲：如何给出一个清晰简洁的服务分层方式？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AYbgqKN1O-zZEIcOW2LcmLtPFh7FpLn6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AJRZfS0JC7Eqrly2E-EAXtLTm-003vGG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AJRZfS0JC7Eqrly2E-EAXtLTm-003vGG</guid>
+			
+
+			<title><![CDATA[ 第06讲：如何理解阿里巴巴提出的微服务中台战略？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第06讲：如何理解阿里巴巴提出的微服务中台战略？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第06讲：如何理解阿里巴巴提出的微服务中台战略？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第06讲：如何理解阿里巴巴提出的微服务中台战略？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AJRZfS0JC7Eqrly2E-EAXtLTm-003vGG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AAKAfb5TIfQs-OjQltrAXAnbMky5XxDL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AAKAfb5TIfQs-OjQltrAXAnbMky5XxDL</guid>
+			
+
+			<title><![CDATA[ 第05讲：什么样的组织架构更适合微服务？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第05讲：什么样的组织架构更适合微服务？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第05讲：什么样的组织架构更适合微服务？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第05讲：什么样的组织架构更适合微服务？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AAKAfb5TIfQs-OjQltrAXAnbMky5XxDL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A76XJQ3ApcLF7vrwTWQKrV_mI7WbMdhU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A76XJQ3ApcLF7vrwTWQKrV_mI7WbMdhU</guid>
+			
+
+			<title><![CDATA[ 第04讲：企业应该在什么时候开始考虑引入微服务？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第04讲：企业应该在什么时候开始考虑引入微服务？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第04讲：企业应该在什么时候开始考虑引入微服务？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第04讲：企业应该在什么时候开始考虑引入微服务？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A76XJQ3ApcLF7vrwTWQKrV_mI7WbMdhU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A02SS9THsg101j2bTcOc77jlYau6UwCd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A02SS9THsg101j2bTcOc77jlYau6UwCd</guid>
+			
+
+			<title><![CDATA[ 第03讲：康威法则和微服务给架构师怎样的启示？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第03讲：康威法则和微服务给架构师怎样的启示？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第03讲：康威法则和微服务给架构师怎样的启示？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第03讲：康威法则和微服务给架构师怎样的启示？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A02SS9THsg101j2bTcOc77jlYau6UwCd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19ygcIW_CsVN3gYRdwRTmOsSiAulv5nLK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19ygcIW_CsVN3gYRdwRTmOsSiAulv5nLK</guid>
+			
+
+			<title><![CDATA[ 第02讲：架构师如何权衡微服务的利弊？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第02讲：架构师如何权衡微服务的利弊？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第02讲：架构师如何权衡微服务的利弊？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第02讲：架构师如何权衡微服务的利弊？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19ygcIW_CsVN3gYRdwRTmOsSiAulv5nLK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19wOW5FrGWyzxXvaBUOj4PE9YznBb6W4t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19wOW5FrGWyzxXvaBUOj4PE9YznBb6W4t</guid>
+			
+
+			<title><![CDATA[ 第01讲：什么是微服务架构？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第01讲：什么是微服务架构？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第01讲：什么是微服务架构？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第01讲：什么是微服务架构？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19wOW5FrGWyzxXvaBUOj4PE9YznBb6W4t"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

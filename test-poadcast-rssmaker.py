@@ -68,6 +68,8 @@ def list_folder_recur(folder_id, folder_name):
             print(id, full_name)
             if '.mp3' in file['name']:
                 rss.add(name, makeGDriveLink(id))
+            elif '.mp4' in file['name']:
+                rss.add(name + '-mp4', makeGDriveLink(id))
     rss.save(folder_name)
 
         

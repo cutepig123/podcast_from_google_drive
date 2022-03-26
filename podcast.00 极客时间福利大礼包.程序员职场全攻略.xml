@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .00 极客时间福利大礼包.程序员职场全攻略 ]]></title>
+		<itunes:subtitle><![CDATA[ .00 极客时间福利大礼包.程序员职场全攻略 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .00 极客时间福利大礼包.程序员职场全攻略. ]]></itunes:summary>
+		<description><![CDATA[ .00 极客时间福利大礼包.程序员职场全攻略 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1k1_SBFGCw69jpR_s0nT68sDlno4W03Q-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1k1_SBFGCw69jpR_s0nT68sDlno4W03Q-</guid>
+			
+
+			<title><![CDATA[ 卓越程序员炼成记.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 卓越程序员炼成记.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 卓越程序员炼成记.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 卓越程序员炼成记.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1k1_SBFGCw69jpR_s0nT68sDlno4W03Q-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jWwnERQ-RGym6LaXl658f6PCYEcFNJOG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jWwnERQ-RGym6LaXl658f6PCYEcFNJOG</guid>
+			
+
+			<title><![CDATA[ 如何成为一名出色的算法工程师.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 如何成为一名出色的算法工程师.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 如何成为一名出色的算法工程师.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 如何成为一名出色的算法工程师.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jWwnERQ-RGym6LaXl658f6PCYEcFNJOG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jDS5ELmXkjrqvD5oqDjzF_hwIogSG7n_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jDS5ELmXkjrqvD5oqDjzF_hwIogSG7n_</guid>
+			
+
+			<title><![CDATA[ 让BAT的offer不再难拿.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 让BAT的offer不再难拿.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 让BAT的offer不再难拿.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 让BAT的offer不再难拿.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jDS5ELmXkjrqvD5oqDjzF_hwIogSG7n_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1itmRT045E271TsgFsjdaIOfEvsbShjuc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1itmRT045E271TsgFsjdaIOfEvsbShjuc</guid>
+			
+
+			<title><![CDATA[ 程序员女子图鉴.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 程序员女子图鉴.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 程序员女子图鉴.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 程序员女子图鉴.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1itmRT045E271TsgFsjdaIOfEvsbShjuc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1icxA3gJiPKa-aO6BOiR-3uN32nGFbuy5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1icxA3gJiPKa-aO6BOiR-3uN32nGFbuy5</guid>
+			
+
+			<title><![CDATA[ 程序员40岁后改如何发展.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 程序员40岁后改如何发展.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 程序员40岁后改如何发展.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 程序员40岁后改如何发展.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1icxA3gJiPKa-aO6BOiR-3uN32nGFbuy5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iPjuUbCGF4KW8zeGum-F7UXPvpmR6hoS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iPjuUbCGF4KW8zeGum-F7UXPvpmR6hoS</guid>
+			
+
+			<title><![CDATA[ 成为全能CTO的必备要素.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 成为全能CTO的必备要素.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 成为全能CTO的必备要素.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 成为全能CTO的必备要素.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iPjuUbCGF4KW8zeGum-F7UXPvpmR6hoS"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

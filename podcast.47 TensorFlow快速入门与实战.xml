@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .47 TensorFlow快速入门与实战 ]]></title>
+		<itunes:subtitle><![CDATA[ .47 TensorFlow快速入门与实战 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .47 TensorFlow快速入门与实战. ]]></itunes:summary>
+		<description><![CDATA[ .47 TensorFlow快速入门与实战 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1JAuMv8QB0a59cr27f1tWGyUPPXA3HtDS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JAuMv8QB0a59cr27f1tWGyUPPXA3HtDS</guid>
+			
+
+			<title><![CDATA[ 66讲课程总结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 66讲课程总结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 66讲课程总结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 66讲课程总结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JAuMv8QB0a59cr27f1tWGyUPPXA3HtDS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J6ly94W7zrFvsblplHzVerxiCGCcZ1MZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J6ly94W7zrFvsblplHzVerxiCGCcZ1MZ</guid>
+			
+
+			<title><![CDATA[ 65讲MLGDE是TensorFlow社区与开发者的桥梁.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 65讲MLGDE是TensorFlow社区与开发者的桥梁.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 65讲MLGDE是TensorFlow社区与开发者的桥梁.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 65讲MLGDE是TensorFlow社区与开发者的桥梁.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J6ly94W7zrFvsblplHzVerxiCGCcZ1MZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J4RKN7hbR318N9MvjB4BWcorIqF_Tiw3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J4RKN7hbR318N9MvjB4BWcorIqF_Tiw3</guid>
+			
+
+			<title><![CDATA[ 64讲如何参与TensorFlow社区开源贡献.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 64讲如何参与TensorFlow社区开源贡献.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 64讲如何参与TensorFlow社区开源贡献.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 64讲如何参与TensorFlow社区开源贡献.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J4RKN7hbR318N9MvjB4BWcorIqF_Tiw3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J29OyqiaKLTPG2XgYANKf93_VKQB_SS6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J29OyqiaKLTPG2XgYANKf93_VKQB_SS6</guid>
+			
+
+			<title><![CDATA[ 63讲TensorFlow生态-Kubeflow.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 63讲TensorFlow生态-Kubeflow.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 63讲TensorFlow生态-Kubeflow.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 63讲TensorFlow生态-Kubeflow.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J29OyqiaKLTPG2XgYANKf93_VKQB_SS6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IsRxoRcEFfJXYNsEcA7fzb1SmRJ5gNqB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IsRxoRcEFfJXYNsEcA7fzb1SmRJ5gNqB</guid>
+			
+
+			<title><![CDATA[ 62讲TensorFlow生态-TFX.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62讲TensorFlow生态-TFX.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62讲TensorFlow生态-TFX.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62讲TensorFlow生态-TFX.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IsRxoRcEFfJXYNsEcA7fzb1SmRJ5gNqB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ij8YweJXzjmM75xQ5Y3BnDNtNSHMDGJC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ij8YweJXzjmM75xQ5Y3BnDNtNSHMDGJC</guid>
+			
+
+			<title><![CDATA[ 61讲TensorFlow社区介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61讲TensorFlow社区介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61讲TensorFlow社区介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61讲TensorFlow社区介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ij8YweJXzjmM75xQ5Y3BnDNtNSHMDGJC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I_NtRiYXveH0EyNT4ZniFFNEiNaWYHFx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I_NtRiYXveH0EyNT4ZniFFNEiNaWYHFx</guid>
+			
+
+			<title><![CDATA[ 60讲番外篇内容介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60讲番外篇内容介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60讲番外篇内容介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60讲番外篇内容介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I_NtRiYXveH0EyNT4ZniFFNEiNaWYHFx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IUiPIXJxUoCo6LYbT4HTy-dG2l0oSsy2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IUiPIXJxUoCo6LYbT4HTy-dG2l0oSsy2</guid>
+			
+
+			<title><![CDATA[ 59讲测试与可视化分析.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59讲测试与可视化分析.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59讲测试与可视化分析.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59讲测试与可视化分析.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IUiPIXJxUoCo6LYbT4HTy-dG2l0oSsy2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IOG6mWlJC65QECPQT6fouegnaiCJocWR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IOG6mWlJC65QECPQT6fouegnaiCJocWR</guid>
+			
+
+			<title><![CDATA[ 58讲实战FaceNet人脸识别模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58讲实战FaceNet人脸识别模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58讲实战FaceNet人脸识别模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58讲实战FaceNet人脸识别模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IOG6mWlJC65QECPQT6fouegnaiCJocWR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IIoThgwQ3xPuEVmPzedy0g9oCOTOL31m</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IIoThgwQ3xPuEVmPzedy0g9oCOTOL31m</guid>
+			
+
+			<title><![CDATA[ 57讲解析FaceNet人脸识别模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57讲解析FaceNet人脸识别模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57讲解析FaceNet人脸识别模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57讲解析FaceNet人脸识别模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IIoThgwQ3xPuEVmPzedy0g9oCOTOL31m"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IBuSOH9aAKnwqNo7eIkHcvW_WmCl-Jqh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IBuSOH9aAKnwqNo7eIkHcvW_WmCl-Jqh</guid>
+			
+
+			<title><![CDATA[ 56讲人脸检测工具介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56讲人脸检测工具介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56讲人脸检测工具介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56讲人脸检测工具介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IBuSOH9aAKnwqNo7eIkHcvW_WmCl-Jqh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HlQgnSwpByZQ1v-vmr_ASrVmPX45Q0Id</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HlQgnSwpByZQ1v-vmr_ASrVmPX45Q0Id</guid>
+			
+
+			<title><![CDATA[ 55讲人脸识别算法介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55讲人脸识别算法介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55讲人脸识别算法介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55讲人脸识别算法介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HlQgnSwpByZQ1v-vmr_ASrVmPX45Q0Id"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Hg3YQWP6hWBG31lEBCdm_ut-GNelio8M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Hg3YQWP6hWBG31lEBCdm_ut-GNelio8M</guid>
+			
+
+			<title><![CDATA[ 54讲人脸检测算法介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54讲人脸检测算法介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54讲人脸检测算法介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54讲人脸检测算法介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Hg3YQWP6hWBG31lEBCdm_ut-GNelio8M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HeHC5kzzDMr7ZhAep9CN5rKcl6crn7JK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HeHC5kzzDMr7ZhAep9CN5rKcl6crn7JK</guid>
+			
+
+			<title><![CDATA[ 53讲典型人脸相关数据集介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53讲典型人脸相关数据集介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53讲典型人脸相关数据集介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53讲典型人脸相关数据集介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HeHC5kzzDMr7ZhAep9CN5rKcl6crn7JK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HXut-4BXcwKiB83SWizGPrCBs3HeOrPP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HXut-4BXcwKiB83SWizGPrCBs3HeOrPP</guid>
+			
+
+			<title><![CDATA[ 52讲人脸识别问题概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52讲人脸识别问题概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52讲人脸识别问题概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52讲人脸识别问题概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HXut-4BXcwKiB83SWizGPrCBs3HeOrPP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HDevBnUGuNQ0JF4SQnzS8BQTh8vGoDfJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HDevBnUGuNQ0JF4SQnzS8BQTh8vGoDfJ</guid>
+			
+
+			<title><![CDATA[ 51讲第七部分内容介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51讲第七部分内容介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51讲第七部分内容介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51讲第七部分内容介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HDevBnUGuNQ0JF4SQnzS8BQTh8vGoDfJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H606YWMfgsXE7kbDAPN1IV0GfiWWVtgY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H606YWMfgsXE7kbDAPN1IV0GfiWWVtgY</guid>
+			
+
+			<title><![CDATA[ 50讲模型部署与效果演示.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50讲模型部署与效果演示.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50讲模型部署与效果演示.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50讲模型部署与效果演示.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H606YWMfgsXE7kbDAPN1IV0GfiWWVtgY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H0I7hHD8HZr3omzd9h0l9eYnRzhSFu4-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H0I7hHD8HZr3omzd9h0l9eYnRzhSFu4-</guid>
+			
+
+			<title><![CDATA[ 49讲模型训练过程分析.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49讲模型训练过程分析.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49讲模型训练过程分析.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49讲模型训练过程分析.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H0I7hHD8HZr3omzd9h0l9eYnRzhSFu4-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gy-93kfqIKSvWkOfPonmhG7QQsUJNDYx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gy-93kfqIKSvWkOfPonmhG7QQsUJNDYx</guid>
+			
+
+			<title><![CDATA[ 48讲模型损失函数设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48讲模型损失函数设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48讲模型损失函数设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48讲模型损失函数设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gy-93kfqIKSvWkOfPonmhG7QQsUJNDYx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GmHipAOMF5leR9u53a6WMS69U-M4eRQG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GmHipAOMF5leR9u53a6WMS69U-M4eRQG</guid>
+			
+
+			<title><![CDATA[ 47讲模型结构设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47讲模型结构设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47讲模型结构设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47讲模型结构设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GmHipAOMF5leR9u53a6WMS69U-M4eRQG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gh97DZuSZuAkIh5eWv1IZPi9z-fHPNHA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gh97DZuSZuAkIh5eWv1IZPi9z-fHPNHA</guid>
+			
+
+			<title><![CDATA[ 46讲输入与输出数据处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46讲输入与输出数据处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46讲输入与输出数据处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46讲输入与输出数据处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gh97DZuSZuAkIh5eWv1IZPi9z-fHPNHA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GcEFzv3q5sC2G0iVIWwZz6Bi5MhMRQua</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GcEFzv3q5sC2G0iVIWwZz6Bi5MhMRQua</guid>
+			
+
+			<title><![CDATA[ 45讲生成验证码数据集.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45讲生成验证码数据集.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45讲生成验证码数据集.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45讲生成验证码数据集.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GcEFzv3q5sC2G0iVIWwZz6Bi5MhMRQua"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GTUYhVpAydAOHOcCCzsZ-O16116YrTmt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GTUYhVpAydAOHOcCCzsZ-O16116YrTmt</guid>
+			
+
+			<title><![CDATA[ 44讲准备模型开发环境.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44讲准备模型开发环境.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44讲准备模型开发环境.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44讲准备模型开发环境.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GTUYhVpAydAOHOcCCzsZ-O16116YrTmt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GRKHFRgGKy1v6DV1x2j2gxEDT7uq2gLx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GRKHFRgGKy1v6DV1x2j2gxEDT7uq2gLx</guid>
+			
+
+			<title><![CDATA[ 43讲第六章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43讲第六章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43讲第六章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43讲第六章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GRKHFRgGKy1v6DV1x2j2gxEDT7uq2gLx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GK3anK6r25XcgxDQH0ww2y0swlPY7ISQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GK3anK6r25XcgxDQH0ww2y0swlPY7ISQ</guid>
+			
+
+			<title><![CDATA[ 42讲实战MNISTCNN网络.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42讲实战MNISTCNN网络.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42讲实战MNISTCNN网络.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42讲实战MNISTCNN网络.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GK3anK6r25XcgxDQH0ww2y0swlPY7ISQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GAxMYpkeBo-scYquy0LO3-rn6M5e2xdz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GAxMYpkeBo-scYquy0LO3-rn6M5e2xdz</guid>
+			
+
+			<title><![CDATA[ 41讲MNISTCNN网络介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41讲MNISTCNN网络介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41讲MNISTCNN网络介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41讲MNISTCNN网络介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GAxMYpkeBo-scYquy0LO3-rn6M5e2xdz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G2QHwHjK6F7Lm4DzZCtncvZZ4jzkZ9dm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G2QHwHjK6F7Lm4DzZCtncvZZ4jzkZ9dm</guid>
+			
+
+			<title><![CDATA[ 40讲实战MNISTSoftmax网络（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40讲实战MNISTSoftmax网络（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40讲实战MNISTSoftmax网络（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40讲实战MNISTSoftmax网络（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G2QHwHjK6F7Lm4DzZCtncvZZ4jzkZ9dm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FwoRonOC9MZstkOa5NiM7iGzTHgGckow</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FwoRonOC9MZstkOa5NiM7iGzTHgGckow</guid>
+			
+
+			<title><![CDATA[ 39讲实战MNISTSoftmax网络（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39讲实战MNISTSoftmax网络（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39讲实战MNISTSoftmax网络（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39讲实战MNISTSoftmax网络（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FwoRonOC9MZstkOa5NiM7iGzTHgGckow"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FwJIDtKVX1sewm-o1Gpk4BEZvxs_76y8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FwJIDtKVX1sewm-o1Gpk4BEZvxs_76y8</guid>
+			
+
+			<title><![CDATA[ 38讲MNISTSoftmax网络介绍（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38讲MNISTSoftmax网络介绍（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38讲MNISTSoftmax网络介绍（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38讲MNISTSoftmax网络介绍（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FwJIDtKVX1sewm-o1Gpk4BEZvxs_76y8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FqIm_evnUYeZwmrZ83AGZFf11ntXmC2U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FqIm_evnUYeZwmrZ83AGZFf11ntXmC2U</guid>
+			
+
+			<title><![CDATA[ 37讲MNISTSoftmax网络介绍（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37讲MNISTSoftmax网络介绍（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37讲MNISTSoftmax网络介绍（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37讲MNISTSoftmax网络介绍（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FqIm_evnUYeZwmrZ83AGZFf11ntXmC2U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FgI_0QLN4WxV6-zuoAcdN7IouYwjr8aX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FgI_0QLN4WxV6-zuoAcdN7IouYwjr8aX</guid>
+			
+
+			<title><![CDATA[ 36讲手写体数字数据集MNIST介绍（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36讲手写体数字数据集MNIST介绍（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36讲手写体数字数据集MNIST介绍（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36讲手写体数字数据集MNIST介绍（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FgI_0QLN4WxV6-zuoAcdN7IouYwjr8aX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FaAV50k6boXXb398suS6itrL5Ij8A90Z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FaAV50k6boXXb398suS6itrL5Ij8A90Z</guid>
+			
+
+			<title><![CDATA[ 35讲手写体数字数据集MNIST介绍（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35讲手写体数字数据集MNIST介绍（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35讲手写体数字数据集MNIST介绍（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35讲手写体数字数据集MNIST介绍（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FaAV50k6boXXb398suS6itrL5Ij8A90Z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FWfi8NvN9rD0xa5Ri3J-svjsIbU1Tnbo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FWfi8NvN9rD0xa5Ri3J-svjsIbU1Tnbo</guid>
+			
+
+			<title><![CDATA[ 34讲第五章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34讲第五章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34讲第五章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34讲第五章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FWfi8NvN9rD0xa5Ri3J-svjsIbU1Tnbo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FS7WLnZINZsl__gjgvUczKL5w5orpUIb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FS7WLnZINZsl__gjgvUczKL5w5orpUIb</guid>
+			
+
+			<title><![CDATA[ 33讲实战房价预测模型-可视化数据流图.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33讲实战房价预测模型-可视化数据流图.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33讲实战房价预测模型-可视化数据流图.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33讲实战房价预测模型-可视化数据流图.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FS7WLnZINZsl__gjgvUczKL5w5orpUIb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FGpW1VN1kjQl8nZeN-RsBsORkGjKmYd_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FGpW1VN1kjQl8nZeN-RsBsORkGjKmYd_</guid>
+			
+
+			<title><![CDATA[ 32讲实战房价预测模型-创建与训练.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32讲实战房价预测模型-创建与训练.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32讲实战房价预测模型-创建与训练.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32讲实战房价预测模型-创建与训练.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FGpW1VN1kjQl8nZeN-RsBsORkGjKmYd_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FGNGiQ_tDbPnCER7IWSuUjAH1PO7qsRe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FGNGiQ_tDbPnCER7IWSuUjAH1PO7qsRe</guid>
+			
+
+			<title><![CDATA[ 31讲实战房价预测模型-数据分析与处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31讲实战房价预测模型-数据分析与处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31讲实战房价预测模型-数据分析与处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31讲实战房价预测模型-数据分析与处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FGNGiQ_tDbPnCER7IWSuUjAH1PO7qsRe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1F2OCv67iY1rE6QWIFO0cvLdq7V_hwE1p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1F2OCv67iY1rE6QWIFO0cvLdq7V_hwE1p</guid>
+			
+
+			<title><![CDATA[ 30讲使用TensorBoard可视化数据流图.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30讲使用TensorBoard可视化数据流图.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30讲使用TensorBoard可视化数据流图.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30讲使用TensorBoard可视化数据流图.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1F2OCv67iY1rE6QWIFO0cvLdq7V_hwE1p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EnDRbn4c5CFcULyRj6z8vYod_TBVWQ8U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EnDRbn4c5CFcULyRj6z8vYod_TBVWQ8U</guid>
+			
+
+			<title><![CDATA[ 29讲TensorBoard可视化工具介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29讲TensorBoard可视化工具介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29讲TensorBoard可视化工具介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29讲TensorBoard可视化工具介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EnDRbn4c5CFcULyRj6z8vYod_TBVWQ8U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Efq02O08dQkzFTnQEj8_SDJXX0pELqsz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Efq02O08dQkzFTnQEj8_SDJXX0pELqsz</guid>
+			
+
+			<title><![CDATA[ 28讲房价预测模型之创建与训练.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28讲房价预测模型之创建与训练.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28讲房价预测模型之创建与训练.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28讲房价预测模型之创建与训练.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Efq02O08dQkzFTnQEj8_SDJXX0pELqsz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EXF6-WGeXUTFhPk_fU93MHD3vIBH0q6_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EXF6-WGeXUTFhPk_fU93MHD3vIBH0q6_</guid>
+			
+
+			<title><![CDATA[ 27讲房价预测模型之数据处理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27讲房价预测模型之数据处理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27讲房价预测模型之数据处理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27讲房价预测模型之数据处理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EXF6-WGeXUTFhPk_fU93MHD3vIBH0q6_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ET0D0TV8YSuVZ2Qkp6Doin8EtBm77ZJR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ET0D0TV8YSuVZ2Qkp6Doin8EtBm77ZJR</guid>
+			
+
+			<title><![CDATA[ 26讲房价预测模型介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26讲房价预测模型介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26讲房价预测模型介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26讲房价预测模型介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ET0D0TV8YSuVZ2Qkp6Doin8EtBm77ZJR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EPZ4D-O-XAefGazpVNTZ_LGjSYtpqK_w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EPZ4D-O-XAefGazpVNTZ_LGjSYtpqK_w</guid>
+			
+
+			<title><![CDATA[ 25讲房价预测模型的前置知识.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25讲房价预测模型的前置知识.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25讲房价预测模型的前置知识.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25讲房价预测模型的前置知识.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EPZ4D-O-XAefGazpVNTZ_LGjSYtpqK_w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ELgMo2Ocbrpl77sMhmEYkWBItjz-Wdsu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ELgMo2Ocbrpl77sMhmEYkWBItjz-Wdsu</guid>
+			
+
+			<title><![CDATA[ 24讲第四章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24讲第四章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24讲第四章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24讲第四章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ELgMo2Ocbrpl77sMhmEYkWBItjz-Wdsu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EGbcx1CQR42FKID_-FHIKcJpaRpSnjul</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EGbcx1CQR42FKID_-FHIKcJpaRpSnjul</guid>
+			
+
+			<title><![CDATA[ 23讲优化器（Optimizer）是什么.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23讲优化器（Optimizer）是什么.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23讲优化器（Optimizer）是什么.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23讲优化器（Optimizer）是什么.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EGbcx1CQR42FKID_-FHIKcJpaRpSnjul"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E26lMjg_kJW2vVMX6Fsqg71g7Wqmv9CB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E26lMjg_kJW2vVMX6Fsqg71g7Wqmv9CB</guid>
+			
+
+			<title><![CDATA[ 22讲会话（Session）是什么.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22讲会话（Session）是什么.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22讲会话（Session）是什么.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22讲会话（Session）是什么.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E26lMjg_kJW2vVMX6Fsqg71g7Wqmv9CB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E1eQTeAQWy9ebGcyZzjHQ6jBtelC9DX_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E1eQTeAQWy9ebGcyZzjHQ6jBtelC9DX_</guid>
+			
+
+			<title><![CDATA[ 21讲操作（Operation）是什么（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21讲操作（Operation）是什么（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21讲操作（Operation）是什么（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21讲操作（Operation）是什么（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E1eQTeAQWy9ebGcyZzjHQ6jBtelC9DX_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E0mr_b7YvcGlpHIj9d8ePUHoWvEfOXds</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E0mr_b7YvcGlpHIj9d8ePUHoWvEfOXds</guid>
+			
+
+			<title><![CDATA[ 20讲操作（Operation）是什么（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20讲操作（Operation）是什么（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20讲操作（Operation）是什么（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20讲操作（Operation）是什么（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E0mr_b7YvcGlpHIj9d8ePUHoWvEfOXds"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dw3UcI4PX2JBSZha7GRrMNyIvwXSsu3Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dw3UcI4PX2JBSZha7GRrMNyIvwXSsu3Y</guid>
+			
+
+			<title><![CDATA[ 19讲变量（Variable）是什么（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19讲变量（Variable）是什么（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19讲变量（Variable）是什么（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19讲变量（Variable）是什么（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dw3UcI4PX2JBSZha7GRrMNyIvwXSsu3Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DkzCa-R11S3OLN-fx3EDgi9OEK6IIHNA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DkzCa-R11S3OLN-fx3EDgi9OEK6IIHNA</guid>
+			
+
+			<title><![CDATA[ 18讲变量（Variable）是什么（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18讲变量（Variable）是什么（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18讲变量（Variable）是什么（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18讲变量（Variable）是什么（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DkzCa-R11S3OLN-fx3EDgi9OEK6IIHNA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DXMLYmSntWzuxOnEbv9sQhC_t42ldE3j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DXMLYmSntWzuxOnEbv9sQhC_t42ldE3j</guid>
+			
+
+			<title><![CDATA[ 17讲张量（Tensor）是什么（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17讲张量（Tensor）是什么（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17讲张量（Tensor）是什么（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17讲张量（Tensor）是什么（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DXMLYmSntWzuxOnEbv9sQhC_t42ldE3j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DW1pxWbAyDcBeSnRu7GhyCzIeFNs7FsA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DW1pxWbAyDcBeSnRu7GhyCzIeFNs7FsA</guid>
+			
+
+			<title><![CDATA[ 16讲张量（Tensor）是什么（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16讲张量（Tensor）是什么（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16讲张量（Tensor）是什么（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16讲张量（Tensor）是什么（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DW1pxWbAyDcBeSnRu7GhyCzIeFNs7FsA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DLKFINq5KPke7TtQW-Tfqls89xsM1VIf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DLKFINq5KPke7TtQW-Tfqls89xsM1VIf</guid>
+			
+
+			<title><![CDATA[ 15讲TensorFlow数据流图介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15讲TensorFlow数据流图介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15讲TensorFlow数据流图介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15讲TensorFlow数据流图介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DLKFINq5KPke7TtQW-Tfqls89xsM1VIf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DCle5MApbdGYf6lCYSDxPesMYsnlafuD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DCle5MApbdGYf6lCYSDxPesMYsnlafuD</guid>
+			
+
+			<title><![CDATA[ 14讲TensorFlow模块与架构介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14讲TensorFlow模块与架构介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14讲TensorFlow模块与架构介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14讲TensorFlow模块与架构介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DCle5MApbdGYf6lCYSDxPesMYsnlafuD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DAd-Mr3HHFMP5rn907_ktOlbYQ_7aXp0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DAd-Mr3HHFMP5rn907_ktOlbYQ_7aXp0</guid>
+			
+
+			<title><![CDATA[ 13讲第三章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13讲第三章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13讲第三章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13讲第三章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DAd-Mr3HHFMP5rn907_ktOlbYQ_7aXp0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1D2r4Wosv97UIaH2w9pjrtoLSYEU1ILpa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1D2r4Wosv97UIaH2w9pjrtoLSYEU1ILpa</guid>
+			
+
+			<title><![CDATA[ 12讲在容器中使用TensorFlow.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12讲在容器中使用TensorFlow.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12讲在容器中使用TensorFlow.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12讲在容器中使用TensorFlow.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1D2r4Wosv97UIaH2w9pjrtoLSYEU1ILpa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CrqogAkRXspoa_6HQ4lXsUBm0bGo3sAz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CrqogAkRXspoa_6HQ4lXsUBm0bGo3sAz</guid>
+			
+
+			<title><![CDATA[ 10讲HelloTensorFlow.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10讲HelloTensorFlow.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10讲HelloTensorFlow.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10讲HelloTensorFlow.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CrqogAkRXspoa_6HQ4lXsUBm0bGo3sAz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CptIizwe0Aq0ReUGmsEK-mmUsQKoGP0N</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CptIizwe0Aq0ReUGmsEK-mmUsQKoGP0N</guid>
+			
+
+			<title><![CDATA[ 09讲搭建你的TensorFlow开发环境.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09讲搭建你的TensorFlow开发环境.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09讲搭建你的TensorFlow开发环境.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09讲搭建你的TensorFlow开发环境.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CptIizwe0Aq0ReUGmsEK-mmUsQKoGP0N"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Cc6W5jBiEK6NSDscKh2efGOd6JVH3EaQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Cc6W5jBiEK6NSDscKh2efGOd6JVH3EaQ</guid>
+			
+
+			<title><![CDATA[ 08讲第二章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08讲第二章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08讲第二章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08讲第二章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Cc6W5jBiEK6NSDscKh2efGOd6JVH3EaQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CRHdOLJcwGsrAwZr5MRNC-N8RJIKTken</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CRHdOLJcwGsrAwZr5MRNC-N8RJIKTken</guid>
+			
+
+			<title><![CDATA[ 07讲TensorFlow的发展现状.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07讲TensorFlow的发展现状.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07讲TensorFlow的发展现状.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07讲TensorFlow的发展现状.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CRHdOLJcwGsrAwZr5MRNC-N8RJIKTken"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CGX9W9v-NgbqkyZaPAjurHF6MBm1fVhA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CGX9W9v-NgbqkyZaPAjurHF6MBm1fVhA</guid>
+			
+
+			<title><![CDATA[ 06讲TensorFlow的落地应用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06讲TensorFlow的落地应用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06讲TensorFlow的落地应用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06讲TensorFlow的落地应用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CGX9W9v-NgbqkyZaPAjurHF6MBm1fVhA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CDs7sRC88H-7fEMEyh2uffouCZZhhBpQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CDs7sRC88H-7fEMEyh2uffouCZZhhBpQ</guid>
+			
+
+			<title><![CDATA[ 05讲TensorFlow的应用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05讲TensorFlow的应用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05讲TensorFlow的应用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05讲TensorFlow的应用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CDs7sRC88H-7fEMEyh2uffouCZZhhBpQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1C5j2H_TQWurbNi-OGoayASJWrdXCO0PG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1C5j2H_TQWurbNi-OGoayASJWrdXCO0PG</guid>
+			
+
+			<title><![CDATA[ 04讲TensorFlow与JeffDean的那些事.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04讲TensorFlow与JeffDean的那些事.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04讲TensorFlow与JeffDean的那些事.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04讲TensorFlow与JeffDean的那些事.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1C5j2H_TQWurbNi-OGoayASJWrdXCO0PG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1C-DLm5LeQb3VoWVe1mx8VFTqplf_u_tb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1C-DLm5LeQb3VoWVe1mx8VFTqplf_u_tb</guid>
+			
+
+			<title><![CDATA[ 03讲TensorFlow产生的历史必然性.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03讲TensorFlow产生的历史必然性.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03讲TensorFlow产生的历史必然性.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03讲TensorFlow产生的历史必然性.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1C-DLm5LeQb3VoWVe1mx8VFTqplf_u_tb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BsqSzcGCMAX76BtBP0KrKmNS3pzfZ_1Z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BsqSzcGCMAX76BtBP0KrKmNS3pzfZ_1Z</guid>
+			
+
+			<title><![CDATA[ 02讲第一章内容概述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02讲第一章内容概述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02讲第一章内容概述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02讲第一章内容概述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BsqSzcGCMAX76BtBP0KrKmNS3pzfZ_1Z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BpcwsiOdbl0SG7sEeVESzF2af88BXNAa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BpcwsiOdbl0SG7sEeVESzF2af88BXNAa</guid>
+			
+
+			<title><![CDATA[ 01讲课程内容综述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01讲课程内容综述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01讲课程内容综述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01讲课程内容综述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BpcwsiOdbl0SG7sEeVESzF2af88BXNAa"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

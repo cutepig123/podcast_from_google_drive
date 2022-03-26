@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第二章：JDBC必知必会 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第二章：JDBC必知必会 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第二章：JDBC必知必会. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第二章：JDBC必知必会 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1R0CmIQceBfZD08Shj8DgIt3dNg518TyW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R0CmIQceBfZD08Shj8DgIt3dNg518TyW</guid>
+			
+
+			<title><![CDATA[ 14课程答疑（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14课程答疑（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14课程答疑（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14课程答疑（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R0CmIQceBfZD08Shj8DgIt3dNg518TyW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QzdydK5bzhkBu1BTNPaGeD7mRA3FibpD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QzdydK5bzhkBu1BTNPaGeD7mRA3FibpD</guid>
+			
+
+			<title><![CDATA[ 13课程答疑（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13课程答疑（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13课程答疑（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13课程答疑（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QzdydK5bzhkBu1BTNPaGeD7mRA3FibpD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Qwvqi6BstSgSkCBXsDU32yYw8p1Ic3DA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Qwvqi6BstSgSkCBXsDU32yYw8p1Ic3DA</guid>
+			
+
+			<title><![CDATA[ 12讲了解Spring的JDBC异常抽象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12讲了解Spring的JDBC异常抽象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12讲了解Spring的JDBC异常抽象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12讲了解Spring的JDBC异常抽象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Qwvqi6BstSgSkCBXsDU32yYw8p1Ic3DA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QthM1lAUG2Oq0OFjBovpiSlgDFOwOfig</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QthM1lAUG2Oq0OFjBovpiSlgDFOwOfig</guid>
+			
+
+			<title><![CDATA[ 11讲什么是Spring的事务抽象（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11讲什么是Spring的事务抽象（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11讲什么是Spring的事务抽象（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11讲什么是Spring的事务抽象（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QthM1lAUG2Oq0OFjBovpiSlgDFOwOfig"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Qo-4XnBa2sQONnVP7ZZKC7AR0GHLH4se</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Qo-4XnBa2sQONnVP7ZZKC7AR0GHLH4se</guid>
+			
+
+			<title><![CDATA[ 10讲什么是Spring的事务抽象（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10讲什么是Spring的事务抽象（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10讲什么是Spring的事务抽象（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10讲什么是Spring的事务抽象（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Qo-4XnBa2sQONnVP7ZZKC7AR0GHLH4se"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Qj6VWTfWsFqpuibxt65MBdb9vqrPynwA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Qj6VWTfWsFqpuibxt65MBdb9vqrPynwA</guid>
+			
+
+			<title><![CDATA[ 09讲如何通过SpringJDBC访问数据库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09讲如何通过SpringJDBC访问数据库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09讲如何通过SpringJDBC访问数据库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09讲如何通过SpringJDBC访问数据库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Qj6VWTfWsFqpuibxt65MBdb9vqrPynwA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QiGZTkX4HgoAtjeobf-ROIbeO7KDhaZ6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QiGZTkX4HgoAtjeobf-ROIbeO7KDhaZ6</guid>
+			
+
+			<title><![CDATA[ 08讲那些好用的连接池们-AlibabaDruid.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08讲那些好用的连接池们-AlibabaDruid.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08讲那些好用的连接池们-AlibabaDruid.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08讲那些好用的连接池们-AlibabaDruid.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QiGZTkX4HgoAtjeobf-ROIbeO7KDhaZ6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QcETPI5glD1po46iN6TQiUWNwu9pZRR-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QcETPI5glD1po46iN6TQiUWNwu9pZRR-</guid>
+			
+
+			<title><![CDATA[ 07讲那些好用的连接池们-HikariCP.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07讲那些好用的连接池们-HikariCP.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07讲那些好用的连接池们-HikariCP.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07讲那些好用的连接池们-HikariCP.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QcETPI5glD1po46iN6TQiUWNwu9pZRR-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QW5iUr50if2aS4xBjhryYybDyI1qXZL4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QW5iUr50if2aS4xBjhryYybDyI1qXZL4</guid>
+			
+
+			<title><![CDATA[ 06讲如何配置多数据源.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06讲如何配置多数据源.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06讲如何配置多数据源.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06讲如何配置多数据源.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QW5iUr50if2aS4xBjhryYybDyI1qXZL4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QVf2zGvsl_x8C9UxV86Rgvo-4qSg2zYP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QVf2zGvsl_x8C9UxV86Rgvo-4qSg2zYP</guid>
+			
+
+			<title><![CDATA[ 05讲如何配置单数据源.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05讲如何配置单数据源.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05讲如何配置单数据源.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05讲如何配置单数据源.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QVf2zGvsl_x8C9UxV86Rgvo-4qSg2zYP"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

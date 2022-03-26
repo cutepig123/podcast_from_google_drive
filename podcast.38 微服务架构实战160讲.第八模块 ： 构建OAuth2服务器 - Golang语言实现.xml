@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第八模块 ： 构建OAuth2服务器 - Golang语言实现 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第八模块 ： 构建OAuth2服务器 - Golang语言实现 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第八模块 ： 构建OAuth2服务器 - Golang语言实现. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第八模块 ： 构建OAuth2服务器 - Golang语言实现 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1nXRzd-SgICVo3Iath-MlxfB-_5dXmDEA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nXRzd-SgICVo3Iath-MlxfB-_5dXmDEA</guid>
+			
+
+			<title><![CDATA[ 155.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 155.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 155.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 155.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nXRzd-SgICVo3Iath-MlxfB-_5dXmDEA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nUSOKAEKN4xlbS_CgbSWxvv3xczimgHl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nUSOKAEKN4xlbS_CgbSWxvv3xczimgHl</guid>
+			
+
+			<title><![CDATA[ 154.项目复盘和扩展环节.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 154.项目复盘和扩展环节.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 154.项目复盘和扩展环节.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 154.项目复盘和扩展环节.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nUSOKAEKN4xlbS_CgbSWxvv3xczimgHl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nS-vnuIMHYPu8MIOYptgQu2UZyDaBEsw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nS-vnuIMHYPu8MIOYptgQu2UZyDaBEsw</guid>
+			
+
+			<title><![CDATA[ 153.OAuth2令牌刷新实验(lab08).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 153.OAuth2令牌刷新实验(lab08).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 153.OAuth2令牌刷新实验(lab08).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 153.OAuth2令牌刷新实验(lab08).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nS-vnuIMHYPu8MIOYptgQu2UZyDaBEsw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1n3D5pMBAji-F1HXnSvmrtIlzB9_vOqzo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1n3D5pMBAji-F1HXnSvmrtIlzB9_vOqzo</guid>
+			
+
+			<title><![CDATA[ 152.OAuth2令牌校验实验(lab07).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 152.OAuth2令牌校验实验(lab07).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 152.OAuth2令牌校验实验(lab07).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 152.OAuth2令牌校验实验(lab07).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1n3D5pMBAji-F1HXnSvmrtIlzB9_vOqzo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mwfesAgzVlBmSx9ZdqbdnlfjHyUHiLQa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mwfesAgzVlBmSx9ZdqbdnlfjHyUHiLQa</guid>
+			
+
+			<title><![CDATA[ 151.OAuth2客户端模式实验(lab06).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 151.OAuth2客户端模式实验(lab06).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 151.OAuth2客户端模式实验(lab06).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 151.OAuth2客户端模式实验(lab06).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mwfesAgzVlBmSx9ZdqbdnlfjHyUHiLQa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mrmKGPzVxk-2zjb5QsBZNAKdIPsDV3yv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mrmKGPzVxk-2zjb5QsBZNAKdIPsDV3yv</guid>
+			
+
+			<title><![CDATA[ 150.OAuth2用户名密码模式实验(lab05).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 150.OAuth2用户名密码模式实验(lab05).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 150.OAuth2用户名密码模式实验(lab05).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 150.OAuth2用户名密码模式实验(lab05).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mrmKGPzVxk-2zjb5QsBZNAKdIPsDV3yv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mfNHIV8J5Z_d0IePfegST4qbb--evf7I</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mfNHIV8J5Z_d0IePfegST4qbb--evf7I</guid>
+			
+
+			<title><![CDATA[ 149.OAuth2简化模式实验(lab04).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 149.OAuth2简化模式实验(lab04).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 149.OAuth2简化模式实验(lab04).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 149.OAuth2简化模式实验(lab04).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mfNHIV8J5Z_d0IePfegST4qbb--evf7I"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mbLDdlX78hhFHLODqAtxFa3142XO0KAV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mbLDdlX78hhFHLODqAtxFa3142XO0KAV</guid>
+			
+
+			<title><![CDATA[ 148.OAuth2授权码模式实验(lab03).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 148.OAuth2授权码模式实验(lab03).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 148.OAuth2授权码模式实验(lab03).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 148.OAuth2授权码模式实验(lab03).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mbLDdlX78hhFHLODqAtxFa3142XO0KAV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mXsWpaaIXkM_rRmgS_N9KL5s2VhLYWnT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mXsWpaaIXkM_rRmgS_N9KL5s2VhLYWnT</guid>
+			
+
+			<title><![CDATA[ 147.起步准备实验(lab02).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 147.起步准备实验(lab02).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 147.起步准备实验(lab02).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 147.起步准备实验(lab02).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mXsWpaaIXkM_rRmgS_N9KL5s2VhLYWnT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mTzH-62VFQAANtWnIy8zLj0pvPG6tLQi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mTzH-62VFQAANtWnIy8zLj0pvPG6tLQi</guid>
+			
+
+			<title><![CDATA[ 146.启动流程(code review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 146.启动流程(code review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 146.启动流程(code review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 146.启动流程(code review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mTzH-62VFQAANtWnIy8zLj0pvPG6tLQi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mR5T5mbKmROBrtvPIIAEcVUYd04a2kWX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mR5T5mbKmROBrtvPIIAEcVUYd04a2kWX</guid>
+			
+
+			<title><![CDATA[ 145.Web服务模块(code review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 145.Web服务模块(code review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 145.Web服务模块(code review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 145.Web服务模块(code review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mR5T5mbKmROBrtvPIIAEcVUYd04a2kWX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mLF14q3bmDmcA-1RvmSM3CGqINBEHnDC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mLF14q3bmDmcA-1RvmSM3CGqINBEHnDC</guid>
+			
+
+			<title><![CDATA[ 144.OAuth2服务模块(code review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 144.OAuth2服务模块(code review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 144.OAuth2服务模块(code review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 144.OAuth2服务模块(code review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mLF14q3bmDmcA-1RvmSM3CGqINBEHnDC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mAx4a1wPvijeKRKgj7jZhn27y0pj_63j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mAx4a1wPvijeKRKgj7jZhn27y0pj_63j</guid>
+			
+
+			<title><![CDATA[ 143.数据访问模块(code review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 143.数据访问模块(code review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 143.数据访问模块(code review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 143.数据访问模块(code review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mAx4a1wPvijeKRKgj7jZhn27y0pj_63j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1m0eBIAZ_z0-vIfOvNDCcD__HTOUZ5xpE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1m0eBIAZ_z0-vIfOvNDCcD__HTOUZ5xpE</guid>
+			
+
+			<title><![CDATA[ 142.基础代码(code review).mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 142.基础代码(code review).mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 142.基础代码(code review).mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 142.基础代码(code review).mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1m0eBIAZ_z0-vIfOvNDCcD__HTOUZ5xpE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lwxjOaWKCoSQOPKSzb-FKPOU17N9Zy_a</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lwxjOaWKCoSQOPKSzb-FKPOU17N9Zy_a</guid>
+			
+
+			<title><![CDATA[ 141.开发环境搭建.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 141.开发环境搭建.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 141.开发环境搭建.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 141.开发环境搭建.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lwxjOaWKCoSQOPKSzb-FKPOU17N9Zy_a"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1loJVEr9hpTt9VT_3FMHiEsGPtOxcXSau</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1loJVEr9hpTt9VT_3FMHiEsGPtOxcXSau</guid>
+			
+
+			<title><![CDATA[ 140.架构和设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 140.架构和设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 140.架构和设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 140.架构和设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1loJVEr9hpTt9VT_3FMHiEsGPtOxcXSau"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1le0IjSNbGaz5VCR8552gCbkaULwHFKk4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1le0IjSNbGaz5VCR8552gCbkaULwHFKk4</guid>
+			
+
+			<title><![CDATA[ 139.课程概述和背景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 139.课程概述和背景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 139.课程概述和背景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 139.课程概述和背景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1le0IjSNbGaz5VCR8552gCbkaULwHFKk4"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第六模块 ：微服务注册发现Eureka Ribbon架构和实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第六模块 ：微服务注册发现Eureka Ribbon架构和实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第六模块 ：微服务注册发现Eureka Ribbon架构和实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第六模块 ：微服务注册发现Eureka Ribbon架构和实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1uPhia4U_VAu4z-09YEI3aJofy2hM9ClF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uPhia4U_VAu4z-09YEI3aJofy2hM9ClF</guid>
+			
+
+			<title><![CDATA[ 117.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 117.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 117.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 117.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uPhia4U_VAu4z-09YEI3aJofy2hM9ClF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uET2WGn2KnfRCns1wGbbq8h3aNqwtpYK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uET2WGn2KnfRCns1wGbbq8h3aNqwtpYK</guid>
+			
+
+			<title><![CDATA[ 116.基于 Eureka、Zuul 和容器云的持续交付架构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 116.基于 Eureka、Zuul 和容器云的持续交付架构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 116.基于 Eureka、Zuul 和容器云的持续交付架构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 116.基于 Eureka、Zuul 和容器云的持续交付架构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uET2WGn2KnfRCns1wGbbq8h3aNqwtpYK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1u2YT28v5Y5R0iAIdqI6LyG2tLZlYy7nZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1u2YT28v5Y5R0iAIdqI6LyG2tLZlYy7nZ</guid>
+			
+
+			<title><![CDATA[ 115.ServiceMesh 和 Istio 简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 115.ServiceMesh 和 Istio 简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 115.ServiceMesh 和 Istio 简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 115.ServiceMesh 和 Istio 简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1u2YT28v5Y5R0iAIdqI6LyG2tLZlYy7nZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tq7ND-qWMsGxo5db_QTMVuzJP-uV-L92</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tq7ND-qWMsGxo5db_QTMVuzJP-uV-L92</guid>
+			
+
+			<title><![CDATA[ 114.常用服务发现组件比较.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 114.常用服务发现组件比较.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 114.常用服务发现组件比较.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 114.常用服务发现组件比较.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tq7ND-qWMsGxo5db_QTMVuzJP-uV-L92"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1toNPMaAgELCh9a1MFFdggsjbzzdRT7mr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1toNPMaAgELCh9a1MFFdggsjbzzdRT7mr</guid>
+			
+
+			<title><![CDATA[ 113.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 113.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 113.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 113.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1toNPMaAgELCh9a1MFFdggsjbzzdRT7mr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1thReWXE0boglcWVjQwopG7g_wv6RWPg-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1thReWXE0boglcWVjQwopG7g_wv6RWPg-</guid>
+			
+
+			<title><![CDATA[ 112.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 112.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 112.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 112.【实验】Spring Cloud Zuul、Eureka 和 Ribbon 集成实验（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1thReWXE0boglcWVjQwopG7g_wv6RWPg-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tKKdowULOLwo99DrZ_4JyZqO049ZwOa2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tKKdowULOLwo99DrZ_4JyZqO049ZwOa2</guid>
+			
+
+			<title><![CDATA[ 111.Eureka进阶：健康检查和蓝绿部署.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 111.Eureka进阶：健康检查和蓝绿部署.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 111.Eureka进阶：健康检查和蓝绿部署.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 111.Eureka进阶：健康检查和蓝绿部署.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tKKdowULOLwo99DrZ_4JyZqO049ZwOa2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tHcKJj0kUVPC0_1q9jtPB5M9WkVNQRGu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tHcKJj0kUVPC0_1q9jtPB5M9WkVNQRGu</guid>
+			
+
+			<title><![CDATA[ 110.Eureka进阶：自保护模式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 110.Eureka进阶：自保护模式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 110.Eureka进阶：自保护模式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 110.Eureka进阶：自保护模式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tHcKJj0kUVPC0_1q9jtPB5M9WkVNQRGu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1t3Bq7LbO_nqQvDT7gMnaj1U1KVMvHhsL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1t3Bq7LbO_nqQvDT7gMnaj1U1KVMvHhsL</guid>
+			
+
+			<title><![CDATA[ 109.Spring Cloud Eureka 和 Ribbon 主要配置项.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 109.Spring Cloud Eureka 和 Ribbon 主要配置项.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 109.Spring Cloud Eureka 和 Ribbon 主要配置项.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 109.Spring Cloud Eureka 和 Ribbon 主要配置项.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1t3Bq7LbO_nqQvDT7gMnaj1U1KVMvHhsL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1stPaFbHu35wx5kC4MmExaTF-W9lIJiEl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1stPaFbHu35wx5kC4MmExaTF-W9lIJiEl</guid>
+			
+
+			<title><![CDATA[ 108.【实验】Spring Cloud Eureka 和 Ribbon 高级实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 108.【实验】Spring Cloud Eureka 和 Ribbon 高级实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 108.【实验】Spring Cloud Eureka 和 Ribbon 高级实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 108.【实验】Spring Cloud Eureka 和 Ribbon 高级实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1stPaFbHu35wx5kC4MmExaTF-W9lIJiEl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1spMLwMxiDVJKfNg8o58nM6mT9DifmCXR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1spMLwMxiDVJKfNg8o58nM6mT9DifmCXR</guid>
+			
+
+			<title><![CDATA[ 107.【实验】Spring Cloud Eureka 和 Ribbon 基础实战.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 107.【实验】Spring Cloud Eureka 和 Ribbon 基础实战.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 107.【实验】Spring Cloud Eureka 和 Ribbon 基础实战.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 107.【实验】Spring Cloud Eureka 和 Ribbon 基础实战.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1spMLwMxiDVJKfNg8o58nM6mT9DifmCXR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1she9SXsoPEEbhgXuoQ8FO-LnA5D1D7yI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1she9SXsoPEEbhgXuoQ8FO-LnA5D1D7yI</guid>
+			
+
+			<title><![CDATA[ 106.Eureka 和 Ribbon 架构设计原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 106.Eureka 和 Ribbon 架构设计原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 106.Eureka 和 Ribbon 架构设计原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 106.Eureka 和 Ribbon 架构设计原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1she9SXsoPEEbhgXuoQ8FO-LnA5D1D7yI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1se8TEVZ15gVH4XefH4KUC65HgCEJYBIx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1se8TEVZ15gVH4XefH4KUC65HgCEJYBIx</guid>
+			
+
+			<title><![CDATA[ 105.Netflix Eureka 和 Ribbon 背景介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 105.Netflix Eureka 和 Ribbon 背景介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 105.Netflix Eureka 和 Ribbon 背景介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 105.Netflix Eureka 和 Ribbon 背景介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1se8TEVZ15gVH4XefH4KUC65HgCEJYBIx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sMRFHrvu8PAkJaeH07dblR5QZn0nA5ox</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sMRFHrvu8PAkJaeH07dblR5QZn0nA5ox</guid>
+			
+
+			<title><![CDATA[ 104.服务发现需求和模式（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 104.服务发现需求和模式（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 104.服务发现需求和模式（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 104.服务发现需求和模式（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sMRFHrvu8PAkJaeH07dblR5QZn0nA5ox"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

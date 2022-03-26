@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .43 深度学习应用实践60讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .43 深度学习应用实践60讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .43 深度学习应用实践60讲. ]]></itunes:summary>
+		<description><![CDATA[ .43 深度学习应用实践60讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1s5ALbPPGDlaV10KZ8291MB0fLqZw39v0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1s5ALbPPGDlaV10KZ8291MB0fLqZw39v0</guid>
+			
+
+			<title><![CDATA[ 第9讲. 深度学习基础模型：LSTM.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第9讲. 深度学习基础模型：LSTM.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第9讲. 深度学习基础模型：LSTM.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第9讲. 深度学习基础模型：LSTM.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1s5ALbPPGDlaV10KZ8291MB0fLqZw39v0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1s3Uczk3bKLY3ZpOKYNA6G84RQNdZsr79</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1s3Uczk3bKLY3ZpOKYNA6G84RQNdZsr79</guid>
+			
+
+			<title><![CDATA[ 第8讲. 深度学习基础模型：RNN.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第8讲. 深度学习基础模型：RNN.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第8讲. 深度学习基础模型：RNN.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第8讲. 深度学习基础模型：RNN.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1s3Uczk3bKLY3ZpOKYNA6G84RQNdZsr79"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rvdsl6BeViyDD7dg3qnGUnjoCfioSkRK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rvdsl6BeViyDD7dg3qnGUnjoCfioSkRK</guid>
+			
+
+			<title><![CDATA[ 第7讲. 深度学习基础模型：CNN.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第7讲. 深度学习基础模型：CNN.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第7讲. 深度学习基础模型：CNN.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第7讲. 深度学习基础模型：CNN.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rvdsl6BeViyDD7dg3qnGUnjoCfioSkRK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1row_VXkon_GGM5FmsmcT_8vG4k5tp-Wf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1row_VXkon_GGM5FmsmcT_8vG4k5tp-Wf</guid>
+			
+
+			<title><![CDATA[ 第6讲. 深度学习基础模型：前向神经网络（MLP）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第6讲. 深度学习基础模型：前向神经网络（MLP）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第6讲. 深度学习基础模型：前向神经网络（MLP）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第6讲. 深度学习基础模型：前向神经网络（MLP）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1row_VXkon_GGM5FmsmcT_8vG4k5tp-Wf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rhMAWuxpxW2ZtwZFDabmni602-H4qbIn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rhMAWuxpxW2ZtwZFDabmni602-H4qbIn</guid>
+			
+
+			<title><![CDATA[ 第60讲. 知识图谱的行业应用.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第60讲. 知识图谱的行业应用.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第60讲. 知识图谱的行业应用.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第60讲. 知识图谱的行业应用.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rhMAWuxpxW2ZtwZFDabmni602-H4qbIn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1reEx7qTdVHUQbjcFpFl7kewESr5s9czP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1reEx7qTdVHUQbjcFpFl7kewESr5s9czP</guid>
+			
+
+			<title><![CDATA[ 第5讲. 传统主流CTR预估方法：GBDT模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第5讲. 传统主流CTR预估方法：GBDT模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第5讲. 传统主流CTR预估方法：GBDT模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第5讲. 传统主流CTR预估方法：GBDT模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1reEx7qTdVHUQbjcFpFl7kewESr5s9czP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rc6tTMhueSlTp-iNoGCHIjDy43jgup3K</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rc6tTMhueSlTp-iNoGCHIjDy43jgup3K</guid>
+			
+
+			<title><![CDATA[ 第59讲. 基于图计算的挖掘分析.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第59讲. 基于图计算的挖掘分析.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第59讲. 基于图计算的挖掘分析.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第59讲. 基于图计算的挖掘分析.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rc6tTMhueSlTp-iNoGCHIjDy43jgup3K"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rUaPgC2w_MpTMzaZ9DzHmUABcwm8EU_k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rUaPgC2w_MpTMzaZ9DzHmUABcwm8EU_k</guid>
+			
+
+			<title><![CDATA[ 第58讲. 基于分布式语义的知识表示与推理 神经网络模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第58讲. 基于分布式语义的知识表示与推理 神经网络模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第58讲. 基于分布式语义的知识表示与推理 神经网络模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第58讲. 基于分布式语义的知识表示与推理 神经网络模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rUaPgC2w_MpTMzaZ9DzHmUABcwm8EU_k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rRUww83qspcmOj6UD8ic09gg8N9jM_xY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rRUww83qspcmOj6UD8ic09gg8N9jM_xY</guid>
+			
+
+			<title><![CDATA[ 第57讲. 基于分布式语义的知识表示与推理 基于翻译的模型TransE.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第57讲. 基于分布式语义的知识表示与推理 基于翻译的模型TransE.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第57讲. 基于分布式语义的知识表示与推理 基于翻译的模型TransE.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第57讲. 基于分布式语义的知识表示与推理 基于翻译的模型TransE.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rRUww83qspcmOj6UD8ic09gg8N9jM_xY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rFryLU9x322YkOuhCTL4TJju5nZFvYWN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rFryLU9x322YkOuhCTL4TJju5nZFvYWN</guid>
+			
+
+			<title><![CDATA[ 第56讲. 基于分布式语义的知识表示与推理 张量分解模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第56讲. 基于分布式语义的知识表示与推理 张量分解模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第56讲. 基于分布式语义的知识表示与推理 张量分解模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第56讲. 基于分布式语义的知识表示与推理 张量分解模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rFryLU9x322YkOuhCTL4TJju5nZFvYWN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rBXBMNyJqS8GiY74rPbNmQYUfmghZPTZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rBXBMNyJqS8GiY74rPbNmQYUfmghZPTZ</guid>
+			
+
+			<title><![CDATA[ 第55讲. 基于符号的知识表示与推理：语义网络.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第55讲. 基于符号的知识表示与推理：语义网络.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第55讲. 基于符号的知识表示与推理：语义网络.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第55讲. 基于符号的知识表示与推理：语义网络.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rBXBMNyJqS8GiY74rPbNmQYUfmghZPTZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1r2IvOEpf7gMOTKElUMCCq5yVo_wFc0X4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1r2IvOEpf7gMOTKElUMCCq5yVo_wFc0X4</guid>
+			
+
+			<title><![CDATA[ 第54讲. 基于符号的知识表示与推理：Script.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第54讲. 基于符号的知识表示与推理：Script.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第54讲. 基于符号的知识表示与推理：Script.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第54讲. 基于符号的知识表示与推理：Script.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1r2IvOEpf7gMOTKElUMCCq5yVo_wFc0X4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qvVDO1DVBjLcZXn5vobuQtGWpI52MyhC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qvVDO1DVBjLcZXn5vobuQtGWpI52MyhC</guid>
+			
+
+			<title><![CDATA[ 第53讲. 基于符号的知识表示与推理：Frame.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第53讲. 基于符号的知识表示与推理：Frame.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第53讲. 基于符号的知识表示与推理：Frame.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第53讲. 基于符号的知识表示与推理：Frame.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qvVDO1DVBjLcZXn5vobuQtGWpI52MyhC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qsBsxObiy_X-LQ3klKy2VGsbr6MLr1hP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qsBsxObiy_X-LQ3klKy2VGsbr6MLr1hP</guid>
+			
+
+			<title><![CDATA[ 第52讲. 基于符号的知识表示与推理：Semantic Net.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第52讲. 基于符号的知识表示与推理：Semantic Net.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第52讲. 基于符号的知识表示与推理：Semantic Net.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第52讲. 基于符号的知识表示与推理：Semantic Net.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qsBsxObiy_X-LQ3klKy2VGsbr6MLr1hP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qnP_rxcuIZEvnrt-PiBwVMVsPUUqwlCo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qnP_rxcuIZEvnrt-PiBwVMVsPUUqwlCo</guid>
+			
+
+			<title><![CDATA[ 第51讲. 基于符号的知识表示与推理：谓词逻辑.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第51讲. 基于符号的知识表示与推理：谓词逻辑.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第51讲. 基于符号的知识表示与推理：谓词逻辑.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第51讲. 基于符号的知识表示与推理：谓词逻辑.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qnP_rxcuIZEvnrt-PiBwVMVsPUUqwlCo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qmgRetOnp2SaOKrN0CpR02jKFiZVtqOf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qmgRetOnp2SaOKrN0CpR02jKFiZVtqOf</guid>
+			
+
+			<title><![CDATA[ 第50讲. 知识计算推理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第50讲. 知识计算推理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第50讲. 知识计算推理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第50讲. 知识计算推理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qmgRetOnp2SaOKrN0CpR02jKFiZVtqOf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qZgeefE8QvGKWxdlZgju-bQP8YhOJ8vg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qZgeefE8QvGKWxdlZgju-bQP8YhOJ8vg</guid>
+			
+
+			<title><![CDATA[ 第4讲. 传统主流CTR预估方法：FM模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第4讲. 传统主流CTR预估方法：FM模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第4讲. 传统主流CTR预估方法：FM模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第4讲. 传统主流CTR预估方法：FM模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qZgeefE8QvGKWxdlZgju-bQP8YhOJ8vg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qXmbRFCUXo4FWMiKpRn75whva27GSHK2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qXmbRFCUXo4FWMiKpRn75whva27GSHK2</guid>
+			
+
+			<title><![CDATA[ 第49讲. 知识图谱管理：图谱存储.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第49讲. 知识图谱管理：图谱存储.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第49讲. 知识图谱管理：图谱存储.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第49讲. 知识图谱管理：图谱存储.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qXmbRFCUXo4FWMiKpRn75whva27GSHK2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qNfdkOmpetHn0rB7ReGZJowkXT_C4Zo9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qNfdkOmpetHn0rB7ReGZJowkXT_C4Zo9</guid>
+			
+
+			<title><![CDATA[ 第48讲. 知识图谱管理之数据模型介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第48讲. 知识图谱管理之数据模型介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第48讲. 知识图谱管理之数据模型介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第48讲. 知识图谱管理之数据模型介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qNfdkOmpetHn0rB7ReGZJowkXT_C4Zo9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qHSuSqOwRPXmDNEX8hUfFDWoUnbabZC-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qHSuSqOwRPXmDNEX8hUfFDWoUnbabZC-</guid>
+			
+
+			<title><![CDATA[ 第47讲. 知识融合与质量评估.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第47讲. 知识融合与质量评估.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第47讲. 知识融合与质量评估.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第47讲. 知识融合与质量评估.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qHSuSqOwRPXmDNEX8hUfFDWoUnbabZC-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1q1xek9w1GqlKcJ3TfsGflINCa4RanJsO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1q1xek9w1GqlKcJ3TfsGflINCa4RanJsO</guid>
+			
+
+			<title><![CDATA[ 第46讲. 基于结构化数据的知识抽取.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第46讲. 基于结构化数据的知识抽取.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第46讲. 基于结构化数据的知识抽取.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第46讲. 基于结构化数据的知识抽取.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1q1xek9w1GqlKcJ3TfsGflINCa4RanJsO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1prJtrY0KlCg6UhaNzliqCO5zFCdTzwMo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1prJtrY0KlCg6UhaNzliqCO5zFCdTzwMo</guid>
+			
+
+			<title><![CDATA[ 第45讲. 基于非结构化数据的知识抽取：事件抽取.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第45讲. 基于非结构化数据的知识抽取：事件抽取.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第45讲. 基于非结构化数据的知识抽取：事件抽取.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第45讲. 基于非结构化数据的知识抽取：事件抽取.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1prJtrY0KlCg6UhaNzliqCO5zFCdTzwMo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1piOnJGOXiIDi2259XgE2a_P_OiraorCu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1piOnJGOXiIDi2259XgE2a_P_OiraorCu</guid>
+			
+
+			<title><![CDATA[ 第43讲. 基于非结构化数据的知识抽取：实体识别.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第43讲. 基于非结构化数据的知识抽取：实体识别.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第43讲. 基于非结构化数据的知识抽取：实体识别.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第43讲. 基于非结构化数据的知识抽取：实体识别.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1piOnJGOXiIDi2259XgE2a_P_OiraorCu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pbWVG308fX4FhhIEmjO_5UEbWhXFUeCS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pbWVG308fX4FhhIEmjO_5UEbWhXFUeCS</guid>
+			
+
+			<title><![CDATA[ 第42讲. 基于非结构化数据的知识抽取.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第42讲. 基于非结构化数据的知识抽取.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第42讲. 基于非结构化数据的知识抽取.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第42讲. 基于非结构化数据的知识抽取.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pbWVG308fX4FhhIEmjO_5UEbWhXFUeCS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pYBcP_Fnhti7nrqD-_mcqPbAfaudhFg_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pYBcP_Fnhti7nrqD-_mcqPbAfaudhFg_</guid>
+			
+
+			<title><![CDATA[ 第41讲. 构建领域知识图谱的挑战与解决方案.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第41讲. 构建领域知识图谱的挑战与解决方案.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第41讲. 构建领域知识图谱的挑战与解决方案.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第41讲. 构建领域知识图谱的挑战与解决方案.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pYBcP_Fnhti7nrqD-_mcqPbAfaudhFg_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pXrEYnGxxg5PxEDaekimONY585duu3-q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pXrEYnGxxg5PxEDaekimONY585duu3-q</guid>
+			
+
+			<title><![CDATA[ 第40讲. 知识图谱的生命周期与技术难点.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第40讲. 知识图谱的生命周期与技术难点.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第40讲. 知识图谱的生命周期与技术难点.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第40讲. 知识图谱的生命周期与技术难点.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pXrEYnGxxg5PxEDaekimONY585duu3-q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pN0cJ5yx4hmVK1y9DNuBBcpW1MCVQdsm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pN0cJ5yx4hmVK1y9DNuBBcpW1MCVQdsm</guid>
+			
+
+			<title><![CDATA[ 第3讲. 传统主流CTR预估方法：线性模型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第3讲. 传统主流CTR预估方法：线性模型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第3讲. 传统主流CTR预估方法：线性模型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第3讲. 传统主流CTR预估方法：线性模型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pN0cJ5yx4hmVK1y9DNuBBcpW1MCVQdsm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pI3s7lm111f2RNaaU6wAJlkwk6Mg2HZc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pI3s7lm111f2RNaaU6wAJlkwk6Mg2HZc</guid>
+			
+
+			<title><![CDATA[ 第39讲. 知识图谱小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第39讲. 知识图谱小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第39讲. 知识图谱小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第39讲. 知识图谱小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pI3s7lm111f2RNaaU6wAJlkwk6Mg2HZc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pAQGbV9-xTQ_GCslGOPtAPpNz8tibOVo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pAQGbV9-xTQ_GCslGOPtAPpNz8tibOVo</guid>
+			
+
+			<title><![CDATA[ 第38讲. 知识图谱为什么火了？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第38讲. 知识图谱为什么火了？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第38讲. 知识图谱为什么火了？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第38讲. 知识图谱为什么火了？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pAQGbV9-xTQ_GCslGOPtAPpNz8tibOVo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1p9G3smPyNCd3UnufxigiF7jz0wjVw2Lq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1p9G3smPyNCd3UnufxigiF7jz0wjVw2Lq</guid>
+			
+
+			<title><![CDATA[ 第37讲. 知识图谱的发展回顾.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第37讲. 知识图谱的发展回顾.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第37讲. 知识图谱的发展回顾.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第37讲. 知识图谱的发展回顾.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1p9G3smPyNCd3UnufxigiF7jz0wjVw2Lq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ozYR65Pd6AdZ_95ZWE96eAWHMLQi9DYo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ozYR65Pd6AdZ_95ZWE96eAWHMLQi9DYo</guid>
+			
+
+			<title><![CDATA[ 第36讲. 知识图谱是什么？对我们有何帮助？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第36讲. 知识图谱是什么？对我们有何帮助？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第36讲. 知识图谱是什么？对我们有何帮助？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第36讲. 知识图谱是什么？对我们有何帮助？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ozYR65Pd6AdZ_95ZWE96eAWHMLQi9DYo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ov375O3xiAQoiLBasxYJtNNrkAjEDKdK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ov375O3xiAQoiLBasxYJtNNrkAjEDKdK</guid>
+			
+
+			<title><![CDATA[ 第35讲. 图像理解进阶.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第35讲. 图像理解进阶.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第35讲. 图像理解进阶.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第35讲. 图像理解进阶.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ov375O3xiAQoiLBasxYJtNNrkAjEDKdK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1osIDO-ot3CWgSkkQ3N6xoZ_0QBOhfnW7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1osIDO-ot3CWgSkkQ3N6xoZ_0QBOhfnW7</guid>
+			
+
+			<title><![CDATA[ 第34讲. 深度学习图像理解技术：物体检测分割与图像分类应用场景.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第34讲. 深度学习图像理解技术：物体检测分割与图像分类应用场景.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第34讲. 深度学习图像理解技术：物体检测分割与图像分类应用场景.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第34讲. 深度学习图像理解技术：物体检测分割与图像分类应用场景.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1osIDO-ot3CWgSkkQ3N6xoZ_0QBOhfnW7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1okeQLOEXpPwg5jJ9xjgl9-erXcSRj1xH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1okeQLOEXpPwg5jJ9xjgl9-erXcSRj1xH</guid>
+			
+
+			<title><![CDATA[ 第33讲. 深度学习图像理解技术：模型加速与优化.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第33讲. 深度学习图像理解技术：模型加速与优化.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第33讲. 深度学习图像理解技术：模型加速与优化.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第33讲. 深度学习图像理解技术：模型加速与优化.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1okeQLOEXpPwg5jJ9xjgl9-erXcSRj1xH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oVLhgzERn6uQVBA9cqo3iK-3w5AyJZHy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oVLhgzERn6uQVBA9cqo3iK-3w5AyJZHy</guid>
+			
+
+			<title><![CDATA[ 第32讲. 深度学习图像理解技术：图像分类框架.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第32讲. 深度学习图像理解技术：图像分类框架.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第32讲. 深度学习图像理解技术：图像分类框架.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第32讲. 深度学习图像理解技术：图像分类框架.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oVLhgzERn6uQVBA9cqo3iK-3w5AyJZHy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oT2K3sbV_IoNHNQ4wdygaZBV5KNyfaO8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oT2K3sbV_IoNHNQ4wdygaZBV5KNyfaO8</guid>
+			
+
+			<title><![CDATA[ 第31讲. 深度学习的训练技巧.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第31讲. 深度学习的训练技巧.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第31讲. 深度学习的训练技巧.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第31讲. 深度学习的训练技巧.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oT2K3sbV_IoNHNQ4wdygaZBV5KNyfaO8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oP0evlYYZWoMeoOGsmFJ8_nUiSl75gUx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oP0evlYYZWoMeoOGsmFJ8_nUiSl75gUx</guid>
+			
+
+			<title><![CDATA[ 第30讲. 深度学习的模型设计.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第30讲. 深度学习的模型设计.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第30讲. 深度学习的模型设计.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第30讲. 深度学习的模型设计.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oP0evlYYZWoMeoOGsmFJ8_nUiSl75gUx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oKdUm0xQ6RbTLqBiuUNm7zDD0zXSa3vS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oKdUm0xQ6RbTLqBiuUNm7zDD0zXSa3vS</guid>
+			
+
+			<title><![CDATA[ 第2讲. 当深度学习遇到CTR预估.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第2讲. 当深度学习遇到CTR预估.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第2讲. 当深度学习遇到CTR预估.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第2讲. 当深度学习遇到CTR预估.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oKdUm0xQ6RbTLqBiuUNm7zDD0zXSa3vS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oBTnKodFK6AoJnmCjbVRJwrZFnKzBo_J</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oBTnKodFK6AoJnmCjbVRJwrZFnKzBo_J</guid>
+			
+
+			<title><![CDATA[ 第29讲. 深度学习的基础模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第29讲. 深度学习的基础模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第29讲. 深度学习的基础模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第29讲. 深度学习的基础模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oBTnKodFK6AoJnmCjbVRJwrZFnKzBo_J"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1o7mIvfXIlmLPaUOFLWqr7fOC69h0VxLW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1o7mIvfXIlmLPaUOFLWqr7fOC69h0VxLW</guid>
+			
+
+			<title><![CDATA[ 第28讲. 传统图像理解技术：图像搜索系统（3）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第28讲. 传统图像理解技术：图像搜索系统（3）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第28讲. 传统图像理解技术：图像搜索系统（3）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第28讲. 传统图像理解技术：图像搜索系统（3）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1o7mIvfXIlmLPaUOFLWqr7fOC69h0VxLW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1o5R3taKrF5ecKU_4Y5mw1_E9sbGEWCvZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1o5R3taKrF5ecKU_4Y5mw1_E9sbGEWCvZ</guid>
+			
+
+			<title><![CDATA[ 第27讲. 传统图像理解技术：图像搜索系统（2）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第27讲. 传统图像理解技术：图像搜索系统（2）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第27讲. 传统图像理解技术：图像搜索系统（2）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第27讲. 传统图像理解技术：图像搜索系统（2）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1o5R3taKrF5ecKU_4Y5mw1_E9sbGEWCvZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nyLJkG2p3wD90Hs0NWt5H6JGso44soGA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nyLJkG2p3wD90Hs0NWt5H6JGso44soGA</guid>
+			
+
+			<title><![CDATA[ 第26讲. 传统图像理解技术：图像搜索系统（1）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第26讲. 传统图像理解技术：图像搜索系统（1）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第26讲. 传统图像理解技术：图像搜索系统（1）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第26讲. 传统图像理解技术：图像搜索系统（1）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nyLJkG2p3wD90Hs0NWt5H6JGso44soGA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nsktAdXKYTTWfBhJCM6j82yp_VOq6erI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nsktAdXKYTTWfBhJCM6j82yp_VOq6erI</guid>
+			
+
+			<title><![CDATA[ 第25讲. 传统图像理解技术：图像分类的基本方法（3）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第25讲. 传统图像理解技术：图像分类的基本方法（3）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第25讲. 传统图像理解技术：图像分类的基本方法（3）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第25讲. 传统图像理解技术：图像分类的基本方法（3）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nsktAdXKYTTWfBhJCM6j82yp_VOq6erI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nme047b15ezclyUnylyhXKxF3qi-5jPc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nme047b15ezclyUnylyhXKxF3qi-5jPc</guid>
+			
+
+			<title><![CDATA[ 第24讲. 传统图像理解技术：图像分类的基本方法（2）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第24讲. 传统图像理解技术：图像分类的基本方法（2）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第24讲. 传统图像理解技术：图像分类的基本方法（2）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第24讲. 传统图像理解技术：图像分类的基本方法（2）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nme047b15ezclyUnylyhXKxF3qi-5jPc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nhSD5uMYK2_C2Fs4haIeb_sfshCS7snf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nhSD5uMYK2_C2Fs4haIeb_sfshCS7snf</guid>
+			
+
+			<title><![CDATA[ 第23讲. 传统图像理解技术：图像分类的基本方法（1）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第23讲. 传统图像理解技术：图像分类的基本方法（1）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第23讲. 传统图像理解技术：图像分类的基本方法（1）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第23讲. 传统图像理解技术：图像分类的基本方法（1）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nhSD5uMYK2_C2Fs4haIeb_sfshCS7snf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1neyl3w3Tuy_hGsM1oNaMMaexKYEmBfo8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1neyl3w3Tuy_hGsM1oNaMMaexKYEmBfo8</guid>
+			
+
+			<title><![CDATA[ 第22讲. 传统图像理解技术：图像分类的问题描述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第22讲. 传统图像理解技术：图像分类的问题描述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第22讲. 传统图像理解技术：图像分类的问题描述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第22讲. 传统图像理解技术：图像分类的问题描述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1neyl3w3Tuy_hGsM1oNaMMaexKYEmBfo8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1n_x9vcGgxdWrt-bvx74R_z6XSWP2d6Xg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1n_x9vcGgxdWrt-bvx74R_z6XSWP2d6Xg</guid>
+			
+
+			<title><![CDATA[ 第21讲. 图像理解有哪些研究内容？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第21讲. 图像理解有哪些研究内容？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第21讲. 图像理解有哪些研究内容？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第21讲. 图像理解有哪些研究内容？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1n_x9vcGgxdWrt-bvx74R_z6XSWP2d6Xg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nSZOOOXCjpqjNVRBD18B0CFrJGKtLh3I</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nSZOOOXCjpqjNVRBD18B0CFrJGKtLh3I</guid>
+			
+
+			<title><![CDATA[ 第20讲. 如何定义图像理解？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第20讲. 如何定义图像理解？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第20讲. 如何定义图像理解？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第20讲. 如何定义图像理解？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nSZOOOXCjpqjNVRBD18B0CFrJGKtLh3I"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nJc0u6WxRCYUkDxQCIC8oKhpMccNLC8x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nJc0u6WxRCYUkDxQCIC8oKhpMccNLC8x</guid>
+			
+
+			<title><![CDATA[ 第1讲. 深度学习在各个领域的成功.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第1讲. 深度学习在各个领域的成功.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第1讲. 深度学习在各个领域的成功.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第1讲. 深度学习在各个领域的成功.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nJc0u6WxRCYUkDxQCIC8oKhpMccNLC8x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1n-6SoUFR2_xZbuqq2nNtBuZ96TQ-yT2U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1n-6SoUFR2_xZbuqq2nNtBuZ96TQ-yT2U</guid>
+			
+
+			<title><![CDATA[ 第19讲. 互联网公司深度学习CTR案例：京东商城.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第19讲. 互联网公司深度学习CTR案例：京东商城.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第19讲. 互联网公司深度学习CTR案例：京东商城.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第19讲. 互联网公司深度学习CTR案例：京东商城.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1n-6SoUFR2_xZbuqq2nNtBuZ96TQ-yT2U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mktfq5ickJ00nyml9P-0cC4FnCRg_dvs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mktfq5ickJ00nyml9P-0cC4FnCRg_dvs</guid>
+			
+
+			<title><![CDATA[ 第18讲. 互联网公司深度学习CTR案例：阿里巴巴.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第18讲. 互联网公司深度学习CTR案例：阿里巴巴.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第18讲. 互联网公司深度学习CTR案例：阿里巴巴.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第18讲. 互联网公司深度学习CTR案例：阿里巴巴.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mktfq5ickJ00nyml9P-0cC4FnCRg_dvs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mScXEtKxoLSWeGo7B-nlyBttHNFeRWtW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mScXEtKxoLSWeGo7B-nlyBttHNFeRWtW</guid>
+			
+
+			<title><![CDATA[ 第17讲. 互联网公司深度学习CTR案例：Google（2）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第17讲. 互联网公司深度学习CTR案例：Google（2）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第17讲. 互联网公司深度学习CTR案例：Google（2）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第17讲. 互联网公司深度学习CTR案例：Google（2）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mScXEtKxoLSWeGo7B-nlyBttHNFeRWtW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mOApixJuXLJ1vWMrvACvXWsdIWzZW4zr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mOApixJuXLJ1vWMrvACvXWsdIWzZW4zr</guid>
+			
+
+			<title><![CDATA[ 第16讲. 互联网公司深度学习CTR案例：Google（1）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第16讲. 互联网公司深度学习CTR案例：Google（1）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第16讲. 互联网公司深度学习CTR案例：Google（1）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第16讲. 互联网公司深度学习CTR案例：Google（1）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mOApixJuXLJ1vWMrvACvXWsdIWzZW4zr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1m3OaV7mSxrvO4aHNwdlhm40IGHW4YXIr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1m3OaV7mSxrvO4aHNwdlhm40IGHW4YXIr</guid>
+			
+
+			<title><![CDATA[ 第15讲. 模型训练与优化.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第15讲. 模型训练与优化.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第15讲. 模型训练与优化.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第15讲. 模型训练与优化.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1m3OaV7mSxrvO4aHNwdlhm40IGHW4YXIr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lxC9mkPenG_BHhz6G2PIlJSgRH9yTVJl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lxC9mkPenG_BHhz6G2PIlJSgRH9yTVJl</guid>
+			
+
+			<title><![CDATA[ 第14讲. 典型网络融合结构之二：串行结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第14讲. 典型网络融合结构之二：串行结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第14讲. 典型网络融合结构之二：串行结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第14讲. 典型网络融合结构之二：串行结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lxC9mkPenG_BHhz6G2PIlJSgRH9yTVJl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lnslJYSpXsa8OFxuCJErBMTFivRI3IGF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lnslJYSpXsa8OFxuCJErBMTFivRI3IGF</guid>
+			
+
+			<title><![CDATA[ 第13讲. 典型网络融合结构之一：并行结构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第13讲. 典型网络融合结构之一：并行结构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第13讲. 典型网络融合结构之一：并行结构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第13讲. 典型网络融合结构之一：并行结构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lnslJYSpXsa8OFxuCJErBMTFivRI3IGF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lmnvqmlPODJDX1E5tg5vRHzm_jV1qF1J</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lmnvqmlPODJDX1E5tg5vRHzm_jV1qF1J</guid>
+			
+
+			<title><![CDATA[ 第12讲. 离散特征如何让DNN可以处理？（2）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第12讲. 离散特征如何让DNN可以处理？（2）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第12讲. 离散特征如何让DNN可以处理？（2）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第12讲. 离散特征如何让DNN可以处理？（2）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lmnvqmlPODJDX1E5tg5vRHzm_jV1qF1J"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lg31MdshsxZu3KxR9ys2tFbvbxxzId8V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lg31MdshsxZu3KxR9ys2tFbvbxxzId8V</guid>
+			
+
+			<title><![CDATA[ 第11讲. 离散特征如何让DNN可以处理？（1）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第11讲. 离散特征如何让DNN可以处理？（1）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第11讲. 离散特征如何让DNN可以处理？（1）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第11讲. 离散特征如何让DNN可以处理？（1）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lg31MdshsxZu3KxR9ys2tFbvbxxzId8V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lYz9kXDT0GKw6P9hswa8rlQz5vZLePUc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lYz9kXDT0GKw6P9hswa8rlQz5vZLePUc</guid>
+			
+
+			<title><![CDATA[ 第10讲. 深度学习CTR预估模型：要解决的几个关键问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第10讲. 深度学习CTR预估模型：要解决的几个关键问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第10讲. 深度学习CTR预估模型：要解决的几个关键问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第10讲. 深度学习CTR预估模型：要解决的几个关键问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lYz9kXDT0GKw6P9hswa8rlQz5vZLePUc"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .38 微服务架构实战160讲.第一模块 ：微服务安全架构与实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .38 微服务架构实战160讲.第一模块 ：微服务安全架构与实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .38 微服务架构实战160讲.第一模块 ：微服务安全架构与实践. ]]></itunes:summary>
+		<description><![CDATA[ .38 微服务架构实战160讲.第一模块 ：微服务安全架构与实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=12DYl0EvGVPKaPNAnQjPlYPH_rp7lhtfa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12DYl0EvGVPKaPNAnQjPlYPH_rp7lhtfa</guid>
+			
+
+			<title><![CDATA[ 24.参考资源和后续课程预览.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24.参考资源和后续课程预览.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24.参考资源和后续课程预览.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24.参考资源和后续课程预览.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12DYl0EvGVPKaPNAnQjPlYPH_rp7lhtfa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12Bs0H61zGAp3qlatysvife1ckNgsl407</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12Bs0H61zGAp3qlatysvife1ckNgsl407</guid>
+			
+
+			<title><![CDATA[ 23.下一代微服务安全架构.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23.下一代微服务安全架构.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23.下一代微服务安全架构.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23.下一代微服务安全架构.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12Bs0H61zGAp3qlatysvife1ckNgsl407"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12ASTpWLLJ9rRVx3xwuYKBYjrAPyS_imz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12ASTpWLLJ9rRVx3xwuYKBYjrAPyS_imz</guid>
+			
+
+			<title><![CDATA[ 22.OpenId Connect简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22.OpenId Connect简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22.OpenId Connect简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22.OpenId Connect简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12ASTpWLLJ9rRVx3xwuYKBYjrAPyS_imz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=128fTkAbTgpQmvB2K9PEJtMDQE-99b8yx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=128fTkAbTgpQmvB2K9PEJtMDQE-99b8yx</guid>
+			
+
+			<title><![CDATA[ 21.【实验】OAuth2安全风险CSRF实验.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21.【实验】OAuth2安全风险CSRF实验.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21.【实验】OAuth2安全风险CSRF实验.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21.【实验】OAuth2安全风险CSRF实验.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=128fTkAbTgpQmvB2K9PEJtMDQE-99b8yx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1214_3tUV5NkbXhx5H_mFmM3SNNq4j0lG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1214_3tUV5NkbXhx5H_mFmM3SNNq4j0lG</guid>
+			
+
+			<title><![CDATA[ 20.【实验】GitHub社交登录实验和课后扩展.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20.【实验】GitHub社交登录实验和课后扩展.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20.【实验】GitHub社交登录实验和课后扩展.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20.【实验】GitHub社交登录实验和课后扩展.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1214_3tUV5NkbXhx5H_mFmM3SNNq4j0lG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11zP6oLDvAt-lwLuVSKGhcpa9D0IAIjKr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11zP6oLDvAt-lwLuVSKGhcpa9D0IAIjKr</guid>
+			
+
+			<title><![CDATA[ 19.【实验】AngularJS 单页应用实验和课后扩展.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19.【实验】AngularJS 单页应用实验和课后扩展.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19.【实验】AngularJS 单页应用实验和课后扩展.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19.【实验】AngularJS 单页应用实验和课后扩展.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11zP6oLDvAt-lwLuVSKGhcpa9D0IAIjKr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11xf-OLOARZlJkKKIz8LT5j_iHLPUgrt8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11xf-OLOARZlJkKKIz8LT5j_iHLPUgrt8</guid>
+			
+
+			<title><![CDATA[ 18.【实验】Android 无线应用接入授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18.【实验】Android 无线应用接入授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18.【实验】Android 无线应用接入授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18.【实验】Android 无线应用接入授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11xf-OLOARZlJkKKIz8LT5j_iHLPUgrt8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11xMZsSvNCDlWOsxjSH4dtbNa_CabxeQY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11xMZsSvNCDlWOsxjSH4dtbNa_CabxeQY</guid>
+			
+
+			<title><![CDATA[ 17.实验三扩展环节.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17.实验三扩展环节.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17.实验三扩展环节.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17.实验三扩展环节.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11xMZsSvNCDlWOsxjSH4dtbNa_CabxeQY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11uhGvyNCNIVY5Q-IHlwQs-nz_zG3B3js</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11uhGvyNCNIVY5Q-IHlwQs-nz_zG3B3js</guid>
+			
+
+			<title><![CDATA[ 16.【实验】授权服务器支持 JWT 令牌.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16.【实验】授权服务器支持 JWT 令牌.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16.【实验】授权服务器支持 JWT 令牌.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16.【实验】授权服务器支持 JWT 令牌.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11uhGvyNCNIVY5Q-IHlwQs-nz_zG3B3js"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11p774yjguYaNSS13mUwUfBpLPilsNyK4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11p774yjguYaNSS13mUwUfBpLPilsNyK4</guid>
+			
+
+			<title><![CDATA[ 15.什么是 JWT 令牌.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15.什么是 JWT 令牌.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15.什么是 JWT 令牌.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15.什么是 JWT 令牌.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11p774yjguYaNSS13mUwUfBpLPilsNyK4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11mbbqVkOgDZV0gNJyzkAgQRGygtWrOdU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11mbbqVkOgDZV0gNJyzkAgQRGygtWrOdU</guid>
+			
+
+			<title><![CDATA[ 14.实验二扩展环节.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14.实验二扩展环节.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14.实验二扩展环节.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14.实验二扩展环节.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11mbbqVkOgDZV0gNJyzkAgQRGygtWrOdU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11dVgNmWvtSjOhiYbjTD4t4i_V2CqFPae</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11dVgNmWvtSjOhiYbjTD4t4i_V2CqFPae</guid>
+			
+
+			<title><![CDATA[ 13.【实验】Web 应用接入授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13.【实验】Web 应用接入授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13.【实验】Web 应用接入授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13.【实验】Web 应用接入授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11dVgNmWvtSjOhiYbjTD4t4i_V2CqFPae"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11bxzefSPLyQNMm9cZYeed4UB9Um2BV7V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11bxzefSPLyQNMm9cZYeed4UB9Um2BV7V</guid>
+			
+
+			<title><![CDATA[ 12.实验一扩展环节.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12.实验一扩展环节.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12.实验一扩展环节.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12.实验一扩展环节.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11bxzefSPLyQNMm9cZYeed4UB9Um2BV7V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11Ycu9Q53d4Ocqev2gIOdmpFF27r3xXSI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11Ycu9Q53d4Ocqev2gIOdmpFF27r3xXSI</guid>
+			
+
+			<title><![CDATA[ 11.【实验】客户端模式授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11.【实验】客户端模式授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11.【实验】客户端模式授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11.【实验】客户端模式授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11Ycu9Q53d4Ocqev2gIOdmpFF27r3xXSI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11HVxK9o8QCqv5it2AhMwh9BWD_lKMyx1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11HVxK9o8QCqv5it2AhMwh9BWD_lKMyx1</guid>
+			
+
+			<title><![CDATA[ 10.【实验】密码模式授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10.【实验】密码模式授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10.【实验】密码模式授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10.【实验】密码模式授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11HVxK9o8QCqv5it2AhMwh9BWD_lKMyx1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11G_C1-cRDi_glJrZ3n_qVagfFb6cIs0z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11G_C1-cRDi_glJrZ3n_qVagfFb6cIs0z</guid>
+			
+
+			<title><![CDATA[ 09.【实验】简化模式授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09.【实验】简化模式授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09.【实验】简化模式授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09.【实验】简化模式授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11G_C1-cRDi_glJrZ3n_qVagfFb6cIs0z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11AGt5Q1pLMYi4paX6j6oXXbrjzZUfhYX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11AGt5Q1pLMYi4paX6j6oXXbrjzZUfhYX</guid>
+			
+
+			<title><![CDATA[ 08.【实验】授权码模式授权服务器.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08.【实验】授权码模式授权服务器.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08.【实验】授权码模式授权服务器.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08.【实验】授权码模式授权服务器.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11AGt5Q1pLMYi4paX6j6oXXbrjzZUfhYX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1173ahN8sey5nnR-2vzGgfqh0LmHd0pmy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1173ahN8sey5nnR-2vzGgfqh0LmHd0pmy</guid>
+			
+
+			<title><![CDATA[ 07.Spring Security OAuth2 架构简介.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07.Spring Security OAuth2 架构简介.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07.Spring Security OAuth2 架构简介.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07.Spring Security OAuth2 架构简介.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1173ahN8sey5nnR-2vzGgfqh0LmHd0pmy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=114e9mkQWN5UrW3WtCTnuaYHTP3VuAjho</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=114e9mkQWN5UrW3WtCTnuaYHTP3VuAjho</guid>
+			
+
+			<title><![CDATA[ 06.OAuth2 模式该如何选型.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06.OAuth2 模式该如何选型.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06.OAuth2 模式该如何选型.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06.OAuth2 模式该如何选型.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=114e9mkQWN5UrW3WtCTnuaYHTP3VuAjho"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1134ngr_a1K5_NbbouREiPcCfmUQnQUOA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1134ngr_a1K5_NbbouREiPcCfmUQnQUOA</guid>
+			
+
+			<title><![CDATA[ 05.OAuth2 有哪些典型模式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05.OAuth2 有哪些典型模式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05.OAuth2 有哪些典型模式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05.OAuth2 有哪些典型模式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1134ngr_a1K5_NbbouREiPcCfmUQnQUOA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=110V5so1Qir5TG3rmalGgXRuQSs7tGH7w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=110V5so1Qir5TG3rmalGgXRuQSs7tGH7w</guid>
+			
+
+			<title><![CDATA[ 04.OAuth2 的正式定义.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04.OAuth2 的正式定义.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04.OAuth2 的正式定义.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04.OAuth2 的正式定义.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=110V5so1Qir5TG3rmalGgXRuQSs7tGH7w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10z9_-2P83bfYTa2axLbWxzE3DtTF8s-k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10z9_-2P83bfYTa2axLbWxzE3DtTF8s-k</guid>
+			
+
+			<title><![CDATA[ 03.白话 OAuth2.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03.白话 OAuth2.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03.白话 OAuth2.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03.白话 OAuth2.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10z9_-2P83bfYTa2axLbWxzE3DtTF8s-k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10xK3tJa1eS4PWs8g9xJtC2_n6WhbxnNo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10xK3tJa1eS4PWs8g9xJtC2_n6WhbxnNo</guid>
+			
+
+			<title><![CDATA[ 02.微服务安全要解决什么问题.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02.微服务安全要解决什么问题.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02.微服务安全要解决什么问题.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02.微服务安全要解决什么问题.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10xK3tJa1eS4PWs8g9xJtC2_n6WhbxnNo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10kOqzZeN_uIwz2zltZI2SVRC04M-hGzO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10kOqzZeN_uIwz2zltZI2SVRC04M-hGzO</guid>
+			
+
+			<title><![CDATA[ 01.第一模块课程介绍.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01.第一模块课程介绍.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01.第一模块课程介绍.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01.第一模块课程介绍.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10kOqzZeN_uIwz2zltZI2SVRC04M-hGzO"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

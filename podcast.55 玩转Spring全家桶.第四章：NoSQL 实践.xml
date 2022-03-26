@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第四章：NoSQL 实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第四章：NoSQL 实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第四章：NoSQL 实践. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第四章：NoSQL 实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1XLhnfHU1Fawb4XCpCt2VPXoHesj-UFdC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XLhnfHU1Fawb4XCpCt2VPXoHesj-UFdC</guid>
+			
+
+			<title><![CDATA[ 30讲SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30讲SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30讲SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30讲SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XLhnfHU1Fawb4XCpCt2VPXoHesj-UFdC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1XKRZq1Oki6ehlkNb5OkTu2EPZVEZy3i4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1XKRZq1Oki6ehlkNb5OkTu2EPZVEZy3i4</guid>
+			
+
+			<title><![CDATA[ 29讲Redis在Spring中的其他用法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29讲Redis在Spring中的其他用法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29讲Redis在Spring中的其他用法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29讲Redis在Spring中的其他用法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1XKRZq1Oki6ehlkNb5OkTu2EPZVEZy3i4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1X9y086p-069nlXzqNSjMv9SufShdimQK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1X9y086p-069nlXzqNSjMv9SufShdimQK</guid>
+			
+
+			<title><![CDATA[ 28讲了解Spring的缓存抽象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28讲了解Spring的缓存抽象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28讲了解Spring的缓存抽象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28讲了解Spring的缓存抽象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1X9y086p-069nlXzqNSjMv9SufShdimQK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1X6CxtQpjrHz7fbcMINyDisA_feGRC7c0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1X6CxtQpjrHz7fbcMINyDisA_feGRC7c0</guid>
+			
+
+			<title><![CDATA[ 27讲Redis的哨兵与集群模式.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27讲Redis的哨兵与集群模式.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27讲Redis的哨兵与集群模式.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27讲Redis的哨兵与集群模式.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1X6CxtQpjrHz7fbcMINyDisA_feGRC7c0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Wx0Qf00scpOADEWZ1wtYIru53dC26VtB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Wx0Qf00scpOADEWZ1wtYIru53dC26VtB</guid>
+			
+
+			<title><![CDATA[ 26讲在Spring中访问Redis.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26讲在Spring中访问Redis.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26讲在Spring中访问Redis.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26讲在Spring中访问Redis.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Wx0Qf00scpOADEWZ1wtYIru53dC26VtB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1WrhtWCxhzhVDQBqeEXGKptrs6BAONBmj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1WrhtWCxhzhVDQBqeEXGKptrs6BAONBmj</guid>
+			
+
+			<title><![CDATA[ 25讲在Spring中访问MongoDB.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25讲在Spring中访问MongoDB.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25讲在Spring中访问MongoDB.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25讲在Spring中访问MongoDB.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1WrhtWCxhzhVDQBqeEXGKptrs6BAONBmj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1WodqEqJajL9oqq2CwmHneWzuDQc9Mp0a</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1WodqEqJajL9oqq2CwmHneWzuDQc9Mp0a</guid>
+			
+
+			<title><![CDATA[ 24讲通过Docker辅助开发.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24讲通过Docker辅助开发.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24讲通过Docker辅助开发.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24讲通过Docker辅助开发.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1WodqEqJajL9oqq2CwmHneWzuDQc9Mp0a"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

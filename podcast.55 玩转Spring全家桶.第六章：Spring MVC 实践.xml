@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第六章：Spring MVC 实践 ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第六章：Spring MVC 实践 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第六章：Spring MVC 实践. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第六章：Spring MVC 实践 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1ShQvSosogBKlffC0biIePEdpKFitRJ1W</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ShQvSosogBKlffC0biIePEdpKFitRJ1W</guid>
+			
+
+			<title><![CDATA[ 52课程答疑.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52课程答疑.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52课程答疑.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52课程答疑.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ShQvSosogBKlffC0biIePEdpKFitRJ1W"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S_xY6Ej6PwhYjKixsBfpfbRaL7oUFxhP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S_xY6Ej6PwhYjKixsBfpfbRaL7oUFxhP</guid>
+			
+
+			<title><![CDATA[ 51讲SpringBucks实战项目进度小结.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51讲SpringBucks实战项目进度小结.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51讲SpringBucks实战项目进度小结.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51讲SpringBucks实战项目进度小结.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S_xY6Ej6PwhYjKixsBfpfbRaL7oUFxhP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S_6X5uiHn7SlyZJAxxpTVKKPyQFdXE9x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S_6X5uiHn7SlyZJAxxpTVKKPyQFdXE9x</guid>
+			
+
+			<title><![CDATA[ 50讲了解SpringMVC的切入点.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50讲了解SpringMVC的切入点.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50讲了解SpringMVC的切入点.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50讲了解SpringMVC的切入点.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S_6X5uiHn7SlyZJAxxpTVKKPyQFdXE9x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SUBdayPVoMDTOq6W5qFy2eGrdZZ62vFF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SUBdayPVoMDTOq6W5qFy2eGrdZZ62vFF</guid>
+			
+
+			<title><![CDATA[ 49讲SpringMVC中的异常处理机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49讲SpringMVC中的异常处理机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49讲SpringMVC中的异常处理机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49讲SpringMVC中的异常处理机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SUBdayPVoMDTOq6W5qFy2eGrdZZ62vFF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SRCGuCylUYiAkSNPAnXMfB0Dl7_whtQk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SRCGuCylUYiAkSNPAnXMfB0Dl7_whtQk</guid>
+			
+
+			<title><![CDATA[ 48讲静态资源与缓存.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48讲静态资源与缓存.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48讲静态资源与缓存.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48讲静态资源与缓存.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SRCGuCylUYiAkSNPAnXMfB0Dl7_whtQk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SLEnp2SWBfZNLNBc0dXpy_qfkbzuOOcI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SLEnp2SWBfZNLNBc0dXpy_qfkbzuOOcI</guid>
+			
+
+			<title><![CDATA[ 47讲SpringMVC中的常用视图（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47讲SpringMVC中的常用视图（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47讲SpringMVC中的常用视图（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47讲SpringMVC中的常用视图（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SLEnp2SWBfZNLNBc0dXpy_qfkbzuOOcI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S7ZcVJ-Mfwohz0t6r5toV_qXRY0b2Crz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S7ZcVJ-Mfwohz0t6r5toV_qXRY0b2Crz</guid>
+			
+
+			<title><![CDATA[ 46讲SpringMVC中的常用视图（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46讲SpringMVC中的常用视图（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46讲SpringMVC中的常用视图（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46讲SpringMVC中的常用视图（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S7ZcVJ-Mfwohz0t6r5toV_qXRY0b2Crz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S5IAQ9zE8JgIR3dtr_fb_6NB1yqDPFcM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S5IAQ9zE8JgIR3dtr_fb_6NB1yqDPFcM</guid>
+			
+
+			<title><![CDATA[ 45讲SpringMVC中的视图解析机制（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45讲SpringMVC中的视图解析机制（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45讲SpringMVC中的视图解析机制（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45讲SpringMVC中的视图解析机制（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S5IAQ9zE8JgIR3dtr_fb_6NB1yqDPFcM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S--8U9WcGow0L_H4cAjic08YVyjxRlvU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S--8U9WcGow0L_H4cAjic08YVyjxRlvU</guid>
+			
+
+			<title><![CDATA[ 44讲SpringMVC中的视图解析机制（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44讲SpringMVC中的视图解析机制（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44讲SpringMVC中的视图解析机制（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44讲SpringMVC中的视图解析机制（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S--8U9WcGow0L_H4cAjic08YVyjxRlvU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Rxi3LUrdl2_xxG-bXe_BssP0QTxBxejE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rxi3LUrdl2_xxG-bXe_BssP0QTxBxejE</guid>
+			
+
+			<title><![CDATA[ 43讲如何定义处理方法（下）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43讲如何定义处理方法（下）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43讲如何定义处理方法（下）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43讲如何定义处理方法（下）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rxi3LUrdl2_xxG-bXe_BssP0QTxBxejE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RuwbEWP6wTbksJ4L_qiwQ750OpWHtvTX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RuwbEWP6wTbksJ4L_qiwQ750OpWHtvTX</guid>
+			
+
+			<title><![CDATA[ 42讲如何定义处理方法（上）.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42讲如何定义处理方法（上）.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42讲如何定义处理方法（上）.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42讲如何定义处理方法（上）.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RuwbEWP6wTbksJ4L_qiwQ750OpWHtvTX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RpsklCqxK6kUwen0qyZYWVn51MgqtiB6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RpsklCqxK6kUwen0qyZYWVn51MgqtiB6</guid>
+			
+
+			<title><![CDATA[ 41讲理解请求的处理机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41讲理解请求的处理机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41讲理解请求的处理机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41讲理解请求的处理机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RpsklCqxK6kUwen0qyZYWVn51MgqtiB6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RnpntCjyIfj_JC4Q0XH0WN4Hf4vTNIRD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RnpntCjyIfj_JC4Q0XH0WN4Hf4vTNIRD</guid>
+			
+
+			<title><![CDATA[ 40讲理解Spring的应用上下文.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40讲理解Spring的应用上下文.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40讲理解Spring的应用上下文.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40讲理解Spring的应用上下文.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RnpntCjyIfj_JC4Q0XH0WN4Hf4vTNIRD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RkY-z-e9naaQ-zgoERqivKpRyshpi4K-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RkY-z-e9naaQ-zgoERqivKpRyshpi4K-</guid>
+			
+
+			<title><![CDATA[ 39讲编写第一个SpringMVCController.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39讲编写第一个SpringMVCController.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39讲编写第一个SpringMVCController.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39讲编写第一个SpringMVCController.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RkY-z-e9naaQ-zgoERqivKpRyshpi4K-"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

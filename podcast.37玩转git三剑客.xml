@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .37玩转git三剑客 ]]></title>
+		<itunes:subtitle><![CDATA[ .37玩转git三剑客 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .37玩转git三剑客. ]]></itunes:summary>
+		<description><![CDATA[ .37玩转git三剑客 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1mBWCKH6NzMMKasqmK6DZpbjxsjJn3vaz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mBWCKH6NzMMKasqmK6DZpbjxsjJn3vaz</guid>
+			
+
+			<title><![CDATA[ 01课程综述.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 01课程综述.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 01课程综述.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 01课程综述.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mBWCKH6NzMMKasqmK6DZpbjxsjJn3vaz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VSPmFtTTEfB3NL2MRrnsUzxVbbh1nY7g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VSPmFtTTEfB3NL2MRrnsUzxVbbh1nY7g</guid>
+			
+
+			<title><![CDATA[ 02安装Git.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 02安装Git.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 02安装Git.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 02安装Git.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VSPmFtTTEfB3NL2MRrnsUzxVbbh1nY7g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-iOXtCeF1XPTgVkNmFE51od7N6FB_B8j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-iOXtCeF1XPTgVkNmFE51od7N6FB_B8j</guid>
+			
+
+			<title><![CDATA[ 03使用Git之前需要做的最小配置.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 03使用Git之前需要做的最小配置.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 03使用Git之前需要做的最小配置.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 03使用Git之前需要做的最小配置.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-iOXtCeF1XPTgVkNmFE51od7N6FB_B8j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RuIJ9QauZ2wcmFN1CHVk3NBUYuD2r5VA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RuIJ9QauZ2wcmFN1CHVk3NBUYuD2r5VA</guid>
+			
+
+			<title><![CDATA[ 04创建第一个仓库并配置local用户信息.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 04创建第一个仓库并配置local用户信息.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 04创建第一个仓库并配置local用户信息.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 04创建第一个仓库并配置local用户信息.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RuIJ9QauZ2wcmFN1CHVk3NBUYuD2r5VA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rIP_1yxG99SWBu5VtEZ-7DfmysW1ENl3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rIP_1yxG99SWBu5VtEZ-7DfmysW1ENl3</guid>
+			
+
+			<title><![CDATA[ 05通过几次commit来认识工作区和暂存区.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 05通过几次commit来认识工作区和暂存区.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 05通过几次commit来认识工作区和暂存区.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 05通过几次commit来认识工作区和暂存区.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rIP_1yxG99SWBu5VtEZ-7DfmysW1ENl3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1veN3_jHvP17t2sTzin0LBRW_MYp06ymd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1veN3_jHvP17t2sTzin0LBRW_MYp06ymd</guid>
+			
+
+			<title><![CDATA[ 06给文件重命名的简便方法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 06给文件重命名的简便方法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 06给文件重命名的简便方法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 06给文件重命名的简便方法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1veN3_jHvP17t2sTzin0LBRW_MYp06ymd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UIffeEzYY2aiBkY49t9qw7RCzsiQVEPJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UIffeEzYY2aiBkY49t9qw7RCzsiQVEPJ</guid>
+			
+
+			<title><![CDATA[ 07通过gitlog查看版本演变历史.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 07通过gitlog查看版本演变历史.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 07通过gitlog查看版本演变历史.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 07通过gitlog查看版本演变历史.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UIffeEzYY2aiBkY49t9qw7RCzsiQVEPJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nQE0jqIAc53xcnHemk6j_ljScL8_bup1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nQE0jqIAc53xcnHemk6j_ljScL8_bup1</guid>
+			
+
+			<title><![CDATA[ 08gitk：通过图形界面工具来查看版本历史.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 08gitk：通过图形界面工具来查看版本历史.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 08gitk：通过图形界面工具来查看版本历史.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 08gitk：通过图形界面工具来查看版本历史.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nQE0jqIAc53xcnHemk6j_ljScL8_bup1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_Tl6kqViUHh9XR0R1ZBOZP4urIXUGQ-8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_Tl6kqViUHh9XR0R1ZBOZP4urIXUGQ-8</guid>
+			
+
+			<title><![CDATA[ 09探密.git目录.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 09探密.git目录.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 09探密.git目录.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 09探密.git目录.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_Tl6kqViUHh9XR0R1ZBOZP4urIXUGQ-8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rt52pMuNL9g8uLozcHfiG90OjpE2HwkY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rt52pMuNL9g8uLozcHfiG90OjpE2HwkY</guid>
+			
+
+			<title><![CDATA[ 10commit、tree和blob三个对象之间的关系.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 10commit、tree和blob三个对象之间的关系.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 10commit、tree和blob三个对象之间的关系.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 10commit、tree和blob三个对象之间的关系.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rt52pMuNL9g8uLozcHfiG90OjpE2HwkY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1casqUO-M2yd4lbSYP-V6T_xa2oM0XFdK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1casqUO-M2yd4lbSYP-V6T_xa2oM0XFdK</guid>
+			
+
+			<title><![CDATA[ 11小练习：数一数tree的个数.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 11小练习：数一数tree的个数.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 11小练习：数一数tree的个数.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 11小练习：数一数tree的个数.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1casqUO-M2yd4lbSYP-V6T_xa2oM0XFdK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1p7j0YKED2hPExdPapSQglEll_5LCZSkE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1p7j0YKED2hPExdPapSQglEll_5LCZSkE</guid>
+			
+
+			<title><![CDATA[ 12分离头指针情况下的注意事项.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 12分离头指针情况下的注意事项.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 12分离头指针情况下的注意事项.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 12分离头指针情况下的注意事项.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1p7j0YKED2hPExdPapSQglEll_5LCZSkE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y894DIURuq2Bic3EWUlKriYVAN3Z6RkV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y894DIURuq2Bic3EWUlKriYVAN3Z6RkV</guid>
+			
+
+			<title><![CDATA[ 13进一步理解HEAD和branch.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 13进一步理解HEAD和branch.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 13进一步理解HEAD和branch.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 13进一步理解HEAD和branch.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y894DIURuq2Bic3EWUlKriYVAN3Z6RkV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_5HPCkIuLTiYJ_0CqSm5fkWjq3FVr0P0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_5HPCkIuLTiYJ_0CqSm5fkWjq3FVr0P0</guid>
+			
+
+			<title><![CDATA[ 14怎么删除不需要的分支？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 14怎么删除不需要的分支？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 14怎么删除不需要的分支？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 14怎么删除不需要的分支？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_5HPCkIuLTiYJ_0CqSm5fkWjq3FVr0P0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1s7cXR-5qLQ6S1VtylbP5xBRjPdHnSPRg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1s7cXR-5qLQ6S1VtylbP5xBRjPdHnSPRg</guid>
+			
+
+			<title><![CDATA[ 15怎么修改最新commit的message？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 15怎么修改最新commit的message？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 15怎么修改最新commit的message？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 15怎么修改最新commit的message？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1s7cXR-5qLQ6S1VtylbP5xBRjPdHnSPRg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FwRMJBjqPd3bCRqmuijw3O50Wa3JmPZy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FwRMJBjqPd3bCRqmuijw3O50Wa3JmPZy</guid>
+			
+
+			<title><![CDATA[ 16怎么修改老旧commit的message？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 16怎么修改老旧commit的message？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 16怎么修改老旧commit的message？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 16怎么修改老旧commit的message？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FwRMJBjqPd3bCRqmuijw3O50Wa3JmPZy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Vu1De8HRgJ-qXyZU4WeLbPf_UIoT_gsF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Vu1De8HRgJ-qXyZU4WeLbPf_UIoT_gsF</guid>
+			
+
+			<title><![CDATA[ 17怎样把连续的多个commit整理成1个？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 17怎样把连续的多个commit整理成1个？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 17怎样把连续的多个commit整理成1个？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 17怎样把连续的多个commit整理成1个？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Vu1De8HRgJ-qXyZU4WeLbPf_UIoT_gsF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15bCmXJmo_ipe-NbEz3GmBNKIRlP_csmk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15bCmXJmo_ipe-NbEz3GmBNKIRlP_csmk</guid>
+			
+
+			<title><![CDATA[ 18怎样把间隔的几个commit整理成1个？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 18怎样把间隔的几个commit整理成1个？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 18怎样把间隔的几个commit整理成1个？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 18怎样把间隔的几个commit整理成1个？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15bCmXJmo_ipe-NbEz3GmBNKIRlP_csmk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10A9zOkQf55pzaUi0Q7y3nkmqReicJq2g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10A9zOkQf55pzaUi0Q7y3nkmqReicJq2g</guid>
+			
+
+			<title><![CDATA[ 19怎么比较暂存区和HEAD所含文件的差异？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 19怎么比较暂存区和HEAD所含文件的差异？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 19怎么比较暂存区和HEAD所含文件的差异？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 19怎么比较暂存区和HEAD所含文件的差异？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10A9zOkQf55pzaUi0Q7y3nkmqReicJq2g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kwk2ieo-M1Z_2GQgEUtwalUYTShBx9on</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kwk2ieo-M1Z_2GQgEUtwalUYTShBx9on</guid>
+			
+
+			<title><![CDATA[ 20怎么比较工作区和暂存区所含文件的差异？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 20怎么比较工作区和暂存区所含文件的差异？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 20怎么比较工作区和暂存区所含文件的差异？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 20怎么比较工作区和暂存区所含文件的差异？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kwk2ieo-M1Z_2GQgEUtwalUYTShBx9on"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LkKOEMiVM831lFOmjjMGlX187FFYo33C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LkKOEMiVM831lFOmjjMGlX187FFYo33C</guid>
+			
+
+			<title><![CDATA[ 21如何让暂存区恢复成和HEAD的一样？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 21如何让暂存区恢复成和HEAD的一样？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 21如何让暂存区恢复成和HEAD的一样？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 21如何让暂存区恢复成和HEAD的一样？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LkKOEMiVM831lFOmjjMGlX187FFYo33C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VqALRgA-ykxRQ6CqqGGU23KL0ZRgqXXC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VqALRgA-ykxRQ6CqqGGU23KL0ZRgqXXC</guid>
+			
+
+			<title><![CDATA[ 22如何让工作区的文件恢复为和暂存区一样？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 22如何让工作区的文件恢复为和暂存区一样？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 22如何让工作区的文件恢复为和暂存区一样？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 22如何让工作区的文件恢复为和暂存区一样？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VqALRgA-ykxRQ6CqqGGU23KL0ZRgqXXC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10A4eELjXhGk9nRfonCpDyR3-wc2UsuGM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10A4eELjXhGk9nRfonCpDyR3-wc2UsuGM</guid>
+			
+
+			<title><![CDATA[ 23怎样取消暂存区部分文件的更改？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 23怎样取消暂存区部分文件的更改？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 23怎样取消暂存区部分文件的更改？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 23怎样取消暂存区部分文件的更改？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10A4eELjXhGk9nRfonCpDyR3-wc2UsuGM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TS2lq-v2Pn_bIdkxj5OMviMfsQq6t02Q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TS2lq-v2Pn_bIdkxj5OMviMfsQq6t02Q</guid>
+			
+
+			<title><![CDATA[ 24消除最近的几次提交.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 24消除最近的几次提交.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 24消除最近的几次提交.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 24消除最近的几次提交.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TS2lq-v2Pn_bIdkxj5OMviMfsQq6t02Q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PNpYCE6-DP0hi1M_9cj-Owcd7EusP1Ox</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PNpYCE6-DP0hi1M_9cj-Owcd7EusP1Ox</guid>
+			
+
+			<title><![CDATA[ 25看看不同提交的指定文件的差异.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 25看看不同提交的指定文件的差异.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 25看看不同提交的指定文件的差异.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 25看看不同提交的指定文件的差异.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PNpYCE6-DP0hi1M_9cj-Owcd7EusP1Ox"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1JInbx04I1iRa2T1ohXrtS67-jurwvDSc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JInbx04I1iRa2T1ohXrtS67-jurwvDSc</guid>
+			
+
+			<title><![CDATA[ 26正确删除文件的方法.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 26正确删除文件的方法.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 26正确删除文件的方法.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 26正确删除文件的方法.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JInbx04I1iRa2T1ohXrtS67-jurwvDSc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1D0GjQhnpxJt7lMUaJ9pgo8LdgaMbObkV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1D0GjQhnpxJt7lMUaJ9pgo8LdgaMbObkV</guid>
+			
+
+			<title><![CDATA[ 27开发中临时加塞了紧急任务怎么处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 27开发中临时加塞了紧急任务怎么处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 27开发中临时加塞了紧急任务怎么处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 27开发中临时加塞了紧急任务怎么处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1D0GjQhnpxJt7lMUaJ9pgo8LdgaMbObkV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iF3_1jIA0NPFq2Dq5Yt0X6fkt29sXIuz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iF3_1jIA0NPFq2Dq5Yt0X6fkt29sXIuz</guid>
+			
+
+			<title><![CDATA[ 28如何指定不需要Git管理的文件？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 28如何指定不需要Git管理的文件？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 28如何指定不需要Git管理的文件？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 28如何指定不需要Git管理的文件？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iF3_1jIA0NPFq2Dq5Yt0X6fkt29sXIuz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10k_Ss_tJXwa0sTgwH7CIDYe-1aImvtS9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10k_Ss_tJXwa0sTgwH7CIDYe-1aImvtS9</guid>
+			
+
+			<title><![CDATA[ 29如何将Git仓库备份到本地？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 29如何将Git仓库备份到本地？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 29如何将Git仓库备份到本地？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 29如何将Git仓库备份到本地？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10k_Ss_tJXwa0sTgwH7CIDYe-1aImvtS9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iKtwrqcs0kjmDaGjWVHD5PrhdVUcM0r5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iKtwrqcs0kjmDaGjWVHD5PrhdVUcM0r5</guid>
+			
+
+			<title><![CDATA[ 30注册一个GitHub账号.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 30注册一个GitHub账号.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 30注册一个GitHub账号.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 30注册一个GitHub账号.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iKtwrqcs0kjmDaGjWVHD5PrhdVUcM0r5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZTUQO_G06DocKXGXLnlHKuoxrr6jrB02</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZTUQO_G06DocKXGXLnlHKuoxrr6jrB02</guid>
+			
+
+			<title><![CDATA[ 31配置公私钥.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 31配置公私钥.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 31配置公私钥.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 31配置公私钥.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZTUQO_G06DocKXGXLnlHKuoxrr6jrB02"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kO7DqOKCeu1QHdrbat9wJIC5wlSTToI0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kO7DqOKCeu1QHdrbat9wJIC5wlSTToI0</guid>
+			
+
+			<title><![CDATA[ 32在GitHub上创建个人仓库.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 32在GitHub上创建个人仓库.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 32在GitHub上创建个人仓库.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 32在GitHub上创建个人仓库.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kO7DqOKCeu1QHdrbat9wJIC5wlSTToI0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cT_9qeD3XX9Svq1MlJj1qZOGh0OPl4eD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cT_9qeD3XX9Svq1MlJj1qZOGh0OPl4eD</guid>
+			
+
+			<title><![CDATA[ 33把本地仓库同步到GitHub.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 33把本地仓库同步到GitHub.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 33把本地仓库同步到GitHub.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 33把本地仓库同步到GitHub.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cT_9qeD3XX9Svq1MlJj1qZOGh0OPl4eD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J4yF04JKQUSMXQoQRs1d9fKLJg7Bjmp8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J4yF04JKQUSMXQoQRs1d9fKLJg7Bjmp8</guid>
+			
+
+			<title><![CDATA[ 34不同人修改了不同文件如何处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 34不同人修改了不同文件如何处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 34不同人修改了不同文件如何处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 34不同人修改了不同文件如何处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J4yF04JKQUSMXQoQRs1d9fKLJg7Bjmp8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NPWN0S4aqe-tQuQRmHgXNsi7lyKrEBM3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NPWN0S4aqe-tQuQRmHgXNsi7lyKrEBM3</guid>
+			
+
+			<title><![CDATA[ 35不同人修改了同文件的不同区域如何处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 35不同人修改了同文件的不同区域如何处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 35不同人修改了同文件的不同区域如何处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 35不同人修改了同文件的不同区域如何处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NPWN0S4aqe-tQuQRmHgXNsi7lyKrEBM3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uvhaid1UCbLDJ3uFmdQ5v7FfYwLaQYxj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uvhaid1UCbLDJ3uFmdQ5v7FfYwLaQYxj</guid>
+			
+
+			<title><![CDATA[ 36不同人修改了同文件的同一区域如何处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 36不同人修改了同文件的同一区域如何处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 36不同人修改了同文件的同一区域如何处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 36不同人修改了同文件的同一区域如何处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uvhaid1UCbLDJ3uFmdQ5v7FfYwLaQYxj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1C1e9qQuuCfvNnLboWKSxR0x7FFr3sXu3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1C1e9qQuuCfvNnLboWKSxR0x7FFr3sXu3</guid>
+			
+
+			<title><![CDATA[ 37同时变更了文件名和文件内容如何处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 37同时变更了文件名和文件内容如何处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 37同时变更了文件名和文件内容如何处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 37同时变更了文件名和文件内容如何处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1C1e9qQuuCfvNnLboWKSxR0x7FFr3sXu3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sqPjCG9yKXi7AsT3-JjxyQR2e900m1Ll</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sqPjCG9yKXi7AsT3-JjxyQR2e900m1Ll</guid>
+			
+
+			<title><![CDATA[ 38把同一文件改成了不同的文件名如何处理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 38把同一文件改成了不同的文件名如何处理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 38把同一文件改成了不同的文件名如何处理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 38把同一文件改成了不同的文件名如何处理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sqPjCG9yKXi7AsT3-JjxyQR2e900m1Ll"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DLzUmB9UB2wJ4WNtOY_q9HC8rDKLkOLI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DLzUmB9UB2wJ4WNtOY_q9HC8rDKLkOLI</guid>
+			
+
+			<title><![CDATA[ 39禁止向集成分支执行push-f操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 39禁止向集成分支执行push-f操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 39禁止向集成分支执行push-f操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 39禁止向集成分支执行push-f操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DLzUmB9UB2wJ4WNtOY_q9HC8rDKLkOLI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OlU9s9boMCH-dxJFPDFTr_eqXCNArkn9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OlU9s9boMCH-dxJFPDFTr_eqXCNArkn9</guid>
+			
+
+			<title><![CDATA[ 40禁止向集成分支执行变更历史的操作.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 40禁止向集成分支执行变更历史的操作.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 40禁止向集成分支执行变更历史的操作.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 40禁止向集成分支执行变更历史的操作.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OlU9s9boMCH-dxJFPDFTr_eqXCNArkn9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fMoKuGY3qGwtvocovvgR5j4k95u01fHO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fMoKuGY3qGwtvocovvgR5j4k95u01fHO</guid>
+			
+
+			<title><![CDATA[ 41GitHub为什么会火？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 41GitHub为什么会火？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 41GitHub为什么会火？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 41GitHub为什么会火？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fMoKuGY3qGwtvocovvgR5j4k95u01fHO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1njwH8CXA2SolRME1xx23A4IVppDkiR2A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1njwH8CXA2SolRME1xx23A4IVppDkiR2A</guid>
+			
+
+			<title><![CDATA[ 42GitHub都有哪些核心功能？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 42GitHub都有哪些核心功能？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 42GitHub都有哪些核心功能？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 42GitHub都有哪些核心功能？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1njwH8CXA2SolRME1xx23A4IVppDkiR2A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10qmPrJENXPkKL_pq9y5a1CArmrhgX-E8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10qmPrJENXPkKL_pq9y5a1CArmrhgX-E8</guid>
+			
+
+			<title><![CDATA[ 43怎么快速淘到感兴趣的开源项目.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 43怎么快速淘到感兴趣的开源项目.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 43怎么快速淘到感兴趣的开源项目.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 43怎么快速淘到感兴趣的开源项目.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10qmPrJENXPkKL_pq9y5a1CArmrhgX-E8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10JItPcmpWUmZvFZH40Nd5G0IvAqOmYBv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10JItPcmpWUmZvFZH40Nd5G0IvAqOmYBv</guid>
+			
+
+			<title><![CDATA[ 44怎样在GitHub上搭建个人博客.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 44怎样在GitHub上搭建个人博客.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 44怎样在GitHub上搭建个人博客.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 44怎样在GitHub上搭建个人博客.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10JItPcmpWUmZvFZH40Nd5G0IvAqOmYBv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Xy0GVPW08u7_4K3tqDA5RnzKjXqeu98f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Xy0GVPW08u7_4K3tqDA5RnzKjXqeu98f</guid>
+			
+
+			<title><![CDATA[ 45开源项目怎么保证代码质量？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 45开源项目怎么保证代码质量？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 45开源项目怎么保证代码质量？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 45开源项目怎么保证代码质量？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Xy0GVPW08u7_4K3tqDA5RnzKjXqeu98f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=137LsOLRRr_gfKqpFyFEgX02zC4Tj4pIk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=137LsOLRRr_gfKqpFyFEgX02zC4Tj4pIk</guid>
+			
+
+			<title><![CDATA[ 46为何需要组织类型的仓库？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 46为何需要组织类型的仓库？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 46为何需要组织类型的仓库？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 46为何需要组织类型的仓库？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=137LsOLRRr_gfKqpFyFEgX02zC4Tj4pIk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DoZUqFyhbTvreJ9aKubub1dP5yjTKe2b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DoZUqFyhbTvreJ9aKubub1dP5yjTKe2b</guid>
+			
+
+			<title><![CDATA[ 47创建团队的项目.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 47创建团队的项目.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 47创建团队的项目.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 47创建团队的项目.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DoZUqFyhbTvreJ9aKubub1dP5yjTKe2b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Z7qu13SdaLlUm4j_5YizJyYmefBZJK7r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Z7qu13SdaLlUm4j_5YizJyYmefBZJK7r</guid>
+			
+
+			<title><![CDATA[ 48怎样选择适合自己团队的工作流？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 48怎样选择适合自己团队的工作流？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 48怎样选择适合自己团队的工作流？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 48怎样选择适合自己团队的工作流？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Z7qu13SdaLlUm4j_5YizJyYmefBZJK7r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Z1wO5BiETEHHrW2hScbiwIkUceXssep2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Z1wO5BiETEHHrW2hScbiwIkUceXssep2</guid>
+			
+
+			<title><![CDATA[ 49如何挑选合适的分支集成策略？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 49如何挑选合适的分支集成策略？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 49如何挑选合适的分支集成策略？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 49如何挑选合适的分支集成策略？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Z1wO5BiETEHHrW2hScbiwIkUceXssep2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19TDUv0ozQ6I15QVGEjfGBeBXXcsVUyq-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19TDUv0ozQ6I15QVGEjfGBeBXXcsVUyq-</guid>
+			
+
+			<title><![CDATA[ 50启用issue跟踪需求和任务.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 50启用issue跟踪需求和任务.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 50启用issue跟踪需求和任务.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 50启用issue跟踪需求和任务.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19TDUv0ozQ6I15QVGEjfGBeBXXcsVUyq-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10ba1GQX9OHMOHTvzFlRszMiu91zhUDOY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10ba1GQX9OHMOHTvzFlRszMiu91zhUDOY</guid>
+			
+
+			<title><![CDATA[ 51如何用project管理issue？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 51如何用project管理issue？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 51如何用project管理issue？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 51如何用project管理issue？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10ba1GQX9OHMOHTvzFlRszMiu91zhUDOY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hWCEQgSnlbv4sJ3D2Pl7Gzo_3TASt8K7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hWCEQgSnlbv4sJ3D2Pl7Gzo_3TASt8K7</guid>
+			
+
+			<title><![CDATA[ 52项目内部怎么实施codereview？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 52项目内部怎么实施codereview？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 52项目内部怎么实施codereview？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 52项目内部怎么实施codereview？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hWCEQgSnlbv4sJ3D2Pl7Gzo_3TASt8K7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EEgpW54n0jZdw11NTqM8AdMqPBPZJ7E9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EEgpW54n0jZdw11NTqM8AdMqPBPZJ7E9</guid>
+			
+
+			<title><![CDATA[ 53团队协作时如何做多分支的集成？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 53团队协作时如何做多分支的集成？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 53团队协作时如何做多分支的集成？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 53团队协作时如何做多分支的集成？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EEgpW54n0jZdw11NTqM8AdMqPBPZJ7E9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cbpYEyLyN4uXYhoh2fJjs8-eY1jTXFr2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cbpYEyLyN4uXYhoh2fJjs8-eY1jTXFr2</guid>
+			
+
+			<title><![CDATA[ 54怎样保证集成的质量？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 54怎样保证集成的质量？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 54怎样保证集成的质量？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 54怎样保证集成的质量？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cbpYEyLyN4uXYhoh2fJjs8-eY1jTXFr2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NqZvOdqWvYjEbHDGY8fRtvid5R9_ZDdf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NqZvOdqWvYjEbHDGY8fRtvid5R9_ZDdf</guid>
+			
+
+			<title><![CDATA[ 55怎样把产品包发布到GitHub上？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 55怎样把产品包发布到GitHub上？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 55怎样把产品包发布到GitHub上？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 55怎样把产品包发布到GitHub上？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NqZvOdqWvYjEbHDGY8fRtvid5R9_ZDdf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cRGTblWKz1TtSjdvJ0CWbsPfspkoP-uc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cRGTblWKz1TtSjdvJ0CWbsPfspkoP-uc</guid>
+			
+
+			<title><![CDATA[ 56怎么给项目增加详细的指导文档？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 56怎么给项目增加详细的指导文档？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 56怎么给项目增加详细的指导文档？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 56怎么给项目增加详细的指导文档？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cRGTblWKz1TtSjdvJ0CWbsPfspkoP-uc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EBlUi5J-Iz_eZa_ttl2d4SL-5JesRkh8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EBlUi5J-Iz_eZa_ttl2d4SL-5JesRkh8</guid>
+			
+
+			<title><![CDATA[ 57国内互联网企业为什么喜欢GitLab？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 57国内互联网企业为什么喜欢GitLab？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 57国内互联网企业为什么喜欢GitLab？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 57国内互联网企业为什么喜欢GitLab？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EBlUi5J-Iz_eZa_ttl2d4SL-5JesRkh8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EE6YUoRo9saxlEEva9NMwKgehkxTUF18</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EE6YUoRo9saxlEEva9NMwKgehkxTUF18</guid>
+			
+
+			<title><![CDATA[ 58GitLab有哪些核心的功能？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 58GitLab有哪些核心的功能？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 58GitLab有哪些核心的功能？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 58GitLab有哪些核心的功能？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EE6YUoRo9saxlEEva9NMwKgehkxTUF18"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QVxdwZ7QKz7PNRwrBTiUykByLiuBLRpa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QVxdwZ7QKz7PNRwrBTiUykByLiuBLRpa</guid>
+			
+
+			<title><![CDATA[ 59GitLab上怎么做项目管理？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 59GitLab上怎么做项目管理？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 59GitLab上怎么做项目管理？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 59GitLab上怎么做项目管理？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QVxdwZ7QKz7PNRwrBTiUykByLiuBLRpa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L1GWCIhLtGNxEtIthfWp4WqQWhpBQv4i</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L1GWCIhLtGNxEtIthfWp4WqQWhpBQv4i</guid>
+			
+
+			<title><![CDATA[ 60GitLab上怎么做codereview？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 60GitLab上怎么做codereview？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 60GitLab上怎么做codereview？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 60GitLab上怎么做codereview？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L1GWCIhLtGNxEtIthfWp4WqQWhpBQv4i"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fXcmKupSfC6SLwi2QCR_YaEjUAbJf01X</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fXcmKupSfC6SLwi2QCR_YaEjUAbJf01X</guid>
+			
+
+			<title><![CDATA[ 61GitLab上怎么保证集成的质量？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 61GitLab上怎么保证集成的质量？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 61GitLab上怎么保证集成的质量？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 61GitLab上怎么保证集成的质量？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fXcmKupSfC6SLwi2QCR_YaEjUAbJf01X"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pxXph3bZla8wQg-OTj7y1oUw0FVGafQW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pxXph3bZla8wQg-OTj7y1oUw0FVGafQW</guid>
+			
+
+			<title><![CDATA[ 62怎么把应用部署到AWS上？.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 62怎么把应用部署到AWS上？.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 62怎么把应用部署到AWS上？.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 62怎么把应用部署到AWS上？.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pxXph3bZla8wQg-OTj7y1oUw0FVGafQW"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

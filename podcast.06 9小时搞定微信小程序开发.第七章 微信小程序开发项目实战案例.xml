@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .06 9小时搞定微信小程序开发.第七章 微信小程序开发项目实战案例 ]]></title>
+		<itunes:subtitle><![CDATA[ .06 9小时搞定微信小程序开发.第七章 微信小程序开发项目实战案例 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .06 9小时搞定微信小程序开发.第七章 微信小程序开发项目实战案例. ]]></itunes:summary>
+		<description><![CDATA[ .06 9小时搞定微信小程序开发.第七章 微信小程序开发项目实战案例 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1njLXi0tDCbZr-LKGlKkwT8-7RERWqVRe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1njLXi0tDCbZr-LKGlKkwT8-7RERWqVRe</guid>
+			
+
+			<title><![CDATA[ 第85讲.小程序实战项目小书架之登录授权.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第85讲.小程序实战项目小书架之登录授权.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第85讲.小程序实战项目小书架之登录授权.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第85讲.小程序实战项目小书架之登录授权.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1njLXi0tDCbZr-LKGlKkwT8-7RERWqVRe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nXpxPcJ5sYth2DC0t803n6_stLGuqdZs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nXpxPcJ5sYth2DC0t803n6_stLGuqdZs</guid>
+			
+
+			<title><![CDATA[ 第84讲.小程序实战项目小书架之书籍列表模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 第84讲.小程序实战项目小书架之书籍列表模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 第84讲.小程序实战项目小书架之书籍列表模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 第84讲.小程序实战项目小书架之书籍列表模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nXpxPcJ5sYth2DC0t803n6_stLGuqdZs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nWf3wrwv57pcv-jYmDTSmqp4_-s8aC-6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nWf3wrwv57pcv-jYmDTSmqp4_-s8aC-6</guid>
+			
+
+			<title><![CDATA[ 89.小程序实战项目小书架之已购书籍模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 89.小程序实战项目小书架之已购书籍模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 89.小程序实战项目小书架之已购书籍模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 89.小程序实战项目小书架之已购书籍模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nWf3wrwv57pcv-jYmDTSmqp4_-s8aC-6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nGbvPfPtMSh1wfKZLp5izdMbc9IPXq1Q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nGbvPfPtMSh1wfKZLp5izdMbc9IPXq1Q</guid>
+			
+
+			<title><![CDATA[ 88.小程序实战项目小书架之评论及消息模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 88.小程序实战项目小书架之评论及消息模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 88.小程序实战项目小书架之评论及消息模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 88.小程序实战项目小书架之评论及消息模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nGbvPfPtMSh1wfKZLp5izdMbc9IPXq1Q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1n7hmJC_fQqq72UEJjYSpzkCknv9e5lpk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1n7hmJC_fQqq72UEJjYSpzkCknv9e5lpk</guid>
+			
+
+			<title><![CDATA[ 87.小程序实战项目小书架之书籍详情页面.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 87.小程序实战项目小书架之书籍详情页面.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 87.小程序实战项目小书架之书籍详情页面.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 87.小程序实战项目小书架之书籍详情页面.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1n7hmJC_fQqq72UEJjYSpzkCknv9e5lpk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mzAmCPj-u0lJWvj5-5TD5C41tJ4d1k65</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mzAmCPj-u0lJWvj5-5TD5C41tJ4d1k65</guid>
+			
+
+			<title><![CDATA[ 86.小程序实战项目小书架之个人中心模块.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 86.小程序实战项目小书架之个人中心模块.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 86.小程序实战项目小书架之个人中心模块.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 86.小程序实战项目小书架之个人中心模块.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mzAmCPj-u0lJWvj5-5TD5C41tJ4d1k65"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mvfo3KRXFzQr8cyCzrjyUpnbPYoR-rCl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mvfo3KRXFzQr8cyCzrjyUpnbPYoR-rCl</guid>
+			
+
+			<title><![CDATA[ 83.小程序实战项目小书架之开发前的准备.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 83.小程序实战项目小书架之开发前的准备.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 83.小程序实战项目小书架之开发前的准备.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 83.小程序实战项目小书架之开发前的准备.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mvfo3KRXFzQr8cyCzrjyUpnbPYoR-rCl"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

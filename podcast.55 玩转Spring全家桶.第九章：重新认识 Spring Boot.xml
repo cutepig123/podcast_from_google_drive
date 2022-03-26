@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .55 玩转Spring全家桶.第九章：重新认识 Spring Boot ]]></title>
+		<itunes:subtitle><![CDATA[ .55 玩转Spring全家桶.第九章：重新认识 Spring Boot ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .55 玩转Spring全家桶.第九章：重新认识 Spring Boot. ]]></itunes:summary>
+		<description><![CDATA[ .55 玩转Spring全家桶.第九章：重新认识 Spring Boot ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1Rgz058VSMkwNuE4zOtIvMCpo3F4UWDjb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rgz058VSMkwNuE4zOtIvMCpo3F4UWDjb</guid>
+			
+
+			<title><![CDATA[ 74理解配置背后的PropertySource抽象.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 74理解配置背后的PropertySource抽象.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 74理解配置背后的PropertySource抽象.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 74理解配置背后的PropertySource抽象.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rgz058VSMkwNuE4zOtIvMCpo3F4UWDjb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ReLM55U2GA2s8h8hCBE0nQWyrC2Gw0yB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ReLM55U2GA2s8h8hCBE0nQWyrC2Gw0yB</guid>
+			
+
+			<title><![CDATA[ 73深挖SpringBoot的配置加载机制.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 73深挖SpringBoot的配置加载机制.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 73深挖SpringBoot的配置加载机制.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 73深挖SpringBoot的配置加载机制.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ReLM55U2GA2s8h8hCBE0nQWyrC2Gw0yB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RZ-9J6EZABRP2rDi3pZg77rZeZgskoGa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RZ-9J6EZABRP2rDi3pZg77rZeZgskoGa</guid>
+			
+
+			<title><![CDATA[ 72定制自己的起步依赖.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 72定制自己的起步依赖.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 72定制自己的起步依赖.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 72定制自己的起步依赖.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RZ-9J6EZABRP2rDi3pZg77rZeZgskoGa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RUOLeiY6n0_PxSdWnfoCYEOj2_4DG2EM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RUOLeiY6n0_PxSdWnfoCYEOj2_4DG2EM</guid>
+			
+
+			<title><![CDATA[ 71了解起步依赖及其实现原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 71了解起步依赖及其实现原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 71了解起步依赖及其实现原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 71了解起步依赖及其实现原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RUOLeiY6n0_PxSdWnfoCYEOj2_4DG2EM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RRfWHzUDqiQflS7pPHt8T4wjJmgkjECX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RRfWHzUDqiQflS7pPHt8T4wjJmgkjECX</guid>
+			
+
+			<title><![CDATA[ 70如何在低版本Spring中快速实现类似自动配置的功能.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 70如何在低版本Spring中快速实现类似自动配置的功能.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 70如何在低版本Spring中快速实现类似自动配置的功能.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 70如何在低版本Spring中快速实现类似自动配置的功能.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RRfWHzUDqiQflS7pPHt8T4wjJmgkjECX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RPJaUjTEFx15ZGyYDl1C7sDDjhWwj1vl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RPJaUjTEFx15ZGyYDl1C7sDDjhWwj1vl</guid>
+			
+
+			<title><![CDATA[ 69动手实现自己的自动配置.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 69动手实现自己的自动配置.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 69动手实现自己的自动配置.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 69动手实现自己的自动配置.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RPJaUjTEFx15ZGyYDl1C7sDDjhWwj1vl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RGiYs_wurqbA2ikJk0Vr4ywZloDETldh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RGiYs_wurqbA2ikJk0Vr4ywZloDETldh</guid>
+			
+
+			<title><![CDATA[ 68了解自动配置的实现原理.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 68了解自动配置的实现原理.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 68了解自动配置的实现原理.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 68了解自动配置的实现原理.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RGiYs_wurqbA2ikJk0Vr4ywZloDETldh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R7Gig4Vvg6tJEvjBA_Oalc-gFHe78LhV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R7Gig4Vvg6tJEvjBA_Oalc-gFHe78LhV</guid>
+			
+
+			<title><![CDATA[ 67认识SpringBoot的组成部分.mp4-mp4 ]]></title>
+			<itunes:summary><![CDATA[ 67认识SpringBoot的组成部分.mp4-mp4 ]]></itunes:summary>
+			<description><![CDATA[ 67认识SpringBoot的组成部分.mp4-mp4 ]]></description>
+			<content:encoded><![CDATA[ 67认识SpringBoot的组成部分.mp4-mp4 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R7Gig4Vvg6tJEvjBA_Oalc-gFHe78LhV"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>
