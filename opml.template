@@ -1,0 +1,11 @@
+<opml version="1.1">
+  <head>
+    <title>Opml template</title>
+    <dateModified>Mon, 20 May 2013 16:00:37 GMT</dateModified>
+  </head>
+  <body>
+
+$items
+    
+  </body>
+</opml>

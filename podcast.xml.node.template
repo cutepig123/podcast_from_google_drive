@@ -1,0 +1,15 @@
+		<item>
+			<link>$url</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">$url</guid>
+			
+
+			<title><![CDATA[ $title ]]></title>
+			<itunes:summary><![CDATA[ $title ]]></itunes:summary>
+			<description><![CDATA[ $title ]]></description>
+			<content:encoded><![CDATA[ $title ]]></content:encoded>
+
+			<enclosure url="$url"  type="audio/mpeg"/>
+			
+		</item>
