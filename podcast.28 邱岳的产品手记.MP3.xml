@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .28 邱岳的产品手记.MP3 ]]></title>
+		<itunes:subtitle><![CDATA[ .28 邱岳的产品手记.MP3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .28 邱岳的产品手记.MP3. ]]></itunes:summary>
+		<description><![CDATA[ .28 邱岳的产品手记.MP3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=18c93XTGBTJfiIIzXpxToLxBlQWJJ2aee</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18c93XTGBTJfiIIzXpxToLxBlQWJJ2aee</guid>
+			
+
+			<title><![CDATA[ 尾声：你的快乐是哪一种.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 尾声：你的快乐是哪一种.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 尾声：你的快乐是哪一种.mp3 ]]></description>
+			<content:encoded><![CDATA[ 尾声：你的快乐是哪一种.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18c93XTGBTJfiIIzXpxToLxBlQWJJ2aee"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18aHc8AZbR3WTvgmcw9HlCFl84-_zXMjc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18aHc8AZbR3WTvgmcw9HlCFl84-_zXMjc</guid>
+			
+
+			<title><![CDATA[ 开篇词讲产品经理的世界没有对错.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲产品经理的世界没有对错.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲产品经理的世界没有对错.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲产品经理的世界没有对错.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18aHc8AZbR3WTvgmcw9HlCFl84-_zXMjc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18SsP3FCi_RvdfLgrFewqeNqHqefDs82k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18SsP3FCi_RvdfLgrFewqeNqHqefDs82k</guid>
+			
+
+			<title><![CDATA[ 【第二季回归】二爷归来，再次扬帆起航.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 【第二季回归】二爷归来，再次扬帆起航.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 【第二季回归】二爷归来，再次扬帆起航.mp3 ]]></description>
+			<content:encoded><![CDATA[ 【第二季回归】二爷归来，再次扬帆起航.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18SsP3FCi_RvdfLgrFewqeNqHqefDs82k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18O6zDL0WlFOCHEmMTvP29Omn_vxpcY_U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18O6zDL0WlFOCHEmMTvP29Omn_vxpcY_U</guid>
+			
+
+			<title><![CDATA[ 44讲“玩”的启示：从游戏设计中学习产品设计（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44讲“玩”的启示：从游戏设计中学习产品设计（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44讲“玩”的启示：从游戏设计中学习产品设计（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44讲“玩”的启示：从游戏设计中学习产品设计（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18O6zDL0WlFOCHEmMTvP29Omn_vxpcY_U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18K1qLUlWlxudJlRa4qzYICrvScqZB00E</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18K1qLUlWlxudJlRa4qzYICrvScqZB00E</guid>
+			
+
+			<title><![CDATA[ 43讲“玩”的力量：从游戏设计中学习产品设计（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43讲“玩”的力量：从游戏设计中学习产品设计（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43讲“玩”的力量：从游戏设计中学习产品设计（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43讲“玩”的力量：从游戏设计中学习产品设计（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18K1qLUlWlxudJlRa4qzYICrvScqZB00E"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18D-qyrFi5vCEO71mhZMf9-Aq2NuBhZxE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18D-qyrFi5vCEO71mhZMf9-Aq2NuBhZxE</guid>
+			
+
+			<title><![CDATA[ 41讲产品经理的项目管理心得.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲产品经理的项目管理心得.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲产品经理的项目管理心得.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲产品经理的项目管理心得.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18D-qyrFi5vCEO71mhZMf9-Aq2NuBhZxE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1884V1KPSfT8F7fTNqQXi6uA6-GEUJSdn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1884V1KPSfT8F7fTNqQXi6uA6-GEUJSdn</guid>
+			
+
+			<title><![CDATA[ 40讲新年给产品经理的几碗鸡汤.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲新年给产品经理的几碗鸡汤.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲新年给产品经理的几碗鸡汤.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲新年给产品经理的几碗鸡汤.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1884V1KPSfT8F7fTNqQXi6uA6-GEUJSdn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18-bnsYWmlTrQot1meGsPxfPw4KdjA_BY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18-bnsYWmlTrQot1meGsPxfPw4KdjA_BY</guid>
+			
+
+			<title><![CDATA[ 38讲如何做好需求评审（下）：在评审中控住全场.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲如何做好需求评审（下）：在评审中控住全场.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲如何做好需求评审（下）：在评审中控住全场.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲如何做好需求评审（下）：在评审中控住全场.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18-bnsYWmlTrQot1meGsPxfPw4KdjA_BY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17oSISI82n0vB4_vaZ4f2ME15iCBH1Ydx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17oSISI82n0vB4_vaZ4f2ME15iCBH1Ydx</guid>
+			
+
+			<title><![CDATA[ 37讲如何做好需求评审（上）：需求评审不只是一次会议.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲如何做好需求评审（上）：需求评审不只是一次会议.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲如何做好需求评审（上）：需求评审不只是一次会议.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲如何做好需求评审（上）：需求评审不只是一次会议.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17oSISI82n0vB4_vaZ4f2ME15iCBH1Ydx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17mu1uhdkMUJevRPog_NrJjE4dviDLU1T</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17mu1uhdkMUJevRPog_NrJjE4dviDLU1T</guid>
+			
+
+			<title><![CDATA[ 35讲答疑时间：关于产品经理的12个问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲答疑时间：关于产品经理的12个问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲答疑时间：关于产品经理的12个问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲答疑时间：关于产品经理的12个问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17mu1uhdkMUJevRPog_NrJjE4dviDLU1T"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17UnbF1DcuN1ous6YBCOXsU8eH862KdeF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17UnbF1DcuN1ous6YBCOXsU8eH862KdeF</guid>
+			
+
+			<title><![CDATA[ 34讲价值曲线分析：排定需求优先级的方法（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲价值曲线分析：排定需求优先级的方法（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲价值曲线分析：排定需求优先级的方法（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲价值曲线分析：排定需求优先级的方法（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17UnbF1DcuN1ous6YBCOXsU8eH862KdeF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17HDyDDyLbpDZSu2IaNWRqV5cLpzHgaiq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17HDyDDyLbpDZSu2IaNWRqV5cLpzHgaiq</guid>
+			
+
+			<title><![CDATA[ 32讲从受众规模、需求频率和强度出发：排定需求优先级的方法（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲从受众规模、需求频率和强度出发：排定需求优先级的方法（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲从受众规模、需求频率和强度出发：排定需求优先级的方法（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲从受众规模、需求频率和强度出发：排定需求优先级的方法（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17HDyDDyLbpDZSu2IaNWRqV5cLpzHgaiq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17DamltM2pbh2G4pcl5r2HItWfRi_nXaf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17DamltM2pbh2G4pcl5r2HItWfRi_nXaf</guid>
+			
+
+			<title><![CDATA[ 31讲产品分析的套路（下）：如何出解决方案？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲产品分析的套路（下）：如何出解决方案？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲产品分析的套路（下）：如何出解决方案？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲产品分析的套路（下）：如何出解决方案？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17DamltM2pbh2G4pcl5r2HItWfRi_nXaf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=172C910tlt-oMxQ_MH4emkCYIv_vjUqH7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=172C910tlt-oMxQ_MH4emkCYIv_vjUqH7</guid>
+			
+
+			<title><![CDATA[ 29讲产品分析的套路（中）：解决什么问题？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲产品分析的套路（中）：解决什么问题？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲产品分析的套路（中）：解决什么问题？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲产品分析的套路（中）：解决什么问题？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=172C910tlt-oMxQ_MH4emkCYIv_vjUqH7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16s5wTAV4SdMMmFjG-44pjphUZIfJ9krj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16s5wTAV4SdMMmFjG-44pjphUZIfJ9krj</guid>
+			
+
+			<title><![CDATA[ 28讲产品分析的套路（上）：谁是利益相关者？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲产品分析的套路（上）：谁是利益相关者？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲产品分析的套路（上）：谁是利益相关者？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲产品分析的套路（上）：谁是利益相关者？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16s5wTAV4SdMMmFjG-44pjphUZIfJ9krj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16ixgIwCkYKWdYquGJHBak8PhhjHcpdYC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16ixgIwCkYKWdYquGJHBak8PhhjHcpdYC</guid>
+			
+
+			<title><![CDATA[ 26讲写好产品文档的诀窍.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲写好产品文档的诀窍.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲写好产品文档的诀窍.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲写好产品文档的诀窍.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16ixgIwCkYKWdYquGJHBak8PhhjHcpdYC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16e9oIN0q4SmaymXkmnK4eknoNhNUeJm9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16e9oIN0q4SmaymXkmnK4eknoNhNUeJm9</guid>
+			
+
+			<title><![CDATA[ 25讲产品世界的暗黑模式：操纵的诱惑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲产品世界的暗黑模式：操纵的诱惑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲产品世界的暗黑模式：操纵的诱惑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲产品世界的暗黑模式：操纵的诱惑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16e9oIN0q4SmaymXkmnK4eknoNhNUeJm9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16c1m4h-tG-BL9CfJFSjcxgfWglzT0c1A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16c1m4h-tG-BL9CfJFSjcxgfWglzT0c1A</guid>
+			
+
+			<title><![CDATA[ 23讲产品经理的图文基本功（下）：产品图例.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲产品经理的图文基本功（下）：产品图例.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲产品经理的图文基本功（下）：产品图例.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲产品经理的图文基本功（下）：产品图例.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16c1m4h-tG-BL9CfJFSjcxgfWglzT0c1A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16PN7dpXbPXLM3HVr1cEUh1qV97C4huQ3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16PN7dpXbPXLM3HVr1cEUh1qV97C4huQ3</guid>
+			
+
+			<title><![CDATA[ 22讲产品经理的图文基本功（上）：产品文档.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲产品经理的图文基本功（上）：产品文档.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲产品经理的图文基本功（上）：产品文档.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲产品经理的图文基本功（上）：产品文档.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16PN7dpXbPXLM3HVr1cEUh1qV97C4huQ3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16HFA9O2gA6AVzZ3vdwDJ3hIAiN0cDjLJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16HFA9O2gA6AVzZ3vdwDJ3hIAiN0cDjLJ</guid>
+			
+
+			<title><![CDATA[ 20讲产品经理如何与开发打交道（下）：合作与共赢.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲产品经理如何与开发打交道（下）：合作与共赢.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲产品经理如何与开发打交道（下）：合作与共赢.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲产品经理如何与开发打交道（下）：合作与共赢.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16HFA9O2gA6AVzZ3vdwDJ3hIAiN0cDjLJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16DnpzxRxX8VT1J4zJ0AxKTvfFrWzGCMR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16DnpzxRxX8VT1J4zJ0AxKTvfFrWzGCMR</guid>
+			
+
+			<title><![CDATA[ 19讲产品经理如何与开发打交道（上）：打破思维的边界.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲产品经理如何与开发打交道（上）：打破思维的边界.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲产品经理如何与开发打交道（上）：打破思维的边界.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲产品经理如何与开发打交道（上）：打破思维的边界.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16DnpzxRxX8VT1J4zJ0AxKTvfFrWzGCMR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=165OTHoEIwE3-2zxeJe4nPEjsl2E9oW_O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=165OTHoEIwE3-2zxeJe4nPEjsl2E9oW_O</guid>
+			
+
+			<title><![CDATA[ 17讲产品经理如何获得非权力性的影响力？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲产品经理如何获得非权力性的影响力？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲产品经理如何获得非权力性的影响力？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲产品经理如何获得非权力性的影响力？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=165OTHoEIwE3-2zxeJe4nPEjsl2E9oW_O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15vSX0sT4RP7Sq5uYpXsx3yRy-ZqWhPHY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15vSX0sT4RP7Sq5uYpXsx3yRy-ZqWhPHY</guid>
+			
+
+			<title><![CDATA[ 16讲在内部产品中找到产品经理的价值.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲在内部产品中找到产品经理的价值.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲在内部产品中找到产品经理的价值.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲在内部产品中找到产品经理的价值.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15vSX0sT4RP7Sq5uYpXsx3yRy-ZqWhPHY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15rm7KwTDPSdgOxBoD1xYG8vd7DxUwGxJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15rm7KwTDPSdgOxBoD1xYG8vd7DxUwGxJ</guid>
+			
+
+			<title><![CDATA[ 14讲留白与节奏：产品规划（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲留白与节奏：产品规划（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲留白与节奏：产品规划（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲留白与节奏：产品规划（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15rm7KwTDPSdgOxBoD1xYG8vd7DxUwGxJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15kupC2hF0kVCZOLnbCs2LRUVj3zswZYf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15kupC2hF0kVCZOLnbCs2LRUVj3zswZYf</guid>
+			
+
+			<title><![CDATA[ 13讲无用却必要：产品规划（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲无用却必要：产品规划（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲无用却必要：产品规划（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲无用却必要：产品规划（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15kupC2hF0kVCZOLnbCs2LRUVj3zswZYf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15e-odMKTWvmIpHWXol6aHuOPm0x9adVf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15e-odMKTWvmIpHWXol6aHuOPm0x9adVf</guid>
+			
+
+			<title><![CDATA[ 11讲如何借鉴灵感？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11讲如何借鉴灵感？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11讲如何借鉴灵感？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11讲如何借鉴灵感？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15e-odMKTWvmIpHWXol6aHuOPm0x9adVf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15RxAHdMr3f2gwx2ElJ_4Y1CwyuW6wRGF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15RxAHdMr3f2gwx2ElJ_4Y1CwyuW6wRGF</guid>
+			
+
+			<title><![CDATA[ 10讲产品被抄袭了，怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10讲产品被抄袭了，怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10讲产品被抄袭了，怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10讲产品被抄袭了，怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15RxAHdMr3f2gwx2ElJ_4Y1CwyuW6wRGF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15LqK1nZ3C3Z6kJjYQNGKHwCkzHAtB3Qo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15LqK1nZ3C3Z6kJjYQNGKHwCkzHAtB3Qo</guid>
+			
+
+			<title><![CDATA[ 08讲关于需求变更（下）化变更于无形.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08讲关于需求变更（下）化变更于无形.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08讲关于需求变更（下）化变更于无形.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08讲关于需求变更（下）化变更于无形.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15LqK1nZ3C3Z6kJjYQNGKHwCkzHAtB3Qo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=156onY-pOcjbKu62-2rqNR_JruVC6aIHS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=156onY-pOcjbKu62-2rqNR_JruVC6aIHS</guid>
+			
+
+			<title><![CDATA[ 07讲关于需求变更（上）：需求背后的需求.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07讲关于需求变更（上）：需求背后的需求.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07讲关于需求变更（上）：需求背后的需求.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07讲关于需求变更（上）：需求背后的需求.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=156onY-pOcjbKu62-2rqNR_JruVC6aIHS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=153-fxP4iEoT3IR-w2VfB__GW22s2s5EO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=153-fxP4iEoT3IR-w2VfB__GW22s2s5EO</guid>
+			
+
+			<title><![CDATA[ 05讲如何当好AI时代的产品经理？（实践篇）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05讲如何当好AI时代的产品经理？（实践篇）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05讲如何当好AI时代的产品经理？（实践篇）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05讲如何当好AI时代的产品经理？（实践篇）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=153-fxP4iEoT3IR-w2VfB__GW22s2s5EO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14uI-BBS3t0s-6rBULPf__e4xS3DDwD5M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14uI-BBS3t0s-6rBULPf__e4xS3DDwD5M</guid>
+			
+
+			<title><![CDATA[ 04讲如何当好AI时代的产品经理？（学习篇）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04讲如何当好AI时代的产品经理？（学习篇）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04讲如何当好AI时代的产品经理？（学习篇）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04讲如何当好AI时代的产品经理？（学习篇）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14uI-BBS3t0s-6rBULPf__e4xS3DDwD5M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14gS05KP5DXTpSgePh6n6rjHDrBIEF-UN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14gS05KP5DXTpSgePh6n6rjHDrBIEF-UN</guid>
+			
+
+			<title><![CDATA[ 02讲产品经理工具指南.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02讲产品经理工具指南.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02讲产品经理工具指南.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02讲产品经理工具指南.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14gS05KP5DXTpSgePh6n6rjHDrBIEF-UN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14PLTXlUqpJeILF1ZIiebiDAYQaiz7dIr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14PLTXlUqpJeILF1ZIiebiDAYQaiz7dIr</guid>
+			
+
+			<title><![CDATA[ 01讲验证码是个好设计吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01讲验证码是个好设计吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01讲验证码是个好设计吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01讲验证码是个好设计吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14PLTXlUqpJeILF1ZIiebiDAYQaiz7dIr"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .45 程序员进阶攻略 ]]></title>
+		<itunes:subtitle><![CDATA[ .45 程序员进阶攻略 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .45 程序员进阶攻略. ]]></itunes:summary>
+		<description><![CDATA[ .45 程序员进阶攻略 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1BUH8vDfk75A6q2QpvtrLJOfXfDlje7_5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BUH8vDfk75A6q2QpvtrLJOfXfDlje7_5</guid>
+			
+
+			<title><![CDATA[ 开篇词讲程序行知：走在同样的路上，遇见自己的风景.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲程序行知：走在同样的路上，遇见自己的风景.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲程序行知：走在同样的路上，遇见自己的风景.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲程序行知：走在同样的路上，遇见自己的风景.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BUH8vDfk75A6q2QpvtrLJOfXfDlje7_5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BNF9QjzL2keH-Psh7O5v093tEupeMgCe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BNF9QjzL2keH-Psh7O5v093tEupeMgCe</guid>
+			
+
+			<title><![CDATA[ 61讲工作之余，专业之外.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 61讲工作之余，专业之外.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 61讲工作之余，专业之外.mp3 ]]></description>
+			<content:encoded><![CDATA[ 61讲工作之余，专业之外.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BNF9QjzL2keH-Psh7O5v093tEupeMgCe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BJQ16ERkSzFkNXDJ7PGiz4PkBaLqh0qv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BJQ16ERkSzFkNXDJ7PGiz4PkBaLqh0qv</guid>
+			
+
+			<title><![CDATA[ 60讲三视角：定位、自省与多维.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 60讲三视角：定位、自省与多维.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 60讲三视角：定位、自省与多维.mp3 ]]></description>
+			<content:encoded><![CDATA[ 60讲三视角：定位、自省与多维.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BJQ16ERkSzFkNXDJ7PGiz4PkBaLqh0qv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1B6uD7hhuYbtsp-EeGG2vSqrRwwMPVJfh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1B6uD7hhuYbtsp-EeGG2vSqrRwwMPVJfh</guid>
+			
+
+			<title><![CDATA[ 59讲三角色：程序员、技术主管与架构师.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 59讲三角色：程序员、技术主管与架构师.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 59讲三角色：程序员、技术主管与架构师.mp3 ]]></description>
+			<content:encoded><![CDATA[ 59讲三角色：程序员、技术主管与架构师.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1B6uD7hhuYbtsp-EeGG2vSqrRwwMPVJfh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Anr7K3eOXyuCOCsfym4POIYGTH2n6eo5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Anr7K3eOXyuCOCsfym4POIYGTH2n6eo5</guid>
+			
+
+			<title><![CDATA[ 58讲三人行：前辈、平辈与后辈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 58讲三人行：前辈、平辈与后辈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 58讲三人行：前辈、平辈与后辈.mp3 ]]></description>
+			<content:encoded><![CDATA[ 58讲三人行：前辈、平辈与后辈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Anr7K3eOXyuCOCsfym4POIYGTH2n6eo5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AlT4Poi-RyiVRcyRDJkvc_5RvG9aiCbI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AlT4Poi-RyiVRcyRDJkvc_5RvG9aiCbI</guid>
+			
+
+			<title><![CDATA[ 57讲三维度：专业、展现与连接.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 57讲三维度：专业、展现与连接.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 57讲三维度：专业、展现与连接.mp3 ]]></description>
+			<content:encoded><![CDATA[ 57讲三维度：专业、展现与连接.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AlT4Poi-RyiVRcyRDJkvc_5RvG9aiCbI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AaKieiTO2rTkoSpphvx-_s6KHkdos4rf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AaKieiTO2rTkoSpphvx-_s6KHkdos4rf</guid>
+			
+
+			<title><![CDATA[ 56讲御剑流：一击必杀，万剑归心.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 56讲御剑流：一击必杀，万剑归心.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 56讲御剑流：一击必杀，万剑归心.mp3 ]]></description>
+			<content:encoded><![CDATA[ 56讲御剑流：一击必杀，万剑归心.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AaKieiTO2rTkoSpphvx-_s6KHkdos4rf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AWCWHHZEspCHenZEpUWs6U70cqOr0Z5y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AWCWHHZEspCHenZEpUWs6U70cqOr0Z5y</guid>
+			
+
+			<title><![CDATA[ 55讲江湖路：刀剑相接，战场升级.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 55讲江湖路：刀剑相接，战场升级.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 55讲江湖路：刀剑相接，战场升级.mp3 ]]></description>
+			<content:encoded><![CDATA[ 55讲江湖路：刀剑相接，战场升级.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AWCWHHZEspCHenZEpUWs6U70cqOr0Z5y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AOWIo52jg7LZjGIOwd5S5C3cTH7ZTY02</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AOWIo52jg7LZjGIOwd5S5C3cTH7ZTY02</guid>
+			
+
+			<title><![CDATA[ 54讲侠客行：一技压身，天下行走.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 54讲侠客行：一技压身，天下行走.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 54讲侠客行：一技压身，天下行走.mp3 ]]></description>
+			<content:encoded><![CDATA[ 54讲侠客行：一技压身，天下行走.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AOWIo52jg7LZjGIOwd5S5C3cTH7ZTY02"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ACkz2jq4R_j30aXaybT1gnNfVyOO5wcp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ACkz2jq4R_j30aXaybT1gnNfVyOO5wcp</guid>
+			
+
+			<title><![CDATA[ 53讲选择工作，还是生活.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 53讲选择工作，还是生活.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 53讲选择工作，还是生活.mp3 ]]></description>
+			<content:encoded><![CDATA[ 53讲选择工作，还是生活.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ACkz2jq4R_j30aXaybT1gnNfVyOO5wcp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A4iAmMKoTa_VKRRw5Lvi7FIzz1-p16GE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A4iAmMKoTa_VKRRw5Lvi7FIzz1-p16GE</guid>
+			
+
+			<title><![CDATA[ 52讲选择从众，还是唯一.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 52讲选择从众，还是唯一.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 52讲选择从众，还是唯一.mp3 ]]></description>
+			<content:encoded><![CDATA[ 52讲选择从众，还是唯一.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A4iAmMKoTa_VKRRw5Lvi7FIzz1-p16GE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19rHJaMuodlFa8DpxU-lOBx9sNuoiMDO0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19rHJaMuodlFa8DpxU-lOBx9sNuoiMDO0</guid>
+			
+
+			<title><![CDATA[ 51讲技术债务，有意或无意的选择.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 51讲技术债务，有意或无意的选择.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 51讲技术债务，有意或无意的选择.mp3 ]]></description>
+			<content:encoded><![CDATA[ 51讲技术债务，有意或无意的选择.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19rHJaMuodlFa8DpxU-lOBx9sNuoiMDO0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19kbCuFnLQJy73-U8ak0L1i9t6nfgVi9m</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19kbCuFnLQJy73-U8ak0L1i9t6nfgVi9m</guid>
+			
+
+			<title><![CDATA[ 50讲技术分歧，如何决策.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 50讲技术分歧，如何决策.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 50讲技术分歧，如何决策.mp3 ]]></description>
+			<content:encoded><![CDATA[ 50讲技术分歧，如何决策.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19kbCuFnLQJy73-U8ak0L1i9t6nfgVi9m"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19_cJAfST3DBepVDIo-BmOAmDyRve9H5C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19_cJAfST3DBepVDIo-BmOAmDyRve9H5C</guid>
+			
+
+			<title><![CDATA[ 49讲技术干货那么多，如何选.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 49讲技术干货那么多，如何选.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 49讲技术干货那么多，如何选.mp3 ]]></description>
+			<content:encoded><![CDATA[ 49讲技术干货那么多，如何选.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19_cJAfST3DBepVDIo-BmOAmDyRve9H5C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19Uu9uaH7lRCbULu2WcQ9d39KuCzNWErH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19Uu9uaH7lRCbULu2WcQ9d39KuCzNWErH</guid>
+			
+
+			<title><![CDATA[ 48讲该不该接外包.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 48讲该不该接外包.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 48讲该不该接外包.mp3 ]]></description>
+			<content:encoded><![CDATA[ 48讲该不该接外包.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19Uu9uaH7lRCbULu2WcQ9d39KuCzNWErH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19IWJ9_amRvyJ3VMI8glJsVqaXvMhTXJD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19IWJ9_amRvyJ3VMI8glJsVqaXvMhTXJD</guid>
+			
+
+			<title><![CDATA[ 47讲该不该去创业公司.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 47讲该不该去创业公司.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 47讲该不该去创业公司.mp3 ]]></description>
+			<content:encoded><![CDATA[ 47讲该不该去创业公司.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19IWJ9_amRvyJ3VMI8glJsVqaXvMhTXJD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18uj8ziZRajjlo1ebz8qyweZk_NpJSraA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18uj8ziZRajjlo1ebz8qyweZk_NpJSraA</guid>
+			
+
+			<title><![CDATA[ 46讲人到中年：失业与恐惧.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 46讲人到中年：失业与恐惧.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 46讲人到中年：失业与恐惧.mp3 ]]></description>
+			<content:encoded><![CDATA[ 46讲人到中年：失业与恐惧.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18uj8ziZRajjlo1ebz8qyweZk_NpJSraA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18Ydu911UHYPogCPhyeHr-6te0xxtUhmw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18Ydu911UHYPogCPhyeHr-6te0xxtUhmw</guid>
+			
+
+			<title><![CDATA[ 45讲代码评审：寄望与哀伤.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45讲代码评审：寄望与哀伤.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45讲代码评审：寄望与哀伤.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45讲代码评审：寄望与哀伤.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18Ydu911UHYPogCPhyeHr-6te0xxtUhmw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=18K4oZUooATaR0Yd-VJpWpq6po8_xkAMI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=18K4oZUooATaR0Yd-VJpWpq6po8_xkAMI</guid>
+			
+
+			<title><![CDATA[ 44讲完成作品：理想与现实.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44讲完成作品：理想与现实.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44讲完成作品：理想与现实.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44讲完成作品：理想与现实.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=18K4oZUooATaR0Yd-VJpWpq6po8_xkAMI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=180om2zhv_5TPAF4R-P-0kPpwVvnGYmAl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=180om2zhv_5TPAF4R-P-0kPpwVvnGYmAl</guid>
+			
+
+			<title><![CDATA[ 43讲无法实现：困扰与反思.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43讲无法实现：困扰与反思.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43讲无法实现：困扰与反思.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43讲无法实现：困扰与反思.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=180om2zhv_5TPAF4R-P-0kPpwVvnGYmAl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17mpeikKUF89cU12zNez2XcyMf6_UtU6b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17mpeikKUF89cU12zNez2XcyMf6_UtU6b</guid>
+			
+
+			<title><![CDATA[ 42讲技术停滞：如何更新.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42讲技术停滞：如何更新.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42讲技术停滞：如何更新.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42讲技术停滞：如何更新.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17mpeikKUF89cU12zNez2XcyMf6_UtU6b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17bSvDQwPDZYnUhx31L8SPSaMwz4TInPB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17bSvDQwPDZYnUhx31L8SPSaMwz4TInPB</guid>
+			
+
+			<title><![CDATA[ 41讲沟通之痛：如何改变.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲沟通之痛：如何改变.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲沟通之痛：如何改变.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲沟通之痛：如何改变.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17bSvDQwPDZYnUhx31L8SPSaMwz4TInPB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17Zt_pK6OUH59lgz6L5d66gSd0Zk4y2gr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17Zt_pK6OUH59lgz6L5d66gSd0Zk4y2gr</guid>
+			
+
+			<title><![CDATA[ 40讲局部最优：如何逃离.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲局部最优：如何逃离.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲局部最优：如何逃离.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲局部最优：如何逃离.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17Zt_pK6OUH59lgz6L5d66gSd0Zk4y2gr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=17LAs4AUQUeiYeYFw4G21_dFST8tcpUUi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=17LAs4AUQUeiYeYFw4G21_dFST8tcpUUi</guid>
+			
+
+			<title><![CDATA[ 39讲职业倦怠：如何面对.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲职业倦怠：如何面对.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲职业倦怠：如何面对.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲职业倦怠：如何面对.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=17LAs4AUQUeiYeYFw4G21_dFST8tcpUUi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16oPMo1YohZ075NuLz_UF06MCzIPoWlyD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16oPMo1YohZ075NuLz_UF06MCzIPoWlyD</guid>
+			
+
+			<title><![CDATA[ 38讲思维：科学与系统——两类问题的两种思维解法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲思维：科学与系统——两类问题的两种思维解法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲思维：科学与系统——两类问题的两种思维解法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲思维：科学与系统——两类问题的两种思维解法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16oPMo1YohZ075NuLz_UF06MCzIPoWlyD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16fB4KwECydwjFEG_KpmtR29tjy93iHAh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16fB4KwECydwjFEG_KpmtR29tjy93iHAh</guid>
+			
+
+			<title><![CDATA[ 37讲过程：规模与协作——规模化的过程方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲过程：规模与协作——规模化的过程方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲过程：规模与协作——规模化的过程方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲过程：规模与协作——规模化的过程方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16fB4KwECydwjFEG_KpmtR29tjy93iHAh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16S4ZX6nCUOfl9ijopbIfpoDDn474YPkC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16S4ZX6nCUOfl9ijopbIfpoDDn474YPkC</guid>
+			
+
+			<title><![CDATA[ 36讲核心：安全与效率——工程技术的两个核心维度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲核心：安全与效率——工程技术的两个核心维度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲核心：安全与效率——工程技术的两个核心维度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲核心：安全与效率——工程技术的两个核心维度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16S4ZX6nCUOfl9ijopbIfpoDDn474YPkC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16IE5G2eNsfbJFCVcFb0YdRzi7-49yYaL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16IE5G2eNsfbJFCVcFb0YdRzi7-49yYaL</guid>
+			
+
+			<title><![CDATA[ 35讲关系：学徒与导师.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲关系：学徒与导师.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲关系：学徒与导师.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲关系：学徒与导师.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16IE5G2eNsfbJFCVcFb0YdRzi7-49yYaL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16BqkV-toFz_MkrBebsQXv7gUfGGT8h9y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16BqkV-toFz_MkrBebsQXv7gUfGGT8h9y</guid>
+			
+
+			<title><![CDATA[ 34讲晋升：评定与博弈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲晋升：评定与博弈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲晋升：评定与博弈.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲晋升：评定与博弈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16BqkV-toFz_MkrBebsQXv7gUfGGT8h9y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=161OkZv6RhEBYRHVBSNEEUTK89Kk7YFsM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=161OkZv6RhEBYRHVBSNEEUTK89Kk7YFsM</guid>
+			
+
+			<title><![CDATA[ 33讲定义：阶梯与级别.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲定义：阶梯与级别.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲定义：阶梯与级别.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲定义：阶梯与级别.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=161OkZv6RhEBYRHVBSNEEUTK89Kk7YFsM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15uRibkq5fKESKOPLACkXddZKlUg81HI_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15uRibkq5fKESKOPLACkXddZKlUg81HI_</guid>
+			
+
+			<title><![CDATA[ 32讲演讲：表达的技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲演讲：表达的技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲演讲：表达的技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲演讲：表达的技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15uRibkq5fKESKOPLACkXddZKlUg81HI_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15crt1gTVjfy__nrB6aLwMTW--DCUtpzo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15crt1gTVjfy__nrB6aLwMTW--DCUtpzo</guid>
+			
+
+			<title><![CDATA[ 31讲画图：一图胜千言.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲画图：一图胜千言.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲画图：一图胜千言.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲画图：一图胜千言.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15crt1gTVjfy__nrB6aLwMTW--DCUtpzo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15ZATtfLiVaxfkF-SMAgxenxtd80X-7rY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15ZATtfLiVaxfkF-SMAgxenxtd80X-7rY</guid>
+			
+
+			<title><![CDATA[ 30讲写作：写字如编码.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲写作：写字如编码.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲写作：写字如编码.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲写作：写字如编码.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15ZATtfLiVaxfkF-SMAgxenxtd80X-7rY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15QLMtl8tNbXJgGtigM6F-qcQHCxafH1L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15QLMtl8tNbXJgGtigM6F-qcQHCxafH1L</guid>
+			
+
+			<title><![CDATA[ 29讲偏好：个人习惯的局限与反思.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲偏好：个人习惯的局限与反思.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲偏好：个人习惯的局限与反思.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲偏好：个人习惯的局限与反思.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15QLMtl8tNbXJgGtigM6F-qcQHCxafH1L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14zEfHVsYwKnGfIHlAe0s000j12XV_0FD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14zEfHVsYwKnGfIHlAe0s000j12XV_0FD</guid>
+			
+
+			<title><![CDATA[ 28讲提问：从技术到人生的习惯.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲提问：从技术到人生的习惯.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲提问：从技术到人生的习惯.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲提问：从技术到人生的习惯.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14zEfHVsYwKnGfIHlAe0s000j12XV_0FD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14vesDS9IAVswgNlOYpwTFh8vyLF_RE09</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14vesDS9IAVswgNlOYpwTFh8vyLF_RE09</guid>
+			
+
+			<title><![CDATA[ 27讲试试一种坏习惯.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲试试一种坏习惯.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲试试一种坏习惯.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲试试一种坏习惯.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14vesDS9IAVswgNlOYpwTFh8vyLF_RE09"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Vxne7RYEVsDfV77SlGeYwQGyMawOeze</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Vxne7RYEVsDfV77SlGeYwQGyMawOeze</guid>
+			
+
+			<title><![CDATA[ 26讲时间：塑造基石习惯（下）——切割与构建.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲时间：塑造基石习惯（下）——切割与构建.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲时间：塑造基石习惯（下）——切割与构建.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲时间：塑造基石习惯（下）——切割与构建.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Vxne7RYEVsDfV77SlGeYwQGyMawOeze"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Lz8k7Qe2-fQBMOfeW3fKqUXPPsnm9_i</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Lz8k7Qe2-fQBMOfeW3fKqUXPPsnm9_i</guid>
+			
+
+			<title><![CDATA[ 25讲时间：塑造基石习惯（上）——感知与测量.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲时间：塑造基石习惯（上）——感知与测量.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲时间：塑造基石习惯（上）——感知与测量.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲时间：塑造基石习惯（上）——感知与测量.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Lz8k7Qe2-fQBMOfeW3fKqUXPPsnm9_i"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14A6Hujp6xujyCeMEj7eaqIzJSQjdrhC-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14A6Hujp6xujyCeMEj7eaqIzJSQjdrhC-</guid>
+			
+
+			<title><![CDATA[ 24讲并行：工作与学习.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲并行：工作与学习.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲并行：工作与学习.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲并行：工作与学习.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14A6Hujp6xujyCeMEj7eaqIzJSQjdrhC-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=141o0uuei85HSV1d6HweDt9go3L6Mvlgw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=141o0uuei85HSV1d6HweDt9go3L6Mvlgw</guid>
+			
+
+			<title><![CDATA[ 23讲转化：能力与输出.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲转化：能力与输出.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲转化：能力与输出.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲转化：能力与输出.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=141o0uuei85HSV1d6HweDt9go3L6Mvlgw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13peFK4u1ROoJ1nRklhqCYZQFXeXqhMcZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13peFK4u1ROoJ1nRklhqCYZQFXeXqhMcZ</guid>
+			
+
+			<title><![CDATA[ 22讲领域：知识与体系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲领域：知识与体系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲领域：知识与体系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲领域：知识与体系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13peFK4u1ROoJ1nRklhqCYZQFXeXqhMcZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13e-y_9lH9la2sW85djlzi6BPMC1tFnmY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13e-y_9lH9la2sW85djlzi6BPMC1tFnmY</guid>
+			
+
+			<title><![CDATA[ 21讲信息：过载与有效.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲信息：过载与有效.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲信息：过载与有效.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲信息：过载与有效.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13e-y_9lH9la2sW85djlzi6BPMC1tFnmY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13K_EVZ6kHjXjCWwWwhy5rEWqGlz8IPTe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13K_EVZ6kHjXjCWwWwhy5rEWqGlz8IPTe</guid>
+			
+
+			<title><![CDATA[ 20讲执行：从坚持到持续，再到形成自己的节奏.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲执行：从坚持到持续，再到形成自己的节奏.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲执行：从坚持到持续，再到形成自己的节奏.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲执行：从坚持到持续，再到形成自己的节奏.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13K_EVZ6kHjXjCWwWwhy5rEWqGlz8IPTe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12zCf2JC_OCZab5Y39bsixymfyBlHHwQU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12zCf2JC_OCZab5Y39bsixymfyBlHHwQU</guid>
+			
+
+			<title><![CDATA[ 19讲障碍：从计划到坚持，再到坚持不下去的时候.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲障碍：从计划到坚持，再到坚持不下去的时候.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲障碍：从计划到坚持，再到坚持不下去的时候.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲障碍：从计划到坚持，再到坚持不下去的时候.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12zCf2JC_OCZab5Y39bsixymfyBlHHwQU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12ijgMUaxrylb7MXv6-z2lK6891IFyIpP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12ijgMUaxrylb7MXv6-z2lK6891IFyIpP</guid>
+			
+
+			<title><![CDATA[ 18讲评估：计划的收获——成本与收益.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲评估：计划的收获——成本与收益.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲评估：计划的收获——成本与收益.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲评估：计划的收获——成本与收益.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12ijgMUaxrylb7MXv6-z2lK6891IFyIpP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12dPDnQqXDMjyuFXDPfQlDn11iMZKQXH6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12dPDnQqXDMjyuFXDPfQlDn11iMZKQXH6</guid>
+			
+
+			<title><![CDATA[ 17讲检视：计划的可行——时间与承诺.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲检视：计划的可行——时间与承诺.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲检视：计划的可行——时间与承诺.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲检视：计划的可行——时间与承诺.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12dPDnQqXDMjyuFXDPfQlDn11iMZKQXH6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12OGO1aUskOjiuCeuLHOUq6niuBVpzIs3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12OGO1aUskOjiuCeuLHOUq6niuBVpzIs3</guid>
+			
+
+			<title><![CDATA[ 16讲方式：计划的方法——脚踏实地.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲方式：计划的方法——脚踏实地.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲方式：计划的方法——脚踏实地.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲方式：计划的方法——脚踏实地.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12OGO1aUskOjiuCeuLHOUq6niuBVpzIs3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12IntUpP63fFNMV8I9KPfzhnhgM_7_Xv1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12IntUpP63fFNMV8I9KPfzhnhgM_7_Xv1</guid>
+			
+
+			<title><![CDATA[ 15讲根源：计划的愿景——仰望星空.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲根源：计划的愿景——仰望星空.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲根源：计划的愿景——仰望星空.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲根源：计划的愿景——仰望星空.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12IntUpP63fFNMV8I9KPfzhnhgM_7_Xv1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=121wZA4IZfABMSPcvIUm2AmHAT5y9pvQL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=121wZA4IZfABMSPcvIUm2AmHAT5y9pvQL</guid>
+			
+
+			<title><![CDATA[ 14讲Bug的反复出现：重蹈覆辙与吸取教训.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲Bug的反复出现：重蹈覆辙与吸取教训.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲Bug的反复出现：重蹈覆辙与吸取教训.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲Bug的反复出现：重蹈覆辙与吸取教训.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=121wZA4IZfABMSPcvIUm2AmHAT5y9pvQL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11nElO4rzcH-qLeeJz6BAvBSaOnkYvxgS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11nElO4rzcH-qLeeJz6BAvBSaOnkYvxgS</guid>
+			
+
+			<title><![CDATA[ 13讲Bug的时间属性：周期特点与非规律性.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲Bug的时间属性：周期特点与非规律性.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲Bug的时间属性：周期特点与非规律性.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲Bug的时间属性：周期特点与非规律性.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11nElO4rzcH-qLeeJz6BAvBSaOnkYvxgS"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

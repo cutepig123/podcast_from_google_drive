@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .05 从零开始学架构.从零开始学架构（音频） ]]></title>
+		<itunes:subtitle><![CDATA[ .05 从零开始学架构.从零开始学架构（音频） ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .05 从零开始学架构.从零开始学架构（音频）. ]]></itunes:summary>
+		<description><![CDATA[ .05 从零开始学架构.从零开始学架构（音频） ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1lBHk0PNRhhVnKu79XrsUkHlZK_g85egm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lBHk0PNRhhVnKu79XrsUkHlZK_g85egm</guid>
+			
+
+			<title><![CDATA[ 51架构师成长之路  “华仔，放学别走！” 第4期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 51架构师成长之路  “华仔，放学别走！” 第4期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 51架构师成长之路  “华仔，放学别走！” 第4期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 51架构师成长之路  “华仔，放学别走！” 第4期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lBHk0PNRhhVnKu79XrsUkHlZK_g85egm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lAmk09JaGBsjzfPM7zI_msW_0Bt89QZl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lAmk09JaGBsjzfPM7zI_msW_0Bt89QZl</guid>
+			
+
+			<title><![CDATA[ 50架构实战：架构设计文档模板.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 50架构实战：架构设计文档模板.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 50架构实战：架构设计文档模板.mp3 ]]></description>
+			<content:encoded><![CDATA[ 50架构实战：架构设计文档模板.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lAmk09JaGBsjzfPM7zI_msW_0Bt89QZl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1l24Ntp9llNBJo0DSQJCFSWylKqmkoTV5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1l24Ntp9llNBJo0DSQJCFSWylKqmkoTV5</guid>
+			
+
+			<title><![CDATA[ 49 谈谈App架构的演进.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 49 谈谈App架构的演进.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 49 谈谈App架构的演进.mp3 ]]></description>
+			<content:encoded><![CDATA[ 49 谈谈App架构的演进.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1l24Ntp9llNBJo0DSQJCFSWylKqmkoTV5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1l08MV72opP0uhS7sKU0LqYT4XJXpGFtR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1l08MV72opP0uhS7sKU0LqYT4XJXpGFtR</guid>
+			
+
+			<title><![CDATA[ 48再谈开源项目：如何选择、使用以及二次开发？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 48再谈开源项目：如何选择、使用以及二次开发？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 48再谈开源项目：如何选择、使用以及二次开发？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 48再谈开源项目：如何选择、使用以及二次开发？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1l08MV72opP0uhS7sKU0LqYT4XJXpGFtR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kzt-KYrqLp3qQ5i74YzIS4jovexN4BI6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kzt-KYrqLp3qQ5i74YzIS4jovexN4BI6</guid>
+			
+
+			<title><![CDATA[ 47架构重构内功心法第三式：运筹帷幄.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 47架构重构内功心法第三式：运筹帷幄.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 47架构重构内功心法第三式：运筹帷幄.mp3 ]]></description>
+			<content:encoded><![CDATA[ 47架构重构内功心法第三式：运筹帷幄.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kzt-KYrqLp3qQ5i74YzIS4jovexN4BI6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kz4yOyJghIkVnGU-rsJlQw_BARX5UxQP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kz4yOyJghIkVnGU-rsJlQw_BARX5UxQP</guid>
+			
+
+			<title><![CDATA[ 46架构重构内功心法第二式：合纵连横.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 46架构重构内功心法第二式：合纵连横.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 46架构重构内功心法第二式：合纵连横.mp3 ]]></description>
+			<content:encoded><![CDATA[ 46架构重构内功心法第二式：合纵连横.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kz4yOyJghIkVnGU-rsJlQw_BARX5UxQP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kwKNok2aDNyV4bDJMa73dUok4GeYUoBn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kwKNok2aDNyV4bDJMa73dUok4GeYUoBn</guid>
+			
+
+			<title><![CDATA[ 45架构重构内功心法第一式：有的放矢.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45架构重构内功心法第一式：有的放矢.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45架构重构内功心法第一式：有的放矢.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45架构重构内功心法第一式：有的放矢.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kwKNok2aDNyV4bDJMa73dUok4GeYUoBn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kvBVUBs_1yQrm1kCsQ69M_7SHdQCPPQS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kvBVUBs_1yQrm1kCsQ69M_7SHdQCPPQS</guid>
+			
+
+			<title><![CDATA[ 44互联网架构模板：“平台”技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44互联网架构模板：“平台”技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44互联网架构模板：“平台”技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44互联网架构模板：“平台”技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kvBVUBs_1yQrm1kCsQ69M_7SHdQCPPQS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ktZ9_xjM-eNj0inIqDwNOvx3nQFSqdzD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ktZ9_xjM-eNj0inIqDwNOvx3nQFSqdzD</guid>
+			
+
+			<title><![CDATA[ 43互联网架构模板：“用户层”和“业务层”技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43互联网架构模板：“用户层”和“业务层”技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43互联网架构模板：“用户层”和“业务层”技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43互联网架构模板：“用户层”和“业务层”技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ktZ9_xjM-eNj0inIqDwNOvx3nQFSqdzD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1krPz7Lmb9cfHwaGj84HgGHLDks_98LBs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1krPz7Lmb9cfHwaGj84HgGHLDks_98LBs</guid>
+			
+
+			<title><![CDATA[ 42互联网架构模板：“网络层”技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42互联网架构模板：“网络层”技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42互联网架构模板：“网络层”技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42互联网架构模板：“网络层”技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1krPz7Lmb9cfHwaGj84HgGHLDks_98LBs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1koBdpB7EJaOSrE3d8Ce5F3tmKNI4QH_T</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1koBdpB7EJaOSrE3d8Ce5F3tmKNI4QH_T</guid>
+			
+
+			<title><![CDATA[ 41互联网架构模板：“开发层”和“服务层”技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41互联网架构模板：“开发层”和“服务层”技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41互联网架构模板：“开发层”和“服务层”技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41互联网架构模板：“开发层”和“服务层”技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1koBdpB7EJaOSrE3d8Ce5F3tmKNI4QH_T"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1klq1l4j-SY3MZYQmnMHq4_ECM6I8d-Ly</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1klq1l4j-SY3MZYQmnMHq4_ECM6I8d-Ly</guid>
+			
+
+			<title><![CDATA[ 40互联网架构模板：“存储层”技术..mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40互联网架构模板：“存储层”技术..mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40互联网架构模板：“存储层”技术..mp3 ]]></description>
+			<content:encoded><![CDATA[ 40互联网架构模板：“存储层”技术..mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1klq1l4j-SY3MZYQmnMHq4_ECM6I8d-Ly"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1khu_XQu6d2hiYbNNp3G-Nd5ujxw54z35</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1khu_XQu6d2hiYbNNp3G-Nd5ujxw54z35</guid>
+			
+
+			<title><![CDATA[ 39互联网技术演进的模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39互联网技术演进的模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39互联网技术演进的模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39互联网技术演进的模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1khu_XQu6d2hiYbNNp3G-Nd5ujxw54z35"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kh-tLhsX2yomvjPkAK1yeaEXomittTmU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kh-tLhsX2yomvjPkAK1yeaEXomittTmU</guid>
+			
+
+			<title><![CDATA[ 38架构师应该如何判断技术演进的方向？..mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38架构师应该如何判断技术演进的方向？..mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38架构师应该如何判断技术演进的方向？..mp3 ]]></description>
+			<content:encoded><![CDATA[ 38架构师应该如何判断技术演进的方向？..mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kh-tLhsX2yomvjPkAK1yeaEXomittTmU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kenqqx0QJxR44cQuB5UtYIvtlIYxZeL1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kenqqx0QJxR44cQuB5UtYIvtlIYxZeL1</guid>
+			
+
+			<title><![CDATA[ 37微内核架构详解.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37微内核架构详解.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37微内核架构详解.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37微内核架构详解.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kenqqx0QJxR44cQuB5UtYIvtlIYxZeL1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kbaU-J40Z-MSD32O8IJlXeKz0VICfXWz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kbaU-J40Z-MSD32O8IJlXeKz0VICfXWz</guid>
+			
+
+			<title><![CDATA[ 36微服务架构最佳实践 - 基础设施篇.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36微服务架构最佳实践 - 基础设施篇.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36微服务架构最佳实践 - 基础设施篇.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36微服务架构最佳实践 - 基础设施篇.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kbaU-J40Z-MSD32O8IJlXeKz0VICfXWz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kZlymAI29ieUyHYoI1bknuUKeRq9RtB-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kZlymAI29ieUyHYoI1bknuUKeRq9RtB-</guid>
+			
+
+			<title><![CDATA[ 35微服务架构最佳实践 - 方法篇.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35微服务架构最佳实践 - 方法篇.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35微服务架构最佳实践 - 方法篇.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35微服务架构最佳实践 - 方法篇.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kZlymAI29ieUyHYoI1bknuUKeRq9RtB-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kZkC3_97ISnGw-Othf1CT-ZYV_jBbNWB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kZkC3_97ISnGw-Othf1CT-ZYV_jBbNWB</guid>
+			
+
+			<title><![CDATA[ 34深入理解微服务架构：银弹 or 焦油坑？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34深入理解微服务架构：银弹 or 焦油坑？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34深入理解微服务架构：银弹 or 焦油坑？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34深入理解微服务架构：银弹 or 焦油坑？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kZkC3_97ISnGw-Othf1CT-ZYV_jBbNWB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kXJ3Bt2g2NI6PMshCP_r9P2Wpl0ZlgAh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kXJ3Bt2g2NI6PMshCP_r9P2Wpl0ZlgAh</guid>
+			
+
+			<title><![CDATA[ 33传统的可扩展架构模式：分层架构和SOA.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33传统的可扩展架构模式：分层架构和SOA.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33传统的可扩展架构模式：分层架构和SOA.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33传统的可扩展架构模式：分层架构和SOA.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kXJ3Bt2g2NI6PMshCP_r9P2Wpl0ZlgAh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kUXRiS1qQPOiIJdcFnyaYs2cCFVwwDqS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kUXRiS1qQPOiIJdcFnyaYs2cCFVwwDqS</guid>
+			
+
+			<title><![CDATA[ 32可扩展架构的基本思想和模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32可扩展架构的基本思想和模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32可扩展架构的基本思想和模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32可扩展架构的基本思想和模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kUXRiS1qQPOiIJdcFnyaYs2cCFVwwDqS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kREPpxgqEfQ8FUQCcUmfsPBvqzoDFUSg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kREPpxgqEfQ8FUQCcUmfsPBvqzoDFUSg</guid>
+			
+
+			<title><![CDATA[ 31如何应对接口级的故障？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31如何应对接口级的故障？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31如何应对接口级的故障？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31如何应对接口级的故障？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kREPpxgqEfQ8FUQCcUmfsPBvqzoDFUSg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kRDx4sth-DgdXvU0KeA5CkQlNY33XfZX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kRDx4sth-DgdXvU0KeA5CkQlNY33XfZX</guid>
+			
+
+			<title><![CDATA[ 30异地多活设计4步走.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30异地多活设计4步走.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30异地多活设计4步走.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30异地多活设计4步走.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kRDx4sth-DgdXvU0KeA5CkQlNY33XfZX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kBl9zw5LLzAU3bYBa1WeJtUpu9lOT0Le</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kBl9zw5LLzAU3bYBa1WeJtUpu9lOT0Le</guid>
+			
+
+			<title><![CDATA[ 29异地多活设计4大技巧.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29异地多活设计4大技巧.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29异地多活设计4大技巧.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29异地多活设计4大技巧.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kBl9zw5LLzAU3bYBa1WeJtUpu9lOT0Le"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1k5FmRzItxFjBzcL_tcxG6wbV6Se7F53l</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1k5FmRzItxFjBzcL_tcxG6wbV6Se7F53l</guid>
+			
+
+			<title><![CDATA[ 28业务高可用的保障：异地多活架构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28业务高可用的保障：异地多活架构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28业务高可用的保障：异地多活架构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28业务高可用的保障：异地多活架构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1k5FmRzItxFjBzcL_tcxG6wbV6Se7F53l"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1k4toRYc5WWrvuvzXPOAi1_ZqIrAdVwBy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1k4toRYc5WWrvuvzXPOAi1_ZqIrAdVwBy</guid>
+			
+
+			<title><![CDATA[ 27如何设计计算高可用架构？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27如何设计计算高可用架构？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27如何设计计算高可用架构？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27如何设计计算高可用架构？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1k4toRYc5WWrvuvzXPOAi1_ZqIrAdVwBy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1juEPH4QQn8hiJyYL4tI4wiGQOtnBWYGx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1juEPH4QQn8hiJyYL4tI4wiGQOtnBWYGx</guid>
+			
+
+			<title><![CDATA[ 27_1如何高效地学习开源项目  “华仔，放学别走！” 第3期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27_1如何高效地学习开源项目  “华仔，放学别走！” 第3期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27_1如何高效地学习开源项目  “华仔，放学别走！” 第3期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27_1如何高效地学习开源项目  “华仔，放学别走！” 第3期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1juEPH4QQn8hiJyYL4tI4wiGQOtnBWYGx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jnQE_uIIU_Y-ZzICiqKRXEFpWuycdvNg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jnQE_uIIU_Y-ZzICiqKRXEFpWuycdvNg</guid>
+			
+
+			<title><![CDATA[ 26高可用存储架构：集群和分区.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26高可用存储架构：集群和分区.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26高可用存储架构：集群和分区.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26高可用存储架构：集群和分区.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jnQE_uIIU_Y-ZzICiqKRXEFpWuycdvNg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jmn52ErpdkSS1r4Md8QVnZsWTwzhnBwI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jmn52ErpdkSS1r4Md8QVnZsWTwzhnBwI</guid>
+			
+
+			<title><![CDATA[ 25高可用存储架构：双机架构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25高可用存储架构：双机架构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25高可用存储架构：双机架构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25高可用存储架构：双机架构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jmn52ErpdkSS1r4Md8QVnZsWTwzhnBwI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jdTRr9QlVLPQeqx_U5itiCu7Eybqh3ZK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jdTRr9QlVLPQeqx_U5itiCu7Eybqh3ZK</guid>
+			
+
+			<title><![CDATA[ 24FMEA方法，排除架构可用性隐患的利器.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24FMEA方法，排除架构可用性隐患的利器.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24FMEA方法，排除架构可用性隐患的利器.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24FMEA方法，排除架构可用性隐患的利器.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jdTRr9QlVLPQeqx_U5itiCu7Eybqh3ZK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jYffqmPDNs19t9wsfzkc5zjVSouu6EZu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jYffqmPDNs19t9wsfzkc5zjVSouu6EZu</guid>
+			
+
+			<title><![CDATA[ 23想成为架构师，你必须掌握的CAP细节.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23想成为架构师，你必须掌握的CAP细节.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23想成为架构师，你必须掌握的CAP细节.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23想成为架构师，你必须掌握的CAP细节.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jYffqmPDNs19t9wsfzkc5zjVSouu6EZu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jYZyFuPpKLwRSLdEip4sCjxVFjk03Kyy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jYZyFuPpKLwRSLdEip4sCjxVFjk03Kyy</guid>
+			
+
+			<title><![CDATA[ 22想成为架构师，你必须知道CAP理论.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22想成为架构师，你必须知道CAP理论.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22想成为架构师，你必须知道CAP理论.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22想成为架构师，你必须知道CAP理论.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jYZyFuPpKLwRSLdEip4sCjxVFjk03Kyy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jNXCmrjMzZYO9hzXLdZPTbdlqKiw8ykn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jNXCmrjMzZYO9hzXLdZPTbdlqKiw8ykn</guid>
+			
+
+			<title><![CDATA[ 21高性能负载均衡：算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21高性能负载均衡：算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21高性能负载均衡：算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21高性能负载均衡：算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jNXCmrjMzZYO9hzXLdZPTbdlqKiw8ykn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jIyK5agFSJvlKKu5XwnEAwSbI8hhcjcG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jIyK5agFSJvlKKu5XwnEAwSbI8hhcjcG</guid>
+			
+
+			<title><![CDATA[ 20高性能负载均衡：分类及架构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20高性能负载均衡：分类及架构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20高性能负载均衡：分类及架构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20高性能负载均衡：分类及架构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jIyK5agFSJvlKKu5XwnEAwSbI8hhcjcG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jAWi0efTLTKYVEOglBTMu-xeLKIxeAic</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jAWi0efTLTKYVEOglBTMu-xeLKIxeAic</guid>
+			
+
+			<title><![CDATA[ 19单服务器高性能模式：Reactor与Proactor.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19单服务器高性能模式：Reactor与Proactor.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19单服务器高性能模式：Reactor与Proactor.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19单服务器高性能模式：Reactor与Proactor.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jAWi0efTLTKYVEOglBTMu-xeLKIxeAic"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1j-J27VPKvw_dAphbOuH7cBWloC7TPSBg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1j-J27VPKvw_dAphbOuH7cBWloC7TPSBg</guid>
+			
+
+			<title><![CDATA[ 18单服务器高性能模式：PPC与TPC.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18单服务器高性能模式：PPC与TPC.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18单服务器高性能模式：PPC与TPC.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18单服务器高性能模式：PPC与TPC.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1j-J27VPKvw_dAphbOuH7cBWloC7TPSBg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ismXDH05NYpoK_d-P53zARJf6fNGqUN2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ismXDH05NYpoK_d-P53zARJf6fNGqUN2</guid>
+			
+
+			<title><![CDATA[ 17高性能缓存架构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17高性能缓存架构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17高性能缓存架构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17高性能缓存架构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ismXDH05NYpoK_d-P53zARJf6fNGqUN2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1irFlvCR1oaaC2AjmtUTD127-cSqiZ5yB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1irFlvCR1oaaC2AjmtUTD127-cSqiZ5yB</guid>
+			
+
+			<title><![CDATA[ 16高性能NoSQL.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16高性能NoSQL.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16高性能NoSQL.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16高性能NoSQL.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1irFlvCR1oaaC2AjmtUTD127-cSqiZ5yB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ioyyhLUkdwBvDhHW4Y6Rzp9EBPcRpKiY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ioyyhLUkdwBvDhHW4Y6Rzp9EBPcRpKiY</guid>
+			
+
+			<title><![CDATA[ 15高性能数据库集群：分库分表.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15高性能数据库集群：分库分表.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15高性能数据库集群：分库分表.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15高性能数据库集群：分库分表.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ioyyhLUkdwBvDhHW4Y6Rzp9EBPcRpKiY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1il0NvgUw0Nn2lkm4vy6C1J-FdqqzRdol</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1il0NvgUw0Nn2lkm4vy6C1J-FdqqzRdol</guid>
+			
+
+			<title><![CDATA[ 14高性能数据库集群：读写分离.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14高性能数据库集群：读写分离.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14高性能数据库集群：读写分离.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14高性能数据库集群：读写分离.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1il0NvgUw0Nn2lkm4vy6C1J-FdqqzRdol"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1igeHIgiSEOGd-cg9zkci2fPJnkkNz5ha</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1igeHIgiSEOGd-cg9zkci2fPJnkkNz5ha</guid>
+			
+
+			<title><![CDATA[ 13架构设计流程：详细方案设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13架构设计流程：详细方案设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13架构设计流程：详细方案设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13架构设计流程：详细方案设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1igeHIgiSEOGd-cg9zkci2fPJnkkNz5ha"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ifJLNZNP7epnsQNuSp1rju72Z1gw5D89</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ifJLNZNP7epnsQNuSp1rju72Z1gw5D89</guid>
+			
+
+			<title><![CDATA[ 12架构设计流程：评估和选择备选方案.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12架构设计流程：评估和选择备选方案.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12架构设计流程：评估和选择备选方案.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12架构设计流程：评估和选择备选方案.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ifJLNZNP7epnsQNuSp1rju72Z1gw5D89"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iRS2J_hsC0VXIbR1Pzqxf5nkuvSJxX2O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iRS2J_hsC0VXIbR1Pzqxf5nkuvSJxX2O</guid>
+			
+
+			<title><![CDATA[ 11架构设计流程：设计备选方案.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11架构设计流程：设计备选方案.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11架构设计流程：设计备选方案.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11架构设计流程：设计备选方案.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iRS2J_hsC0VXIbR1Pzqxf5nkuvSJxX2O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iKeEEKVDJv6AgrM94cqq0VEYp8CSfF3M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iKeEEKVDJv6AgrM94cqq0VEYp8CSfF3M</guid>
+			
+
+			<title><![CDATA[ 10架构设计流程：识别复杂度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10架构设计流程：识别复杂度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10架构设计流程：识别复杂度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10架构设计流程：识别复杂度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iKeEEKVDJv6AgrM94cqq0VEYp8CSfF3M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iBuQkWcHE4KpusEikx18ogP1UmeI46Uh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iBuQkWcHE4KpusEikx18ogP1UmeI46Uh</guid>
+			
+
+			<title><![CDATA[ 09架构设计原则案例..mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09架构设计原则案例..mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09架构设计原则案例..mp3 ]]></description>
+			<content:encoded><![CDATA[ 09架构设计原则案例..mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iBuQkWcHE4KpusEikx18ogP1UmeI46Uh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1i3XVFLyKOp0M8sqi-FRpTohKNwJa56Cr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1i3XVFLyKOp0M8sqi-FRpTohKNwJa56Cr</guid>
+			
+
+			<title><![CDATA[ 08架构设计三原则.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08架构设计三原则.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08架构设计三原则.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08架构设计三原则.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1i3XVFLyKOp0M8sqi-FRpTohKNwJa56Cr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hzaQx3dHbQ5FYykymNqOM87XHX9kUfv7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hzaQx3dHbQ5FYykymNqOM87XHX9kUfv7</guid>
+			
+
+			<title><![CDATA[ 07复杂度来源：低成本、安全、规模.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07复杂度来源：低成本、安全、规模.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07复杂度来源：低成本、安全、规模.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07复杂度来源：低成本、安全、规模.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hzaQx3dHbQ5FYykymNqOM87XHX9kUfv7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hpJJ2rg5yEdALRPfWQzJ8hbXWdL9_CZz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hpJJ2rg5yEdALRPfWQzJ8hbXWdL9_CZz</guid>
+			
+
+			<title><![CDATA[ 06复杂度来源：可扩展性.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06复杂度来源：可扩展性.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06复杂度来源：可扩展性.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06复杂度来源：可扩展性.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hpJJ2rg5yEdALRPfWQzJ8hbXWdL9_CZz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hnclWElEm-mTHVXz5wI159K1pQA1XRly</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hnclWElEm-mTHVXz5wI159K1pQA1XRly</guid>
+			
+
+			<title><![CDATA[ 05复杂度来源：高可用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05复杂度来源：高可用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05复杂度来源：高可用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05复杂度来源：高可用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hnclWElEm-mTHVXz5wI159K1pQA1XRly"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hcRfxvw4DN4ndbE-z1rbj7ktGWPYJJWQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hcRfxvw4DN4ndbE-z1rbj7ktGWPYJJWQ</guid>
+			
+
+			<title><![CDATA[ 04复杂度来源：高性能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04复杂度来源：高性能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04复杂度来源：高性能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04复杂度来源：高性能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hcRfxvw4DN4ndbE-z1rbj7ktGWPYJJWQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hPPYzkO6coO23uWM51UAr2CA3iJ-_pu4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hPPYzkO6coO23uWM51UAr2CA3iJ-_pu4</guid>
+			
+
+			<title><![CDATA[ 03架构设计的目的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03架构设计的目的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03架构设计的目的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03架构设计的目的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hPPYzkO6coO23uWM51UAr2CA3iJ-_pu4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hLpnCmQH20F8dj9Ok6Segdst605F14Gd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hLpnCmQH20F8dj9Ok6Segdst605F14Gd</guid>
+			
+
+			<title><![CDATA[ 02架构设计的历史背景.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02架构设计的历史背景.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02架构设计的历史背景.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02架构设计的历史背景.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hLpnCmQH20F8dj9Ok6Segdst605F14Gd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hHugybuclhh0oi3cV_dfAcRU0rmxStti</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hHugybuclhh0oi3cV_dfAcRU0rmxStti</guid>
+			
+
+			<title><![CDATA[ 01架构到底是指什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01架构到底是指什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01架构到底是指什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01架构到底是指什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hHugybuclhh0oi3cV_dfAcRU0rmxStti"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hDkhCH8OFN8bVX8eNiQuD9WacKeRTBcd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hDkhCH8OFN8bVX8eNiQuD9WacKeRTBcd</guid>
+			
+
+			<title><![CDATA[ 00开篇词：照着做，你也能成为架构师！.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00开篇词：照着做，你也能成为架构师！.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00开篇词：照着做，你也能成为架构师！.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00开篇词：照着做，你也能成为架构师！.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hDkhCH8OFN8bVX8eNiQuD9WacKeRTBcd"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .34 玩转VS Code ]]></title>
+		<itunes:subtitle><![CDATA[ .34 玩转VS Code ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .34 玩转VS Code. ]]></itunes:summary>
+		<description><![CDATA[ .34 玩转VS Code ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1Ih37dmgBb_mFRRuYHj71J2QKmRUQYLZ3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ih37dmgBb_mFRRuYHj71J2QKmRUQYLZ3</guid>
+			
+
+			<title><![CDATA[ 开篇词讲玩转编辑器，向高效能编程再进一步.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲玩转编辑器，向高效能编程再进一步.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲玩转编辑器，向高效能编程再进一步.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲玩转编辑器，向高效能编程再进一步.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ih37dmgBb_mFRRuYHj71J2QKmRUQYLZ3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IJPw9Vy_0IBH2FPBOBwsC-WEs4c19Sg5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IJPw9Vy_0IBH2FPBOBwsC-WEs4c19Sg5</guid>
+			
+
+			<title><![CDATA[ 结束语讲学编辑器，究竟学了什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语讲学编辑器，究竟学了什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语讲学编辑器，究竟学了什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语讲学编辑器，究竟学了什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IJPw9Vy_0IBH2FPBOBwsC-WEs4c19Sg5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I4bfMdF2hZqL-rFs1p4yjdc-1GC89wem</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I4bfMdF2hZqL-rFs1p4yjdc-1GC89wem</guid>
+			
+
+			<title><![CDATA[ 37讲插件开发（六）：VSCode插件维护和发布要点.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲插件开发（六）：VSCode插件维护和发布要点.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲插件开发（六）：VSCode插件维护和发布要点.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲插件开发（六）：VSCode插件维护和发布要点.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I4bfMdF2hZqL-rFs1p4yjdc-1GC89wem"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HjsA29uH_9c3-B9xkBzEvuVZhHaYnc0d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HjsA29uH_9c3-B9xkBzEvuVZhHaYnc0d</guid>
+			
+
+			<title><![CDATA[ 36讲插件开发（五）：工作台相关API.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲插件开发（五）：工作台相关API.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲插件开发（五）：工作台相关API.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲插件开发（五）：工作台相关API.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HjsA29uH_9c3-B9xkBzEvuVZhHaYnc0d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HO-DA83dVlhEsbH-mwYRQ-5o26D5ZJ2t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HO-DA83dVlhEsbH-mwYRQ-5o26D5ZJ2t</guid>
+			
+
+			<title><![CDATA[ 35讲插件开发（四）：Decorations装饰器.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲插件开发（四）：Decorations装饰器.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲插件开发（四）：Decorations装饰器.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲插件开发（四）：Decorations装饰器.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HO-DA83dVlhEsbH-mwYRQ-5o26D5ZJ2t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HFt9R9S7RqpUN7Ii3hQP0mXDZse-d3Ku</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HFt9R9S7RqpUN7Ii3hQP0mXDZse-d3Ku</guid>
+			
+
+			<title><![CDATA[ 34讲插件开发（三）：自定义语言支持.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲插件开发（三）：自定义语言支持.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲插件开发（三）：自定义语言支持.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲插件开发（三）：自定义语言支持.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HFt9R9S7RqpUN7Ii3hQP0mXDZse-d3Ku"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H8ZECReuZkH6oK-KNjCNsvN4BO6KEJDh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H8ZECReuZkH6oK-KNjCNsvN4BO6KEJDh</guid>
+			
+
+			<title><![CDATA[ 33讲插件开发（二）：编写编辑器快捷键及分享快捷键配置、代码片段、主题等.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲插件开发（二）：编写编辑器快捷键及分享快捷键配置、代码片段、主题等.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲插件开发（二）：编写编辑器快捷键及分享快捷键配置、代码片段、主题等.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲插件开发（二）：编写编辑器快捷键及分享快捷键配置、代码片段、主题等.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H8ZECReuZkH6oK-KNjCNsvN4BO6KEJDh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GpS-zXI6Xdby7wfyheurMnK8JWduaN4r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GpS-zXI6Xdby7wfyheurMnK8JWduaN4r</guid>
+			
+
+			<title><![CDATA[ 32讲插件开发（一）：why、how和what.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲插件开发（一）：why、how和what.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲插件开发（一）：why、how和what.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲插件开发（一）：why、how和what.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GpS-zXI6Xdby7wfyheurMnK8JWduaN4r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G_q5t9pC9FlApZDsu0OAwGVZaoJ2Eq_f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G_q5t9pC9FlApZDsu0OAwGVZaoJ2Eq_f</guid>
+			
+
+			<title><![CDATA[ 31讲一些你可能不知道的Tips&Tricks.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲一些你可能不知道的Tips&Tricks.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲一些你可能不知道的Tips&Tricks.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲一些你可能不知道的Tips&Tricks.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G_q5t9pC9FlApZDsu0OAwGVZaoJ2Eq_f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GLmh4DMQkz9jJrpPOYOugJjlkFnrkaFN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GLmh4DMQkz9jJrpPOYOugJjlkFnrkaFN</guid>
+			
+
+			<title><![CDATA[ 30讲如何在VSCode中配置、部署和调试Docker.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲如何在VSCode中配置、部署和调试Docker.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲如何在VSCode中配置、部署和调试Docker.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲如何在VSCode中配置、部署和调试Docker.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GLmh4DMQkz9jJrpPOYOugJjlkFnrkaFN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FsiRXOlxuiv2biDihX6jKy-hHjEQWTT_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FsiRXOlxuiv2biDihX6jKy-hHjEQWTT_</guid>
+			
+
+			<title><![CDATA[ 29讲不错的插件推荐.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲不错的插件推荐.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲不错的插件推荐.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲不错的插件推荐.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FsiRXOlxuiv2biDihX6jKy-hHjEQWTT_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FQoJlbfNIL5ux1LgK6IefGjMKzhu1pQV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FQoJlbfNIL5ux1LgK6IefGjMKzhu1pQV</guid>
+			
+
+			<title><![CDATA[ 28讲如何深度定制自己的主题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲如何深度定制自己的主题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲如何深度定制自己的主题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲如何深度定制自己的主题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FQoJlbfNIL5ux1LgK6IefGjMKzhu1pQV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ey61rezEKiwS79vWPbtByyb2eJE4QwUb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ey61rezEKiwS79vWPbtByyb2eJE4QwUb</guid>
+			
+
+			<title><![CDATA[ 27讲HTML、CSS以及前端开发神器Emmet介绍与支持.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲HTML、CSS以及前端开发神器Emmet介绍与支持.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲HTML、CSS以及前端开发神器Emmet介绍与支持.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲HTML、CSS以及前端开发神器Emmet介绍与支持.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ey61rezEKiwS79vWPbtByyb2eJE4QwUb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EiLq4EHUmU_9L1KgynJzvIbQ2-zkGF39</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EiLq4EHUmU_9L1KgynJzvIbQ2-zkGF39</guid>
+			
+
+			<title><![CDATA[ 26讲后端语言支持（二）：Python、C#.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲后端语言支持（二）：Python、C#.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲后端语言支持（二）：Python、C#.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲后端语言支持（二）：Python、C#.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EiLq4EHUmU_9L1KgynJzvIbQ2-zkGF39"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EN5VypY_BPYa0Z73deMFgN0o9ef0p8Op</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EN5VypY_BPYa0Z73deMFgN0o9ef0p8Op</guid>
+			
+
+			<title><![CDATA[ 25讲后端语言支持（一）：Go、Java.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲后端语言支持（一）：Go、Java.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲后端语言支持（一）：Go、Java.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲后端语言支持（一）：Go、Java.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EN5VypY_BPYa0Z73deMFgN0o9ef0p8Op"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dv8QApB7Z3TRuZOb0tEpQQVhwrymsxtk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dv8QApB7Z3TRuZOb0tEpQQVhwrymsxtk</guid>
+			
+
+			<title><![CDATA[ 24讲前端语言支持：JavaScript和Node.js.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲前端语言支持：JavaScript和Node.js.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲前端语言支持：JavaScript和Node.js.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲前端语言支持：JavaScript和Node.js.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dv8QApB7Z3TRuZOb0tEpQQVhwrymsxtk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dna0VKb6ICLp0temTiXX9iqhwpYvUqQA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dna0VKb6ICLp0temTiXX9iqhwpYvUqQA</guid>
+			
+
+			<title><![CDATA[ 23讲基础语言支持：JSON、Markdown.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲基础语言支持：JSON、Markdown.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲基础语言支持：JSON、Markdown.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲基础语言支持：JSON、Markdown.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dna0VKb6ICLp0temTiXX9iqhwpYvUqQA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DhBQhUSu8irUhF62XMbo9zkMpuDekqpi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DhBQhUSu8irUhF62XMbo9zkMpuDekqpi</guid>
+			
+
+			<title><![CDATA[ 22讲基于自然语言或者纯文本的设置界面，总有一款适合你.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲基于自然语言或者纯文本的设置界面，总有一款适合你.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲基于自然语言或者纯文本的设置界面，总有一款适合你.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲基于自然语言或者纯文本的设置界面，总有一款适合你.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DhBQhUSu8irUhF62XMbo9zkMpuDekqpi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DTGqWSwUCq8nyfeqyVcnbvyJ2NsQpl4c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DTGqWSwUCq8nyfeqyVcnbvyJ2NsQpl4c</guid>
+			
+
+			<title><![CDATA[ 21讲你不知道的工作区快捷键.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲你不知道的工作区快捷键.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲你不知道的工作区快捷键.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲你不知道的工作区快捷键.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DTGqWSwUCq8nyfeqyVcnbvyJ2NsQpl4c"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DGolW24DQEF-wpzUuOlhnrQRW5eV0vkq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DGolW24DQEF-wpzUuOlhnrQRW5eV0vkq</guid>
+			
+
+			<title><![CDATA[ 20讲聊debugger时，我们在聊什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲聊debugger时，我们在聊什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲聊debugger时，我们在聊什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲聊debugger时，我们在聊什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DGolW24DQEF-wpzUuOlhnrQRW5eV0vkq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1D6HA8l6qwC8XmKJX3HfXk6rNDQSZKrM3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1D6HA8l6qwC8XmKJX3HfXk6rNDQSZKrM3</guid>
+			
+
+			<title><![CDATA[ 19讲为你的项目打造Workflow（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲为你的项目打造Workflow（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲为你的项目打造Workflow（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲为你的项目打造Workflow（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1D6HA8l6qwC8XmKJX3HfXk6rNDQSZKrM3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ChoUDBs53rREaEoSDNEHRk0pLhc67pl2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ChoUDBs53rREaEoSDNEHRk0pLhc67pl2</guid>
+			
+
+			<title><![CDATA[ 18讲为你的项目打造Workflow（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲为你的项目打造Workflow（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲为你的项目打造Workflow（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲为你的项目打造Workflow（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ChoUDBs53rREaEoSDNEHRk0pLhc67pl2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CMS9S58r2zCwce-xipH9xJYfO5nVebQk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CMS9S58r2zCwce-xipH9xJYfO5nVebQk</guid>
+			
+
+			<title><![CDATA[ 17讲如何配置终端模拟器，告别系统终端.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲如何配置终端模拟器，告别系统终端.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲如何配置终端模拟器，告别系统终端.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲如何配置终端模拟器，告别系统终端.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CMS9S58r2zCwce-xipH9xJYfO5nVebQk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BooQgoAiTdEvqtN8PWJBFKWPbzkUK9Fh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BooQgoAiTdEvqtN8PWJBFKWPbzkUK9Fh</guid>
+			
+
+			<title><![CDATA[ 16讲怎么在编辑器里做好版本管理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲怎么在编辑器里做好版本管理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲怎么在编辑器里做好版本管理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲怎么在编辑器里做好版本管理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BooQgoAiTdEvqtN8PWJBFKWPbzkUK9Fh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BjsDxdqDayuuTRolfFJraMkPmvtNvNtg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BjsDxdqDayuuTRolfFJraMkPmvtNvNtg</guid>
+			
+
+			<title><![CDATA[ 15讲了解文件管理，什么是multi-rootworkspace.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲了解文件管理，什么是multi-rootworkspace.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲了解文件管理，什么是multi-rootworkspace.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲了解文件管理，什么是multi-rootworkspace.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BjsDxdqDayuuTRolfFJraMkPmvtNvNtg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BQyi2P_OtjFCrctHth0I0W2gUM3HlAdU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BQyi2P_OtjFCrctHth0I0W2gUM3HlAdU</guid>
+			
+
+			<title><![CDATA[ 14讲什么是工作台和命令面板.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲什么是工作台和命令面板.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲什么是工作台和命令面板.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲什么是工作台和命令面板.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BQyi2P_OtjFCrctHth0I0W2gUM3HlAdU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BCGl5lsFYD5rnmbJI7OmVMvfkdTEWGfm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BCGl5lsFYD5rnmbJI7OmVMvfkdTEWGfm</guid>
+			
+
+			<title><![CDATA[ 13讲优化你的编辑器设置.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲优化你的编辑器设置.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲优化你的编辑器设置.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲优化你的编辑器设置.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BCGl5lsFYD5rnmbJI7OmVMvfkdTEWGfm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1AqPObeZkVGhuGgB7PPg-BH1yRWZhdfhU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1AqPObeZkVGhuGgB7PPg-BH1yRWZhdfhU</guid>
+			
+
+			<title><![CDATA[ 12讲极速搜索有时候比Intellisense还重要.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲极速搜索有时候比Intellisense还重要.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲极速搜索有时候比Intellisense还重要.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲极速搜索有时候比Intellisense还重要.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1AqPObeZkVGhuGgB7PPg-BH1yRWZhdfhU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ANtJLw32Ivdy-ziEDvpummE3IkZsPAX6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ANtJLw32Ivdy-ziEDvpummE3IkZsPAX6</guid>
+			
+
+			<title><![CDATA[ 11讲一定要用好代码折叠、小地图和面包屑特性.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11讲一定要用好代码折叠、小地图和面包屑特性.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11讲一定要用好代码折叠、小地图和面包屑特性.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11讲一定要用好代码折叠、小地图和面包屑特性.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ANtJLw32Ivdy-ziEDvpummE3IkZsPAX6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A80U58u6CaMLQRPyCuqhW-BhM0XivBdG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A80U58u6CaMLQRPyCuqhW-BhM0XivBdG</guid>
+			
+
+			<title><![CDATA[ 10讲拒绝重复，你的代码百宝箱：如何书写codesnippet.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10讲拒绝重复，你的代码百宝箱：如何书写codesnippet.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10讲拒绝重复，你的代码百宝箱：如何书写codesnippet.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10讲拒绝重复，你的代码百宝箱：如何书写codesnippet.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A80U58u6CaMLQRPyCuqhW-BhM0XivBdG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19qgjsFwTx1nF1_82UZKJ9K249KVOqx47</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19qgjsFwTx1nF1_82UZKJ9K249KVOqx47</guid>
+			
+
+			<title><![CDATA[ 09讲代码自动补全、快速修复和重构的二三事.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09讲代码自动补全、快速修复和重构的二三事.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09讲代码自动补全、快速修复和重构的二三事.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09讲代码自动补全、快速修复和重构的二三事.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19qgjsFwTx1nF1_82UZKJ9K249KVOqx47"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19aEScWI0m4xipa7GSJAf1LQD4pDmyuM_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19aEScWI0m4xipa7GSJAf1LQD4pDmyuM_</guid>
+			
+
+			<title><![CDATA[ 08讲玩转鼠标操作.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08讲玩转鼠标操作.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08讲玩转鼠标操作.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08讲玩转鼠标操作.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19aEScWI0m4xipa7GSJAf1LQD4pDmyuM_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=19JI-0ht9NGTx5BLngigzl85wseiPRPnd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=19JI-0ht9NGTx5BLngigzl85wseiPRPnd</guid>
+			
+
+			<title><![CDATA[ 07讲如何快速在文件、符号、代码之间跳转.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07讲如何快速在文件、符号、代码之间跳转.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07讲如何快速在文件、符号、代码之间跳转.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07讲如何快速在文件、符号、代码之间跳转.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=19JI-0ht9NGTx5BLngigzl85wseiPRPnd"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .03.深入浅出区块链.mp3 ]]></title>
+		<itunes:subtitle><![CDATA[ .03.深入浅出区块链.mp3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .03.深入浅出区块链.mp3. ]]></itunes:summary>
+		<description><![CDATA[ .03.深入浅出区块链.mp3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1ObwLgMeSSv-Wf-oVQqkZuKsuyoii4KRN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ObwLgMeSSv-Wf-oVQqkZuKsuyoii4KRN</guid>
+			
+
+			<title><![CDATA[ 2018-06-18_尾声篇___授人以鱼，不如授人以渔.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-18_尾声篇___授人以鱼，不如授人以渔.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-18_尾声篇___授人以鱼，不如授人以渔.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-18_尾声篇___授人以鱼，不如授人以渔.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ObwLgMeSSv-Wf-oVQqkZuKsuyoii4KRN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OZmtTn-aRzmOyx4pQ3UBFoWybub5Jhob</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OZmtTn-aRzmOyx4pQ3UBFoWybub5Jhob</guid>
+			
+
+			<title><![CDATA[ 2018-06-15_第36讲___搭建你的迷你区块链（实践篇）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-15_第36讲___搭建你的迷你区块链（实践篇）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-15_第36讲___搭建你的迷你区块链（实践篇）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-15_第36讲___搭建你的迷你区块链（实践篇）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OZmtTn-aRzmOyx4pQ3UBFoWybub5Jhob"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OZ_XcsQPpHOIOZixdpUoeFj4HdJsVU7k</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OZ_XcsQPpHOIOZixdpUoeFj4HdJsVU7k</guid>
+			
+
+			<title><![CDATA[ 2018-06-13_第35讲___搭建迷你区块链.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-13_第35讲___搭建迷你区块链.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-13_第35讲___搭建迷你区块链.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-13_第35讲___搭建迷你区块链.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OZ_XcsQPpHOIOZixdpUoeFj4HdJsVU7k"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ONz1ET6k-YpFSkuZ8ptcWaKJab8K3nVS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ONz1ET6k-YpFSkuZ8ptcWaKJab8K3nVS</guid>
+			
+
+			<title><![CDATA[ 2018-06-11_第34讲___从业区块链需要了解什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-11_第34讲___从业区块链需要了解什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-11_第34讲___从业区块链需要了解什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-11_第34讲___从业区块链需要了解什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ONz1ET6k-YpFSkuZ8ptcWaKJab8K3nVS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OMmiHH6pt_JrbeYKt5ssp6haXnamsQZY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OMmiHH6pt_JrbeYKt5ssp6haXnamsQZY</guid>
+			
+
+			<title><![CDATA[ 2018-06-08_第33讲___区块链与供应链（二）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-08_第33讲___区块链与供应链（二）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-08_第33讲___区块链与供应链（二）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-08_第33讲___区块链与供应链（二）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OMmiHH6pt_JrbeYKt5ssp6haXnamsQZY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OMMx7KIIO0btIHzToa0BWw5_9Jhpoqui</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OMMx7KIIO0btIHzToa0BWw5_9Jhpoqui</guid>
+			
+
+			<title><![CDATA[ 2018-06-06_第32讲___区块链与供应链（一）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-06_第32讲___区块链与供应链（一）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-06_第32讲___区块链与供应链（一）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-06_第32讲___区块链与供应链（一）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OMMx7KIIO0btIHzToa0BWw5_9Jhpoqui"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OK-2BzItq4p_j7fJEd-4rtkzu2dZtKQ9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OK-2BzItq4p_j7fJEd-4rtkzu2dZtKQ9</guid>
+			
+
+			<title><![CDATA[ 2018-06-04_第31讲___数字货币钱包服务.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-04_第31讲___数字货币钱包服务.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-04_第31讲___数字货币钱包服务.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-04_第31讲___数字货币钱包服务.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OK-2BzItq4p_j7fJEd-4rtkzu2dZtKQ9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OIKlmW8oUVzSUjxfcvigYCTLl0Sl9Kap</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OIKlmW8oUVzSUjxfcvigYCTLl0Sl9Kap</guid>
+			
+
+			<title><![CDATA[ 2018-06-01_第30讲___区块链即服务BaaS.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-01_第30讲___区块链即服务BaaS.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-01_第30讲___区块链即服务BaaS.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-01_第30讲___区块链即服务BaaS.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OIKlmW8oUVzSUjxfcvigYCTLl0Sl9Kap"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OChHlTs6vFCeV9SRkyvEwLd603Id0d_F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OChHlTs6vFCeV9SRkyvEwLd603Id0d_F</guid>
+			
+
+			<title><![CDATA[ 2018-05-30_第29讲___互联网身份与区块链数字身份.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-30_第29讲___互联网身份与区块链数字身份.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-30_第29讲___互联网身份与区块链数字身份.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-30_第29讲___互联网身份与区块链数字身份.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OChHlTs6vFCeV9SRkyvEwLd603Id0d_F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OAciroCU18G2L8mCMlcdrtxDbMlettEi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OAciroCU18G2L8mCMlcdrtxDbMlettEi</guid>
+			
+
+			<title><![CDATA[ 2018-05-28_第28讲___弄懂数字货币交易平台（二）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-28_第28讲___弄懂数字货币交易平台（二）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-28_第28讲___弄懂数字货币交易平台（二）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-28_第28讲___弄懂数字货币交易平台（二）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OAciroCU18G2L8mCMlcdrtxDbMlettEi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O7d7aR_6rIEQyJXfu20BCdtmG74TVEIq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O7d7aR_6rIEQyJXfu20BCdtmG74TVEIq</guid>
+			
+
+			<title><![CDATA[ 2018-05-25_第27讲___弄懂数字货币交易平台（一）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-25_第27讲___弄懂数字货币交易平台（一）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-25_第27讲___弄懂数字货币交易平台（一）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-25_第27讲___弄懂数字货币交易平台（一）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O7d7aR_6rIEQyJXfu20BCdtmG74TVEIq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O4ZdWtQB7NahWAk0eapWNuqHmS3mpA3b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O4ZdWtQB7NahWAk0eapWNuqHmS3mpA3b</guid>
+			
+
+			<title><![CDATA[ 2018-05-23_第26讲___数字货币和数字资产.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-23_第26讲___数字货币和数字资产.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-23_第26讲___数字货币和数字资产.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-23_第26讲___数字货币和数字资产.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O4ZdWtQB7NahWAk0eapWNuqHmS3mpA3b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NxEmhX9kNiSiafC79yGoXweXk0U0bgyh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NxEmhX9kNiSiafC79yGoXweXk0U0bgyh</guid>
+			
+
+			<title><![CDATA[ 2018-05-21_第25讲___比特币专题（二）：扩容之争、IFO与链上治理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-21_第25讲___比特币专题（二）：扩容之争、IFO与链上治理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-21_第25讲___比特币专题（二）：扩容之争、IFO与链上治理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-21_第25讲___比特币专题（二）：扩容之争、IFO与链上治理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NxEmhX9kNiSiafC79yGoXweXk0U0bgyh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NmHLsfsV7ilEJPhvJk_T_yHwNrls8Hld</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NmHLsfsV7ilEJPhvJk_T_yHwNrls8Hld</guid>
+			
+
+			<title><![CDATA[ 2018-05-18_第24讲___比特币专题（一）历史与货币.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-18_第24讲___比特币专题（一）历史与货币.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-18_第24讲___比特币专题（一）历史与货币.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-18_第24讲___比特币专题（一）历史与货币.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NmHLsfsV7ilEJPhvJk_T_yHwNrls8Hld"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nejedb7l02Ce0RO051SFtE06rmGeA_Qv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nejedb7l02Ce0RO051SFtE06rmGeA_Qv</guid>
+			
+
+			<title><![CDATA[ 2018-05-16_第23讲___联盟链和它的困境.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-16_第23讲___联盟链和它的困境.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-16_第23讲___联盟链和它的困境.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-16_第23讲___联盟链和它的困境.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nejedb7l02Ce0RO051SFtE06rmGeA_Qv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NchBPI4EXn23J4ZdFwKzB8bcMYacykbz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NchBPI4EXn23J4ZdFwKzB8bcMYacykbz</guid>
+			
+
+			<title><![CDATA[ 2018-05-14_第22讲___国内区块链项目技术一览.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-14_第22讲___国内区块链项目技术一览.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-14_第22讲___国内区块链项目技术一览.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-14_第22讲___国内区块链项目技术一览.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NchBPI4EXn23J4ZdFwKzB8bcMYacykbz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N_pMCf03Hs6xbs2JBkmuEdBUuzyo9GET</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N_pMCf03Hs6xbs2JBkmuEdBUuzyo9GET</guid>
+			
+
+			<title><![CDATA[ 2018-05-11_第21讲___引人瞩目的区块链项目：EOS、IOTA、Cardano.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-11_第21讲___引人瞩目的区块链项目：EOS、IOTA、Cardano.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-11_第21讲___引人瞩目的区块链项目：EOS、IOTA、Cardano.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-11_第21讲___引人瞩目的区块链项目：EOS、IOTA、Cardano.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N_pMCf03Hs6xbs2JBkmuEdBUuzyo9GET"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NYar8eR4CI1XCNsVukyM7EYOPyVMvS7u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NYar8eR4CI1XCNsVukyM7EYOPyVMvS7u</guid>
+			
+
+			<title><![CDATA[ 2018-05-09_第20讲___区块链项目详解：比特股BTS.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-09_第20讲___区块链项目详解：比特股BTS.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-09_第20讲___区块链项目详解：比特股BTS.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-09_第20讲___区块链项目详解：比特股BTS.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NYar8eR4CI1XCNsVukyM7EYOPyVMvS7u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NVK95qEvJqQF9TbGskK3lGsoTAKFX5H5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NVK95qEvJqQF9TbGskK3lGsoTAKFX5H5</guid>
+			
+
+			<title><![CDATA[ 2018-05-07_第19讲___手把手教你上手搭建一条自己的智能合约.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-07_第19讲___手把手教你上手搭建一条自己的智能合约.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-07_第19讲___手把手教你上手搭建一条自己的智能合约.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-07_第19讲___手把手教你上手搭建一条自己的智能合约.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NVK95qEvJqQF9TbGskK3lGsoTAKFX5H5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NKdzZCNK3A4aZ-0llksGAnQlir4Cj_wO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NKdzZCNK3A4aZ-0llksGAnQlir4Cj_wO</guid>
+			
+
+			<title><![CDATA[ 2018-05-04_第18讲___智能合约与以太坊.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-04_第18讲___智能合约与以太坊.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-04_第18讲___智能合约与以太坊.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-04_第18讲___智能合约与以太坊.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NKdzZCNK3A4aZ-0llksGAnQlir4Cj_wO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NKEdQWMWyxgaiziEtmpPzPtlOYcbZIq4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NKEdQWMWyxgaiziEtmpPzPtlOYcbZIq4</guid>
+			
+
+			<title><![CDATA[ 2018-05-02_第17讲____去中心化与区块链交易性能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-02_第17讲____去中心化与区块链交易性能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-02_第17讲____去中心化与区块链交易性能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-02_第17讲____去中心化与区块链交易性能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NKEdQWMWyxgaiziEtmpPzPtlOYcbZIq4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NIe_ZJOXmsWBEYpF2bWzUjY1j1x1oJFk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NIe_ZJOXmsWBEYpF2bWzUjY1j1x1oJFk</guid>
+			
+
+			<title><![CDATA[ 2018-04-30_第16讲___深入区块链技术（八）：_UTXO与普通账户模型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-30_第16讲___深入区块链技术（八）：_UTXO与普通账户模型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-30_第16讲___深入区块链技术（八）：_UTXO与普通账户模型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-30_第16讲___深入区块链技术（八）：_UTXO与普通账户模型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NIe_ZJOXmsWBEYpF2bWzUjY1j1x1oJFk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NI7fS-3jI67RCQfqhEt4IMdsoWmNPK01</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NI7fS-3jI67RCQfqhEt4IMdsoWmNPK01</guid>
+			
+
+			<title><![CDATA[ 2018-04-27_第15讲___深入区块链技术（七）：哈希与加密算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-27_第15讲___深入区块链技术（七）：哈希与加密算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-27_第15讲___深入区块链技术（七）：哈希与加密算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-27_第15讲___深入区块链技术（七）：哈希与加密算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NI7fS-3jI67RCQfqhEt4IMdsoWmNPK01"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NHYh6GU8j9tee7V50sjmgD9uRnWjjY4P</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NHYh6GU8j9tee7V50sjmgD9uRnWjjY4P</guid>
+			
+
+			<title><![CDATA[ 2018-04-25_第14讲___深入区块链技术（六）：DPoS共识机制.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-25_第14讲___深入区块链技术（六）：DPoS共识机制.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-25_第14讲___深入区块链技术（六）：DPoS共识机制.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-25_第14讲___深入区块链技术（六）：DPoS共识机制.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NHYh6GU8j9tee7V50sjmgD9uRnWjjY4P"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NEDOSG-XFPprOqIk5ojdGj2y_Q7WOIs_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NEDOSG-XFPprOqIk5ojdGj2y_Q7WOIs_</guid>
+			
+
+			<title><![CDATA[ 2018-04-23_第13讲___深入区块链技术（五）：PoS共识机制.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-23_第13讲___深入区块链技术（五）：PoS共识机制.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-23_第13讲___深入区块链技术（五）：PoS共识机制.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-23_第13讲___深入区块链技术（五）：PoS共识机制.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NEDOSG-XFPprOqIk5ojdGj2y_Q7WOIs_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NDk6njauJ_g_88iEFLydVGiYx5TZs8Fl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NDk6njauJ_g_88iEFLydVGiYx5TZs8Fl</guid>
+			
+
+			<title><![CDATA[ 2018-04-20_第12讲___深入区块链技术（四）：PoW共识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-20_第12讲___深入区块链技术（四）：PoW共识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-20_第12讲___深入区块链技术（四）：PoW共识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-20_第12讲___深入区块链技术（四）：PoW共识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NDk6njauJ_g_88iEFLydVGiYx5TZs8Fl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N5DmPCadTWM02bhOQeVNvd06QyMaK7U5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N5DmPCadTWM02bhOQeVNvd06QyMaK7U5</guid>
+			
+
+			<title><![CDATA[ 2018-04-18_深入区块链技术（三）：共识算法与分布式一致性算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-18_深入区块链技术（三）：共识算法与分布式一致性算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-18_深入区块链技术（三）：共识算法与分布式一致性算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-18_深入区块链技术（三）：共识算法与分布式一致性算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N5DmPCadTWM02bhOQeVNvd06QyMaK7U5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N2p3xxh_3FbHoQmr-oux2_e06yyAEjeZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N2p3xxh_3FbHoQmr-oux2_e06yyAEjeZ</guid>
+			
+
+			<title><![CDATA[ 2018-04-16_第10讲___深入区块链技术（二）：P2P网络.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-16_第10讲___深入区块链技术（二）：P2P网络.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-16_第10讲___深入区块链技术（二）：P2P网络.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-16_第10讲___深入区块链技术（二）：P2P网络.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N2p3xxh_3FbHoQmr-oux2_e06yyAEjeZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mx6FROzycKwR0v-hgnpQWEgrKL4yvodl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mx6FROzycKwR0v-hgnpQWEgrKL4yvodl</guid>
+			
+
+			<title><![CDATA[ 2018-04-13_第9讲___深入区块链技术（一）：技术基础.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-13_第9讲___深入区块链技术（一）：技术基础.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-13_第9讲___深入区块链技术（一）：技术基础.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-13_第9讲___深入区块链技术（一）：技术基础.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mx6FROzycKwR0v-hgnpQWEgrKL4yvodl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MvP5qDK_LY5N_yMwZA_Pw56LgcuVLyAh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MvP5qDK_LY5N_yMwZA_Pw56LgcuVLyAh</guid>
+			
+
+			<title><![CDATA[ 2018-04-11_第8讲___最主流区块链项目有哪些？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-11_第8讲___最主流区块链项目有哪些？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-11_第8讲___最主流区块链项目有哪些？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-11_第8讲___最主流区块链项目有哪些？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MvP5qDK_LY5N_yMwZA_Pw56LgcuVLyAh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ms6LHIQKXzY6sbAqhg8uOKpwPFr1dLxz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ms6LHIQKXzY6sbAqhg8uOKpwPFr1dLxz</guid>
+			
+
+			<title><![CDATA[ 2018-04-09_第7讲___区块链的常见误区.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-09_第7讲___区块链的常见误区.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-09_第7讲___区块链的常见误区.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-09_第7讲___区块链的常见误区.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ms6LHIQKXzY6sbAqhg8uOKpwPFr1dLxz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MXQLlA96viENv4pAX08a3X5ERQgAZCFO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MXQLlA96viENv4pAX08a3X5ERQgAZCFO</guid>
+			
+
+			<title><![CDATA[ 2018-04-06_第6讲___理解区块链之前，先上手体验一把数字货币.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-06_第6讲___理解区块链之前，先上手体验一把数字货币.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-06_第6讲___理解区块链之前，先上手体验一把数字货币.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-06_第6讲___理解区块链之前，先上手体验一把数字货币.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MXQLlA96viENv4pAX08a3X5ERQgAZCFO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MTiXJkkLb870ECQlwNuVwpvjlaUqRoJb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MTiXJkkLb870ECQlwNuVwpvjlaUqRoJb</guid>
+			
+
+			<title><![CDATA[ 2018-04-04_第5讲___如何理解数字货币？它与区块链又是什么样的关系？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-04_第5讲___如何理解数字货币？它与区块链又是什么样的关系？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-04_第5讲___如何理解数字货币？它与区块链又是什么样的关系？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-04_第5讲___如何理解数字货币？它与区块链又是什么样的关系？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MTiXJkkLb870ECQlwNuVwpvjlaUqRoJb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MT5cITOrjzuximxw4AWXqZcCHVcPtudF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MT5cITOrjzuximxw4AWXqZcCHVcPtudF</guid>
+			
+
+			<title><![CDATA[ 2018-04-02_第4讲___区块链的应用类型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-02_第4讲___区块链的应用类型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-02_第4讲___区块链的应用类型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-02_第4讲___区块链的应用类型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MT5cITOrjzuximxw4AWXqZcCHVcPtudF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MRfgQ91TYvcqHsVjC3xb6ecTf665lsDZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MRfgQ91TYvcqHsVjC3xb6ecTf665lsDZ</guid>
+			
+
+			<title><![CDATA[ 2018-03-30_第三讲：浅说区块链共识机制.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-30_第三讲：浅说区块链共识机制.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-30_第三讲：浅说区块链共识机制.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-30_第三讲：浅说区块链共识机制.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MRfgQ91TYvcqHsVjC3xb6ecTf665lsDZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MOFt2rNPKttKzevle8I17XMv0GmCu3L_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MOFt2rNPKttKzevle8I17XMv0GmCu3L_</guid>
+			
+
+			<title><![CDATA[ 2018-03-28_第二讲：_区块链到底是怎么运行的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-28_第二讲：_区块链到底是怎么运行的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-28_第二讲：_区块链到底是怎么运行的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-28_第二讲：_区块链到底是怎么运行的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MOFt2rNPKttKzevle8I17XMv0GmCu3L_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MJwbyBjUAm5NMceQf4xbznOdW2Omb7ng</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MJwbyBjUAm5NMceQf4xbznOdW2Omb7ng</guid>
+			
+
+			<title><![CDATA[ 2018-03-26_第一讲：区块链是什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-26_第一讲：区块链是什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-26_第一讲：区块链是什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-26_第一讲：区块链是什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MJwbyBjUAm5NMceQf4xbznOdW2Omb7ng"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MIbGJ64taUcx_lcoBxl5fAAFyJr8Wyig</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MIbGJ64taUcx_lcoBxl5fAAFyJr8Wyig</guid>
+			
+
+			<title><![CDATA[ 2018-03-21_开篇词___帮你从0到1深入学习区块链技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-21_开篇词___帮你从0到1深入学习区块链技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-21_开篇词___帮你从0到1深入学习区块链技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-21_开篇词___帮你从0到1深入学习区块链技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MIbGJ64taUcx_lcoBxl5fAAFyJr8Wyig"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

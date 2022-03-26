@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .46 Android开发高手课.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .46 Android开发高手课.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .46 Android开发高手课.音频. ]]></itunes:summary>
+		<description><![CDATA[ .46 Android开发高手课.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1HvJiDZ-dCjcq7ilYILy_UoL7dPHVFARJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HvJiDZ-dCjcq7ilYILy_UoL7dPHVFARJ</guid>
+			
+
+			<title><![CDATA[ 专栏学得苦可能是方法没找对.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 专栏学得苦可能是方法没找对.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 专栏学得苦可能是方法没找对.mp3 ]]></description>
+			<content:encoded><![CDATA[ 专栏学得苦可能是方法没找对.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HvJiDZ-dCjcq7ilYILy_UoL7dPHVFARJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HnS3smHH9TY599luLVUbxfrYP3QQL4e2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HnS3smHH9TY599luLVUbxfrYP3QQL4e2</guid>
+			
+
+			<title><![CDATA[ 专栏学得苦可能你还需要一份配套学习书单.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 专栏学得苦可能你还需要一份配套学习书单.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 专栏学得苦可能你还需要一份配套学习书单.mp3 ]]></description>
+			<content:encoded><![CDATA[ 专栏学得苦可能你还需要一份配套学习书单.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HnS3smHH9TY599luLVUbxfrYP3QQL4e2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Hf0G7RS_I4R_jbO2unC7SI1yxUam_r0V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Hf0G7RS_I4R_jbO2unC7SI1yxUam_r0V</guid>
+			
+
+			<title><![CDATA[ 让Sample跑起来讲热点问题答疑第1期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 让Sample跑起来讲热点问题答疑第1期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 让Sample跑起来讲热点问题答疑第1期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 让Sample跑起来讲热点问题答疑第1期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Hf0G7RS_I4R_jbO2unC7SI1yxUam_r0V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HdisiFda_wcKDueLMZ5bGNTvv1H_hhYR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HdisiFda_wcKDueLMZ5bGNTvv1H_hhYR</guid>
+			
+
+			<title><![CDATA[ 聊聊Framework的学习方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 聊聊Framework的学习方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 聊聊Framework的学习方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 聊聊Framework的学习方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HdisiFda_wcKDueLMZ5bGNTvv1H_hhYR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HZHc-d00JIT2BPV-G53HTADuuwkO0ba_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HZHc-d00JIT2BPV-G53HTADuuwkO0ba_</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第2辑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第2辑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第2辑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第2辑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HZHc-d00JIT2BPV-G53HTADuuwkO0ba_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HYZNpI5QX9MwX_ye5_oIs8npjK099g8t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HYZNpI5QX9MwX_ye5_oIs8npjK099g8t</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第1辑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第1辑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第1辑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲唯鹿同学的练习手记第1辑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HYZNpI5QX9MwX_ye5_oIs8npjK099g8t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HX3B6KvAFRHOgKCHsdoiqk0_SAi2PIww</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HX3B6KvAFRHOgKCHsdoiqk0_SAi2PIww</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲热点问题答疑第4期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲热点问题答疑第4期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲热点问题答疑第4期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲热点问题答疑第4期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HX3B6KvAFRHOgKCHsdoiqk0_SAi2PIww"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HWUCnjnHysFyWfBwZRKB6f3EJQjcV5WJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HWUCnjnHysFyWfBwZRKB6f3EJQjcV5WJ</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲热点问题答疑第3期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲热点问题答疑第3期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲热点问题答疑第3期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲热点问题答疑第3期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HWUCnjnHysFyWfBwZRKB6f3EJQjcV5WJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HRpiW7H2eM8ROlR67F-JKwQHy9in-E6R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HRpiW7H2eM8ROlR67F-JKwQHy9in-E6R</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲热点问题答疑第2期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲热点问题答疑第2期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲热点问题答疑第2期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲热点问题答疑第2期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HRpiW7H2eM8ROlR67F-JKwQHy9in-E6R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HQ18ocY7ttyxrsldgSF_YPp8ggYVkDDD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HQ18ocY7ttyxrsldgSF_YPp8ggYVkDDD</guid>
+			
+
+			<title><![CDATA[ 练习Sample跑起来讲ASM插桩强化练习.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 练习Sample跑起来讲ASM插桩强化练习.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 练习Sample跑起来讲ASM插桩强化练习.mp3 ]]></description>
+			<content:encoded><![CDATA[ 练习Sample跑起来讲ASM插桩强化练习.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HQ18ocY7ttyxrsldgSF_YPp8ggYVkDDD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HNTWe6OnGOLgH7M8sgP4UkXAEmlOZGsr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HNTWe6OnGOLgH7M8sgP4UkXAEmlOZGsr</guid>
+			
+
+			<title><![CDATA[ 开篇词讲焦虑的移动开发者该如何破局.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲焦虑的移动开发者该如何破局.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲焦虑的移动开发者该如何破局.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲焦虑的移动开发者该如何破局.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HNTWe6OnGOLgH7M8sgP4UkXAEmlOZGsr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HHWHTgSQQssuzvIAGcHNi8mtVf-mlo1b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HHWHTgSQQssuzvIAGcHNi8mtVf-mlo1b</guid>
+			
+
+			<title><![CDATA[ 导读：如何打造高质量的应用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 导读：如何打造高质量的应用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 导读：如何打造高质量的应用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 导读：如何打造高质量的应用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HHWHTgSQQssuzvIAGcHNi8mtVf-mlo1b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HDy7uFZJPIQpf1XiR1CNErQVYWJq7Co-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HDy7uFZJPIQpf1XiR1CNErQVYWJq7Co-</guid>
+			
+
+			<title><![CDATA[ Native下如何获取调用栈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ Native下如何获取调用栈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ Native下如何获取调用栈.mp3 ]]></description>
+			<content:encoded><![CDATA[ Native下如何获取调用栈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HDy7uFZJPIQpf1XiR1CNErQVYWJq7Co-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HDk3S-8k9CADAhUCYHgfwN8hw18geUtV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HDk3S-8k9CADAhUCYHgfwN8hw18geUtV</guid>
+			
+
+			<title><![CDATA[ Android工程师的“面试指南”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ Android工程师的“面试指南”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ Android工程师的“面试指南”.mp3 ]]></description>
+			<content:encoded><![CDATA[ Android工程师的“面试指南”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HDk3S-8k9CADAhUCYHgfwN8hw18geUtV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H71QWCBg3po9A4YGcdD1XlG0TtsPEf1g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H71QWCBg3po9A4YGcdD1XlG0TtsPEf1g</guid>
+			
+
+			<title><![CDATA[ AndroidJVMTI机制详解（内含福利彩蛋）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ AndroidJVMTI机制详解（内含福利彩蛋）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ AndroidJVMTI机制详解（内含福利彩蛋）.mp3 ]]></description>
+			<content:encoded><![CDATA[ AndroidJVMTI机制详解（内含福利彩蛋）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H71QWCBg3po9A4YGcdD1XlG0TtsPEf1g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H5jX7lk51AW6G6zbYewn52HIZGdDid6K</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H5jX7lk51AW6G6zbYewn52HIZGdDid6K</guid>
+			
+
+			<title><![CDATA[ 42讲Android开发高手课学习心得.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42讲Android开发高手课学习心得.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42讲Android开发高手课学习心得.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42讲Android开发高手课学习心得.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H5jX7lk51AW6G6zbYewn52HIZGdDid6K"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H0RbYjXtsKHfiPs7sdRT3K2r0p5bMcOl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H0RbYjXtsKHfiPs7sdRT3K2r0p5bMcOl</guid>
+			
+
+			<title><![CDATA[ 41讲聊聊Flutter，面对层出不穷的新技术该如何跟进.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲聊聊Flutter，面对层出不穷的新技术该如何跟进.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲聊聊Flutter，面对层出不穷的新技术该如何跟进.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲聊聊Flutter，面对层出不穷的新技术该如何跟进.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H0RbYjXtsKHfiPs7sdRT3K2r0p5bMcOl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GyjnMSpylmbn9Tn9jzeiyQVoDbiRj_5f</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GyjnMSpylmbn9Tn9jzeiyQVoDbiRj_5f</guid>
+			
+
+			<title><![CDATA[ 40讲动态化实践，如何选择适合自己的方案.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲动态化实践，如何选择适合自己的方案.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲动态化实践，如何选择适合自己的方案.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲动态化实践，如何选择适合自己的方案.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GyjnMSpylmbn9Tn9jzeiyQVoDbiRj_5f"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GlexFtACiHX6VyM_hBnCEYhjC2kwLQcZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GlexFtACiHX6VyM_hBnCEYhjC2kwLQcZ</guid>
+			
+
+			<title><![CDATA[ 39讲移动开发新大陆：边缘智能计算的趋势.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲移动开发新大陆：边缘智能计算的趋势.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲移动开发新大陆：边缘智能计算的趋势.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲移动开发新大陆：边缘智能计算的趋势.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GlexFtACiHX6VyM_hBnCEYhjC2kwLQcZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ggw0Av0dH7Gv3GJ6NcZyQV9JvL2Sxbt_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ggw0Av0dH7Gv3GJ6NcZyQV9JvL2Sxbt_</guid>
+			
+
+			<title><![CDATA[ 38讲移动开发新大陆：Android音视频开发.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲移动开发新大陆：Android音视频开发.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲移动开发新大陆：Android音视频开发.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲移动开发新大陆：Android音视频开发.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ggw0Av0dH7Gv3GJ6NcZyQV9JvL2Sxbt_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ge2iuvbQrXS7BRSlqbttTUqAW-VnyCZ3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ge2iuvbQrXS7BRSlqbttTUqAW-VnyCZ3</guid>
+			
+
+			<title><![CDATA[ 37讲移动开发新大陆：工作三年半，移动开发转型手游开发.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲移动开发新大陆：工作三年半，移动开发转型手游开发.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲移动开发新大陆：工作三年半，移动开发转型手游开发.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲移动开发新大陆：工作三年半，移动开发转型手游开发.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ge2iuvbQrXS7BRSlqbttTUqAW-VnyCZ3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gbk6I9nIaz244YewSXimeHpOaawIDscj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gbk6I9nIaz244YewSXimeHpOaawIDscj</guid>
+			
+
+			<title><![CDATA[ 36讲跨平台开发的现状与应用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲跨平台开发的现状与应用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲跨平台开发的现状与应用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲跨平台开发的现状与应用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gbk6I9nIaz244YewSXimeHpOaawIDscj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G_5VCl81sDm0WiiITLOlggIhcbpI9KOE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G_5VCl81sDm0WiiITLOlggIhcbpI9KOE</guid>
+			
+
+			<title><![CDATA[ 35讲NativeHook技术，天使还是魔鬼.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲NativeHook技术，天使还是魔鬼.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲NativeHook技术，天使还是魔鬼.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲NativeHook技术，天使还是魔鬼.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G_5VCl81sDm0WiiITLOlggIhcbpI9KOE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GRcEhvyke6Mlxi9ibeve4gGlAtKYIJwX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GRcEhvyke6Mlxi9ibeve4gGlAtKYIJwX</guid>
+			
+
+			<title><![CDATA[ 34讲聊聊重构：优秀的架构都是演进而来的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲聊聊重构：优秀的架构都是演进而来的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲聊聊重构：优秀的架构都是演进而来的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲聊聊重构：优秀的架构都是演进而来的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GRcEhvyke6Mlxi9ibeve4gGlAtKYIJwX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GOeCh0gxwnzlCmnlTzKiNqEpbRlpWUhm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GOeCh0gxwnzlCmnlTzKiNqEpbRlpWUhm</guid>
+			
+
+			<title><![CDATA[ 33讲做一名有高度的移动开发工程师.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲做一名有高度的移动开发工程师.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲做一名有高度的移动开发工程师.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲做一名有高度的移动开发工程师.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GOeCh0gxwnzlCmnlTzKiNqEpbRlpWUhm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GNAphHbxau03okFPv1rni3PKzXM-4YrQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GNAphHbxau03okFPv1rni3PKzXM-4YrQ</guid>
+			
+
+			<title><![CDATA[ 32讲线上疑难问题该如何排查和跟踪.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲线上疑难问题该如何排查和跟踪.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲线上疑难问题该如何排查和跟踪.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲线上疑难问题该如何排查和跟踪.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GNAphHbxau03okFPv1rni3PKzXM-4YrQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GMOPdV19bs13gT-TlEOC-GmmHqBZWFjy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GMOPdV19bs13gT-TlEOC-GmmHqBZWFjy</guid>
+			
+
+			<title><![CDATA[ 31讲数据评估（下）：什么是大数据平台.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲数据评估（下）：什么是大数据平台.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲数据评估（下）：什么是大数据平台.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲数据评估（下）：什么是大数据平台.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GMOPdV19bs13gT-TlEOC-GmmHqBZWFjy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GCYZzO50Ab-W157q8fmQlXda2XtjIoUq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GCYZzO50Ab-W157q8fmQlXda2XtjIoUq</guid>
+			
+
+			<title><![CDATA[ 30讲数据评估（上）：如何实现高可用的上报组件.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲数据评估（上）：如何实现高可用的上报组件.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲数据评估（上）：如何实现高可用的上报组件.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲数据评估（上）：如何实现高可用的上报组件.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GCYZzO50Ab-W157q8fmQlXda2XtjIoUq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GAXgojuL1xOof-R-zOJRUScXTjy3BYfp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GAXgojuL1xOof-R-zOJRUScXTjy3BYfp</guid>
+			
+
+			<title><![CDATA[ 29讲从每月到每天，如何给版本发布提速.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲从每月到每天，如何给版本发布提速.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲从每月到每天，如何给版本发布提速.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲从每月到每天，如何给版本发布提速.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GAXgojuL1xOof-R-zOJRUScXTjy3BYfp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G3oEucbV4nTuRlLOpt66kkrZVT2CUsqk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G3oEucbV4nTuRlLOpt66kkrZVT2CUsqk</guid>
+			
+
+			<title><![CDATA[ 28讲大数据与AI，如何高效地测试.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲大数据与AI，如何高效地测试.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲大数据与AI，如何高效地测试.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲大数据与AI，如何高效地测试.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G3oEucbV4nTuRlLOpt66kkrZVT2CUsqk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G15qgMSmmtkfowq2iQsOrVOkGMae7Q-7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G15qgMSmmtkfowq2iQsOrVOkGMae7Q-7</guid>
+			
+
+			<title><![CDATA[ 27讲编译插桩的三种方法：AspectJ、ASM、ReDex.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲编译插桩的三种方法：AspectJ、ASM、ReDex.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲编译插桩的三种方法：AspectJ、ASM、ReDex.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲编译插桩的三种方法：AspectJ、ASM、ReDex.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G15qgMSmmtkfowq2iQsOrVOkGMae7Q-7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Fmdv1vgilqg3TgJwJMkk1MEsbeZwP9Bb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Fmdv1vgilqg3TgJwJMkk1MEsbeZwP9Bb</guid>
+			
+
+			<title><![CDATA[ 26讲关于编译，你需要了解什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲关于编译，你需要了解什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲关于编译，你需要了解什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲关于编译，你需要了解什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Fmdv1vgilqg3TgJwJMkk1MEsbeZwP9Bb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FjwG3K1hQFsOW7bBhmMrqiXeC6CRalgV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FjwG3K1hQFsOW7bBhmMrqiXeC6CRalgV</guid>
+			
+
+			<title><![CDATA[ 25讲如何提升组织与个人的研发效能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲如何提升组织与个人的研发效能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲如何提升组织与个人的研发效能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲如何提升组织与个人的研发效能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FjwG3K1hQFsOW7bBhmMrqiXeC6CRalgV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Fhk8qv9wLlu5bXyNvi7aebCbFkLOELTu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Fhk8qv9wLlu5bXyNvi7aebCbFkLOELTu</guid>
+			
+
+			<title><![CDATA[ 24讲想成为Android高手，你需要先搞定这三个问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲想成为Android高手，你需要先搞定这三个问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲想成为Android高手，你需要先搞定这三个问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲想成为Android高手，你需要先搞定这三个问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Fhk8qv9wLlu5bXyNvi7aebCbFkLOELTu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1F_OhTRYkbp6TAS--hsK-PQ9UogX1YTui</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1F_OhTRYkbp6TAS--hsK-PQ9UogX1YTui</guid>
+			
+
+			<title><![CDATA[ 23讲包体积优化（下）：资源优化的进阶实践.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲包体积优化（下）：资源优化的进阶实践.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲包体积优化（下）：资源优化的进阶实践.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲包体积优化（下）：资源优化的进阶实践.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1F_OhTRYkbp6TAS--hsK-PQ9UogX1YTui"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FWkw46i6iAI2L_5uKcGanyXAecKbMEoe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FWkw46i6iAI2L_5uKcGanyXAecKbMEoe</guid>
+			
+
+			<title><![CDATA[ 22讲包体积优化（上）：如何减少安装包大小.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲包体积优化（上）：如何减少安装包大小.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲包体积优化（上）：如何减少安装包大小.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲包体积优化（上）：如何减少安装包大小.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FWkw46i6iAI2L_5uKcGanyXAecKbMEoe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FVhmYx3j5Id0KXd3Di3LKLDcXrgZRBV9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FVhmYx3j5Id0KXd3Di3LKLDcXrgZRBV9</guid>
+			
+
+			<title><![CDATA[ 21讲UI优化（下）：如何优化UI渲染.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲UI优化（下）：如何优化UI渲染.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲UI优化（下）：如何优化UI渲染.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲UI优化（下）：如何优化UI渲染.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FVhmYx3j5Id0KXd3Di3LKLDcXrgZRBV9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FUtXkgVhDnQN3UDh261jWVyKykI0nb9m</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FUtXkgVhDnQN3UDh261jWVyKykI0nb9m</guid>
+			
+
+			<title><![CDATA[ 20讲UI优化（上）：UI渲染的几个关键概念.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲UI优化（上）：UI渲染的几个关键概念.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲UI优化（上）：UI渲染的几个关键概念.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲UI优化（上）：UI渲染的几个关键概念.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FUtXkgVhDnQN3UDh261jWVyKykI0nb9m"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FPUFZNuyu94BM0dZKm2sDrZ19Hkl5svW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FPUFZNuyu94BM0dZKm2sDrZ19Hkl5svW</guid>
+			
+
+			<title><![CDATA[ 19讲耗电优化（下）：耗电的优化方法与线上监控.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲耗电优化（下）：耗电的优化方法与线上监控.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲耗电优化（下）：耗电的优化方法与线上监控.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲耗电优化（下）：耗电的优化方法与线上监控.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FPUFZNuyu94BM0dZKm2sDrZ19Hkl5svW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FEq1zwzr7hjBHvwx0q7-Acinh3Z3CMMq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FEq1zwzr7hjBHvwx0q7-Acinh3Z3CMMq</guid>
+			
+
+			<title><![CDATA[ 18讲耗电优化（上）：从电量优化的演进看耗电分析.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲耗电优化（上）：从电量优化的演进看耗电分析.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲耗电优化（上）：从电量优化的演进看耗电分析.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲耗电优化（上）：从电量优化的演进看耗电分析.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FEq1zwzr7hjBHvwx0q7-Acinh3Z3CMMq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FEU9OVZSN3B3cc5rHxw7gWH--wbNETbX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FEU9OVZSN3B3cc5rHxw7gWH--wbNETbX</guid>
+			
+
+			<title><![CDATA[ 17讲网络优化（下）：大数据下网络该如何监控.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲网络优化（下）：大数据下网络该如何监控.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲网络优化（下）：大数据下网络该如何监控.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲网络优化（下）：大数据下网络该如何监控.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FEU9OVZSN3B3cc5rHxw7gWH--wbNETbX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FDHD6KriefX0rLHny9oP3yRnW3_RgDbe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FDHD6KriefX0rLHny9oP3yRnW3_RgDbe</guid>
+			
+
+			<title><![CDATA[ 16讲网络优化（中）：复杂多变的移动网络该如何优化.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲网络优化（中）：复杂多变的移动网络该如何优化.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲网络优化（中）：复杂多变的移动网络该如何优化.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲网络优化（中）：复杂多变的移动网络该如何优化.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FDHD6KriefX0rLHny9oP3yRnW3_RgDbe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FAdIc5qU6hBAthA70A7_Z_PxZSd_tBP5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FAdIc5qU6hBAthA70A7_Z_PxZSd_tBP5</guid>
+			
+
+			<title><![CDATA[ 15讲网络优化（上）：移动开发工程师必备的网络优化知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲网络优化（上）：移动开发工程师必备的网络优化知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲网络优化（上）：移动开发工程师必备的网络优化知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲网络优化（上）：移动开发工程师必备的网络优化知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FAdIc5qU6hBAthA70A7_Z_PxZSd_tBP5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1F3nHR9oU0EQcMIQIJdpt_t1ighwwxL9w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1F3nHR9oU0EQcMIQIJdpt_t1ighwwxL9w</guid>
+			
+
+			<title><![CDATA[ 14讲存储优化（下）：数据库SQLite的使用和优化.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲存储优化（下）：数据库SQLite的使用和优化.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲存储优化（下）：数据库SQLite的使用和优化.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲存储优化（下）：数据库SQLite的使用和优化.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1F3nHR9oU0EQcMIQIJdpt_t1ighwwxL9w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ew15HJ4vptB3iOFmfivXNm9ONuIs_oBE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ew15HJ4vptB3iOFmfivXNm9ONuIs_oBE</guid>
+			
+
+			<title><![CDATA[ 13讲存储优化（中）：如何优化数据存储.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲存储优化（中）：如何优化数据存储.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲存储优化（中）：如何优化数据存储.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲存储优化（中）：如何优化数据存储.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ew15HJ4vptB3iOFmfivXNm9ONuIs_oBE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Epz7MUjFwMbCZyozcvSg1UFG8jxJUw2b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Epz7MUjFwMbCZyozcvSg1UFG8jxJUw2b</guid>
+			
+
+			<title><![CDATA[ 12讲存储优化（上）：常见的数据存储方法有哪些.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲存储优化（上）：常见的数据存储方法有哪些.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲存储优化（上）：常见的数据存储方法有哪些.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲存储优化（上）：常见的数据存储方法有哪些.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Epz7MUjFwMbCZyozcvSg1UFG8jxJUw2b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EeUQ_3od0zBasFVPtt7D1I6ATMMWPcx-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EeUQ_3od0zBasFVPtt7D1I6ATMMWPcx-</guid>
+			
+
+			<title><![CDATA[ 11讲IO优化（下）：如何监控线上IO操作.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11讲IO优化（下）：如何监控线上IO操作.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11讲IO优化（下）：如何监控线上IO操作.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11讲IO优化（下）：如何监控线上IO操作.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EeUQ_3od0zBasFVPtt7D1I6ATMMWPcx-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ed4RVWWPckCFXkKR7d4B8VK3hdze4Ki2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ed4RVWWPckCFXkKR7d4B8VK3hdze4Ki2</guid>
+			
+
+			<title><![CDATA[ 10讲IO优化（中）：不同IO方式的使用场景是什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10讲IO优化（中）：不同IO方式的使用场景是什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10讲IO优化（中）：不同IO方式的使用场景是什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10讲IO优化（中）：不同IO方式的使用场景是什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ed4RVWWPckCFXkKR7d4B8VK3hdze4Ki2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ETh7Dt597GU4ShIWkWjQNliBX7l0av9a</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ETh7Dt597GU4ShIWkWjQNliBX7l0av9a</guid>
+			
+
+			<title><![CDATA[ 09讲IO优化（上）：开发工程师必备的IO优化知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09讲IO优化（上）：开发工程师必备的IO优化知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09讲IO优化（上）：开发工程师必备的IO优化知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09讲IO优化（上）：开发工程师必备的IO优化知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ETh7Dt597GU4ShIWkWjQNliBX7l0av9a"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EIDzxberY5oed9ut1Ijoa2ZJP5UDJ9jI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EIDzxberY5oed9ut1Ijoa2ZJP5UDJ9jI</guid>
+			
+
+			<title><![CDATA[ 08讲启动优化（下）：优化启动速度的进阶方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08讲启动优化（下）：优化启动速度的进阶方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08讲启动优化（下）：优化启动速度的进阶方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08讲启动优化（下）：优化启动速度的进阶方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EIDzxberY5oed9ut1Ijoa2ZJP5UDJ9jI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EDfE5t73qcEkhBn6MZP1HJMzzGlJMKoK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EDfE5t73qcEkhBn6MZP1HJMzzGlJMKoK</guid>
+			
+
+			<title><![CDATA[ 07讲启动优化（上）：从启动过程看启动速度优化.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07讲启动优化（上）：从启动过程看启动速度优化.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07讲启动优化（上）：从启动过程看启动速度优化.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07讲启动优化（上）：从启动过程看启动速度优化.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EDfE5t73qcEkhBn6MZP1HJMzzGlJMKoK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ECvp0UL46F--4-j8F_7KcyIJjmcZkyyH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ECvp0UL46F--4-j8F_7KcyIJjmcZkyyH</guid>
+			
+
+			<title><![CDATA[ 06讲卡顿优化（下）：如何监控应用卡顿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06讲卡顿优化（下）：如何监控应用卡顿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06讲卡顿优化（下）：如何监控应用卡顿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06讲卡顿优化（下）：如何监控应用卡顿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ECvp0UL46F--4-j8F_7KcyIJjmcZkyyH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EAc7k2GTJYWgAIw4ZLJ3P4Uk_jSPGXLW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EAc7k2GTJYWgAIw4ZLJ3P4Uk_jSPGXLW</guid>
+			
+
+			<title><![CDATA[ 06补充篇讲卡顿优化：卡顿现场与卡顿分析.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06补充篇讲卡顿优化：卡顿现场与卡顿分析.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06补充篇讲卡顿优化：卡顿现场与卡顿分析.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06补充篇讲卡顿优化：卡顿现场与卡顿分析.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EAc7k2GTJYWgAIw4ZLJ3P4Uk_jSPGXLW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E9zf7HIL37kbC1aqG0fzoGKlCpYXcwUZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E9zf7HIL37kbC1aqG0fzoGKlCpYXcwUZ</guid>
+			
+
+			<title><![CDATA[ 05讲卡顿优化（上）：你要掌握的卡顿分析方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05讲卡顿优化（上）：你要掌握的卡顿分析方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05讲卡顿优化（上）：你要掌握的卡顿分析方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05讲卡顿优化（上）：你要掌握的卡顿分析方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E9zf7HIL37kbC1aqG0fzoGKlCpYXcwUZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E8HIc1ZUW5DZwuOGR5a5L6KQOnX631iI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E8HIc1ZUW5DZwuOGR5a5L6KQOnX631iI</guid>
+			
+
+			<title><![CDATA[ 04讲内存优化（下）：内存优化这件事，应该从哪里着手.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04讲内存优化（下）：内存优化这件事，应该从哪里着手.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04讲内存优化（下）：内存优化这件事，应该从哪里着手.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04讲内存优化（下）：内存优化这件事，应该从哪里着手.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E8HIc1ZUW5DZwuOGR5a5L6KQOnX631iI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E5T9qgI9iBwLAPrnDF8TT4BOlXpeN2dg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E5T9qgI9iBwLAPrnDF8TT4BOlXpeN2dg</guid>
+			
+
+			<title><![CDATA[ 03讲内存优化（上）：4GB内存时代，再谈内存优化.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03讲内存优化（上）：4GB内存时代，再谈内存优化.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03讲内存优化（上）：4GB内存时代，再谈内存优化.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03讲内存优化（上）：4GB内存时代，再谈内存优化.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E5T9qgI9iBwLAPrnDF8TT4BOlXpeN2dg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dzd4EJJmXEmAuKYI2KCYky97swZhtKPD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dzd4EJJmXEmAuKYI2KCYky97swZhtKPD</guid>
+			
+
+			<title><![CDATA[ 02讲崩溃优化（下）：应用崩溃了，你应该如何去分析.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02讲崩溃优化（下）：应用崩溃了，你应该如何去分析.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02讲崩溃优化（下）：应用崩溃了，你应该如何去分析.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02讲崩溃优化（下）：应用崩溃了，你应该如何去分析.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dzd4EJJmXEmAuKYI2KCYky97swZhtKPD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Dz0qrDxg7EBoAEozwX6aza7zUAoulSl-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Dz0qrDxg7EBoAEozwX6aza7zUAoulSl-</guid>
+			
+
+			<title><![CDATA[ 01讲崩溃优化（上）：关于“崩溃”那些事儿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01讲崩溃优化（上）：关于“崩溃”那些事儿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01讲崩溃优化（上）：关于“崩溃”那些事儿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01讲崩溃优化（上）：关于“崩溃”那些事儿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Dz0qrDxg7EBoAEozwX6aza7zUAoulSl-"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

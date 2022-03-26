@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .52 数据分析实战45讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .52 数据分析实战45讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .52 数据分析实战45讲. ]]></itunes:summary>
+		<description><![CDATA[ .52 数据分析实战45讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=16AlQZb0TN5gIx5aKZkCIop4Q5C2aFniq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16AlQZb0TN5gIx5aKZkCIop4Q5C2aFniq</guid>
+			
+
+			<title><![CDATA[ 开篇词讲你为什么需要数据分析能力.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲你为什么需要数据分析能力.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲你为什么需要数据分析能力.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲你为什么需要数据分析能力.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16AlQZb0TN5gIx5aKZkCIop4Q5C2aFniq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=16-6bxgp3hkY2n8u8jEMv412o4QlWzJhs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=16-6bxgp3hkY2n8u8jEMv412o4QlWzJhs</guid>
+			
+
+			<title><![CDATA[ 结束语 当大家都在讲知识和工具的时候，我更希望你重视思维和实战.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语 当大家都在讲知识和工具的时候，我更希望你重视思维和实战.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语 当大家都在讲知识和工具的时候，我更希望你重视思维和实战.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语 当大家都在讲知识和工具的时候，我更希望你重视思维和实战.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=16-6bxgp3hkY2n8u8jEMv412o4QlWzJhs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15IScn3j-0_wTfvoIkM51OpKOZ8E9YvrU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15IScn3j-0_wTfvoIkM51OpKOZ8E9YvrU</guid>
+			
+
+			<title><![CDATA[ 加餐丨在社交网络上刷粉刷量，技术上是如何实现的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 加餐丨在社交网络上刷粉刷量，技术上是如何实现的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 加餐丨在社交网络上刷粉刷量，技术上是如何实现的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 加餐丨在社交网络上刷粉刷量，技术上是如何实现的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15IScn3j-0_wTfvoIkM51OpKOZ8E9YvrU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15BpYrgcYxldy28GuIY_9EudxBIiii9Pl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15BpYrgcYxldy28GuIY_9EudxBIiii9Pl</guid>
+			
+
+			<title><![CDATA[ 45丨求职简历中没有相关项目经验，怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45丨求职简历中没有相关项目经验，怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45丨求职简历中没有相关项目经验，怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45丨求职简历中没有相关项目经验，怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15BpYrgcYxldy28GuIY_9EudxBIiii9Pl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=153c2KIEc7gTgFq7QdBJGDzURYneTThPl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=153c2KIEc7gTgFq7QdBJGDzURYneTThPl</guid>
+			
+
+			<title><![CDATA[ 44丨如何培养你的数据分析思维？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44丨如何培养你的数据分析思维？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44丨如何培养你的数据分析思维？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44丨如何培养你的数据分析思维？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=153c2KIEc7gTgFq7QdBJGDzURYneTThPl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14_uaPDi2zxFomKV-RwZO897ac0LN2WZI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14_uaPDi2zxFomKV-RwZO897ac0LN2WZI</guid>
+			
+
+			<title><![CDATA[ 43丨深度学习（下）：如何用Keras搭建深度学习网络做手写数字识别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43丨深度学习（下）：如何用Keras搭建深度学习网络做手写数字识别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43丨深度学习（下）：如何用Keras搭建深度学习网络做手写数字识别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43丨深度学习（下）：如何用Keras搭建深度学习网络做手写数字识别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14_uaPDi2zxFomKV-RwZO897ac0LN2WZI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Umoz8NrRTuEHeQmcn-AQ7uiZLIuNRL-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Umoz8NrRTuEHeQmcn-AQ7uiZLIuNRL-</guid>
+			
+
+			<title><![CDATA[ 42丨当我们谈深度学习的时候，我们都在谈什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42丨当我们谈深度学习的时候，我们都在谈什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42丨当我们谈深度学习的时候，我们都在谈什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42丨当我们谈深度学习的时候，我们都在谈什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Umoz8NrRTuEHeQmcn-AQ7uiZLIuNRL-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14ULu3JtiZUTB_gMqR1uUZIDB1Gmbt7iQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14ULu3JtiZUTB_gMqR1uUZIDB1Gmbt7iQ</guid>
+			
+
+			<title><![CDATA[ 41丨数据挖掘实战（3）：如何对比特币走势进行预测？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41丨数据挖掘实战（3）：如何对比特币走势进行预测？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41丨数据挖掘实战（3）：如何对比特币走势进行预测？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41丨数据挖掘实战（3）：如何对比特币走势进行预测？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14ULu3JtiZUTB_gMqR1uUZIDB1Gmbt7iQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14NKWnJ6OAsICOxf3Ie7mAtCcaw91dwK9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14NKWnJ6OAsICOxf3Ie7mAtCcaw91dwK9</guid>
+			
+
+			<title><![CDATA[ 40丨数据挖掘实战（2）：信用卡诈骗分析.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40丨数据挖掘实战（2）：信用卡诈骗分析.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40丨数据挖掘实战（2）：信用卡诈骗分析.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40丨数据挖掘实战（2）：信用卡诈骗分析.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14NKWnJ6OAsICOxf3Ie7mAtCcaw91dwK9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14LiknpLbZO_bdXUcJaBp1em9oLBNPzqY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14LiknpLbZO_bdXUcJaBp1em9oLBNPzqY</guid>
+			
+
+			<title><![CDATA[ 39丨数据挖掘实战（1）：信用卡违约率分析.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39丨数据挖掘实战（1）：信用卡违约率分析.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39丨数据挖掘实战（1）：信用卡违约率分析.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39丨数据挖掘实战（1）：信用卡违约率分析.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14LiknpLbZO_bdXUcJaBp1em9oLBNPzqY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Jj7MfniAxguhlLoYFraf4Z2HZFoaf0R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Jj7MfniAxguhlLoYFraf4Z2HZFoaf0R</guid>
+			
+
+			<title><![CDATA[ 38丨数据可视化实战：如何给毛不易的歌曲做词云展示？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38丨数据可视化实战：如何给毛不易的歌曲做词云展示？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38丨数据可视化实战：如何给毛不易的歌曲做词云展示？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38丨数据可视化实战：如何给毛不易的歌曲做词云展示？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Jj7MfniAxguhlLoYFraf4Z2HZFoaf0R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14AznpZZ6pymp5GPB2nhktkA2meOvfoKY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14AznpZZ6pymp5GPB2nhktkA2meOvfoKY</guid>
+			
+
+			<title><![CDATA[ 37丨数据采集实战：如何自动化运营微博？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37丨数据采集实战：如何自动化运营微博？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37丨数据采集实战：如何自动化运营微博？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37丨数据采集实战：如何自动化运营微博？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14AznpZZ6pymp5GPB2nhktkA2meOvfoKY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13vHJme1LN5x5oxFRcZpyIyjQuF_w5Xwn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13vHJme1LN5x5oxFRcZpyIyjQuF_w5Xwn</guid>
+			
+
+			<title><![CDATA[ 36丨数据分析算法篇答疑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36丨数据分析算法篇答疑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36丨数据分析算法篇答疑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36丨数据分析算法篇答疑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13vHJme1LN5x5oxFRcZpyIyjQuF_w5Xwn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13stobZum5C5OzeYacAQ2NyeMTqU9EA2M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13stobZum5C5OzeYacAQ2NyeMTqU9EA2M</guid>
+			
+
+			<title><![CDATA[ 35丨AdaBoost（下）：如何使用AdaBoost对房价进行预测？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35丨AdaBoost（下）：如何使用AdaBoost对房价进行预测？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35丨AdaBoost（下）：如何使用AdaBoost对房价进行预测？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35丨AdaBoost（下）：如何使用AdaBoost对房价进行预测？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13stobZum5C5OzeYacAQ2NyeMTqU9EA2M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13Zv8-KilKJOwr1MyFzFo5daGW1apg17G</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13Zv8-KilKJOwr1MyFzFo5daGW1apg17G</guid>
+			
+
+			<title><![CDATA[ 34丨AdaBoost（上）：如何使用AdaBoost提升分类器性能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34丨AdaBoost（上）：如何使用AdaBoost提升分类器性能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34丨AdaBoost（上）：如何使用AdaBoost提升分类器性能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34丨AdaBoost（上）：如何使用AdaBoost提升分类器性能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13Zv8-KilKJOwr1MyFzFo5daGW1apg17G"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13SxU277oGU15nKt17a6EE_q2zu-3JVge</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13SxU277oGU15nKt17a6EE_q2zu-3JVge</guid>
+			
+
+			<title><![CDATA[ 33丨PageRank（下）：分析希拉里邮件中的人物关系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33丨PageRank（下）：分析希拉里邮件中的人物关系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33丨PageRank（下）：分析希拉里邮件中的人物关系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33丨PageRank（下）：分析希拉里邮件中的人物关系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13SxU277oGU15nKt17a6EE_q2zu-3JVge"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13Hj-vqaxxGE2Xa7mRtKecYYg2CVuYRSt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13Hj-vqaxxGE2Xa7mRtKecYYg2CVuYRSt</guid>
+			
+
+			<title><![CDATA[ 32丨PageRank（上）：搞懂Google的PageRank算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32丨PageRank（上）：搞懂Google的PageRank算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32丨PageRank（上）：搞懂Google的PageRank算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32丨PageRank（上）：搞懂Google的PageRank算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13Hj-vqaxxGE2Xa7mRtKecYYg2CVuYRSt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=135SbzJcpCgcsR3yusD1WafySmRTzdVT5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=135SbzJcpCgcsR3yusD1WafySmRTzdVT5</guid>
+			
+
+			<title><![CDATA[ 31丨关联规则挖掘（下）：导演如何选择演员.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31丨关联规则挖掘（下）：导演如何选择演员.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31丨关联规则挖掘（下）：导演如何选择演员.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31丨关联规则挖掘（下）：导演如何选择演员.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=135SbzJcpCgcsR3yusD1WafySmRTzdVT5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12wvyZ-ugRu2aFvaJ0JI7lMqpKlkOZtNj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12wvyZ-ugRu2aFvaJ0JI7lMqpKlkOZtNj</guid>
+			
+
+			<title><![CDATA[ 30丨关联规则挖掘（上）：如何用Apriori发现用户购物规则.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30丨关联规则挖掘（上）：如何用Apriori发现用户购物规则.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30丨关联规则挖掘（上）：如何用Apriori发现用户购物规则.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30丨关联规则挖掘（上）：如何用Apriori发现用户购物规则.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12wvyZ-ugRu2aFvaJ0JI7lMqpKlkOZtNj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12owaO8pKGi6Hq5WQsg1VrV3XSRVOSauL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12owaO8pKGi6Hq5WQsg1VrV3XSRVOSauL</guid>
+			
+
+			<title><![CDATA[ 29丨EM聚类（下）：用EM算法对王者荣耀英雄进行划分.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29丨EM聚类（下）：用EM算法对王者荣耀英雄进行划分.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29丨EM聚类（下）：用EM算法对王者荣耀英雄进行划分.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29丨EM聚类（下）：用EM算法对王者荣耀英雄进行划分.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12owaO8pKGi6Hq5WQsg1VrV3XSRVOSauL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12I2yoOF3MvGLevDlB6ikB9Ljtd0opzU-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12I2yoOF3MvGLevDlB6ikB9Ljtd0opzU-</guid>
+			
+
+			<title><![CDATA[ 28丨EM聚类（上）：如何将一份菜等分给两个人.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28丨EM聚类（上）：如何将一份菜等分给两个人.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28丨EM聚类（上）：如何将一份菜等分给两个人.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28丨EM聚类（上）：如何将一份菜等分给两个人.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12I2yoOF3MvGLevDlB6ikB9Ljtd0opzU-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11u5L1vfrsp2w6EEBTyBAlP4Rosx8vtTL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11u5L1vfrsp2w6EEBTyBAlP4Rosx8vtTL</guid>
+			
+
+			<title><![CDATA[ 27丨KMeans（下）：如何使用KMeans对图像进行分割.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27丨KMeans（下）：如何使用KMeans对图像进行分割.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27丨KMeans（下）：如何使用KMeans对图像进行分割.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27丨KMeans（下）：如何使用KMeans对图像进行分割.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11u5L1vfrsp2w6EEBTyBAlP4Rosx8vtTL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11fcUHCCbaL6ByiD1sP34bUtS-y8Tksyd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11fcUHCCbaL6ByiD1sP34bUtS-y8Tksyd</guid>
+			
+
+			<title><![CDATA[ 26丨KMeans（上）：如何给20支亚洲球队做聚类.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26丨KMeans（上）：如何给20支亚洲球队做聚类.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26丨KMeans（上）：如何给20支亚洲球队做聚类.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26丨KMeans（上）：如何给20支亚洲球队做聚类.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11fcUHCCbaL6ByiD1sP34bUtS-y8Tksyd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11EbMl7-vHUH7UHNXQthVru6GYptlcJG5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11EbMl7-vHUH7UHNXQthVru6GYptlcJG5</guid>
+			
+
+			<title><![CDATA[ 25丨KNN（下）：如何对手写数字进行识别.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25丨KNN（下）：如何对手写数字进行识别.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25丨KNN（下）：如何对手写数字进行识别.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25丨KNN（下）：如何对手写数字进行识别.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11EbMl7-vHUH7UHNXQthVru6GYptlcJG5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10w37oh54pnhBLlk5N-Dmwp4xpW9OB-oC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10w37oh54pnhBLlk5N-Dmwp4xpW9OB-oC</guid>
+			
+
+			<title><![CDATA[ 24丨KNN（上）：如何根据打斗和接吻次数来划分电影类型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24丨KNN（上）：如何根据打斗和接吻次数来划分电影类型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24丨KNN（上）：如何根据打斗和接吻次数来划分电影类型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24丨KNN（上）：如何根据打斗和接吻次数来划分电影类型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10w37oh54pnhBLlk5N-Dmwp4xpW9OB-oC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10kaqJPLdOtLER07gaf1VkqxLmY_ncO4w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10kaqJPLdOtLER07gaf1VkqxLmY_ncO4w</guid>
+			
+
+			<title><![CDATA[ 23丨SVM（下）：如何进行乳腺癌检测.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23丨SVM（下）：如何进行乳腺癌检测.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23丨SVM（下）：如何进行乳腺癌检测.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23丨SVM（下）：如何进行乳腺癌检测.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10kaqJPLdOtLER07gaf1VkqxLmY_ncO4w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10GvHGGalb38ixh2ovfzboQQ2DnE4O2fw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10GvHGGalb38ixh2ovfzboQQ2DnE4O2fw</guid>
+			
+
+			<title><![CDATA[ 22丨SVM（上）：如何用一根棍子将蓝红两色球分开.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22丨SVM（上）：如何用一根棍子将蓝红两色球分开.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22丨SVM（上）：如何用一根棍子将蓝红两色球分开.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22丨SVM（上）：如何用一根棍子将蓝红两色球分开.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10GvHGGalb38ixh2ovfzboQQ2DnE4O2fw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-yOILVQGTx9nWwrEkmmsceyPS4uXd1N-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-yOILVQGTx9nWwrEkmmsceyPS4uXd1N-</guid>
+			
+
+			<title><![CDATA[ 21丨朴素贝叶斯分类（下）：如何对文档进行分类.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21丨朴素贝叶斯分类（下）：如何对文档进行分类.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21丨朴素贝叶斯分类（下）：如何对文档进行分类.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21丨朴素贝叶斯分类（下）：如何对文档进行分类.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-yOILVQGTx9nWwrEkmmsceyPS4uXd1N-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-bLxsalTNluKfptof6yd1yna2huhSPpw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-bLxsalTNluKfptof6yd1yna2huhSPpw</guid>
+			
+
+			<title><![CDATA[ 20丨朴素贝叶斯分类（上）：如何让机器判断男女.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20丨朴素贝叶斯分类（上）：如何让机器判断男女.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20丨朴素贝叶斯分类（上）：如何让机器判断男女.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20丨朴素贝叶斯分类（上）：如何让机器判断男女.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-bLxsalTNluKfptof6yd1yna2huhSPpw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-H8HTUW6vrwGCa4yVEHd-wQgKH8h6pJb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-H8HTUW6vrwGCa4yVEHd-wQgKH8h6pJb</guid>
+			
+
+			<title><![CDATA[ 19丨决策树（下）：泰坦尼克乘客生存预测.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19丨决策树（下）：泰坦尼克乘客生存预测.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19丨决策树（下）：泰坦尼克乘客生存预测.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19丨决策树（下）：泰坦尼克乘客生存预测.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-H8HTUW6vrwGCa4yVEHd-wQgKH8h6pJb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10jUf9ubb80j1ytF-PyKyfYqTyGFd5IT4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10jUf9ubb80j1ytF-PyKyfYqTyGFd5IT4</guid>
+			
+
+			<title><![CDATA[ 18丨决策树（中）：CART，一棵是回归树，另一棵是分类树.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18丨决策树（中）：CART，一棵是回归树，另一棵是分类树.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18丨决策树（中）：CART，一棵是回归树，另一棵是分类树.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18丨决策树（中）：CART，一棵是回归树，另一棵是分类树.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10jUf9ubb80j1ytF-PyKyfYqTyGFd5IT4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zu1BbvhLMMcoRNTuBisssdBV2UbOo8FB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zu1BbvhLMMcoRNTuBisssdBV2UbOo8FB</guid>
+			
+
+			<title><![CDATA[ 17丨决策树（上）：要不要去打篮球决策树来告诉你.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17丨决策树（上）：要不要去打篮球决策树来告诉你.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17丨决策树（上）：要不要去打篮球决策树来告诉你.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17丨决策树（上）：要不要去打篮球决策树来告诉你.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zu1BbvhLMMcoRNTuBisssdBV2UbOo8FB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zRXEjahGVliw8a844PH2YvIlDu0epXCP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zRXEjahGVliw8a844PH2YvIlDu0epXCP</guid>
+			
+
+			<title><![CDATA[ 16丨数据分析基础篇答疑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16丨数据分析基础篇答疑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16丨数据分析基础篇答疑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16丨数据分析基础篇答疑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zRXEjahGVliw8a844PH2YvIlDu0epXCP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1z9FU5FO3BLzaJNZwc8MLptITH2F9eq0j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1z9FU5FO3BLzaJNZwc8MLptITH2F9eq0j</guid>
+			
+
+			<title><![CDATA[ 15丨一次学会Python数据可视化的10种技能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15丨一次学会Python数据可视化的10种技能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15丨一次学会Python数据可视化的10种技能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15丨一次学会Python数据可视化的10种技能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1z9FU5FO3BLzaJNZwc8MLptITH2F9eq0j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yl6p2u2fHimZxvU-uj_xaFALUVB-sFho</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yl6p2u2fHimZxvU-uj_xaFALUVB-sFho</guid>
+			
+
+			<title><![CDATA[ 14丨数据可视化：掌握数据领域的万金油技能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14丨数据可视化：掌握数据领域的万金油技能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14丨数据可视化：掌握数据领域的万金油技能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14丨数据可视化：掌握数据领域的万金油技能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yl6p2u2fHimZxvU-uj_xaFALUVB-sFho"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yHccVzj7aC_-hS3b_DWXiuMOOa4o-0PZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yHccVzj7aC_-hS3b_DWXiuMOOa4o-0PZ</guid>
+			
+
+			<title><![CDATA[ 13讲数据变换：考试成绩要求正态分布合理么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲数据变换：考试成绩要求正态分布合理么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲数据变换：考试成绩要求正态分布合理么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲数据变换：考试成绩要求正态分布合理么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yHccVzj7aC_-hS3b_DWXiuMOOa4o-0PZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y6uhm0BxoEPRGRGtrIlma_V2LQFEJwLr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y6uhm0BxoEPRGRGtrIlma_V2LQFEJwLr</guid>
+			
+
+			<title><![CDATA[ 12讲数据集成：这些大号一共20亿粉丝.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲数据集成：这些大号一共20亿粉丝.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲数据集成：这些大号一共20亿粉丝.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲数据集成：这些大号一共20亿粉丝.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y6uhm0BxoEPRGRGtrIlma_V2LQFEJwLr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xgjQ1DGgufrtQJA4odJt0S51LiHw_3Tg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xgjQ1DGgufrtQJA4odJt0S51LiHw_3Tg</guid>
+			
+
+			<title><![CDATA[ 11讲数据科学家80时间都花费在了这些清洗任务上.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11讲数据科学家80时间都花费在了这些清洗任务上.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11讲数据科学家80时间都花费在了这些清洗任务上.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11讲数据科学家80时间都花费在了这些清洗任务上.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xgjQ1DGgufrtQJA4odJt0S51LiHw_3Tg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xIKHdKwMOHNrbnOeOGRlivvU3sHgKv9C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xIKHdKwMOHNrbnOeOGRlivvU3sHgKv9C</guid>
+			
+
+			<title><![CDATA[ 10丨Python爬虫：如何自动化下载王祖贤海报.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10丨Python爬虫：如何自动化下载王祖贤海报.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10丨Python爬虫：如何自动化下载王祖贤海报.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10丨Python爬虫：如何自动化下载王祖贤海报.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xIKHdKwMOHNrbnOeOGRlivvU3sHgKv9C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1x4ngofnSbE0g--bShkcT8WF5XGi1kMls</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1x4ngofnSbE0g--bShkcT8WF5XGi1kMls</guid>
+			
+
+			<title><![CDATA[ 09丨数据采集：如何用八爪鱼采集微博上的“DG”评论.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09丨数据采集：如何用八爪鱼采集微博上的“DG”评论.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09丨数据采集：如何用八爪鱼采集微博上的“DG”评论.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09丨数据采集：如何用八爪鱼采集微博上的“DG”评论.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1x4ngofnSbE0g--bShkcT8WF5XGi1kMls"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wxJbcZ5mrw9JMZUmq10Bi_sX_g56b0_X</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wxJbcZ5mrw9JMZUmq10Bi_sX_g56b0_X</guid>
+			
+
+			<title><![CDATA[ 08讲数据采集：如何自动化采集数据.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08讲数据采集：如何自动化采集数据.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08讲数据采集：如何自动化采集数据.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08讲数据采集：如何自动化采集数据.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wxJbcZ5mrw9JMZUmq10Bi_sX_g56b0_X"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wbDJdas4bA_VWBmZAC1vWq17G6PIkDBb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wbDJdas4bA_VWBmZAC1vWq17G6PIkDBb</guid>
+			
+
+			<title><![CDATA[ 07讲用户画像：标签化就是数据的抽象能力.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07讲用户画像：标签化就是数据的抽象能力.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07讲用户画像：标签化就是数据的抽象能力.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07讲用户画像：标签化就是数据的抽象能力.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wbDJdas4bA_VWBmZAC1vWq17G6PIkDBb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wFU_AEdZts-5mxhfwrj2Er9gj3xI24We</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wFU_AEdZts-5mxhfwrj2Er9gj3xI24We</guid>
+			
+
+			<title><![CDATA[ 06讲学数据分析要掌握哪些基本概念.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06讲学数据分析要掌握哪些基本概念.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06讲学数据分析要掌握哪些基本概念.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06讲学数据分析要掌握哪些基本概念.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wFU_AEdZts-5mxhfwrj2Er9gj3xI24We"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1w45ciBryX5IVXggbAqr-OjpqOhn0iC6H</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1w45ciBryX5IVXggbAqr-OjpqOhn0iC6H</guid>
+			
+
+			<title><![CDATA[ 05丨Python科学计算：Pandas.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05丨Python科学计算：Pandas.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05丨Python科学计算：Pandas.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05丨Python科学计算：Pandas.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1w45ciBryX5IVXggbAqr-OjpqOhn0iC6H"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

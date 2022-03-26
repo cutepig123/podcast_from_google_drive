@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .09 推荐系统三十六式.mp3 ]]></title>
+		<itunes:subtitle><![CDATA[ .09 推荐系统三十六式.mp3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .09 推荐系统三十六式.mp3. ]]></itunes:summary>
+		<description><![CDATA[ .09 推荐系统三十六式.mp3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=10SAiCr7j_OA_-MHxDEFS7cCi5yseVG0w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10SAiCr7j_OA_-MHxDEFS7cCi5yseVG0w</guid>
+			
+
+			<title><![CDATA[ 38 【尾声】遇“荐”之后，江湖再见.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38 【尾声】遇“荐”之后，江湖再见.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38 【尾声】遇“荐”之后，江湖再见.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38 【尾声】遇“荐”之后，江湖再见.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10SAiCr7j_OA_-MHxDEFS7cCi5yseVG0w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Q-f7L5fKsR_o-Mqje8XOJGSfrtlRSzw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Q-f7L5fKsR_o-Mqje8XOJGSfrtlRSzw</guid>
+			
+
+			<title><![CDATA[ 37 推荐系统的参考阅读.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37 推荐系统的参考阅读.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37 推荐系统的参考阅读.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37 推荐系统的参考阅读.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Q-f7L5fKsR_o-Mqje8XOJGSfrtlRSzw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Lm0SBQtl5zR98VH-Xhk8f9kp1AuB2TQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Lm0SBQtl5zR98VH-Xhk8f9kp1AuB2TQ</guid>
+			
+
+			<title><![CDATA[ 36 【团队篇】组建推荐团队及工程师的学习路径.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36 【团队篇】组建推荐团队及工程师的学习路径.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36 【团队篇】组建推荐团队及工程师的学习路径.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36 【团队篇】组建推荐团队及工程师的学习路径.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Lm0SBQtl5zR98VH-Xhk8f9kp1AuB2TQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10H3YqJYND-IIkzWTLw7sT8mzfkQkn5pa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10H3YqJYND-IIkzWTLw7sT8mzfkQkn5pa</guid>
+			
+
+			<title><![CDATA[ 35 【产品篇】说说信息流的前世今生.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35 【产品篇】说说信息流的前世今生.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35 【产品篇】说说信息流的前世今生.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35 【产品篇】说说信息流的前世今生.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10H3YqJYND-IIkzWTLw7sT8mzfkQkn5pa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10Bh49XBaRo20G4a4eg39g7_bnOtitNiZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10Bh49XBaRo20G4a4eg39g7_bnOtitNiZ</guid>
+			
+
+			<title><![CDATA[ 34 【产品篇】推荐系统在互联网产品商业链条中的地位.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34 【产品篇】推荐系统在互联网产品商业链条中的地位.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34 【产品篇】推荐系统在互联网产品商业链条中的地位.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34 【产品篇】推荐系统在互联网产品商业链条中的地位.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10Bh49XBaRo20G4a4eg39g7_bnOtitNiZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10A9PhVoRnGS49-g4sf1xLlna4dzYUYRV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10A9PhVoRnGS49-g4sf1xLlna4dzYUYRV</guid>
+			
+
+			<title><![CDATA[ 33【开源工具】和推荐系统有关的开源工具及框架介绍.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33【开源工具】和推荐系统有关的开源工具及框架介绍.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33【开源工具】和推荐系统有关的开源工具及框架介绍.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33【开源工具】和推荐系统有关的开源工具及框架介绍.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10A9PhVoRnGS49-g4sf1xLlna4dzYUYRV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=104MSzQ2PZyolZkbpikkmTgbkOHQ8N2iM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=104MSzQ2PZyolZkbpikkmTgbkOHQ8N2iM</guid>
+			
+
+			<title><![CDATA[ 32 【效果保证】道高一尺魔高一丈：推荐系统的攻防.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32 【效果保证】道高一尺魔高一丈：推荐系统的攻防.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32 【效果保证】道高一尺魔高一丈：推荐系统的攻防.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32 【效果保证】道高一尺魔高一丈：推荐系统的攻防.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=104MSzQ2PZyolZkbpikkmTgbkOHQ8N2iM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=101NnODyud5dL7kwraQDiI3esFewace_a</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=101NnODyud5dL7kwraQDiI3esFewace_a</guid>
+			
+
+			<title><![CDATA[ 31 【效果保证】推荐系统的测试方法及常用指标介绍.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31 【效果保证】推荐系统的测试方法及常用指标介绍.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31 【效果保证】推荐系统的测试方法及常用指标介绍.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31 【效果保证】推荐系统的测试方法及常用指标介绍.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=101NnODyud5dL7kwraQDiI3esFewace_a"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=100FNki8hc9RejMvxumhcqjoa3O8FB-aK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=100FNki8hc9RejMvxumhcqjoa3O8FB-aK</guid>
+			
+
+			<title><![CDATA[ 30 【关键模块】 推荐系统服务化、存储选型及API设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30 【关键模块】 推荐系统服务化、存储选型及API设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30 【关键模块】 推荐系统服务化、存储选型及API设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30 【关键模块】 推荐系统服务化、存储选型及API设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=100FNki8hc9RejMvxumhcqjoa3O8FB-aK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-zgmQH2ldGDgu1vI7w0l3611ehSShR_t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-zgmQH2ldGDgu1vI7w0l3611ehSShR_t</guid>
+			
+
+			<title><![CDATA[ 29【关键模块】让数据驱动落地，你需要一个实验平台.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29【关键模块】让数据驱动落地，你需要一个实验平台.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29【关键模块】让数据驱动落地，你需要一个实验平台.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29【关键模块】让数据驱动落地，你需要一个实验平台.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-zgmQH2ldGDgu1vI7w0l3611ehSShR_t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-lqkK7zK-UoTnA9XnHN6A0ZWLmxapMp2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-lqkK7zK-UoTnA9XnHN6A0ZWLmxapMp2</guid>
+			
+
+			<title><![CDATA[ 28 【关键模块】让你的推荐系统反应更快：实时推荐.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28 【关键模块】让你的推荐系统反应更快：实时推荐.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28 【关键模块】让你的推荐系统反应更快：实时推荐.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28 【关键模块】让你的推荐系统反应更快：实时推荐.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-lqkK7zK-UoTnA9XnHN6A0ZWLmxapMp2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-dG6jWh0lw6DcqG7wIbzf8ppUqwcrIvr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-dG6jWh0lw6DcqG7wIbzf8ppUqwcrIvr</guid>
+			
+
+			<title><![CDATA[ 27【关键模块】巧妇难为无米之炊：数据采集关键要素.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27【关键模块】巧妇难为无米之炊：数据采集关键要素.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27【关键模块】巧妇难为无米之炊：数据采集关键要素.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27【关键模块】巧妇难为无米之炊：数据采集关键要素.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-dG6jWh0lw6DcqG7wIbzf8ppUqwcrIvr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-cx_gICZSiPs8_2Z6OiVFub2hWYTmrDG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-cx_gICZSiPs8_2Z6OiVFub2hWYTmrDG</guid>
+			
+
+			<title><![CDATA[ 26【常见架构】总览推荐架构和搜索、广告的关系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26【常见架构】总览推荐架构和搜索、广告的关系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26【常见架构】总览推荐架构和搜索、广告的关系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26【常见架构】总览推荐架构和搜索、广告的关系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-cx_gICZSiPs8_2Z6OiVFub2hWYTmrDG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-KrsObL7LzetaZ46vUyCB9vb6SovUR_h</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-KrsObL7LzetaZ46vUyCB9vb6SovUR_h</guid>
+			
+
+			<title><![CDATA[ 25 【常见架构】Netflix个性化推荐架构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25 【常见架构】Netflix个性化推荐架构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25 【常见架构】Netflix个性化推荐架构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25 【常见架构】Netflix个性化推荐架构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-KrsObL7LzetaZ46vUyCB9vb6SovUR_h"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-HIeqVdkwMBRLATBZOU3sT8xAOtOAwHn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-HIeqVdkwMBRLATBZOU3sT8xAOtOAwHn</guid>
+			
+
+			<title><![CDATA[ 24 【常见架构】典型的信息流架构是什么样的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24 【常见架构】典型的信息流架构是什么样的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24 【常见架构】典型的信息流架构是什么样的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24 【常见架构】典型的信息流架构是什么样的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-HIeqVdkwMBRLATBZOU3sT8xAOtOAwHn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-FPPWxgNqRmIf8VUN9C5MLQ2c4xGjG3t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-FPPWxgNqRmIf8VUN9C5MLQ2c4xGjG3t</guid>
+			
+
+			<title><![CDATA[ 23 【其他应用算法】推荐候选池的去重策略.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23 【其他应用算法】推荐候选池的去重策略.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23 【其他应用算法】推荐候选池的去重策略.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23 【其他应用算法】推荐候选池的去重策略.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-FPPWxgNqRmIf8VUN9C5MLQ2c4xGjG3t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-E09jMgRGEcj14OsjjPmBvzJC5KV93Gr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-E09jMgRGEcj14OsjjPmBvzJC5KV93Gr</guid>
+			
+
+			<title><![CDATA[ 22【其他应用算法】实用的加权采样算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22【其他应用算法】实用的加权采样算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22【其他应用算法】实用的加权采样算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22【其他应用算法】实用的加权采样算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-E09jMgRGEcj14OsjjPmBvzJC5KV93Gr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-DqLNDIHlFCeOErA-0h6S8L6VqzU_CJh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-DqLNDIHlFCeOErA-0h6S8L6VqzU_CJh</guid>
+			
+
+			<title><![CDATA[ 21 【其他应用算法】构建一个科学的排行榜体系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21 【其他应用算法】构建一个科学的排行榜体系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21 【其他应用算法】构建一个科学的排行榜体系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21 【其他应用算法】构建一个科学的排行榜体系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-DqLNDIHlFCeOErA-0h6S8L6VqzU_CJh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1--5qXznFpntEbKIni77VYY5Px_Cf5wgW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1--5qXznFpntEbKIni77VYY5Px_Cf5wgW</guid>
+			
+
+			<title><![CDATA[ 20 【深度学习】用RNN构建个性化音乐播单.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20 【深度学习】用RNN构建个性化音乐播单.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20 【深度学习】用RNN构建个性化音乐播单.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20 【深度学习】用RNN构建个性化音乐播单.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1--5qXznFpntEbKIni77VYY5Px_Cf5wgW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1w3jqvQlinloII562t1udaTUfnTQtPYNU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1w3jqvQlinloII562t1udaTUfnTQtPYNU</guid>
+			
+
+			<title><![CDATA[ 19 【深度学习】深度学习在推荐系统中的应用有哪些-.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19 【深度学习】深度学习在推荐系统中的应用有哪些-.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19 【深度学习】深度学习在推荐系统中的应用有哪些-.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19 【深度学习】深度学习在推荐系统中的应用有哪些-.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1w3jqvQlinloII562t1udaTUfnTQtPYNU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ztHFbYkRCml4eLv_ZSELI_gpvS-JxASQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ztHFbYkRCml4eLv_ZSELI_gpvS-JxASQ</guid>
+			
+
+			<title><![CDATA[ 18 【MAB问题】如何将Bandit算法与协同过滤结合使用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18 【MAB问题】如何将Bandit算法与协同过滤结合使用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18 【MAB问题】如何将Bandit算法与协同过滤结合使用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18 【MAB问题】如何将Bandit算法与协同过滤结合使用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ztHFbYkRCml4eLv_ZSELI_gpvS-JxASQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zph4XQtsQvQwRLDNlhAqPyzLs5XJ68OF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zph4XQtsQvQwRLDNlhAqPyzLs5XJ68OF</guid>
+			
+
+			<title><![CDATA[ 17【MAB问题】结合上下文信息的Bandit算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17【MAB问题】结合上下文信息的Bandit算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17【MAB问题】结合上下文信息的Bandit算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17【MAB问题】结合上下文信息的Bandit算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zph4XQtsQvQwRLDNlhAqPyzLs5XJ68OF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ziNra3YYkfxPCFJVUByYerQZV0eJtZu0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ziNra3YYkfxPCFJVUByYerQZV0eJtZu0</guid>
+			
+
+			<title><![CDATA[ 16 【MAB问题】简单却有效的Bandit算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16 【MAB问题】简单却有效的Bandit算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16 【MAB问题】简单却有效的Bandit算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16 【MAB问题】简单却有效的Bandit算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ziNra3YYkfxPCFJVUByYerQZV0eJtZu0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zgRsSP-8UhIUulQVf8l2V1-CmTHvkb8A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zgRsSP-8UhIUulQVf8l2V1-CmTHvkb8A</guid>
+			
+
+			<title><![CDATA[ 15 【模型融合】深度和宽度兼具的融合模型 Wide and Deep.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15 【模型融合】深度和宽度兼具的融合模型 Wide and Deep.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15 【模型融合】深度和宽度兼具的融合模型 Wide and Deep.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15 【模型融合】深度和宽度兼具的融合模型 Wide and Deep.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zgRsSP-8UhIUulQVf8l2V1-CmTHvkb8A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1z_rBZsUPPVjt6g7kqzKcDyrZfknqFSab</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1z_rBZsUPPVjt6g7kqzKcDyrZfknqFSab</guid>
+			
+
+			<title><![CDATA[ 14 【模型融合】一网打尽协同过滤、矩阵分解和线性模型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14 【模型融合】一网打尽协同过滤、矩阵分解和线性模型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14 【模型融合】一网打尽协同过滤、矩阵分解和线性模型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14 【模型融合】一网打尽协同过滤、矩阵分解和线性模型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1z_rBZsUPPVjt6g7kqzKcDyrZfknqFSab"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zYamDhV2kt53z8BM0USUhj7NU_pxdkQH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zYamDhV2kt53z8BM0USUhj7NU_pxdkQH</guid>
+			
+
+			<title><![CDATA[ 13 【模型融合】经典模型融合办法：线性模型和树模型的组合拳.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13 【模型融合】经典模型融合办法：线性模型和树模型的组合拳.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13 【模型融合】经典模型融合办法：线性模型和树模型的组合拳.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13 【模型融合】经典模型融合办法：线性模型和树模型的组合拳.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zYamDhV2kt53z8BM0USUhj7NU_pxdkQH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zWCtncbFJO0bxFUm4U-rFu9ygYttq-bT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zWCtncbFJO0bxFUm4U-rFu9ygYttq-bT</guid>
+			
+
+			<title><![CDATA[ 12 【矩阵分解】如果关注排序效果，那么这个模型可以帮到你.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12 【矩阵分解】如果关注排序效果，那么这个模型可以帮到你.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12 【矩阵分解】如果关注排序效果，那么这个模型可以帮到你.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12 【矩阵分解】如果关注排序效果，那么这个模型可以帮到你.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zWCtncbFJO0bxFUm4U-rFu9ygYttq-bT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zVFsGnZo0CLj62ey1h0rnHHqoIRIaZn3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zVFsGnZo0CLj62ey1h0rnHHqoIRIaZn3</guid>
+			
+
+			<title><![CDATA[ 11【矩阵分解】Facebook是怎么为十亿人互相推荐好友的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11【矩阵分解】Facebook是怎么为十亿人互相推荐好友的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11【矩阵分解】Facebook是怎么为十亿人互相推荐好友的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11【矩阵分解】Facebook是怎么为十亿人互相推荐好友的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zVFsGnZo0CLj62ey1h0rnHHqoIRIaZn3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zV0sLiF7zDl8bt3kZwrR27gJHKmX46tI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zV0sLiF7zDl8bt3kZwrR27gJHKmX46tI</guid>
+			
+
+			<title><![CDATA[ 10 【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10 【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10 【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10 【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zV0sLiF7zDl8bt3kZwrR27gJHKmX46tI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zPggV5QK3UGGMPqHzNCvxsHfPUkLXBfs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zPggV5QK3UGGMPqHzNCvxsHfPUkLXBfs</guid>
+			
+
+			<title><![CDATA[ 09【近邻推荐】协同过滤中的相似度计算方法有哪些.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09【近邻推荐】协同过滤中的相似度计算方法有哪些.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09【近邻推荐】协同过滤中的相似度计算方法有哪些.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09【近邻推荐】协同过滤中的相似度计算方法有哪些.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zPggV5QK3UGGMPqHzNCvxsHfPUkLXBfs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zOeojpzuYBfumsiwOHf6yRVGnVuIug4G</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zOeojpzuYBfumsiwOHf6yRVGnVuIug4G</guid>
+			
+
+			<title><![CDATA[ 08【近邻推荐】解密“看了又看”和“买了又买”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08【近邻推荐】解密“看了又看”和“买了又买”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08【近邻推荐】解密“看了又看”和“买了又买”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08【近邻推荐】解密“看了又看”和“买了又买”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zOeojpzuYBfumsiwOHf6yRVGnVuIug4G"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zMXJ-k_uMa6kJYEkIVVAhnSEPQMkt4gk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zMXJ-k_uMa6kJYEkIVVAhnSEPQMkt4gk</guid>
+			
+
+			<title><![CDATA[ 07 【近邻推荐】人以群分，你是什么人就看到什么世界.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07 【近邻推荐】人以群分，你是什么人就看到什么世界.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07 【近邻推荐】人以群分，你是什么人就看到什么世界.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07 【近邻推荐】人以群分，你是什么人就看到什么世界.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zMXJ-k_uMa6kJYEkIVVAhnSEPQMkt4gk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zLi6bABnH7h4EjzElmrJHRM2X3R_fWzN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zLi6bABnH7h4EjzElmrJHRM2X3R_fWzN</guid>
+			
+
+			<title><![CDATA[ 06 【内容推荐】超越标签的内容推荐系统.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06 【内容推荐】超越标签的内容推荐系统.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06 【内容推荐】超越标签的内容推荐系统.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06 【内容推荐】超越标签的内容推荐系统.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zLi6bABnH7h4EjzElmrJHRM2X3R_fWzN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zBkjP-hm9q8mshMNby1Xm6G0ECH6Zo6R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zBkjP-hm9q8mshMNby1Xm6G0ECH6Zo6R</guid>
+			
+
+			<title><![CDATA[ 05【内容推荐】从文本到用户画像有多远.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05【内容推荐】从文本到用户画像有多远.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05【内容推荐】从文本到用户画像有多远.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05【内容推荐】从文本到用户画像有多远.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zBkjP-hm9q8mshMNby1Xm6G0ECH6Zo6R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yy-mZ-UOQSEU1huujsy4An0DsyUx_UrC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yy-mZ-UOQSEU1huujsy4An0DsyUx_UrC</guid>
+			
+
+			<title><![CDATA[ 04 【内容推荐】画鬼容易画人难：用户画像的“能”和“不能”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04 【内容推荐】画鬼容易画人难：用户画像的“能”和“不能”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04 【内容推荐】画鬼容易画人难：用户画像的“能”和“不能”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04 【内容推荐】画鬼容易画人难：用户画像的“能”和“不能”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yy-mZ-UOQSEU1huujsy4An0DsyUx_UrC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yuNgzkWMjDAAdI92RDl3_LRFd_MvE7o9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yuNgzkWMjDAAdI92RDl3_LRFd_MvE7o9</guid>
+			
+
+			<title><![CDATA[ 03 【概念篇】这些你必须应该具备的思维模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03 【概念篇】这些你必须应该具备的思维模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03 【概念篇】这些你必须应该具备的思维模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03 【概念篇】这些你必须应该具备的思维模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yuNgzkWMjDAAdI92RDl3_LRFd_MvE7o9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ytCUlHgl6dqaflQJ0QHgErMiDtjxQ5N8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ytCUlHgl6dqaflQJ0QHgErMiDtjxQ5N8</guid>
+			
+
+			<title><![CDATA[ 02【概念篇】个性化推荐系统那些绕不开的经典问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02【概念篇】个性化推荐系统那些绕不开的经典问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02【概念篇】个性化推荐系统那些绕不开的经典问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02【概念篇】个性化推荐系统那些绕不开的经典问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ytCUlHgl6dqaflQJ0QHgErMiDtjxQ5N8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ynXOq1xqMt66QYw_VAv4bcaxtMIW4bEj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ynXOq1xqMt66QYw_VAv4bcaxtMIW4bEj</guid>
+			
+
+			<title><![CDATA[ 01 【概念篇】你真的需要个性化推荐系统吗-.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01 【概念篇】你真的需要个性化推荐系统吗-.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01 【概念篇】你真的需要个性化推荐系统吗-.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01 【概念篇】你真的需要个性化推荐系统吗-.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ynXOq1xqMt66QYw_VAv4bcaxtMIW4bEj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ye3e-k-9VK0pnA9T3WtwjScPvcAlr63c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ye3e-k-9VK0pnA9T3WtwjScPvcAlr63c</guid>
+			
+
+			<title><![CDATA[ 00 开篇词 - 用知识去对抗技术不平等.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00 开篇词 - 用知识去对抗技术不平等.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00 开篇词 - 用知识去对抗技术不平等.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00 开篇词 - 用知识去对抗技术不平等.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ye3e-k-9VK0pnA9T3WtwjScPvcAlr63c"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

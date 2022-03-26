@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .29 趣谈网络协议.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .29 趣谈网络协议.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .29 趣谈网络协议.音频. ]]></itunes:summary>
+		<description><![CDATA[ .29 趣谈网络协议.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1Sx05x26-7SuGh4o80G9zZfrDX_n-Qswp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Sx05x26-7SuGh4o80G9zZfrDX_n-Qswp</guid>
+			
+
+			<title><![CDATA[ 开篇词 - 想成为技术牛人？先搞定网络协议！.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词 - 想成为技术牛人？先搞定网络协议！.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词 - 想成为技术牛人？先搞定网络协议！.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词 - 想成为技术牛人？先搞定网络协议！.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Sx05x26-7SuGh4o80G9zZfrDX_n-Qswp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SstATaKE0N-oXoEpBNFLV_eIePQ5paHn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SstATaKE0N-oXoEpBNFLV_eIePQ5paHn</guid>
+			
+
+			<title><![CDATA[ 第9讲 - 路由协议：西出网关无故人，敢问路在何方.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第9讲 - 路由协议：西出网关无故人，敢问路在何方.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第9讲 - 路由协议：西出网关无故人，敢问路在何方.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第9讲 - 路由协议：西出网关无故人，敢问路在何方.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SstATaKE0N-oXoEpBNFLV_eIePQ5paHn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SbI-crqK023IgN3O0sU5FFbGau8tLdD6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SbI-crqK023IgN3O0sU5FFbGau8tLdD6</guid>
+			
+
+			<title><![CDATA[ 第8讲 - 世界这么大，我想出网关：欧洲十国游与玄奘西行.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第8讲 - 世界这么大，我想出网关：欧洲十国游与玄奘西行.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第8讲 - 世界这么大，我想出网关：欧洲十国游与玄奘西行.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第8讲 - 世界这么大，我想出网关：欧洲十国游与玄奘西行.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SbI-crqK023IgN3O0sU5FFbGau8tLdD6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SX270wUJrPTijCugL652PXCdoQpE_W02</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SX270wUJrPTijCugL652PXCdoQpE_W02</guid>
+			
+
+			<title><![CDATA[ 第7讲 - ICMP与ping：投石问路的侦察兵.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第7讲 - ICMP与ping：投石问路的侦察兵.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第7讲 - ICMP与ping：投石问路的侦察兵.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第7讲 - ICMP与ping：投石问路的侦察兵.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SX270wUJrPTijCugL652PXCdoQpE_W02"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SPCYFB7hvLtibCEirOx9b0zvjN-9f-dq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SPCYFB7hvLtibCEirOx9b0zvjN-9f-dq</guid>
+			
+
+			<title><![CDATA[ 第6讲 - 交换机与VLAN：办公室太复杂，我要回学校.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第6讲 - 交换机与VLAN：办公室太复杂，我要回学校.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第6讲 - 交换机与VLAN：办公室太复杂，我要回学校.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第6讲 - 交换机与VLAN：办公室太复杂，我要回学校.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SPCYFB7hvLtibCEirOx9b0zvjN-9f-dq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RwCRMjWG5qkMTxubiFRC3QM4whSmoc5c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RwCRMjWG5qkMTxubiFRC3QM4whSmoc5c</guid>
+			
+
+			<title><![CDATA[ 第5讲 - 从物理层到MAC层：如何在宿舍里自己组网玩联机游戏？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第5讲 - 从物理层到MAC层：如何在宿舍里自己组网玩联机游戏？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第5讲 - 从物理层到MAC层：如何在宿舍里自己组网玩联机游戏？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第5讲 - 从物理层到MAC层：如何在宿舍里自己组网玩联机游戏？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RwCRMjWG5qkMTxubiFRC3QM4whSmoc5c"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Re-gqi0AhKoIZfEXA5LwYaSkRg89wRvn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Re-gqi0AhKoIZfEXA5LwYaSkRg89wRvn</guid>
+			
+
+			<title><![CDATA[ 第4讲 - DHCP与PXE：IP是怎么来的，又是怎么没的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第4讲 - DHCP与PXE：IP是怎么来的，又是怎么没的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第4讲 - DHCP与PXE：IP是怎么来的，又是怎么没的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第4讲 - DHCP与PXE：IP是怎么来的，又是怎么没的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Re-gqi0AhKoIZfEXA5LwYaSkRg89wRvn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RQ7XfyDcBEPlvXq1faC7owaplTbWeRet</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RQ7XfyDcBEPlvXq1faC7owaplTbWeRet</guid>
+			
+
+			<title><![CDATA[ 第3讲 - ifconfig：最熟悉又陌生的命令行.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第3讲 - ifconfig：最熟悉又陌生的命令行.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第3讲 - ifconfig：最熟悉又陌生的命令行.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第3讲 - ifconfig：最熟悉又陌生的命令行.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RQ7XfyDcBEPlvXq1faC7owaplTbWeRet"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RFiG46jjWNGlPYsFc0Dlas5j2-eYUJ72</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RFiG46jjWNGlPYsFc0Dlas5j2-eYUJ72</guid>
+			
+
+			<title><![CDATA[ 第2讲 - 网络分层的真实含义是什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第2讲 - 网络分层的真实含义是什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第2讲 - 网络分层的真实含义是什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第2讲 - 网络分层的真实含义是什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RFiG46jjWNGlPYsFc0Dlas5j2-eYUJ72"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RB6vq2N-8lYzTduCb8nfmVrpkAgQZP4K</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RB6vq2N-8lYzTduCb8nfmVrpkAgQZP4K</guid>
+			
+
+			<title><![CDATA[ 第28讲 - 谈谈你的GC调优思路-.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第28讲 - 谈谈你的GC调优思路-.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第28讲 - 谈谈你的GC调优思路-.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第28讲 - 谈谈你的GC调优思路-.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RB6vq2N-8lYzTduCb8nfmVrpkAgQZP4K"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R-hFvTDi9XYofrkei2n7zxFbDfS5YYLj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R-hFvTDi9XYofrkei2n7zxFbDfS5YYLj</guid>
+			
+
+			<title><![CDATA[ 第27讲 - Java常见的垃圾收集器有哪些？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第27讲 - Java常见的垃圾收集器有哪些？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第27讲 - Java常见的垃圾收集器有哪些？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第27讲 - Java常见的垃圾收集器有哪些？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R-hFvTDi9XYofrkei2n7zxFbDfS5YYLj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QmU8tgCsdTC-wngX4nrp_k-fHPR9H39Q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QmU8tgCsdTC-wngX4nrp_k-fHPR9H39Q</guid>
+			
+
+			<title><![CDATA[ 第26讲 - 如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第26讲 - 如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第26讲 - 如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第26讲 - 如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QmU8tgCsdTC-wngX4nrp_k-fHPR9H39Q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QlKog7FJl8OOvSIom4yuaTX192HZ8zW_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QlKog7FJl8OOvSIom4yuaTX192HZ8zW_</guid>
+			
+
+			<title><![CDATA[ 第25讲 - 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError-.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第25讲 - 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError-.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第25讲 - 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError-.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第25讲 - 谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError-.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QlKog7FJl8OOvSIom4yuaTX192HZ8zW_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Qb16DS1oYv5HuWKFmpfQBnUsx69qwk0g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Qb16DS1oYv5HuWKFmpfQBnUsx69qwk0g</guid>
+			
+
+			<title><![CDATA[ 第24讲 - 有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第24讲 - 有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第24讲 - 有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第24讲 - 有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Qb16DS1oYv5HuWKFmpfQBnUsx69qwk0g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QXHT08-q-teY_fN191_szky9Jt6bhIBQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QXHT08-q-teY_fN191_szky9Jt6bhIBQ</guid>
+			
+
+			<title><![CDATA[ 第23讲 - 请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第23讲 - 请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第23讲 - 请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第23讲 - 请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QXHT08-q-teY_fN191_szky9Jt6bhIBQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q9IsPREbGXJwx0aMhIGV8oCVmQVfeoje</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q9IsPREbGXJwx0aMhIGV8oCVmQVfeoje</guid>
+			
+
+			<title><![CDATA[ 第22讲 - AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第22讲 - AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第22讲 - AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第22讲 - AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q9IsPREbGXJwx0aMhIGV8oCVmQVfeoje"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PxoNWe2RrkKFFrWAvX8kODTQ_2sfi5zq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PxoNWe2RrkKFFrWAvX8kODTQ_2sfi5zq</guid>
+			
+
+			<title><![CDATA[ 第21讲 - Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第21讲 - Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第21讲 - Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第21讲 - Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PxoNWe2RrkKFFrWAvX8kODTQ_2sfi5zq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Pw0BvCYLHfJjiNNeGmg11w4kylQ-NhDQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Pw0BvCYLHfJjiNNeGmg11w4kylQ-NhDQ</guid>
+			
+
+			<title><![CDATA[ 第20讲 - 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第20讲 - 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第20讲 - 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第20讲 - 并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Pw0BvCYLHfJjiNNeGmg11w4kylQ-NhDQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PmylO_W39--02K10xxPXqCISYw0333Gi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PmylO_W39--02K10xxPXqCISYw0333Gi</guid>
+			
+
+			<title><![CDATA[ 第20讲 - CDN：你去小卖部取过快递么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第20讲 - CDN：你去小卖部取过快递么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第20讲 - CDN：你去小卖部取过快递么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第20讲 - CDN：你去小卖部取过快递么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PmylO_W39--02K10xxPXqCISYw0333Gi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Pen7VbymC8udhD5_2RtZOpq-ZORqi0kI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Pen7VbymC8udhD5_2RtZOpq-ZORqi0kI</guid>
+			
+
+			<title><![CDATA[ 第1讲 - 为什么要学习网络协议？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第1讲 - 为什么要学习网络协议？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第1讲 - 为什么要学习网络协议？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第1讲 - 为什么要学习网络协议？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Pen7VbymC8udhD5_2RtZOpq-ZORqi0kI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PXyxKPgLkvGATcDHhUytQQkenm5p6a8Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PXyxKPgLkvGATcDHhUytQQkenm5p6a8Y</guid>
+			
+
+			<title><![CDATA[ 第19讲 - Java并发包提供了哪些并发工具类？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第19讲 - Java并发包提供了哪些并发工具类？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第19讲 - Java并发包提供了哪些并发工具类？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第19讲 - Java并发包提供了哪些并发工具类？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PXyxKPgLkvGATcDHhUytQQkenm5p6a8Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PJ7KpgRO94_o8UAH1DBxAhgNd_DQM3vX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PJ7KpgRO94_o8UAH1DBxAhgNd_DQM3vX</guid>
+			
+
+			<title><![CDATA[ 第19讲 - HTTPDNS：网络世界的地址簿也会指错路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第19讲 - HTTPDNS：网络世界的地址簿也会指错路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第19讲 - HTTPDNS：网络世界的地址簿也会指错路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第19讲 - HTTPDNS：网络世界的地址簿也会指错路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PJ7KpgRO94_o8UAH1DBxAhgNd_DQM3vX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PG5ibmwzOoalz-jARgMAI9hIg0Ce9GRz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PG5ibmwzOoalz-jARgMAI9hIg0Ce9GRz</guid>
+			
+
+			<title><![CDATA[ 第18讲 - 什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第18讲 - 什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第18讲 - 什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第18讲 - 什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PG5ibmwzOoalz-jARgMAI9hIg0Ce9GRz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1P9p8z7j6wOgmPLlZ9qC1KFvvCoE46JAD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1P9p8z7j6wOgmPLlZ9qC1KFvvCoE46JAD</guid>
+			
+
+			<title><![CDATA[ 第18讲 - DNS协议：网络世界的地址簿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第18讲 - DNS协议：网络世界的地址簿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第18讲 - DNS协议：网络世界的地址簿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第18讲 - DNS协议：网络世界的地址簿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1P9p8z7j6wOgmPLlZ9qC1KFvvCoE46JAD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OzR1fqo589wFrBoal-0RTXrDaMM9DPSj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OzR1fqo589wFrBoal-0RTXrDaMM9DPSj</guid>
+			
+
+			<title><![CDATA[ 第17讲 - 一个线程两次调用start()方法会出现什么情况？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第17讲 - 一个线程两次调用start()方法会出现什么情况？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第17讲 - 一个线程两次调用start()方法会出现什么情况？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第17讲 - 一个线程两次调用start()方法会出现什么情况？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OzR1fqo589wFrBoal-0RTXrDaMM9DPSj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OmIp95XJJaKFfZ4gT8fQdlkDVCewhFZ9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OmIp95XJJaKFfZ4gT8fQdlkDVCewhFZ9</guid>
+			
+
+			<title><![CDATA[ 第17讲 - P2P协议：我下小电影，99%急死你.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第17讲 - P2P协议：我下小电影，99%急死你.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第17讲 - P2P协议：我下小电影，99%急死你.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第17讲 - P2P协议：我下小电影，99%急死你.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OmIp95XJJaKFfZ4gT8fQdlkDVCewhFZ9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OhROW8MOXN_wKmCR7giOqZMRGH6BJJxn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OhROW8MOXN_wKmCR7giOqZMRGH6BJJxn</guid>
+			
+
+			<title><![CDATA[ 第16讲 - 流媒体协议：如何在直播里看到美女帅哥？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第16讲 - 流媒体协议：如何在直播里看到美女帅哥？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第16讲 - 流媒体协议：如何在直播里看到美女帅哥？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第16讲 - 流媒体协议：如何在直播里看到美女帅哥？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OhROW8MOXN_wKmCR7giOqZMRGH6BJJxn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OWqQXVL1X9oRi8R9VC6ZFsJ7aWPTBM1t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OWqQXVL1X9oRi8R9VC6ZFsJ7aWPTBM1t</guid>
+			
+
+			<title><![CDATA[ 第16讲 - synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第16讲 - synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第16讲 - synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第16讲 - synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OWqQXVL1X9oRi8R9VC6ZFsJ7aWPTBM1t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OTmgjF0EH4zx_1lIBzwTWN7QVNxOHJ1d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OTmgjF0EH4zx_1lIBzwTWN7QVNxOHJ1d</guid>
+			
+
+			<title><![CDATA[ 第15讲 - synchronized和ReentrantLock有什么区别呢？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第15讲 - synchronized和ReentrantLock有什么区别呢？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第15讲 - synchronized和ReentrantLock有什么区别呢？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第15讲 - synchronized和ReentrantLock有什么区别呢？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OTmgjF0EH4zx_1lIBzwTWN7QVNxOHJ1d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OB8XBqfFavSDAqQWCfIE718uIjdi2wpl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OB8XBqfFavSDAqQWCfIE718uIjdi2wpl</guid>
+			
+
+			<title><![CDATA[ 第15讲 - HTTPS协议：点外卖的过程原来这么复杂.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第15讲 - HTTPS协议：点外卖的过程原来这么复杂.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第15讲 - HTTPS协议：点外卖的过程原来这么复杂.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第15讲 - HTTPS协议：点外卖的过程原来这么复杂.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OB8XBqfFavSDAqQWCfIE718uIjdi2wpl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O1QkI75ycMc9uoQzcrWUCnPfo5x7Slt5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O1QkI75ycMc9uoQzcrWUCnPfo5x7Slt5</guid>
+			
+
+			<title><![CDATA[ 第14讲 - HTTP协议：看个新闻原来这么麻烦.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第14讲 - HTTP协议：看个新闻原来这么麻烦.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第14讲 - HTTP协议：看个新闻原来这么麻烦.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第14讲 - HTTP协议：看个新闻原来这么麻烦.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O1QkI75ycMc9uoQzcrWUCnPfo5x7Slt5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NwVz_3ogkPvBG9QRciTP7NqTEgg_EJDK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NwVz_3ogkPvBG9QRciTP7NqTEgg_EJDK</guid>
+			
+
+			<title><![CDATA[ 第13讲 - 套接字Socket：Talk is cheap, show me the code.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第13讲 - 套接字Socket：Talk is cheap, show me the code.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第13讲 - 套接字Socket：Talk is cheap, show me the code.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第13讲 - 套接字Socket：Talk is cheap, show me the code.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NwVz_3ogkPvBG9QRciTP7NqTEgg_EJDK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NqOR6nVBb3l_HlChtXXFDReFu2cun36Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NqOR6nVBb3l_HlChtXXFDReFu2cun36Y</guid>
+			
+
+			<title><![CDATA[ 第12讲 - TCP协议（下）：西行必定多妖孽，恒心智慧消磨难.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第12讲 - TCP协议（下）：西行必定多妖孽，恒心智慧消磨难.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第12讲 - TCP协议（下）：西行必定多妖孽，恒心智慧消磨难.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第12讲 - TCP协议（下）：西行必定多妖孽，恒心智慧消磨难.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NqOR6nVBb3l_HlChtXXFDReFu2cun36Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NoaiAmVwTjIAik-Epf3FRBc3MfN8Glqj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NoaiAmVwTjIAik-Epf3FRBc3MfN8Glqj</guid>
+			
+
+			<title><![CDATA[ 第11讲 - TCP协议（上）：因性恶而复杂，先恶后善反轻松.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第11讲 - TCP协议（上）：因性恶而复杂，先恶后善反轻松.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第11讲 - TCP协议（上）：因性恶而复杂，先恶后善反轻松.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第11讲 - TCP协议（上）：因性恶而复杂，先恶后善反轻松.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NoaiAmVwTjIAik-Epf3FRBc3MfN8Glqj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Njsj5hyrp6F0S27uZWvzJ4eq1AutNRwk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Njsj5hyrp6F0S27uZWvzJ4eq1AutNRwk</guid>
+			
+
+			<title><![CDATA[ 第10讲 - UDP协议：因性善而简单，难免碰到“城会玩”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 第10讲 - UDP协议：因性善而简单，难免碰到“城会玩”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 第10讲 - UDP协议：因性善而简单，难免碰到“城会玩”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 第10讲 - UDP协议：因性善而简单，难免碰到“城会玩”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Njsj5hyrp6F0S27uZWvzJ4eq1AutNRwk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NEYUH5gHMoSJQ_39JNDULQFjfbccl1B4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NEYUH5gHMoSJQ_39JNDULQFjfbccl1B4</guid>
+			
+
+			<title><![CDATA[ 45协议专栏特别福利  答疑解惑第四期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45协议专栏特别福利  答疑解惑第四期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45协议专栏特别福利  答疑解惑第四期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45协议专栏特别福利  答疑解惑第四期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NEYUH5gHMoSJQ_39JNDULQFjfbccl1B4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NALS7fLllM7XhG-7juhIYl4EMPj7Inb0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NALS7fLllM7XhG-7juhIYl4EMPj7Inb0</guid>
+			
+
+			<title><![CDATA[ 44协议专栏特别福利  答疑解惑第四期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44协议专栏特别福利  答疑解惑第四期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44协议专栏特别福利  答疑解惑第四期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44协议专栏特别福利  答疑解惑第四期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NALS7fLllM7XhG-7juhIYl4EMPj7Inb0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N5XQuWRMkvBLn_oSC6Eta-4h6V8_ufcJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N5XQuWRMkvBLn_oSC6Eta-4h6V8_ufcJ</guid>
+			
+
+			<title><![CDATA[ 43协议专栏特别福利  答疑解惑第三期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43协议专栏特别福利  答疑解惑第三期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43协议专栏特别福利  答疑解惑第三期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43协议专栏特别福利  答疑解惑第三期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N5XQuWRMkvBLn_oSC6Eta-4h6V8_ufcJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N4r02irLTH5Nnnq97a86RNXClGUQT5Yv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N4r02irLTH5Nnnq97a86RNXClGUQT5Yv</guid>
+			
+
+			<title><![CDATA[ 42协议专栏特别福利  答疑解惑第二期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42协议专栏特别福利  答疑解惑第二期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42协议专栏特别福利  答疑解惑第二期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42协议专栏特别福利  答疑解惑第二期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N4r02irLTH5Nnnq97a86RNXClGUQT5Yv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MvTiE7812r5rerO7YV51L78aOg_EHs4b</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MvTiE7812r5rerO7YV51L78aOg_EHs4b</guid>
+			
+
+			<title><![CDATA[ 41协议专栏特别福利  答疑解惑第一期.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41协议专栏特别福利  答疑解惑第一期.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41协议专栏特别福利  答疑解惑第一期.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41协议专栏特别福利  答疑解惑第一期.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MvTiE7812r5rerO7YV51L78aOg_EHs4b"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mq-r0SlThPVja0LofZLXJjERmhVx30y5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mq-r0SlThPVja0LofZLXJjERmhVx30y5</guid>
+			
+
+			<title><![CDATA[ 40搭建一个网络实验环境：授人以鱼不如授人以渔.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40搭建一个网络实验环境：授人以鱼不如授人以渔.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40搭建一个网络实验环境：授人以鱼不如授人以渔.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40搭建一个网络实验环境：授人以鱼不如授人以渔.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mq-r0SlThPVja0LofZLXJjERmhVx30y5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MlZDp4Ac7A-RxLre3gYHUYz-hfaat2Zu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MlZDp4Ac7A-RxLre3gYHUYz-hfaat2Zu</guid>
+			
+
+			<title><![CDATA[ 39知识串讲：用双十一的故事串起碎片的网络协议（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39知识串讲：用双十一的故事串起碎片的网络协议（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39知识串讲：用双十一的故事串起碎片的网络协议（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39知识串讲：用双十一的故事串起碎片的网络协议（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MlZDp4Ac7A-RxLre3gYHUYz-hfaat2Zu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mi58FW_oY9p3EmEQO3muGBU7hTPZ2Vrp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mi58FW_oY9p3EmEQO3muGBU7hTPZ2Vrp</guid>
+			
+
+			<title><![CDATA[ 38知识串讲：用双十一的故事串起碎片的网络协议（中）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38知识串讲：用双十一的故事串起碎片的网络协议（中）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38知识串讲：用双十一的故事串起碎片的网络协议（中）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38知识串讲：用双十一的故事串起碎片的网络协议（中）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mi58FW_oY9p3EmEQO3muGBU7hTPZ2Vrp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MfzL85qX8WxiET6v87l-kq-7ZNFRs6fs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MfzL85qX8WxiET6v87l-kq-7ZNFRs6fs</guid>
+			
+
+			<title><![CDATA[ 37知识串讲：用双十一的故事串起碎片的网络协议（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37知识串讲：用双十一的故事串起碎片的网络协议（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37知识串讲：用双十一的故事串起碎片的网络协议（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37知识串讲：用双十一的故事串起碎片的网络协议（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MfzL85qX8WxiET6v87l-kq-7ZNFRs6fs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MYPz-crh_3ESzPNocRHC_-tSrpqXqkmG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MYPz-crh_3ESzPNocRHC_-tSrpqXqkmG</guid>
+			
+
+			<title><![CDATA[ 36跨语言类RPC协议：交流之前，双方先来个专业术语表.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36跨语言类RPC协议：交流之前，双方先来个专业术语表.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36跨语言类RPC协议：交流之前，双方先来个专业术语表.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36跨语言类RPC协议：交流之前，双方先来个专业术语表.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MYPz-crh_3ESzPNocRHC_-tSrpqXqkmG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MUY7ukm9f0jspI__hTTlIucP6uoZoi-x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MUY7ukm9f0jspI__hTTlIucP6uoZoi-x</guid>
+			
+
+			<title><![CDATA[ 35二进制类RPC协议：还是叫NBA吧，总说全称多费劲.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35二进制类RPC协议：还是叫NBA吧，总说全称多费劲.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35二进制类RPC协议：还是叫NBA吧，总说全称多费劲.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35二进制类RPC协议：还是叫NBA吧，总说全称多费劲.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MUY7ukm9f0jspI__hTTlIucP6uoZoi-x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MSus74Gpm9R2MZOkbn_NOukaHXaGFwUH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MSus74Gpm9R2MZOkbn_NOukaHXaGFwUH</guid>
+			
+
+			<title><![CDATA[ 34基于JSON的RESTful接口协议：我不关心过程，请给我结果.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34基于JSON的RESTful接口协议：我不关心过程，请给我结果.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34基于JSON的RESTful接口协议：我不关心过程，请给我结果.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34基于JSON的RESTful接口协议：我不关心过程，请给我结果.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MSus74Gpm9R2MZOkbn_NOukaHXaGFwUH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MLHNrB373xlmC2UshHHUuoE5F2P_HW8S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MLHNrB373xlmC2UshHHUuoE5F2P_HW8S</guid>
+			
+
+			<title><![CDATA[ 33RPC协议综述：远在天边，近在眼前.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33RPC协议综述：远在天边，近在眼前.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33RPC协议综述：远在天边，近在眼前.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33RPC协议综述：远在天边，近在眼前.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MLHNrB373xlmC2UshHHUuoE5F2P_HW8S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MJl28O_HAYzZRvNJXS6OhiwRA63s9CgD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MJl28O_HAYzZRvNJXS6OhiwRA63s9CgD</guid>
+			
+
+			<title><![CDATA[ 32RPC协议综述：远在天边，近在眼前.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32RPC协议综述：远在天边，近在眼前.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32RPC协议综述：远在天边，近在眼前.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32RPC协议综述：远在天边，近在眼前.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MJl28O_HAYzZRvNJXS6OhiwRA63s9CgD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MAqMAsfECDzyPXP7eZpqtYth4CEpPNqF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MAqMAsfECDzyPXP7eZpqtYth4CEpPNqF</guid>
+			
+
+			<title><![CDATA[ 31容器网络之Calico：为高效说出善意的谎言.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31容器网络之Calico：为高效说出善意的谎言.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31容器网络之Calico：为高效说出善意的谎言.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31容器网络之Calico：为高效说出善意的谎言.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MAqMAsfECDzyPXP7eZpqtYth4CEpPNqF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M5By0E903RGwd9AqKcejomNAFMUZ2d_o</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M5By0E903RGwd9AqKcejomNAFMUZ2d_o</guid>
+			
+
+			<title><![CDATA[ 30容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M5By0E903RGwd9AqKcejomNAFMUZ2d_o"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M17q72WJrk3YSygDZSDJdTeZBtRT-lgG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M17q72WJrk3YSygDZSDJdTeZBtRT-lgG</guid>
+			
+
+			<title><![CDATA[ 29容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29容器网络：来去自由的日子，不买公寓去合租.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M17q72WJrk3YSygDZSDJdTeZBtRT-lgG"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

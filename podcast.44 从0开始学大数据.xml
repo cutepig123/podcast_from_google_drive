@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .44 从0开始学大数据 ]]></title>
+		<itunes:subtitle><![CDATA[ .44 从0开始学大数据 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .44 从0开始学大数据. ]]></itunes:summary>
+		<description><![CDATA[ .44 从0开始学大数据 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1-NKu5KAu2HYwiygf7GOYpn-wrOkslCnH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-NKu5KAu2HYwiygf7GOYpn-wrOkslCnH</guid>
+			
+
+			<title><![CDATA[ 预习03讲大数据应用领域：数据驱动一切.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 预习03讲大数据应用领域：数据驱动一切.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 预习03讲大数据应用领域：数据驱动一切.mp3 ]]></description>
+			<content:encoded><![CDATA[ 预习03讲大数据应用领域：数据驱动一切.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-NKu5KAu2HYwiygf7GOYpn-wrOkslCnH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1-7T7Oq9-_7zceGF0DFTr4JR1ktYX4Dj2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1-7T7Oq9-_7zceGF0DFTr4JR1ktYX4Dj2</guid>
+			
+
+			<title><![CDATA[ 预习02讲大数据应用发展史：从搜索引擎到人工智能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 预习02讲大数据应用发展史：从搜索引擎到人工智能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 预习02讲大数据应用发展史：从搜索引擎到人工智能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 预习02讲大数据应用发展史：从搜索引擎到人工智能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1-7T7Oq9-_7zceGF0DFTr4JR1ktYX4Dj2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zwUnCkPQ4woY9JH3-f6sJhojK1N8g8Hi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zwUnCkPQ4woY9JH3-f6sJhojK1N8g8Hi</guid>
+			
+
+			<title><![CDATA[ 预习01讲大数据技术发展史：大数据的前世今生.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 预习01讲大数据技术发展史：大数据的前世今生.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 预习01讲大数据技术发展史：大数据的前世今生.mp3 ]]></description>
+			<content:encoded><![CDATA[ 预习01讲大数据技术发展史：大数据的前世今生.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zwUnCkPQ4woY9JH3-f6sJhojK1N8g8Hi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zc1E7DhSgdnIkE-N8knXRgloR8LA_hbv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zc1E7DhSgdnIkE-N8knXRgloR8LA_hbv</guid>
+			
+
+			<title><![CDATA[ 所有的不确定都是机会——智慧写给你的新年寄语.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 所有的不确定都是机会——智慧写给你的新年寄语.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 所有的不确定都是机会——智慧写给你的新年寄语.mp3 ]]></description>
+			<content:encoded><![CDATA[ 所有的不确定都是机会——智慧写给你的新年寄语.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zc1E7DhSgdnIkE-N8knXRgloR8LA_hbv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zWsFJXMIXPiJ2chQauRxDbCRF6ryXSZj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zWsFJXMIXPiJ2chQauRxDbCRF6ryXSZj</guid>
+			
+
+			<title><![CDATA[ 开篇词讲为什么说每个软件工程师都应该懂大数据技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲为什么说每个软件工程师都应该懂大数据技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲为什么说每个软件工程师都应该懂大数据技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲为什么说每个软件工程师都应该懂大数据技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zWsFJXMIXPiJ2chQauRxDbCRF6ryXSZj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zW8QAkp3E3aURmct7nYhLAdEsgneULA9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zW8QAkp3E3aURmct7nYhLAdEsgneULA9</guid>
+			
+
+			<title><![CDATA[ 结束语讲未来的你，有无限可能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语讲未来的你，有无限可能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语讲未来的你，有无限可能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语讲未来的你，有无限可能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zW8QAkp3E3aURmct7nYhLAdEsgneULA9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1zL9zoAAx7i1SRi-Uotp17tHlNF8m0tnb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1zL9zoAAx7i1SRi-Uotp17tHlNF8m0tnb</guid>
+			
+
+			<title><![CDATA[ 42讲模块答疑：软件工程师如何进入人工智能领域.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42讲模块答疑：软件工程师如何进入人工智能领域.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42讲模块答疑：软件工程师如何进入人工智能领域.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42讲模块答疑：软件工程师如何进入人工智能领域.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1zL9zoAAx7i1SRi-Uotp17tHlNF8m0tnb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1z9Az12Z22jc3C6XhfsQFbOpYBXJ7z32K</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1z9Az12Z22jc3C6XhfsQFbOpYBXJ7z32K</guid>
+			
+
+			<title><![CDATA[ 41讲从感知机到神经网络算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲从感知机到神经网络算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲从感知机到神经网络算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲从感知机到神经网络算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1z9Az12Z22jc3C6XhfsQFbOpYBXJ7z32K"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yuLsZjmqued-zAN8VM-CIk72XLdc5Yab</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yuLsZjmqued-zAN8VM-CIk72XLdc5Yab</guid>
+			
+
+			<title><![CDATA[ 40讲机器学习的数学原理是什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲机器学习的数学原理是什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲机器学习的数学原理是什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲机器学习的数学原理是什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yuLsZjmqued-zAN8VM-CIk72XLdc5Yab"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yoJeXiVjxlSXMrTp-q_uj_UrRvHRECJ_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yoJeXiVjxlSXMrTp-q_uj_UrRvHRECJ_</guid>
+			
+
+			<title><![CDATA[ 39讲如何预测用户的喜好.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲如何预测用户的喜好.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲如何预测用户的喜好.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲如何预测用户的喜好.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yoJeXiVjxlSXMrTp-q_uj_UrRvHRECJ_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ygfCUK-AHNYAlrgTdWP_dB6_nDk6cV05</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ygfCUK-AHNYAlrgTdWP_dB6_nDk6cV05</guid>
+			
+
+			<title><![CDATA[ 38讲如何发掘数据之间的关系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲如何发掘数据之间的关系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲如何发掘数据之间的关系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲如何发掘数据之间的关系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ygfCUK-AHNYAlrgTdWP_dB6_nDk6cV05"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1yXMABjjqGOIXPIPTJ9Z993ltoq7l6F3y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1yXMABjjqGOIXPIPTJ9Z993ltoq7l6F3y</guid>
+			
+
+			<title><![CDATA[ 37讲如何对数据进行分类和预测.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲如何对数据进行分类和预测.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲如何对数据进行分类和预测.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲如何对数据进行分类和预测.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1yXMABjjqGOIXPIPTJ9Z993ltoq7l6F3y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1y5R_xpqrGnLLaQSNVmkLLg8I9ZKKKmyk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1y5R_xpqrGnLLaQSNVmkLLg8I9ZKKKmyk</guid>
+			
+
+			<title><![CDATA[ 36讲模块答疑：为什么说数据驱动运营.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲模块答疑：为什么说数据驱动运营.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲模块答疑：为什么说数据驱动运营.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲模块答疑：为什么说数据驱动运营.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1y5R_xpqrGnLLaQSNVmkLLg8I9ZKKKmyk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xu70rK60LuWO5BWGLV-ebQOsizdVygdr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xu70rK60LuWO5BWGLV-ebQOsizdVygdr</guid>
+			
+
+			<title><![CDATA[ 35讲如何利用大数据成为“增长黑客”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲如何利用大数据成为“增长黑客”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲如何利用大数据成为“增长黑客”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲如何利用大数据成为“增长黑客”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xu70rK60LuWO5BWGLV-ebQOsizdVygdr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xs0fN4xoywQtwVa2QBjJggd5DT8JgzYd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xs0fN4xoywQtwVa2QBjJggd5DT8JgzYd</guid>
+			
+
+			<title><![CDATA[ 33讲一个电商网站订单下降的数据分析案例.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲一个电商网站订单下降的数据分析案例.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲一个电商网站订单下降的数据分析案例.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲一个电商网站订单下降的数据分析案例.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xs0fN4xoywQtwVa2QBjJggd5DT8JgzYd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xnZAt1WysbNybb_r7mbKOTmE_ihfUnyQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xnZAt1WysbNybb_r7mbKOTmE_ihfUnyQ</guid>
+			
+
+			<title><![CDATA[ 32讲互联网运营数据指标与可视化监控.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲互联网运营数据指标与可视化监控.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲互联网运营数据指标与可视化监控.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲互联网运营数据指标与可视化监控.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xnZAt1WysbNybb_r7mbKOTmE_ihfUnyQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xjcKoAmxqtOU3nQavh19IR-y6LDatZZp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xjcKoAmxqtOU3nQavh19IR-y6LDatZZp</guid>
+			
+
+			<title><![CDATA[ 31讲模块答疑：为什么大数据平台至关重要.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲模块答疑：为什么大数据平台至关重要.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲模块答疑：为什么大数据平台至关重要.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲模块答疑：为什么大数据平台至关重要.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xjcKoAmxqtOU3nQavh19IR-y6LDatZZp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xXocO8gSBshyg3QFTTDKR7VEL0xSkpJA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xXocO8gSBshyg3QFTTDKR7VEL0xSkpJA</guid>
+			
+
+			<title><![CDATA[ 30讲当大数据遇上物联网.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲当大数据遇上物联网.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲当大数据遇上物联网.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲当大数据遇上物联网.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xXocO8gSBshyg3QFTTDKR7VEL0xSkpJA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xGnVgJWNqJibLNLOnvQO5IiED8NbuMWR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xGnVgJWNqJibLNLOnvQO5IiED8NbuMWR</guid>
+			
+
+			<title><![CDATA[ 29讲盘点可供中小企业参考的商业大数据平台.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲盘点可供中小企业参考的商业大数据平台.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲盘点可供中小企业参考的商业大数据平台.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲盘点可供中小企业参考的商业大数据平台.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xGnVgJWNqJibLNLOnvQO5IiED8NbuMWR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1xCHvEaFBd8oc8U9tQUpk59_AiE4ToiHw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1xCHvEaFBd8oc8U9tQUpk59_AiE4ToiHw</guid>
+			
+
+			<title><![CDATA[ 28讲知名大厂如何搭建大数据平台.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲知名大厂如何搭建大数据平台.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲知名大厂如何搭建大数据平台.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲知名大厂如何搭建大数据平台.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1xCHvEaFBd8oc8U9tQUpk59_AiE4ToiHw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1x3qBWvZI1yuB6LMqJw8oaKxai6UVI33t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1x3qBWvZI1yuB6LMqJw8oaKxai6UVI33t</guid>
+			
+
+			<title><![CDATA[ 27讲大数据从哪里来.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲大数据从哪里来.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲大数据从哪里来.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲大数据从哪里来.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1x3qBWvZI1yuB6LMqJw8oaKxai6UVI33t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1whn9h8nWTmzaFYIvBeMwKdAY0xgnrCZR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1whn9h8nWTmzaFYIvBeMwKdAY0xgnrCZR</guid>
+			
+
+			<title><![CDATA[ 26讲互联网产品+大数据产品=大数据平台.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲互联网产品+大数据产品=大数据平台.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲互联网产品+大数据产品=大数据平台.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲互联网产品+大数据产品=大数据平台.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1whn9h8nWTmzaFYIvBeMwKdAY0xgnrCZR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wMlE_2xii0WD5lttzJy97AEJVY9bcesK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wMlE_2xii0WD5lttzJy97AEJVY9bcesK</guid>
+			
+
+			<title><![CDATA[ 25讲模块答疑：我能从大厂的大数据开发实践中学到什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲模块答疑：我能从大厂的大数据开发实践中学到什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲模块答疑：我能从大厂的大数据开发实践中学到什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲模块答疑：我能从大厂的大数据开发实践中学到什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wMlE_2xii0WD5lttzJy97AEJVY9bcesK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wLK84CYjCBmcYfQLCf3pQLVaY9kyo77A</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wLK84CYjCBmcYfQLCf3pQLVaY9kyo77A</guid>
+			
+
+			<title><![CDATA[ 24讲从大数据性能测试工具Dew看如何快速开发大数据系统.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲从大数据性能测试工具Dew看如何快速开发大数据系统.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲从大数据性能测试工具Dew看如何快速开发大数据系统.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲从大数据性能测试工具Dew看如何快速开发大数据系统.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wLK84CYjCBmcYfQLCf3pQLVaY9kyo77A"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1wGGTnKGn4AHlpOwD6IyltRJyBu0WE1Mk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1wGGTnKGn4AHlpOwD6IyltRJyBu0WE1Mk</guid>
+			
+
+			<title><![CDATA[ 23讲大数据基准测试可以带来什么好处.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲大数据基准测试可以带来什么好处.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲大数据基准测试可以带来什么好处.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲大数据基准测试可以带来什么好处.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1wGGTnKGn4AHlpOwD6IyltRJyBu0WE1Mk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1w7IdiXyOpFpB9_v410tKR1M93nxRCp5w</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1w7IdiXyOpFpB9_v410tKR1M93nxRCp5w</guid>
+			
+
+			<title><![CDATA[ 22讲从阿里内部产品看海量数据处理系统的设计（下）：架构与创新.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲从阿里内部产品看海量数据处理系统的设计（下）：架构与创新.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲从阿里内部产品看海量数据处理系统的设计（下）：架构与创新.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲从阿里内部产品看海量数据处理系统的设计（下）：架构与创新.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1w7IdiXyOpFpB9_v410tKR1M93nxRCp5w"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vfdTnlP9SjIrOYHZfRR4HwzS5OJ5kyRG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vfdTnlP9SjIrOYHZfRR4HwzS5OJ5kyRG</guid>
+			
+
+			<title><![CDATA[ 21讲从阿里内部产品看海量数据处理系统的设计（上）：Doris的立项.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲从阿里内部产品看海量数据处理系统的设计（上）：Doris的立项.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲从阿里内部产品看海量数据处理系统的设计（上）：Doris的立项.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲从阿里内部产品看海量数据处理系统的设计（上）：Doris的立项.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vfdTnlP9SjIrOYHZfRR4HwzS5OJ5kyRG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vau22dlxBE3-pRUJh3opirgLX8XOjWCb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vau22dlxBE3-pRUJh3opirgLX8XOjWCb</guid>
+			
+
+			<title><![CDATA[ 20讲Spark的性能优化案例分析（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲Spark的性能优化案例分析（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲Spark的性能优化案例分析（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲Spark的性能优化案例分析（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vau22dlxBE3-pRUJh3opirgLX8XOjWCb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vW3PSHDOhjrzm8LhnGHAGcofKcRVe80t</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vW3PSHDOhjrzm8LhnGHAGcofKcRVe80t</guid>
+			
+
+			<title><![CDATA[ 19讲Spark的性能优化案例分析（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲Spark的性能优化案例分析（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲Spark的性能优化案例分析（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲Spark的性能优化案例分析（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vW3PSHDOhjrzm8LhnGHAGcofKcRVe80t"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vPMgqteRu4DyWeGzZNUmmbH7qx9sdm8i</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vPMgqteRu4DyWeGzZNUmmbH7qx9sdm8i</guid>
+			
+
+			<title><![CDATA[ 18讲如何自己开发一个大数据SQL引擎.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲如何自己开发一个大数据SQL引擎.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲如何自己开发一个大数据SQL引擎.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲如何自己开发一个大数据SQL引擎.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vPMgqteRu4DyWeGzZNUmmbH7qx9sdm8i"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1vG1Jo7-c7hNzLM1wSpa3xiq_KjpHTb4R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1vG1Jo7-c7hNzLM1wSpa3xiq_KjpHTb4R</guid>
+			
+
+			<title><![CDATA[ 17讲模块答疑：这么多技术，到底都能用在什么场景里.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲模块答疑：这么多技术，到底都能用在什么场景里.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲模块答疑：这么多技术，到底都能用在什么场景里.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲模块答疑：这么多技术，到底都能用在什么场景里.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1vG1Jo7-c7hNzLM1wSpa3xiq_KjpHTb4R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1v5042RXg83Qr8hztLBZlXRT6YLpL1bIl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1v5042RXg83Qr8hztLBZlXRT6YLpL1bIl</guid>
+			
+
+			<title><![CDATA[ 16讲ZooKeeper是如何保证数据一致性的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲ZooKeeper是如何保证数据一致性的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲ZooKeeper是如何保证数据一致性的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲ZooKeeper是如何保证数据一致性的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1v5042RXg83Qr8hztLBZlXRT6YLpL1bIl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uXlMg_Z213m4LhyvW2ksxm_RJHDYKGUe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uXlMg_Z213m4LhyvW2ksxm_RJHDYKGUe</guid>
+			
+
+			<title><![CDATA[ 15讲流式计算的代表：Storm、Flink、SparkStreaming.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲流式计算的代表：Storm、Flink、SparkStreaming.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲流式计算的代表：Storm、Flink、SparkStreaming.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲流式计算的代表：Storm、Flink、SparkStreaming.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uXlMg_Z213m4LhyvW2ksxm_RJHDYKGUe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uVcgkTY-noY8dW7hbuVxdL3YN7LzWXx8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uVcgkTY-noY8dW7hbuVxdL3YN7LzWXx8</guid>
+			
+
+			<title><![CDATA[ 14讲BigTable的开源实现：HBase.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲BigTable的开源实现：HBase.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲BigTable的开源实现：HBase.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲BigTable的开源实现：HBase.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uVcgkTY-noY8dW7hbuVxdL3YN7LzWXx8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uMQbJpzvz7JrfqHdz8HS-f3Iowh43v5Z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uMQbJpzvz7JrfqHdz8HS-f3Iowh43v5Z</guid>
+			
+
+			<title><![CDATA[ 13讲同样的本质，为何Spark可以更高效.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲同样的本质，为何Spark可以更高效.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲同样的本质，为何Spark可以更高效.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲同样的本质，为何Spark可以更高效.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uMQbJpzvz7JrfqHdz8HS-f3Iowh43v5Z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1twqkaz4BPbRMXHQGdDt_C3FZqk89BO7r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1twqkaz4BPbRMXHQGdDt_C3FZqk89BO7r</guid>
+			
+
+			<title><![CDATA[ 12讲我们并没有觉得MapReduce速度慢，直到Spark出现.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲我们并没有觉得MapReduce速度慢，直到Spark出现.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲我们并没有觉得MapReduce速度慢，直到Spark出现.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲我们并没有觉得MapReduce速度慢，直到Spark出现.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1twqkaz4BPbRMXHQGdDt_C3FZqk89BO7r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tt1tXAvn-WuzGezHKBasi2DjUIXiFl8g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tt1tXAvn-WuzGezHKBasi2DjUIXiFl8g</guid>
+			
+
+			<title><![CDATA[ 11讲Hive是如何让MapReduce实现SQL操作的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11讲Hive是如何让MapReduce实现SQL操作的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11讲Hive是如何让MapReduce实现SQL操作的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11讲Hive是如何让MapReduce实现SQL操作的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tt1tXAvn-WuzGezHKBasi2DjUIXiFl8g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tnSDTdofy7mVNYjAFE5oBmE81mgSeVJ2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tnSDTdofy7mVNYjAFE5oBmE81mgSeVJ2</guid>
+			
+
+			<title><![CDATA[ 10讲模块答疑：我们能从Hadoop学到什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10讲模块答疑：我们能从Hadoop学到什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10讲模块答疑：我们能从Hadoop学到什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10讲模块答疑：我们能从Hadoop学到什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tnSDTdofy7mVNYjAFE5oBmE81mgSeVJ2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tgd2MTItGcqjvCjmbZxBUVpzxD8fztAy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tgd2MTItGcqjvCjmbZxBUVpzxD8fztAy</guid>
+			
+
+			<title><![CDATA[ 09讲为什么我们管Yarn叫作资源调度框架.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09讲为什么我们管Yarn叫作资源调度框架.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09讲为什么我们管Yarn叫作资源调度框架.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09讲为什么我们管Yarn叫作资源调度框架.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tgd2MTItGcqjvCjmbZxBUVpzxD8fztAy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tMzSfq-yM1jkJOpz8rrRHPkDt2ACmGm9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tMzSfq-yM1jkJOpz8rrRHPkDt2ACmGm9</guid>
+			
+
+			<title><![CDATA[ 08讲MapReduce如何让数据完成一次旅行.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08讲MapReduce如何让数据完成一次旅行.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08讲MapReduce如何让数据完成一次旅行.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08讲MapReduce如何让数据完成一次旅行.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tMzSfq-yM1jkJOpz8rrRHPkDt2ACmGm9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1t5bvBItHnWFqjv52p4-YokIkberZ_Wtj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1t5bvBItHnWFqjv52p4-YokIkberZ_Wtj</guid>
+			
+
+			<title><![CDATA[ 07讲为什么说MapReduce既是编程模型又是计算框架.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07讲为什么说MapReduce既是编程模型又是计算框架.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07讲为什么说MapReduce既是编程模型又是计算框架.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07讲为什么说MapReduce既是编程模型又是计算框架.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1t5bvBItHnWFqjv52p4-YokIkberZ_Wtj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1t2cwJ0uMV8xe-EERYujwG7qUP8kwxfdB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1t2cwJ0uMV8xe-EERYujwG7qUP8kwxfdB</guid>
+			
+
+			<title><![CDATA[ 06讲新技术层出不穷，HDFS依然是存储的王者.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06讲新技术层出不穷，HDFS依然是存储的王者.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06讲新技术层出不穷，HDFS依然是存储的王者.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06讲新技术层出不穷，HDFS依然是存储的王者.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1t2cwJ0uMV8xe-EERYujwG7qUP8kwxfdB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1skOFZ8g4XK7yiPVO0zGhU7rToHAY6ub0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1skOFZ8g4XK7yiPVO0zGhU7rToHAY6ub0</guid>
+			
+
+			<title><![CDATA[ 05讲从RAID看垂直伸缩到水平伸缩的演化.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05讲从RAID看垂直伸缩到水平伸缩的演化.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05讲从RAID看垂直伸缩到水平伸缩的演化.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05讲从RAID看垂直伸缩到水平伸缩的演化.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1skOFZ8g4XK7yiPVO0zGhU7rToHAY6ub0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sN0_dPpVJtAx4u5ugkQzGulsULjWKIQg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sN0_dPpVJtAx4u5ugkQzGulsULjWKIQg</guid>
+			
+
+			<title><![CDATA[ 04讲移动计算比移动数据更划算.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04讲移动计算比移动数据更划算.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04讲移动计算比移动数据更划算.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04讲移动计算比移动数据更划算.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sN0_dPpVJtAx4u5ugkQzGulsULjWKIQg"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

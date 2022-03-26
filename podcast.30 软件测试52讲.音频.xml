@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .30 软件测试52讲.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .30 软件测试52讲.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .30 软件测试52讲.音频. ]]></itunes:summary>
+		<description><![CDATA[ .30 软件测试52讲.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1cIqdxg0jTtFCKi6JzcC5Y_A7YKTVRBi0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cIqdxg0jTtFCKi6JzcC5Y_A7YKTVRBi0</guid>
+			
+
+			<title><![CDATA[ 28带你一起解读不同视角的软件性能与性能指标.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28带你一起解读不同视角的软件性能与性能指标.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28带你一起解读不同视角的软件性能与性能指标.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28带你一起解读不同视角的软件性能与性能指标.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cIqdxg0jTtFCKi6JzcC5Y_A7YKTVRBi0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1c8CMEvdnLIprxbQRBxkMB2ouuTfzWxem</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1c8CMEvdnLIprxbQRBxkMB2ouuTfzWxem</guid>
+			
+
+			<title><![CDATA[ 27深入浅出之动态测试方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27深入浅出之动态测试方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27深入浅出之动态测试方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27深入浅出之动态测试方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1c8CMEvdnLIprxbQRBxkMB2ouuTfzWxem"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1btioguAqddugDR1-DAqjSOAN4IQqACfL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1btioguAqddugDR1-DAqjSOAN4IQqACfL</guid>
+			
+
+			<title><![CDATA[ 26深入浅出之静态测试方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26深入浅出之静态测试方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26深入浅出之静态测试方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26深入浅出之静态测试方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1btioguAqddugDR1-DAqjSOAN4IQqACfL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bc7QYUeBGwISUcK0FI9BNk54K7k-iAjR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bc7QYUeBGwISUcK0FI9BNk54K7k-iAjR</guid>
+			
+
+			<title><![CDATA[ 25不破不立：掌握代码级测试的基本理念与方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25不破不立：掌握代码级测试的基本理念与方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25不破不立：掌握代码级测试的基本理念与方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25不破不立：掌握代码级测试的基本理念与方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bc7QYUeBGwISUcK0FI9BNk54K7k-iAjR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b_tSLRujQ915EhCpfylYXaYmGJwmTynU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b_tSLRujQ915EhCpfylYXaYmGJwmTynU</guid>
+			
+
+			<title><![CDATA[ 24紧跟时代步伐：微服务模式下API测试要怎么做？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24紧跟时代步伐：微服务模式下API测试要怎么做？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24紧跟时代步伐：微服务模式下API测试要怎么做？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24紧跟时代步伐：微服务模式下API测试要怎么做？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b_tSLRujQ915EhCpfylYXaYmGJwmTynU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bCVWT06DqvlGMM-7zwOqvcSZOT7SK4u9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bCVWT06DqvlGMM-7zwOqvcSZOT7SK4u9</guid>
+			
+
+			<title><![CDATA[ 23知其然知其所以然：聊聊API自动化测试框架的前世今生.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23知其然知其所以然：聊聊API自动化测试框架的前世今生.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23知其然知其所以然：聊聊API自动化测试框架的前世今生.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23知其然知其所以然：聊聊API自动化测试框架的前世今生.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bCVWT06DqvlGMM-7zwOqvcSZOT7SK4u9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bBDU4i7F1DBs9bNrKe3Z2Qu3o6qbItIa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bBDU4i7F1DBs9bNrKe3Z2Qu3o6qbItIa</guid>
+			
+
+			<title><![CDATA[ 22从0到1：API测试怎么做？常用API测试工具简介.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22从0到1：API测试怎么做？常用API测试工具简介.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22从0到1：API测试怎么做？常用API测试工具简介.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22从0到1：API测试怎么做？常用API测试工具简介.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bBDU4i7F1DBs9bNrKe3Z2Qu3o6qbItIa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bACDl7HKIiSTj17ohc06QWDpxFFpOJD4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bACDl7HKIiSTj17ohc06QWDpxFFpOJD4</guid>
+			
+
+			<title><![CDATA[ 21移动测试神器：带你玩转Appium.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21移动测试神器：带你玩转Appium.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21移动测试神器：带你玩转Appium.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21移动测试神器：带你玩转Appium.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bACDl7HKIiSTj17ohc06QWDpxFFpOJD4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1b5MLCzobxa4d58Aw16WWQIlU14978_ML</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1b5MLCzobxa4d58Aw16WWQIlU14978_ML</guid>
+			
+
+			<title><![CDATA[ 20与时俱进：浅谈移动应用测试方法与思路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20与时俱进：浅谈移动应用测试方法与思路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20与时俱进：浅谈移动应用测试方法与思路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20与时俱进：浅谈移动应用测试方法与思路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1b5MLCzobxa4d58Aw16WWQIlU14978_ML"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1axmjbRpykhvJxsvC0p2BXXqhvEcDkxg-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1axmjbRpykhvJxsvC0p2BXXqhvEcDkxg-</guid>
+			
+
+			<title><![CDATA[ 19真实的战场：如何在大型项目中设计GUI自动化测试策略.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19真实的战场：如何在大型项目中设计GUI自动化测试策略.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19真实的战场：如何在大型项目中设计GUI自动化测试策略.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19真实的战场：如何在大型项目中设计GUI自动化测试策略.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1axmjbRpykhvJxsvC0p2BXXqhvEcDkxg-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1akKc3dEy5Eiy05AnhpWa23wTsiahLKLL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1akKc3dEy5Eiy05AnhpWa23wTsiahLKLL</guid>
+			
+
+			<title><![CDATA[ 18眼前一亮：带你玩转GUI自动化的测试报告.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18眼前一亮：带你玩转GUI自动化的测试报告.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18眼前一亮：带你玩转GUI自动化的测试报告.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18眼前一亮：带你玩转GUI自动化的测试报告.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1akKc3dEy5Eiy05AnhpWa23wTsiahLKLL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ab4A72Wf2vRo-4hdMnJpw-p6RVq1EcbH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ab4A72Wf2vRo-4hdMnJpw-p6RVq1EcbH</guid>
+			
+
+			<title><![CDATA[ 17精益求精：聊聊提高GUI测试稳定性的关键技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17精益求精：聊聊提高GUI测试稳定性的关键技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17精益求精：聊聊提高GUI测试稳定性的关键技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17精益求精：聊聊提高GUI测试稳定性的关键技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ab4A72Wf2vRo-4hdMnJpw-p6RVq1EcbH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aaB00SKHp8T-TpwTe6VAINWeWEpxqj1z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aaB00SKHp8T-TpwTe6VAINWeWEpxqj1z</guid>
+			
+
+			<title><![CDATA[ 16脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16脑洞大开：GUI测试还能这么玩（Page Code Gen + Data Gen + Headless）？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aaB00SKHp8T-TpwTe6VAINWeWEpxqj1z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aYDkKmMOYBiMeDsmee0wd2L85mrmjNTU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aYDkKmMOYBiMeDsmee0wd2L85mrmjNTU</guid>
+			
+
+			<title><![CDATA[ 15过不了的坎：聊聊GUI自动化过程中的测试数据..mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15过不了的坎：聊聊GUI自动化过程中的测试数据..mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15过不了的坎：聊聊GUI自动化过程中的测试数据..mp3 ]]></description>
+			<content:encoded><![CDATA[ 15过不了的坎：聊聊GUI自动化过程中的测试数据..mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aYDkKmMOYBiMeDsmee0wd2L85mrmjNTU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aQIEgIyML8LxWel143AGjxVri8t9fykX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aQIEgIyML8LxWel143AGjxVri8t9fykX</guid>
+			
+
+			<title><![CDATA[ 14更接近业务的抽象：让自动化测试脚本更好地描述业务.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14更接近业务的抽象：让自动化测试脚本更好地描述业务.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14更接近业务的抽象：让自动化测试脚本更好地描述业务.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14更接近业务的抽象：让自动化测试脚本更好地描述业务.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aQIEgIyML8LxWel143AGjxVri8t9fykX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1aFcZEhIa-4pqaLJwLYWhb5lS5xyr_N1D</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1aFcZEhIa-4pqaLJwLYWhb5lS5xyr_N1D</guid>
+			
+
+			<title><![CDATA[ 13效率为王：脚本与数据的解耦 + Page Object模型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13效率为王：脚本与数据的解耦 + Page Object模型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13效率为王：脚本与数据的解耦 + Page Object模型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13效率为王：脚本与数据的解耦 + Page Object模型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1aFcZEhIa-4pqaLJwLYWhb5lS5xyr_N1D"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1a9zeq2pq0hx1kn9O7zGvQ12gHZf45kyq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1a9zeq2pq0hx1kn9O7zGvQ12gHZf45kyq</guid>
+			
+
+			<title><![CDATA[ 12从0到1：你的第一个GUI自动化测试.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12从0到1：你的第一个GUI自动化测试.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12从0到1：你的第一个GUI自动化测试.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12从0到1：你的第一个GUI自动化测试.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1a9zeq2pq0hx1kn9O7zGvQ12gHZf45kyq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_wrKyTF2epswSw8766smNlTfnHdHT69y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_wrKyTF2epswSw8766smNlTfnHdHT69y</guid>
+			
+
+			<title><![CDATA[ 11互联网产品的测试策略应该如何设计？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11互联网产品的测试策略应该如何设计？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11互联网产品的测试策略应该如何设计？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11互联网产品的测试策略应该如何设计？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_wrKyTF2epswSw8766smNlTfnHdHT69y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_rimk00EX-1Uvj4jxca7utElcWZWdTLu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_rimk00EX-1Uvj4jxca7utElcWZWdTLu</guid>
+			
+
+			<title><![CDATA[ 10软件测试工程师需要掌握的非测试知识有哪些？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10软件测试工程师需要掌握的非测试知识有哪些？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10软件测试工程师需要掌握的非测试知识有哪些？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10软件测试工程师需要掌握的非测试知识有哪些？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_rimk00EX-1Uvj4jxca7utElcWZWdTLu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_hdFQzkSBUlzKkSyLK_npkQEaD4pBUSr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_hdFQzkSBUlzKkSyLK_npkQEaD4pBUSr</guid>
+			
+
+			<title><![CDATA[ 09软件测试工程师的核心竞争力是什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09软件测试工程师的核心竞争力是什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09软件测试工程师的核心竞争力是什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09软件测试工程师的核心竞争力是什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_hdFQzkSBUlzKkSyLK_npkQEaD4pBUSr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_eXt7uNqPpDR1ztBB0ecSSKDbLexvJx-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_eXt7uNqPpDR1ztBB0ecSSKDbLexvJx-</guid>
+			
+
+			<title><![CDATA[ 08以终为始，如何才能做好测试计划？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08以终为始，如何才能做好测试计划？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08以终为始，如何才能做好测试计划？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08以终为始，如何才能做好测试计划？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_eXt7uNqPpDR1ztBB0ecSSKDbLexvJx-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_VnojSj_cR09rnbRA_m3i5wDcxJqE-E_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_VnojSj_cR09rnbRA_m3i5wDcxJqE-E_</guid>
+			
+
+			<title><![CDATA[ 07如何高效填写软件缺陷报告？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07如何高效填写软件缺陷报告？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07如何高效填写软件缺陷报告？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07如何高效填写软件缺陷报告？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_VnojSj_cR09rnbRA_m3i5wDcxJqE-E_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_EzlkoGsPqil_mTh5KlQgQ2361-e_OEr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_EzlkoGsPqil_mTh5KlQgQ2361-e_OEr</guid>
+			
+
+			<title><![CDATA[ 06你真的懂测试覆盖率吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06你真的懂测试覆盖率吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06你真的懂测试覆盖率吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06你真的懂测试覆盖率吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_EzlkoGsPqil_mTh5KlQgQ2361-e_OEr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_ELqmfGyY-iFTfXqhypRmsUq6Bi_tHxf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_ELqmfGyY-iFTfXqhypRmsUq6Bi_tHxf</guid>
+			
+
+			<title><![CDATA[ 05你知道软件开发各阶段都有哪些自动化测试技术吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05你知道软件开发各阶段都有哪些自动化测试技术吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05你知道软件开发各阶段都有哪些自动化测试技术吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05你知道软件开发各阶段都有哪些自动化测试技术吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_ELqmfGyY-iFTfXqhypRmsUq6Bi_tHxf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1_9zHZU9PSfM3Z72POPwe8DWL9nEgFy2q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1_9zHZU9PSfM3Z72POPwe8DWL9nEgFy2q</guid>
+			
+
+			<title><![CDATA[ 04为什么要做自动化测试？什么样的项目适合做自动化测试？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04为什么要做自动化测试？什么样的项目适合做自动化测试？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04为什么要做自动化测试？什么样的项目适合做自动化测试？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04为什么要做自动化测试？什么样的项目适合做自动化测试？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1_9zHZU9PSfM3Z72POPwe8DWL9nEgFy2q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zyf8_0sLJVgU4umMlxzwAR8NQGzre-Lz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zyf8_0sLJVgU4umMlxzwAR8NQGzre-Lz</guid>
+			
+
+			<title><![CDATA[ 03什么是单元测试？如何做好单元测试？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03什么是单元测试？如何做好单元测试？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03什么是单元测试？如何做好单元测试？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03什么是单元测试？如何做好单元测试？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zyf8_0sLJVgU4umMlxzwAR8NQGzre-Lz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Zv972bp4diio7U8vU-_BmqZTn53mV7UV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Zv972bp4diio7U8vU-_BmqZTn53mV7UV</guid>
+			
+
+			<title><![CDATA[ 02如何设计一个“好的”测试用例？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02如何设计一个“好的”测试用例？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02如何设计一个“好的”测试用例？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02如何设计一个“好的”测试用例？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Zv972bp4diio7U8vU-_BmqZTn53mV7UV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZrtLHyFS5II2wSCHqu1DYPm0lY86bqYi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZrtLHyFS5II2wSCHqu1DYPm0lY86bqYi</guid>
+			
+
+			<title><![CDATA[ 01你真的懂测试吗？从“用户登录”测试谈起.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01你真的懂测试吗？从“用户登录”测试谈起.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01你真的懂测试吗？从“用户登录”测试谈起.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01你真的懂测试吗？从“用户登录”测试谈起.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZrtLHyFS5II2wSCHqu1DYPm0lY86bqYi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZijRQXnioM00cGeAa5QAUYvcmyL0kVKV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZijRQXnioM00cGeAa5QAUYvcmyL0kVKV</guid>
+			
+
+			<title><![CDATA[ 00开篇词  从“小工”到“专家”，我的软件测试修炼之道.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00开篇词  从“小工”到“专家”，我的软件测试修炼之道.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00开篇词  从“小工”到“专家”，我的软件测试修炼之道.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00开篇词  从“小工”到“专家”，我的软件测试修炼之道.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZijRQXnioM00cGeAa5QAUYvcmyL0kVKV"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

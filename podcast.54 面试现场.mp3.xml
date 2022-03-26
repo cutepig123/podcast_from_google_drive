@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .54 面试现场.mp3 ]]></title>
+		<itunes:subtitle><![CDATA[ .54 面试现场.mp3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .54 面试现场.mp3. ]]></itunes:summary>
+		<description><![CDATA[ .54 面试现场.mp3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1OUQn4UHu8ThbULyRR4nHUwY0Ocns2Qql</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OUQn4UHu8ThbULyRR4nHUwY0Ocns2Qql</guid>
+			
+
+			<title><![CDATA[ 开篇词-面试，这样做会功到自然成.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词-面试，这样做会功到自然成.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词-面试，这样做会功到自然成.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词-面试，这样做会功到自然成.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OUQn4UHu8ThbULyRR4nHUwY0Ocns2Qql"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OTeY4-5rYj7QLn4yCKYemXMEd3irD4SW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OTeY4-5rYj7QLn4yCKYemXMEd3irD4SW</guid>
+			
+
+			<title><![CDATA[ 结束语-以终为始，闭环迭代，持续提高.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语-以终为始，闭环迭代，持续提高.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语-以终为始，闭环迭代，持续提高.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语-以终为始，闭环迭代，持续提高.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OTeY4-5rYj7QLn4yCKYemXMEd3irD4SW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OMvlN1deYWHpq3cypfPLr8k7mvsbDqdB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OMvlN1deYWHpq3cypfPLr8k7mvsbDqdB</guid>
+			
+
+			<title><![CDATA[ 37-面试答疑（三）：如何更好地体现你的能力？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37-面试答疑（三）：如何更好地体现你的能力？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37-面试答疑（三）：如何更好地体现你的能力？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37-面试答疑（三）：如何更好地体现你的能力？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OMvlN1deYWHpq3cypfPLr8k7mvsbDqdB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OBN-Iu3FMD6G_bjuOM5HF-MnCagHApD2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OBN-Iu3FMD6G_bjuOM5HF-MnCagHApD2</guid>
+			
+
+			<title><![CDATA[ 36-合同都签了，老板却不放你走，怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36-合同都签了，老板却不放你走，怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36-合同都签了，老板却不放你走，怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36-合同都签了，老板却不放你走，怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OBN-Iu3FMD6G_bjuOM5HF-MnCagHApD2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O9KGc3S62tFhlLvrDmo32_xzO9FRlqKc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O9KGc3S62tFhlLvrDmo32_xzO9FRlqKc</guid>
+			
+
+			<title><![CDATA[ 35-通过面试，你能了解这个团队多少？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35-通过面试，你能了解这个团队多少？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35-通过面试，你能了解这个团队多少？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35-通过面试，你能了解这个团队多少？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O9KGc3S62tFhlLvrDmo32_xzO9FRlqKc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O8bHzUvN_fv5CG48idkf6cFFmrIHHGwr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O8bHzUvN_fv5CG48idkf6cFFmrIHHGwr</guid>
+			
+
+			<title><![CDATA[ 34-盘点面试官和应聘者的认知差异.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34-盘点面试官和应聘者的认知差异.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34-盘点面试官和应聘者的认知差异.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34-盘点面试官和应聘者的认知差异.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O8bHzUvN_fv5CG48idkf6cFFmrIHHGwr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O4_j46jndwaGIirbg8ese9KVuWA_yAv_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O4_j46jndwaGIirbg8ese9KVuWA_yAv_</guid>
+			
+
+			<title><![CDATA[ 33-你解决问题的能力有多强？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33-你解决问题的能力有多强？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33-你解决问题的能力有多强？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33-你解决问题的能力有多强？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O4_j46jndwaGIirbg8ese9KVuWA_yAv_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O3k1df3lMzZRjB1foXwk_xsJB1L3gNcR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O3k1df3lMzZRjB1foXwk_xsJB1L3gNcR</guid>
+			
+
+			<title><![CDATA[ 32-不是领导，怎么体现你的领导力？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32-不是领导，怎么体现你的领导力？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32-不是领导，怎么体现你的领导力？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32-不是领导，怎么体现你的领导力？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O3k1df3lMzZRjB1foXwk_xsJB1L3gNcR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O1FsSMUdY2q9b_Mf-klaLxT95E69i8bW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O1FsSMUdY2q9b_Mf-klaLxT95E69i8bW</guid>
+			
+
+			<title><![CDATA[ 31-怎样体现你的协作能力强？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31-怎样体现你的协作能力强？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31-怎样体现你的协作能力强？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31-怎样体现你的协作能力强？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O1FsSMUdY2q9b_Mf-klaLxT95E69i8bW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NxEvtCA-cV97jpziUWxyn3Dmc9Aj32u1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NxEvtCA-cV97jpziUWxyn3Dmc9Aj32u1</guid>
+			
+
+			<title><![CDATA[ 30-怎么体现你能把工作越做越好？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30-怎么体现你能把工作越做越好？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30-怎么体现你能把工作越做越好？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30-怎么体现你能把工作越做越好？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NxEvtCA-cV97jpziUWxyn3Dmc9Aj32u1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NtthAR9SIet-RnPJiDplIDaaa3Ux4ORd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NtthAR9SIet-RnPJiDplIDaaa3Ux4ORd</guid>
+			
+
+			<title><![CDATA[ 29-考官面对面：面试经验谈之校招与社招.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29-考官面对面：面试经验谈之校招与社招.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29-考官面对面：面试经验谈之校招与社招.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29-考官面对面：面试经验谈之校招与社招.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NtthAR9SIet-RnPJiDplIDaaa3Ux4ORd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nqx9wGydpGAxWRlHIS9X3FQicMUNQUHh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nqx9wGydpGAxWRlHIS9X3FQicMUNQUHh</guid>
+			
+
+			<title><![CDATA[ 28-怎样体现你的学习能力强？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28-怎样体现你的学习能力强？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28-怎样体现你的学习能力强？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28-怎样体现你的学习能力强？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nqx9wGydpGAxWRlHIS9X3FQicMUNQUHh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NqLHodPYF8xlGDiO3QzsPYXamNpYv-lB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NqLHodPYF8xlGDiO3QzsPYXamNpYv-lB</guid>
+			
+
+			<title><![CDATA[ 27-面试答疑（二）：面试问答环节的一些思考.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27-面试答疑（二）：面试问答环节的一些思考.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27-面试答疑（二）：面试问答环节的一些思考.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27-面试答疑（二）：面试问答环节的一些思考.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NqLHodPYF8xlGDiO3QzsPYXamNpYv-lB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Noc7fRNwwQhZq70PoPw1sQYPbm8TvWzU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Noc7fRNwwQhZq70PoPw1sQYPbm8TvWzU</guid>
+			
+
+			<title><![CDATA[ 26-怎么谈薪水比较好？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26-怎么谈薪水比较好？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26-怎么谈薪水比较好？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26-怎么谈薪水比较好？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Noc7fRNwwQhZq70PoPw1sQYPbm8TvWzU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nn1CdxDZ2StEbyJs94OyrI_LdEUZd8tx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nn1CdxDZ2StEbyJs94OyrI_LdEUZd8tx</guid>
+			
+
+			<title><![CDATA[ 25-应该如何向面试官提问？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25-应该如何向面试官提问？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25-应该如何向面试官提问？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25-应该如何向面试官提问？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nn1CdxDZ2StEbyJs94OyrI_LdEUZd8tx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NeLNQECE-LT-F-TqFnoyciMxVy0OjpWG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NeLNQECE-LT-F-TqFnoyciMxVy0OjpWG</guid>
+			
+
+			<title><![CDATA[ 24-被面试官问住了怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24-被面试官问住了怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24-被面试官问住了怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24-被面试官问住了怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NeLNQECE-LT-F-TqFnoyciMxVy0OjpWG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NczmZnJUTf5SDtKTpTqvx1wnV9kPz18x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NczmZnJUTf5SDtKTpTqvx1wnV9kPz18x</guid>
+			
+
+			<title><![CDATA[ 23-考官面对面：我们是如何面试架构师的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23-考官面对面：我们是如何面试架构师的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23-考官面对面：我们是如何面试架构师的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23-考官面对面：我们是如何面试架构师的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NczmZnJUTf5SDtKTpTqvx1wnV9kPz18x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N_ODOokAcoSRTywYtEOGUrpzJqowTylD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N_ODOokAcoSRTywYtEOGUrpzJqowTylD</guid>
+			
+
+			<title><![CDATA[ 22-如何让你的回答更到位？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22-如何让你的回答更到位？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22-如何让你的回答更到位？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22-如何让你的回答更到位？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N_ODOokAcoSRTywYtEOGUrpzJqowTylD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NZPwWr9Q-TeG3a48air5IjcyBJnLlIO3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NZPwWr9Q-TeG3a48air5IjcyBJnLlIO3</guid>
+			
+
+			<title><![CDATA[ 21-透过兴趣爱好，面试官可以看出什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21-透过兴趣爱好，面试官可以看出什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21-透过兴趣爱好，面试官可以看出什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21-透过兴趣爱好，面试官可以看出什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NZPwWr9Q-TeG3a48air5IjcyBJnLlIO3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NX-9MbnvIxOduyrx8aiQ9yZcqdTxny2V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NX-9MbnvIxOduyrx8aiQ9yZcqdTxny2V</guid>
+			
+
+			<title><![CDATA[ 20-考官面对面：我是如何面试程序员的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20-考官面对面：我是如何面试程序员的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20-考官面对面：我是如何面试程序员的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20-考官面对面：我是如何面试程序员的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NX-9MbnvIxOduyrx8aiQ9yZcqdTxny2V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NRr5ezBxAIQozTPZvx-dwK64ygpkzsEq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NRr5ezBxAIQozTPZvx-dwK64ygpkzsEq</guid>
+			
+
+			<title><![CDATA[ 19-如何认识自己的优缺点？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19-如何认识自己的优缺点？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19-如何认识自己的优缺点？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19-如何认识自己的优缺点？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NRr5ezBxAIQozTPZvx-dwK64ygpkzsEq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NKP4HvdvJQ6TOpN3OwY0STQ1j7SCqkLh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NKP4HvdvJQ6TOpN3OwY0STQ1j7SCqkLh</guid>
+			
+
+			<title><![CDATA[ 18-怎样展示你在项目中的重要性？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18-怎样展示你在项目中的重要性？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18-怎样展示你在项目中的重要性？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18-怎样展示你在项目中的重要性？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NKP4HvdvJQ6TOpN3OwY0STQ1j7SCqkLh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NHxUslL6os4wmd-LoOZ3tdaB2bmZAgTJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NHxUslL6os4wmd-LoOZ3tdaB2bmZAgTJ</guid>
+			
+
+			<title><![CDATA[ 17-考官面对面：面试与应聘，如何站在对方的角度考虑问题？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17-考官面对面：面试与应聘，如何站在对方的角度考虑问题？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17-考官面对面：面试与应聘，如何站在对方的角度考虑问题？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17-考官面对面：面试与应聘，如何站在对方的角度考虑问题？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NHxUslL6os4wmd-LoOZ3tdaB2bmZAgTJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ND0LU26zE0t_DBD02JYD03AIT9tHs0Ul</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ND0LU26zE0t_DBD02JYD03AIT9tHs0Ul</guid>
+			
+
+			<title><![CDATA[ 16-你真能讲明白技术吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16-你真能讲明白技术吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16-你真能讲明白技术吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16-你真能讲明白技术吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ND0LU26zE0t_DBD02JYD03AIT9tHs0Ul"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NCP5L8ZQKbWYQbWhg5TX5shRDTcr53xg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NCP5L8ZQKbWYQbWhg5TX5shRDTcr53xg</guid>
+			
+
+			<title><![CDATA[ 15-如何做好开场：给自我介绍加“特效”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15-如何做好开场：给自我介绍加“特效”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15-如何做好开场：给自我介绍加“特效”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15-如何做好开场：给自我介绍加“特效”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NCP5L8ZQKbWYQbWhg5TX5shRDTcr53xg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NATFwqpWEcGQBmpl1DEh7uqQfYCqRS55</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NATFwqpWEcGQBmpl1DEh7uqQfYCqRS55</guid>
+			
+
+			<title><![CDATA[ 14-面试答疑（一）：说说你面试中的一些困惑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14-面试答疑（一）：说说你面试中的一些困惑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14-面试答疑（一）：说说你面试中的一些困惑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14-面试答疑（一）：说说你面试中的一些困惑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NATFwqpWEcGQBmpl1DEh7uqQfYCqRS55"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N5XSDym7MdGiSz3PtkIawe-qKxmNEu1M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N5XSDym7MdGiSz3PtkIawe-qKxmNEu1M</guid>
+			
+
+			<title><![CDATA[ 13-面试紧张怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13-面试紧张怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13-面试紧张怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13-面试紧张怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N5XSDym7MdGiSz3PtkIawe-qKxmNEu1M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N0GYx3L4-FJlu5qnV7oOkI8c14TbFatk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N0GYx3L4-FJlu5qnV7oOkI8c14TbFatk</guid>
+			
+
+			<title><![CDATA[ 12-经历没有亮点可讲？你需要做份“详历”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12-经历没有亮点可讲？你需要做份“详历”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12-经历没有亮点可讲？你需要做份“详历”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12-经历没有亮点可讲？你需要做份“详历”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N0GYx3L4-FJlu5qnV7oOkI8c14TbFatk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MwW4voKpKBBoKT385TIIyThV65TtoH47</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MwW4voKpKBBoKT385TIIyThV65TtoH47</guid>
+			
+
+			<title><![CDATA[ 11-考官面对面：面试注意事项及面试官们常见的思维模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11-考官面对面：面试注意事项及面试官们常见的思维模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11-考官面对面：面试注意事项及面试官们常见的思维模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11-考官面对面：面试注意事项及面试官们常见的思维模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MwW4voKpKBBoKT385TIIyThV65TtoH47"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MrEAXFxNOeRJcxEAR50upswTcPzatsC1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MrEAXFxNOeRJcxEAR50upswTcPzatsC1</guid>
+			
+
+			<title><![CDATA[ 10-如何让你的简历更受青睐.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10-如何让你的简历更受青睐.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10-如何让你的简历更受青睐.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10-如何让你的简历更受青睐.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MrEAXFxNOeRJcxEAR50upswTcPzatsC1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mo2_U0jdJHQW8fgof6gWbvV5UKnyF5Dj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mo2_U0jdJHQW8fgof6gWbvV5UKnyF5Dj</guid>
+			
+
+			<title><![CDATA[ 09-职业规划二：程序员后来都去干啥了？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09-职业规划二：程序员后来都去干啥了？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09-职业规划二：程序员后来都去干啥了？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09-职业规划二：程序员后来都去干啥了？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mo2_U0jdJHQW8fgof6gWbvV5UKnyF5Dj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ml8D8M0D3_lEbqYgG8OWDx1noaU-3qez</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ml8D8M0D3_lEbqYgG8OWDx1noaU-3qez</guid>
+			
+
+			<title><![CDATA[ 08-考官面对面：如何有效地准备一场面试？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08-考官面对面：如何有效地准备一场面试？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08-考官面对面：如何有效地准备一场面试？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08-考官面对面：如何有效地准备一场面试？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ml8D8M0D3_lEbqYgG8OWDx1noaU-3qez"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MiVZZBujmINk5ZHTljnXgma4Z26hdGLC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MiVZZBujmINk5ZHTljnXgma4Z26hdGLC</guid>
+			
+
+			<title><![CDATA[ 07-职业规划一：你真的想好要怎么发展了吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07-职业规划一：你真的想好要怎么发展了吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07-职业规划一：你真的想好要怎么发展了吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07-职业规划一：你真的想好要怎么发展了吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MiVZZBujmINk5ZHTljnXgma4Z26hdGLC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MfQmp5LFQYEbByiJY55ppIbGpoNLfp_0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MfQmp5LFQYEbByiJY55ppIbGpoNLfp_0</guid>
+			
+
+			<title><![CDATA[ 06-喜欢或擅长的工作，你该选哪一个？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06-喜欢或擅长的工作，你该选哪一个？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06-喜欢或擅长的工作，你该选哪一个？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06-喜欢或擅长的工作，你该选哪一个？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MfQmp5LFQYEbByiJY55ppIbGpoNLfp_0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1McC1sr9_e1WCdHTuPcDlGZTWyTxrWGy6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1McC1sr9_e1WCdHTuPcDlGZTWyTxrWGy6</guid>
+			
+
+			<title><![CDATA[ 05考官面对面-程序员择业时常碰到的几个疑惑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05考官面对面-程序员择业时常碰到的几个疑惑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05考官面对面-程序员择业时常碰到的几个疑惑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05考官面对面-程序员择业时常碰到的几个疑惑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1McC1sr9_e1WCdHTuPcDlGZTWyTxrWGy6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MXGPUaXJH5uhrWLVmwb33myJ69_vsdl-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MXGPUaXJH5uhrWLVmwb33myJ69_vsdl-</guid>
+			
+
+			<title><![CDATA[ 04-现在的你，到底该不该换工作.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04-现在的你，到底该不该换工作.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04-现在的你，到底该不该换工作.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04-现在的你，到底该不该换工作.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MXGPUaXJH5uhrWLVmwb33myJ69_vsdl-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MVJxk97kHMzYUVSLw8psjb6zXM4XWvSq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MVJxk97kHMzYUVSLw8psjb6zXM4XWvSq</guid>
+			
+
+			<title><![CDATA[ 03-面试官的面试逻辑是什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03-面试官的面试逻辑是什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03-面试官的面试逻辑是什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03-面试官的面试逻辑是什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MVJxk97kHMzYUVSLw8psjb6zXM4XWvSq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MUaksOh7T99cJ9IVzr5yRpksRfZmCuQf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MUaksOh7T99cJ9IVzr5yRpksRfZmCuQf</guid>
+			
+
+			<title><![CDATA[ 02-想要成功面试，先要弄懂面试过程.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02-想要成功面试，先要弄懂面试过程.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02-想要成功面试，先要弄懂面试过程.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02-想要成功面试，先要弄懂面试过程.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MUaksOh7T99cJ9IVzr5yRpksRfZmCuQf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MUF1a0ZXk0ySIb6GD9s-tCefmtzKHGiz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MUF1a0ZXk0ySIb6GD9s-tCefmtzKHGiz</guid>
+			
+
+			<title><![CDATA[ 01-公司到底想要什么样的人？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01-公司到底想要什么样的人？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01-公司到底想要什么样的人？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01-公司到底想要什么样的人？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MUF1a0ZXk0ySIb6GD9s-tCefmtzKHGiz"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

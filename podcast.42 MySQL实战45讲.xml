@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .42 MySQL实战45讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .42 MySQL实战45讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .42 MySQL实战45讲. ]]></itunes:summary>
+		<description><![CDATA[ .42 MySQL实战45讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1lIB8JUEo9e5MkJbj9qtcMuxC8p4Rpzti</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lIB8JUEo9e5MkJbj9qtcMuxC8p4Rpzti</guid>
+			
+
+			<title><![CDATA[ 开篇词.这一次，让我们一起来搞懂MySQL.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词.这一次，让我们一起来搞懂MySQL.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词.这一次，让我们一起来搞懂MySQL.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词.这一次，让我们一起来搞懂MySQL.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lIB8JUEo9e5MkJbj9qtcMuxC8p4Rpzti"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1l05PwVSDnpEsL8cntJS822wLlRO46HNa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1l05PwVSDnpEsL8cntJS822wLlRO46HNa</guid>
+			
+
+			<title><![CDATA[ 结束语.点线网面一起构建MySQL知识网络.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语.点线网面一起构建MySQL知识网络.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语.点线网面一起构建MySQL知识网络.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语.点线网面一起构建MySQL知识网络.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1l05PwVSDnpEsL8cntJS822wLlRO46HNa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kqlOl1RgVjM-CT3flxQST7S_KmG19p5C</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kqlOl1RgVjM-CT3flxQST7S_KmG19p5C</guid>
+			
+
+			<title><![CDATA[ 45.自增id用完怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45.自增id用完怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45.自增id用完怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45.自增id用完怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kqlOl1RgVjM-CT3flxQST7S_KmG19p5C"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kXDDzFBVO1L8Pval6UgdOpICzX67c6jC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kXDDzFBVO1L8Pval6UgdOpICzX67c6jC</guid>
+			
+
+			<title><![CDATA[ 44.答疑文章（三）：说一说这些好问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44.答疑文章（三）：说一说这些好问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44.答疑文章（三）：说一说这些好问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44.答疑文章（三）：说一说这些好问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kXDDzFBVO1L8Pval6UgdOpICzX67c6jC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kQqm2nRV7-c48jtejXmzzMZhYX5wZV1g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kQqm2nRV7-c48jtejXmzzMZhYX5wZV1g</guid>
+			
+
+			<title><![CDATA[ 43.要不要使用分区表？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43.要不要使用分区表？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43.要不要使用分区表？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43.要不要使用分区表？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kQqm2nRV7-c48jtejXmzzMZhYX5wZV1g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1k7CFvGzGaRHAQZa2TON-xlnpzVqzlK4g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1k7CFvGzGaRHAQZa2TON-xlnpzVqzlK4g</guid>
+			
+
+			<title><![CDATA[ 42.grant之后要跟着flush privileges吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42.grant之后要跟着flush privileges吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42.grant之后要跟着flush privileges吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42.grant之后要跟着flush privileges吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1k7CFvGzGaRHAQZa2TON-xlnpzVqzlK4g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jnvbDOzDECm4fzKFcGyodjbGdF7d0IYx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jnvbDOzDECm4fzKFcGyodjbGdF7d0IYx</guid>
+			
+
+			<title><![CDATA[ 41.怎么最快地复制一张表？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41.怎么最快地复制一张表？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41.怎么最快地复制一张表？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41.怎么最快地复制一张表？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jnvbDOzDECm4fzKFcGyodjbGdF7d0IYx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jMhbTK6nlrFU_vTCJvBCDSmZnwVFm4tW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jMhbTK6nlrFU_vTCJvBCDSmZnwVFm4tW</guid>
+			
+
+			<title><![CDATA[ 40.insert语句的锁为什么这么多？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40.insert语句的锁为什么这么多？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40.insert语句的锁为什么这么多？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40.insert语句的锁为什么这么多？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jMhbTK6nlrFU_vTCJvBCDSmZnwVFm4tW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1jHiIxjs8FAsQH6zhkghIX6SaeKptR2Sk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1jHiIxjs8FAsQH6zhkghIX6SaeKptR2Sk</guid>
+			
+
+			<title><![CDATA[ 39.自增主键为什么不是连续的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39.自增主键为什么不是连续的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39.自增主键为什么不是连续的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39.自增主键为什么不是连续的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1jHiIxjs8FAsQH6zhkghIX6SaeKptR2Sk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ip07ltl2CUn5tqFc7TxR6uiJE_q-ci9G</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ip07ltl2CUn5tqFc7TxR6uiJE_q-ci9G</guid>
+			
+
+			<title><![CDATA[ 38.都说InnoDB好那还要不要使用Memory引擎？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38.都说InnoDB好那还要不要使用Memory引擎？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38.都说InnoDB好那还要不要使用Memory引擎？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38.都说InnoDB好那还要不要使用Memory引擎？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ip07ltl2CUn5tqFc7TxR6uiJE_q-ci9G"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1iQr1dY3rulbPHjGm_dEqRU5693RfqV5N</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1iQr1dY3rulbPHjGm_dEqRU5693RfqV5N</guid>
+			
+
+			<title><![CDATA[ 37.什么时候会使用内部临时表？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37.什么时候会使用内部临时表？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37.什么时候会使用内部临时表？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37.什么时候会使用内部临时表？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1iQr1dY3rulbPHjGm_dEqRU5693RfqV5N"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1i2LzN7FXkvm1hmnW5BS1XaafHalsDzW3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1i2LzN7FXkvm1hmnW5BS1XaafHalsDzW3</guid>
+			
+
+			<title><![CDATA[ 36.为什么临时表可以重名？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36.为什么临时表可以重名？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36.为什么临时表可以重名？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36.为什么临时表可以重名？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1i2LzN7FXkvm1hmnW5BS1XaafHalsDzW3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hpZpvoH0Pp5fsjZ6CpGMZ9FDJ8M01Pxr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hpZpvoH0Pp5fsjZ6CpGMZ9FDJ8M01Pxr</guid>
+			
+
+			<title><![CDATA[ 35.join语句怎么优化？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35.join语句怎么优化？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35.join语句怎么优化？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35.join语句怎么优化？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hpZpvoH0Pp5fsjZ6CpGMZ9FDJ8M01Pxr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1hEgAVvzpblniGrWONkr2HEget3rGoqfq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1hEgAVvzpblniGrWONkr2HEget3rGoqfq</guid>
+			
+
+			<title><![CDATA[ 34.到底可不可以使用join？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34.到底可不可以使用join？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34.到底可不可以使用join？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34.到底可不可以使用join？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1hEgAVvzpblniGrWONkr2HEget3rGoqfq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1gk1oJW_VTA9ynvRWKjX1qIOSSeq-rr4N</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1gk1oJW_VTA9ynvRWKjX1qIOSSeq-rr4N</guid>
+			
+
+			<title><![CDATA[ 33.我查这么多数据会不会把数据库内存打爆？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33.我查这么多数据会不会把数据库内存打爆？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33.我查这么多数据会不会把数据库内存打爆？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33.我查这么多数据会不会把数据库内存打爆？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1gk1oJW_VTA9ynvRWKjX1qIOSSeq-rr4N"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1gOmewkJ0FjzZYbUtz-xUoOTNBe3rAOed</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1gOmewkJ0FjzZYbUtz-xUoOTNBe3rAOed</guid>
+			
+
+			<title><![CDATA[ 32.为什么还有kill不掉的语句？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32.为什么还有kill不掉的语句？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32.为什么还有kill不掉的语句？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32.为什么还有kill不掉的语句？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1gOmewkJ0FjzZYbUtz-xUoOTNBe3rAOed"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fyDyNdgf8YzZO862VEyndixLQnVgGWqx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fyDyNdgf8YzZO862VEyndixLQnVgGWqx</guid>
+			
+
+			<title><![CDATA[ 31.误删数据后除了跑路还能怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31.误删数据后除了跑路还能怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31.误删数据后除了跑路还能怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31.误删数据后除了跑路还能怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fyDyNdgf8YzZO862VEyndixLQnVgGWqx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fnYPiTCSF1gd4Bi3NT-943rpDt7EfS0h</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fnYPiTCSF1gd4Bi3NT-943rpDt7EfS0h</guid>
+			
+
+			<title><![CDATA[ 30.答疑文章（二）：用动态的观点看加锁.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30.答疑文章（二）：用动态的观点看加锁.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30.答疑文章（二）：用动态的观点看加锁.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30.答疑文章（二）：用动态的观点看加锁.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fnYPiTCSF1gd4Bi3NT-943rpDt7EfS0h"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fWy6uFIfzRBDMvQOBa2OqBtN1FBnwDpB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fWy6uFIfzRBDMvQOBa2OqBtN1FBnwDpB</guid>
+			
+
+			<title><![CDATA[ 29.如何判断一个数据库是不是出问题了？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29.如何判断一个数据库是不是出问题了？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29.如何判断一个数据库是不是出问题了？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29.如何判断一个数据库是不是出问题了？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fWy6uFIfzRBDMvQOBa2OqBtN1FBnwDpB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1fFxZHqK8RLQNttrqZwjnmmpvJ6tyQ2e5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1fFxZHqK8RLQNttrqZwjnmmpvJ6tyQ2e5</guid>
+			
+
+			<title><![CDATA[ 28.读写分离有哪些坑？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28.读写分离有哪些坑？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28.读写分离有哪些坑？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28.读写分离有哪些坑？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1fFxZHqK8RLQNttrqZwjnmmpvJ6tyQ2e5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ewKhCqHVi57btGJ5cQkzALFyyf6rZ_Pp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ewKhCqHVi57btGJ5cQkzALFyyf6rZ_Pp</guid>
+			
+
+			<title><![CDATA[ 27.主库出问题了从库怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27.主库出问题了从库怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27.主库出问题了从库怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27.主库出问题了从库怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ewKhCqHVi57btGJ5cQkzALFyyf6rZ_Pp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ed6D4BqZibU49h08sn4SNPQzLzZNUAnf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ed6D4BqZibU49h08sn4SNPQzLzZNUAnf</guid>
+			
+
+			<title><![CDATA[ 26.备库为什么会延迟好几个小时？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26.备库为什么会延迟好几个小时？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26.备库为什么会延迟好几个小时？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26.备库为什么会延迟好几个小时？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ed6D4BqZibU49h08sn4SNPQzLzZNUAnf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1eKgmJwusHkJOMb-WloVmK_fGaWnDhoRY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1eKgmJwusHkJOMb-WloVmK_fGaWnDhoRY</guid>
+			
+
+			<title><![CDATA[ 25.MySQL是怎么保证高可用的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25.MySQL是怎么保证高可用的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25.MySQL是怎么保证高可用的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25.MySQL是怎么保证高可用的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1eKgmJwusHkJOMb-WloVmK_fGaWnDhoRY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1e70534G-5QbOOUeXYQuLdmHKIKUM4Aj0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1e70534G-5QbOOUeXYQuLdmHKIKUM4Aj0</guid>
+			
+
+			<title><![CDATA[ 24.MySQL是怎么保证主备一致的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24.MySQL是怎么保证主备一致的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24.MySQL是怎么保证主备一致的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24.MySQL是怎么保证主备一致的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1e70534G-5QbOOUeXYQuLdmHKIKUM4Aj0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1dkTQactIt41CN0ziI0SxhRCde6EdtBTD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dkTQactIt41CN0ziI0SxhRCde6EdtBTD</guid>
+			
+
+			<title><![CDATA[ 23.MySQL是怎么保证数据不丢的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23.MySQL是怎么保证数据不丢的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23.MySQL是怎么保证数据不丢的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23.MySQL是怎么保证数据不丢的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dkTQactIt41CN0ziI0SxhRCde6EdtBTD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1da8n6O3_m33_QO0lXC49F4ScRoYucNTS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1da8n6O3_m33_QO0lXC49F4ScRoYucNTS</guid>
+			
+
+			<title><![CDATA[ 22.MySQL有哪些“饮鸩止渴”提高性能的方法？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22.MySQL有哪些“饮鸩止渴”提高性能的方法？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22.MySQL有哪些“饮鸩止渴”提高性能的方法？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22.MySQL有哪些“饮鸩止渴”提高性能的方法？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1da8n6O3_m33_QO0lXC49F4ScRoYucNTS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1dBaDWiGCGIMoURn2N8v0B1YepXK03d_-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1dBaDWiGCGIMoURn2N8v0B1YepXK03d_-</guid>
+			
+
+			<title><![CDATA[ 21.为什么我只改一行的语句锁这么多？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21.为什么我只改一行的语句锁这么多？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21.为什么我只改一行的语句锁这么多？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21.为什么我只改一行的语句锁这么多？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1dBaDWiGCGIMoURn2N8v0B1YepXK03d_-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1d4JC902DGmVdEqKJPwX-kklOriGf_6B0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1d4JC902DGmVdEqKJPwX-kklOriGf_6B0</guid>
+			
+
+			<title><![CDATA[ 20.幻读是什么幻读有什么问题？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20.幻读是什么幻读有什么问题？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20.幻读是什么幻读有什么问题？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20.幻读是什么幻读有什么问题？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1d4JC902DGmVdEqKJPwX-kklOriGf_6B0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1cQWLlwFeNAI0TZLtL5S3Do8C3nDm1Rsu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1cQWLlwFeNAI0TZLtL5S3Do8C3nDm1Rsu</guid>
+			
+
+			<title><![CDATA[ 19.为什么我只查一行的语句也执行这么慢？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19.为什么我只查一行的语句也执行这么慢？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19.为什么我只查一行的语句也执行这么慢？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19.为什么我只查一行的语句也执行这么慢？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1cQWLlwFeNAI0TZLtL5S3Do8C3nDm1Rsu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1c43N30ddQ3iaBCwszDhR7Zdl9GJQeOnQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1c43N30ddQ3iaBCwszDhR7Zdl9GJQeOnQ</guid>
+			
+
+			<title><![CDATA[ 19.为什么我只查一行的语句，也执行这么慢？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19.为什么我只查一行的语句，也执行这么慢？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19.为什么我只查一行的语句，也执行这么慢？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19.为什么我只查一行的语句，也执行这么慢？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1c43N30ddQ3iaBCwszDhR7Zdl9GJQeOnQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bNsiX-74vrSsFowWsQfDhvRw7GhDZkq8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bNsiX-74vrSsFowWsQfDhvRw7GhDZkq8</guid>
+			
+
+			<title><![CDATA[ 18.为什么这些SQL语句逻辑相同性能却差异巨大？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18.为什么这些SQL语句逻辑相同性能却差异巨大？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18.为什么这些SQL语句逻辑相同性能却差异巨大？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18.为什么这些SQL语句逻辑相同性能却差异巨大？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bNsiX-74vrSsFowWsQfDhvRw7GhDZkq8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1bCo7JHFssFqw6i8aJXVG0_xcSxn66Yho</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1bCo7JHFssFqw6i8aJXVG0_xcSxn66Yho</guid>
+			
+
+			<title><![CDATA[ 18.为什么这些SQL语句逻辑相同，性能却差异巨大？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18.为什么这些SQL语句逻辑相同，性能却差异巨大？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18.为什么这些SQL语句逻辑相同，性能却差异巨大？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18.为什么这些SQL语句逻辑相同，性能却差异巨大？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1bCo7JHFssFqw6i8aJXVG0_xcSxn66Yho"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1awwmjSw0rvKd6Psf15JLxZqsweW1VSPG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1awwmjSw0rvKd6Psf15JLxZqsweW1VSPG</guid>
+			
+
+			<title><![CDATA[ 17.如何正确地显示随机消息？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17.如何正确地显示随机消息？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17.如何正确地显示随机消息？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17.如何正确地显示随机消息？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1awwmjSw0rvKd6Psf15JLxZqsweW1VSPG"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

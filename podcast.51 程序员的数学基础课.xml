@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .51 程序员的数学基础课 ]]></title>
+		<itunes:subtitle><![CDATA[ .51 程序员的数学基础课 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .51 程序员的数学基础课. ]]></itunes:summary>
+		<description><![CDATA[ .51 程序员的数学基础课 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1uscJzB_scTX1WbWvMedA7wNtvTWQl0t5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uscJzB_scTX1WbWvMedA7wNtvTWQl0t5</guid>
+			
+
+			<title><![CDATA[ 数学专栏课外加餐（一）讲我们为什么需要反码和补码.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 数学专栏课外加餐（一）讲我们为什么需要反码和补码.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 数学专栏课外加餐（一）讲我们为什么需要反码和补码.mp3 ]]></description>
+			<content:encoded><![CDATA[ 数学专栏课外加餐（一）讲我们为什么需要反码和补码.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uscJzB_scTX1WbWvMedA7wNtvTWQl0t5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uasbSJwYuHZfvkDnTgSFgHNcw50qLC0S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uasbSJwYuHZfvkDnTgSFgHNcw50qLC0S</guid>
+			
+
+			<title><![CDATA[ 数学专栏课外加餐（三）：程序员需要读哪些数学书.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 数学专栏课外加餐（三）：程序员需要读哪些数学书.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 数学专栏课外加餐（三）：程序员需要读哪些数学书.mp3 ]]></description>
+			<content:encoded><![CDATA[ 数学专栏课外加餐（三）：程序员需要读哪些数学书.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uasbSJwYuHZfvkDnTgSFgHNcw50qLC0S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1uOIOr54Zdp0B6Zil7oENcsXSJG3f-3aj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1uOIOr54Zdp0B6Zil7oENcsXSJG3f-3aj</guid>
+			
+
+			<title><![CDATA[ 数学专栏课外加餐（二）讲位操作的三个应用实例.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 数学专栏课外加餐（二）讲位操作的三个应用实例.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 数学专栏课外加餐（二）讲位操作的三个应用实例.mp3 ]]></description>
+			<content:encoded><![CDATA[ 数学专栏课外加餐（二）讲位操作的三个应用实例.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1uOIOr54Zdp0B6Zil7oENcsXSJG3f-3aj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1u5bC5qskX7Nm3C0aXdnk03839oFSJ8QQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1u5bC5qskX7Nm3C0aXdnk03839oFSJ8QQ</guid>
+			
+
+			<title><![CDATA[ 开篇词讲作为程序员，为什么你应该学好数学.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲作为程序员，为什么你应该学好数学.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲作为程序员，为什么你应该学好数学.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲作为程序员，为什么你应该学好数学.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1u5bC5qskX7Nm3C0aXdnk03839oFSJ8QQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tlv6iUJJkGplTZRNAy8MEkGqsTXRmRJb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tlv6iUJJkGplTZRNAy8MEkGqsTXRmRJb</guid>
+			
+
+			<title><![CDATA[ 结束语 从数学到编程，本身就是一个很长的链条.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语 从数学到编程，本身就是一个很长的链条.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语 从数学到编程，本身就是一个很长的链条.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语 从数学到编程，本身就是一个很长的链条.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tlv6iUJJkGplTZRNAy8MEkGqsTXRmRJb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1tIl7sZ2h6OPvNryOqrZiS2x3LgEfPIuo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1tIl7sZ2h6OPvNryOqrZiS2x3LgEfPIuo</guid>
+			
+
+			<title><![CDATA[ 导读：程序员应该怎么学数学.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 导读：程序员应该怎么学数学.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 导读：程序员应该怎么学数学.mp3 ]]></description>
+			<content:encoded><![CDATA[ 导读：程序员应该怎么学数学.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1tIl7sZ2h6OPvNryOqrZiS2x3LgEfPIuo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1t9PAZ0zMu30xaw7aKJd0A6z6tI4j0bl6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1t9PAZ0zMu30xaw7aKJd0A6z6tI4j0bl6</guid>
+			
+
+			<title><![CDATA[ 51 综合应用篇答疑和总结：如何进行个性化用户画像的设计？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 51 综合应用篇答疑和总结：如何进行个性化用户画像的设计？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 51 综合应用篇答疑和总结：如何进行个性化用户画像的设计？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 51 综合应用篇答疑和总结：如何进行个性化用户画像的设计？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1t9PAZ0zMu30xaw7aKJd0A6z6tI4j0bl6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1syxW79KH0g7aXqb9ZkNMEOOuA85j5eYh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1syxW79KH0g7aXqb9ZkNMEOOuA85j5eYh</guid>
+			
+
+			<title><![CDATA[ 50 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 50 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 50 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 50 推荐系统（下）：如何通过SVD分析用户和物品的矩阵？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1syxW79KH0g7aXqb9ZkNMEOOuA85j5eYh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sitRyYXX20X-ZkeFZtlW4ar_HBbHjN9-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sitRyYXX20X-ZkeFZtlW4ar_HBbHjN9-</guid>
+			
+
+			<title><![CDATA[ 49推荐系统（上）：如何实现基于相似度的协同过滤？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 49推荐系统（上）：如何实现基于相似度的协同过滤？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 49推荐系统（上）：如何实现基于相似度的协同过滤？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 49推荐系统（上）：如何实现基于相似度的协同过滤？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sitRyYXX20X-ZkeFZtlW4ar_HBbHjN9-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sXLg8T3dEE6Zjw8LqEQ4pnhpyNRQDIPr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sXLg8T3dEE6Zjw8LqEQ4pnhpyNRQDIPr</guid>
+			
+
+			<title><![CDATA[ 48搜索引擎（下）：如何通过查询的分类，让电商平台的搜索结果更相关？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 48搜索引擎（下）：如何通过查询的分类，让电商平台的搜索结果更相关？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 48搜索引擎（下）：如何通过查询的分类，让电商平台的搜索结果更相关？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 48搜索引擎（下）：如何通过查询的分类，让电商平台的搜索结果更相关？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sXLg8T3dEE6Zjw8LqEQ4pnhpyNRQDIPr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sOuQfLXI_4RZJTezTsMjC0WObVeke6Ck</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sOuQfLXI_4RZJTezTsMjC0WObVeke6Ck</guid>
+			
+
+			<title><![CDATA[ 47 搜索引擎（上）：如何通过倒排索引和向量空间模型，打造一个简单的搜索引擎？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 47 搜索引擎（上）：如何通过倒排索引和向量空间模型，打造一个简单的搜索引擎？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 47 搜索引擎（上）：如何通过倒排索引和向量空间模型，打造一个简单的搜索引擎？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 47 搜索引擎（上）：如何通过倒排索引和向量空间模型，打造一个简单的搜索引擎？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sOuQfLXI_4RZJTezTsMjC0WObVeke6Ck"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1sDqnlt2uYZ7REiqFdHDjjhPoAFxX75mt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1sDqnlt2uYZ7REiqFdHDjjhPoAFxX75mt</guid>
+			
+
+			<title><![CDATA[ 46缓存系统：如何通过哈希表和队列实现高效访问？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 46缓存系统：如何通过哈希表和队列实现高效访问？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 46缓存系统：如何通过哈希表和队列实现高效访问？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 46缓存系统：如何通过哈希表和队列实现高效访问？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1sDqnlt2uYZ7REiqFdHDjjhPoAFxX75mt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rrYwy_10w-VsP9fxZbtDC_e65rBpBTry</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rrYwy_10w-VsP9fxZbtDC_e65rBpBTry</guid>
+			
+
+			<title><![CDATA[ 45 线性代数篇答疑和总结：矩阵乘法的几何意义是什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45 线性代数篇答疑和总结：矩阵乘法的几何意义是什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45 线性代数篇答疑和总结：矩阵乘法的几何意义是什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45 线性代数篇答疑和总结：矩阵乘法的几何意义是什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rrYwy_10w-VsP9fxZbtDC_e65rBpBTry"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rmJ3D5SB2I5K-Qmf2p2mjDDsQYQkN4oR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rmJ3D5SB2I5K-Qmf2p2mjDDsQYQkN4oR</guid>
+			
+
+			<title><![CDATA[ 44奇异值分解：如何挖掘潜在的语义关系？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44奇异值分解：如何挖掘潜在的语义关系？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44奇异值分解：如何挖掘潜在的语义关系？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44奇异值分解：如何挖掘潜在的语义关系？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rmJ3D5SB2I5K-Qmf2p2mjDDsQYQkN4oR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rW1NMbVloKGyK1SeUq_s_Ltdud3lOSrg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rW1NMbVloKGyK1SeUq_s_Ltdud3lOSrg</guid>
+			
+
+			<title><![CDATA[ 43PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43PCA主成分分析（下）：为什么要计算协方差矩阵的特征值和特征向量？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rW1NMbVloKGyK1SeUq_s_Ltdud3lOSrg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1rIlt6laLBS-aA8I7u7-3RNBT39PFOPvL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1rIlt6laLBS-aA8I7u7-3RNBT39PFOPvL</guid>
+			
+
+			<title><![CDATA[ 42讲PCA主成分分析（上）：如何利用协方差矩阵来降维.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42讲PCA主成分分析（上）：如何利用协方差矩阵来降维.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42讲PCA主成分分析（上）：如何利用协方差矩阵来降维.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42讲PCA主成分分析（上）：如何利用协方差矩阵来降维.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1rIlt6laLBS-aA8I7u7-3RNBT39PFOPvL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1r1HSQIf0JR_6ohknXoFpB6MRugye_ujn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1r1HSQIf0JR_6ohknXoFpB6MRugye_ujn</guid>
+			
+
+			<title><![CDATA[ 41讲线性回归（下）：如何使用最小二乘法进行效果验证.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲线性回归（下）：如何使用最小二乘法进行效果验证.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲线性回归（下）：如何使用最小二乘法进行效果验证.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲线性回归（下）：如何使用最小二乘法进行效果验证.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1r1HSQIf0JR_6ohknXoFpB6MRugye_ujn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1qZBpBXOEG2iY1qVM1DsEzLdzdxo0xtYX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1qZBpBXOEG2iY1qVM1DsEzLdzdxo0xtYX</guid>
+			
+
+			<title><![CDATA[ 40讲线性回归（中）：如何使用最小二乘法进行直线拟合.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲线性回归（中）：如何使用最小二乘法进行直线拟合.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲线性回归（中）：如何使用最小二乘法进行直线拟合.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲线性回归（中）：如何使用最小二乘法进行直线拟合.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1qZBpBXOEG2iY1qVM1DsEzLdzdxo0xtYX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1punaKq7msR-AO8puxK7QyDt7h7F-MKS9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1punaKq7msR-AO8puxK7QyDt7h7F-MKS9</guid>
+			
+
+			<title><![CDATA[ 39讲线性回归（上）：如何使用高斯消元求解线性方程组.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲线性回归（上）：如何使用高斯消元求解线性方程组.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲线性回归（上）：如何使用高斯消元求解线性方程组.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲线性回归（上）：如何使用高斯消元求解线性方程组.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1punaKq7msR-AO8puxK7QyDt7h7F-MKS9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pZHWiuwJ1g2fWEd9-T4C5f4GU9JQhRd3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pZHWiuwJ1g2fWEd9-T4C5f4GU9JQhRd3</guid>
+			
+
+			<title><![CDATA[ 38讲矩阵（下）：如何使用矩阵操作进行协同过滤推荐.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲矩阵（下）：如何使用矩阵操作进行协同过滤推荐.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲矩阵（下）：如何使用矩阵操作进行协同过滤推荐.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲矩阵（下）：如何使用矩阵操作进行协同过滤推荐.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pZHWiuwJ1g2fWEd9-T4C5f4GU9JQhRd3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pRRSq-wFdtkOey955gej42Rmc4C0ukZJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pRRSq-wFdtkOey955gej42Rmc4C0ukZJ</guid>
+			
+
+			<title><![CDATA[ 37讲矩阵（上）：如何使用矩阵操作进行PageRank计算.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲矩阵（上）：如何使用矩阵操作进行PageRank计算.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲矩阵（上）：如何使用矩阵操作进行PageRank计算.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲矩阵（上）：如何使用矩阵操作进行PageRank计算.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pRRSq-wFdtkOey955gej42Rmc4C0ukZJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1pC_DG_ezKrnELV1fm0KX5ZJGGeMN3b6Q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1pC_DG_ezKrnELV1fm0KX5ZJGGeMN3b6Q</guid>
+			
+
+			<title><![CDATA[ 36讲文本聚类：如何过滤冗余的新闻.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲文本聚类：如何过滤冗余的新闻.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲文本聚类：如何过滤冗余的新闻.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲文本聚类：如何过滤冗余的新闻.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1pC_DG_ezKrnELV1fm0KX5ZJGGeMN3b6Q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1p01BvRiw_Yybf9Que2eMPtRRBA21YQpj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1p01BvRiw_Yybf9Que2eMPtRRBA21YQpj</guid>
+			
+
+			<title><![CDATA[ 35讲文本检索：如何让计算机处理自然语言.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲文本检索：如何让计算机处理自然语言.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲文本检索：如何让计算机处理自然语言.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲文本检索：如何让计算机处理自然语言.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1p01BvRiw_Yybf9Que2eMPtRRBA21YQpj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oZk8jxdCONvagOLb8uUT2jdHL4zS-3HO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oZk8jxdCONvagOLb8uUT2jdHL4zS-3HO</guid>
+			
+
+			<title><![CDATA[ 34讲向量空间模型：如何让计算机理解现实事物之间的关系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲向量空间模型：如何让计算机理解现实事物之间的关系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲向量空间模型：如何让计算机理解现实事物之间的关系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲向量空间模型：如何让计算机理解现实事物之间的关系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oZk8jxdCONvagOLb8uUT2jdHL4zS-3HO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1oCqsX86PS5mNValIu1GoJRdeX69f4Q5M</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1oCqsX86PS5mNValIu1GoJRdeX69f4Q5M</guid>
+			
+
+			<title><![CDATA[ 33讲线性代数：线性代数到底都讲了些什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲线性代数：线性代数到底都讲了些什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲线性代数：线性代数到底都讲了些什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲线性代数：线性代数到底都讲了些什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1oCqsX86PS5mNValIu1GoJRdeX69f4Q5M"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1no9yejVJAUrrt7hgMzE_R_CoSyoetTso</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1no9yejVJAUrrt7hgMzE_R_CoSyoetTso</guid>
+			
+
+			<title><![CDATA[ 32讲概率统计篇答疑和总结：为什么会有欠拟合和过拟合.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲概率统计篇答疑和总结：为什么会有欠拟合和过拟合.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲概率统计篇答疑和总结：为什么会有欠拟合和过拟合.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲概率统计篇答疑和总结：为什么会有欠拟合和过拟合.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1no9yejVJAUrrt7hgMzE_R_CoSyoetTso"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1nLNpudSbmILu7TTJ0EUq5qCKWXJ8jrDT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1nLNpudSbmILu7TTJ0EUq5qCKWXJ8jrDT</guid>
+			
+
+			<title><![CDATA[ 31讲统计意义（下）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲统计意义（下）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲统计意义（下）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲统计意义（下）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1nLNpudSbmILu7TTJ0EUq5qCKWXJ8jrDT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1myncTeYoV34jJluhMSwlcdtzktn6Qjif</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1myncTeYoV34jJluhMSwlcdtzktn6Qjif</guid>
+			
+
+			<title><![CDATA[ 30讲统计意义（上）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲统计意义（上）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲统计意义（上）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲统计意义（上）：如何通过显著性检验，判断你的AB测试结果是不是巧合.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1myncTeYoV34jJluhMSwlcdtzktn6Qjif"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mp_5C60W7nGeF4RE5pKyOJj9v3DMw5A6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mp_5C60W7nGeF4RE5pKyOJj9v3DMw5A6</guid>
+			
+
+			<title><![CDATA[ 29讲归一化和标准化：各种特征如何综合才是最合理的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲归一化和标准化：各种特征如何综合才是最合理的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲归一化和标准化：各种特征如何综合才是最合理的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲归一化和标准化：各种特征如何综合才是最合理的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mp_5C60W7nGeF4RE5pKyOJj9v3DMw5A6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1miyMReimgSt4mYhpDMCtlajynAvkFGwo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1miyMReimgSt4mYhpDMCtlajynAvkFGwo</guid>
+			
+
+			<title><![CDATA[ 28讲熵、信息增益和卡方：如何寻找关键特征.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲熵、信息增益和卡方：如何寻找关键特征.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲熵、信息增益和卡方：如何寻找关键特征.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲熵、信息增益和卡方：如何寻找关键特征.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1miyMReimgSt4mYhpDMCtlajynAvkFGwo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1mTU1zi6JsfCLGZMBwxe2ZcY88GWHIEZt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1mTU1zi6JsfCLGZMBwxe2ZcY88GWHIEZt</guid>
+			
+
+			<title><![CDATA[ 27讲决策树：信息增益、增益比率和基尼指数的运用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲决策树：信息增益、增益比率和基尼指数的运用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲决策树：信息增益、增益比率和基尼指数的运用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲决策树：信息增益、增益比率和基尼指数的运用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1mTU1zi6JsfCLGZMBwxe2ZcY88GWHIEZt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1m5XTv0ZUptyHozFssE1bmzND0wxAU0AP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1m5XTv0ZUptyHozFssE1bmzND0wxAU0AP</guid>
+			
+
+			<title><![CDATA[ 26讲信息熵：如何通过几个问题，测出你对应的武侠人物.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲信息熵：如何通过几个问题，测出你对应的武侠人物.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲信息熵：如何通过几个问题，测出你对应的武侠人物.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲信息熵：如何通过几个问题，测出你对应的武侠人物.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1m5XTv0ZUptyHozFssE1bmzND0wxAU0AP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lr9RacvfhF-x7qWCT-Rw-L6N593Cs6d1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lr9RacvfhF-x7qWCT-Rw-L6N593Cs6d1</guid>
+			
+
+			<title><![CDATA[ 25讲马尔科夫模型：从PageRank到语音识别，背后是什么模型在支撑.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲马尔科夫模型：从PageRank到语音识别，背后是什么模型在支撑.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲马尔科夫模型：从PageRank到语音识别，背后是什么模型在支撑.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲马尔科夫模型：从PageRank到语音识别，背后是什么模型在支撑.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lr9RacvfhF-x7qWCT-Rw-L6N593Cs6d1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1lSUxTzeYdRhhhTzC5sMY6VCb2QIJ-VS5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1lSUxTzeYdRhhhTzC5sMY6VCb2QIJ-VS5</guid>
+			
+
+			<title><![CDATA[ 24讲语言模型：如何使用链式法则和马尔科夫假设简化概率模型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲语言模型：如何使用链式法则和马尔科夫假设简化概率模型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲语言模型：如何使用链式法则和马尔科夫假设简化概率模型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲语言模型：如何使用链式法则和马尔科夫假设简化概率模型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1lSUxTzeYdRhhhTzC5sMY6VCb2QIJ-VS5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kxaaH2E6uFyqtdk3Zv6ShnjPjXVdARAO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kxaaH2E6uFyqtdk3Zv6ShnjPjXVdARAO</guid>
+			
+
+			<title><![CDATA[ 23讲文本分类：如何区分特定类型的新闻.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲文本分类：如何区分特定类型的新闻.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲文本分类：如何区分特定类型的新闻.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲文本分类：如何区分特定类型的新闻.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kxaaH2E6uFyqtdk3Zv6ShnjPjXVdARAO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1kuIkTfdsd176wtLcLrTp9XOS73cmXiZD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1kuIkTfdsd176wtLcLrTp9XOS73cmXiZD</guid>
+			
+
+			<title><![CDATA[ 22讲朴素贝叶斯：如何让计算机学会自动分类.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲朴素贝叶斯：如何让计算机学会自动分类.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲朴素贝叶斯：如何让计算机学会自动分类.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲朴素贝叶斯：如何让计算机学会自动分类.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1kuIkTfdsd176wtLcLrTp9XOS73cmXiZD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1klXg38IU8JxCTl-UZz8RhCBGE4bU5-f6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1klXg38IU8JxCTl-UZz8RhCBGE4bU5-f6</guid>
+			
+
+			<title><![CDATA[ 21讲概率基础（下）：联合概率、条件概率和贝叶斯法则，这些概率公式究竟能做什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲概率基础（下）：联合概率、条件概率和贝叶斯法则，这些概率公式究竟能做什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲概率基础（下）：联合概率、条件概率和贝叶斯法则，这些概率公式究竟能做什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲概率基础（下）：联合概率、条件概率和贝叶斯法则，这些概率公式究竟能做什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1klXg38IU8JxCTl-UZz8RhCBGE4bU5-f6"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

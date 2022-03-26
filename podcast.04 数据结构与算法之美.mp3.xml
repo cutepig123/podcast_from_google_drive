@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .04 数据结构与算法之美.mp3 ]]></title>
+		<itunes:subtitle><![CDATA[ .04 数据结构与算法之美.mp3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .04 数据结构与算法之美.mp3. ]]></itunes:summary>
+		<description><![CDATA[ .04 数据结构与算法之美.mp3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1W9j0SYbUxLXQJKNHdDheK6LL6mSE_hpJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1W9j0SYbUxLXQJKNHdDheK6LL6mSE_hpJ</guid>
+			
+
+			<title><![CDATA[ 开篇词从今天起，跨过“数据结构与算法”这道坎.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词从今天起，跨过“数据结构与算法”这道坎.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词从今天起，跨过“数据结构与算法”这道坎.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词从今天起，跨过“数据结构与算法”这道坎.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1W9j0SYbUxLXQJKNHdDheK6LL6mSE_hpJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1W7JqzqYPcYTQm7n9AVPuM9Ye1ErRKr4y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1W7JqzqYPcYTQm7n9AVPuM9Ye1ErRKr4y</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day7：贪心、分治、回溯和动态规划.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day7：贪心、分治、回溯和动态规划.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day7：贪心、分治、回溯和动态规划.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day7：贪心、分治、回溯和动态规划.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1W7JqzqYPcYTQm7n9AVPuM9Ye1ErRKr4y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1W1DdY5a8HI41GRkH7uHZi4MaCQGM8LTT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1W1DdY5a8HI41GRkH7uHZi4MaCQGM8LTT</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day6：图.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day6：图.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day6：图.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day6：图.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1W1DdY5a8HI41GRkH7uHZi4MaCQGM8LTT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VzhtkIeSena4DzTwkWHI_DGFf1ys-F9p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VzhtkIeSena4DzTwkWHI_DGFf1ys-F9p</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day5：二叉树和堆.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day5：二叉树和堆.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day5：二叉树和堆.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day5：二叉树和堆.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VzhtkIeSena4DzTwkWHI_DGFf1ys-F9p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VxH9v4PtlExkVXezc3P1GHtSDU9TvFX_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VxH9v4PtlExkVXezc3P1GHtSDU9TvFX_</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day4：散列表和字符串.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day4：散列表和字符串.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day4：散列表和字符串.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day4：散列表和字符串.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VxH9v4PtlExkVXezc3P1GHtSDU9TvFX_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VxCfQ8zh_VxXQ8yaNYZYq1E-snY1Oypk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VxCfQ8zh_VxXQ8yaNYZYq1E-snY1Oypk</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day3：排序和二分查找.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day3：排序和二分查找.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day3：排序和二分查找.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day3：排序和二分查找.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VxCfQ8zh_VxXQ8yaNYZYq1E-snY1Oypk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VskGX_5GaMdR13oEccqTfr1a0CsmgKmy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VskGX_5GaMdR13oEccqTfr1a0CsmgKmy</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day2：栈、队列和递归.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day2：栈、队列和递归.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day2：栈、队列和递归.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day2：栈、队列和递归.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VskGX_5GaMdR13oEccqTfr1a0CsmgKmy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VpRi93g1A_vViQ4YP1KUWRPgc_uUIMTN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VpRi93g1A_vViQ4YP1KUWRPgc_uUIMTN</guid>
+			
+
+			<title><![CDATA[ 春节7天练Day1：数组和链表.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 春节7天练Day1：数组和链表.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 春节7天练Day1：数组和链表.mp3 ]]></description>
+			<content:encoded><![CDATA[ 春节7天练Day1：数组和链表.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VpRi93g1A_vViQ4YP1KUWRPgc_uUIMTN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VpQ5KFhJuJeUOrvR3aMJHpxt8SKnOvOH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VpQ5KFhJuJeUOrvR3aMJHpxt8SKnOvOH</guid>
+			
+
+			<title><![CDATA[ 不定期福利第一期数据结构与算法学习书单.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 不定期福利第一期数据结构与算法学习书单.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 不定期福利第一期数据结构与算法学习书单.mp3 ]]></description>
+			<content:encoded><![CDATA[ 不定期福利第一期数据结构与算法学习书单.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VpQ5KFhJuJeUOrvR3aMJHpxt8SKnOvOH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VhuNzho1rQtveJjQEAJm33R_s3ZLliVQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VhuNzho1rQtveJjQEAJm33R_s3ZLliVQ</guid>
+			
+
+			<title><![CDATA[ 不定期福利第四期刘超：我是怎么学习《数据结构与算法之美》的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 不定期福利第四期刘超：我是怎么学习《数据结构与算法之美》的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 不定期福利第四期刘超：我是怎么学习《数据结构与算法之美》的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 不定期福利第四期刘超：我是怎么学习《数据结构与算法之美》的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VhuNzho1rQtveJjQEAJm33R_s3ZLliVQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VhYAvG2Dd_zZg6P0WpKsyvO9E5nhrgUd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VhYAvG2Dd_zZg6P0WpKsyvO9E5nhrgUd</guid>
+			
+
+			<title><![CDATA[ 不定期福利第三期测一测你的算法阶段学习成果.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 不定期福利第三期测一测你的算法阶段学习成果.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 不定期福利第三期测一测你的算法阶段学习成果.mp3 ]]></description>
+			<content:encoded><![CDATA[ 不定期福利第三期测一测你的算法阶段学习成果.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VhYAvG2Dd_zZg6P0WpKsyvO9E5nhrgUd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VWFA9axbFkS7f8pBVvHeK-qWj-PKAeR8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VWFA9axbFkS7f8pBVvHeK-qWj-PKAeR8</guid>
+			
+
+			<title><![CDATA[ 不定期福利第二期王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 不定期福利第二期王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 不定期福利第二期王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫.mp3 ]]></description>
+			<content:encoded><![CDATA[ 不定期福利第二期王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VWFA9axbFkS7f8pBVvHeK-qWj-PKAeR8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VMtIfiP9AYCc4F1KOryxEWD82Rl7vhE9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VMtIfiP9AYCc4F1KOryxEWD82Rl7vhE9</guid>
+			
+
+			<title><![CDATA[ 56算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 56算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 56算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 56算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VMtIfiP9AYCc4F1KOryxEWD82Rl7vhE9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VKoGdM2WOP5AEFPMcPCJmhNQzJ_l1fbY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VKoGdM2WOP5AEFPMcPCJmhNQzJ_l1fbY</guid>
+			
+
+			<title><![CDATA[ 55算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 55算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 55算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 55算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VKoGdM2WOP5AEFPMcPCJmhNQzJ_l1fbY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VJWxHSOdmIEnMsmUBOkEYyNRjfznA_Ah</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VJWxHSOdmIEnMsmUBOkEYyNRjfznA_Ah</guid>
+			
+
+			<title><![CDATA[ 54算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 54算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 54算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 54算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VJWxHSOdmIEnMsmUBOkEYyNRjfznA_Ah"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VDVDTkvOHYDF9Q3965A_tMBPlJURRdFO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VDVDTkvOHYDF9Q3965A_tMBPlJURRdFO</guid>
+			
+
+			<title><![CDATA[ 53算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 53算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 53算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 53算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VDVDTkvOHYDF9Q3965A_tMBPlJURRdFO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1V3N5uITMKZPDFGOT6j50EOXaMWHwspGC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1V3N5uITMKZPDFGOT6j50EOXaMWHwspGC</guid>
+			
+
+			<title><![CDATA[ 52算法实战（一）：剖析Redis常用数据类型对应的数据结构.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 52算法实战（一）：剖析Redis常用数据类型对应的数据结构.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 52算法实战（一）：剖析Redis常用数据类型对应的数据结构.mp3 ]]></description>
+			<content:encoded><![CDATA[ 52算法实战（一）：剖析Redis常用数据类型对应的数据结构.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1V3N5uITMKZPDFGOT6j50EOXaMWHwspGC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UmRJJ501VyfJ6d7vh5fpHkuhmMynZqWT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UmRJJ501VyfJ6d7vh5fpHkuhmMynZqWT</guid>
+			
+
+			<title><![CDATA[ 51并行算法：如何利用并行处理提高算法的执行效率？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 51并行算法：如何利用并行处理提高算法的执行效率？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 51并行算法：如何利用并行处理提高算法的执行效率？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 51并行算法：如何利用并行处理提高算法的执行效率？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UmRJJ501VyfJ6d7vh5fpHkuhmMynZqWT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Uk4h_1VsIy0PtRnqCIbStNLxRep3HvdS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Uk4h_1VsIy0PtRnqCIbStNLxRep3HvdS</guid>
+			
+
+			<title><![CDATA[ 50索引：如何在海量数据中快速查找某个数据？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 50索引：如何在海量数据中快速查找某个数据？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 50索引：如何在海量数据中快速查找某个数据？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 50索引：如何在海量数据中快速查找某个数据？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Uk4h_1VsIy0PtRnqCIbStNLxRep3HvdS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UjGBXbPtiYjPrOZcSqv6YmLNesKTGV6j</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UjGBXbPtiYjPrOZcSqv6YmLNesKTGV6j</guid>
+			
+
+			<title><![CDATA[ 49搜索：如何用A搜索算法实现游戏中的寻路功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 49搜索：如何用A搜索算法实现游戏中的寻路功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 49搜索：如何用A搜索算法实现游戏中的寻路功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 49搜索：如何用A搜索算法实现游戏中的寻路功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UjGBXbPtiYjPrOZcSqv6YmLNesKTGV6j"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UeTuol1C1Ydwq8e1igTEKsEt3Yiql8HA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UeTuol1C1Ydwq8e1igTEKsEt3Yiql8HA</guid>
+			
+
+			<title><![CDATA[ 48B树：MySQL数据库索引是如何实现的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 48B树：MySQL数据库索引是如何实现的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 48B树：MySQL数据库索引是如何实现的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 48B树：MySQL数据库索引是如何实现的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UeTuol1C1Ydwq8e1igTEKsEt3Yiql8HA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UdyvPtcK0zDPgGCpggJTDdrjrn0AdOlD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UdyvPtcK0zDPgGCpggJTDdrjrn0AdOlD</guid>
+			
+
+			<title><![CDATA[ 47向量空间：如何实现一个简单的音乐推荐系统？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 47向量空间：如何实现一个简单的音乐推荐系统？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 47向量空间：如何实现一个简单的音乐推荐系统？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 47向量空间：如何实现一个简单的音乐推荐系统？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UdyvPtcK0zDPgGCpggJTDdrjrn0AdOlD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UbStSzF_gzOuz5KyhX3EO5M3BexZEdnu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UbStSzF_gzOuz5KyhX3EO5M3BexZEdnu</guid>
+			
+
+			<title><![CDATA[ 46概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 46概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 46概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 46概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UbStSzF_gzOuz5KyhX3EO5M3BexZEdnu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UYs8DQvsew_YxurEYl8w8enV25bVSg9R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UYs8DQvsew_YxurEYl8w8enV25bVSg9R</guid>
+			
+
+			<title><![CDATA[ 45位图：如何实现网页爬虫中的URL去重功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45位图：如何实现网页爬虫中的URL去重功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45位图：如何实现网页爬虫中的URL去重功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45位图：如何实现网页爬虫中的URL去重功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UYs8DQvsew_YxurEYl8w8enV25bVSg9R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UYZl1_6hfD7vs6zs7XgkUTpcDlVTGijt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UYZl1_6hfD7vs6zs7XgkUTpcDlVTGijt</guid>
+			
+
+			<title><![CDATA[ 44最短路径：地图软件是如何计算出最优出行路径的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44最短路径：地图软件是如何计算出最优出行路径的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44最短路径：地图软件是如何计算出最优出行路径的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44最短路径：地图软件是如何计算出最优出行路径的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UYZl1_6hfD7vs6zs7XgkUTpcDlVTGijt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UTxdw5RO0HXMohXzwM1EdBX8Ip0hX8Bg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UTxdw5RO0HXMohXzwM1EdBX8Ip0hX8Bg</guid>
+			
+
+			<title><![CDATA[ 43拓扑排序：如何确定代码源文件的编译依赖关系？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43拓扑排序：如何确定代码源文件的编译依赖关系？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43拓扑排序：如何确定代码源文件的编译依赖关系？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43拓扑排序：如何确定代码源文件的编译依赖关系？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UTxdw5RO0HXMohXzwM1EdBX8Ip0hX8Bg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1URoCZi2R3qM9kkiPAKZjayjdkbp2_JCW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1URoCZi2R3qM9kkiPAKZjayjdkbp2_JCW</guid>
+			
+
+			<title><![CDATA[ 42动态规划实战：如何实现搜索引擎中的拼写纠错功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42动态规划实战：如何实现搜索引擎中的拼写纠错功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42动态规划实战：如何实现搜索引擎中的拼写纠错功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42动态规划实战：如何实现搜索引擎中的拼写纠错功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1URoCZi2R3qM9kkiPAKZjayjdkbp2_JCW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1URlQJcyT6-rCQJdWanu02WCupNn2dtYl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1URlQJcyT6-rCQJdWanu02WCupNn2dtYl</guid>
+			
+
+			<title><![CDATA[ 41动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1URlQJcyT6-rCQJdWanu02WCupNn2dtYl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1URLOUe2QgrO-LTIm9VtcwEfS_hBvgpWU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1URLOUe2QgrO-LTIm9VtcwEfS_hBvgpWU</guid>
+			
+
+			<title><![CDATA[ 40初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1URLOUe2QgrO-LTIm9VtcwEfS_hBvgpWU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UOQUvEXXr9BkTvYOfDhCiHElrov8almZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UOQUvEXXr9BkTvYOfDhCiHElrov8almZ</guid>
+			
+
+			<title><![CDATA[ 39回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UOQUvEXXr9BkTvYOfDhCiHElrov8almZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UFZntd7ZGt-8xpXW56QjXsXCVzTG_bb2</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UFZntd7ZGt-8xpXW56QjXsXCVzTG_bb2</guid>
+			
+
+			<title><![CDATA[ 38分治算法：谈一谈大规模计算框架MapReduce中的分治思想.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38分治算法：谈一谈大规模计算框架MapReduce中的分治思想.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38分治算法：谈一谈大规模计算框架MapReduce中的分治思想.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38分治算法：谈一谈大规模计算框架MapReduce中的分治思想.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UFZntd7ZGt-8xpXW56QjXsXCVzTG_bb2"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UDVk-4IV5DTp5dgWCNx-hoDXHJ7AwOrh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UDVk-4IV5DTp5dgWCNx-hoDXHJ7AwOrh</guid>
+			
+
+			<title><![CDATA[ 37贪心算法：如何用贪心算法实现Huffman压缩编码？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37贪心算法：如何用贪心算法实现Huffman压缩编码？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37贪心算法：如何用贪心算法实现Huffman压缩编码？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37贪心算法：如何用贪心算法实现Huffman压缩编码？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UDVk-4IV5DTp5dgWCNx-hoDXHJ7AwOrh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Tzi4pyCPx0DFpj-BcaykbTW1fBMG3UOA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Tzi4pyCPx0DFpj-BcaykbTW1fBMG3UOA</guid>
+			
+
+			<title><![CDATA[ 36AC自动机：如何用多模式串匹配实现敏感词过滤功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36AC自动机：如何用多模式串匹配实现敏感词过滤功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36AC自动机：如何用多模式串匹配实现敏感词过滤功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36AC自动机：如何用多模式串匹配实现敏感词过滤功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Tzi4pyCPx0DFpj-BcaykbTW1fBMG3UOA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TwSKLObE0cIpHDR-av5rykgRwceQKQa_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TwSKLObE0cIpHDR-av5rykgRwceQKQa_</guid>
+			
+
+			<title><![CDATA[ 35Trie树：如何实现搜索引擎的搜索关键词提示功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35Trie树：如何实现搜索引擎的搜索关键词提示功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35Trie树：如何实现搜索引擎的搜索关键词提示功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35Trie树：如何实现搜索引擎的搜索关键词提示功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TwSKLObE0cIpHDR-av5rykgRwceQKQa_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TpIgpFvRye_ceYVg035cMReFXfb5l8Wv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TpIgpFvRye_ceYVg035cMReFXfb5l8Wv</guid>
+			
+
+			<title><![CDATA[ 34字符串匹配基础（下）：如何借助BM算法轻松理解KMP算法？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34字符串匹配基础（下）：如何借助BM算法轻松理解KMP算法？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34字符串匹配基础（下）：如何借助BM算法轻松理解KMP算法？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34字符串匹配基础（下）：如何借助BM算法轻松理解KMP算法？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TpIgpFvRye_ceYVg035cMReFXfb5l8Wv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TkawI-V_GjLROoZwE1xzm3GPDTAcZXgg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TkawI-V_GjLROoZwE1xzm3GPDTAcZXgg</guid>
+			
+
+			<title><![CDATA[ 33字符串匹配基础（中）：如何实现文本编辑器中的查找功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33字符串匹配基础（中）：如何实现文本编辑器中的查找功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33字符串匹配基础（中）：如何实现文本编辑器中的查找功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33字符串匹配基础（中）：如何实现文本编辑器中的查找功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TkawI-V_GjLROoZwE1xzm3GPDTAcZXgg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TZmWLejyRProMVG5XbojxMUYoQkxZqlG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TZmWLejyRProMVG5XbojxMUYoQkxZqlG</guid>
+			
+
+			<title><![CDATA[ 32字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TZmWLejyRProMVG5XbojxMUYoQkxZqlG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TUrwEFV8HIMJEY2skoGyq0lZTbdzNUdS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TUrwEFV8HIMJEY2skoGyq0lZTbdzNUdS</guid>
+			
+
+			<title><![CDATA[ 31深度和广度优先搜索：如何找出社交网络中的三度好友关系？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31深度和广度优先搜索：如何找出社交网络中的三度好友关系？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31深度和广度优先搜索：如何找出社交网络中的三度好友关系？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31深度和广度优先搜索：如何找出社交网络中的三度好友关系？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TUrwEFV8HIMJEY2skoGyq0lZTbdzNUdS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TUCqHVAZrznPcz4A-DVNjTiI2szQOhL5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TUCqHVAZrznPcz4A-DVNjTiI2szQOhL5</guid>
+			
+
+			<title><![CDATA[ 30图的表示：如何存储微博、微信等社交网络中的好友关系？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30图的表示：如何存储微博、微信等社交网络中的好友关系？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30图的表示：如何存储微博、微信等社交网络中的好友关系？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30图的表示：如何存储微博、微信等社交网络中的好友关系？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TUCqHVAZrznPcz4A-DVNjTiI2szQOhL5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TKvN2t-Ph-nprWZF-9Dn0VbF6dIDo-Sq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TKvN2t-Ph-nprWZF-9Dn0VbF6dIDo-Sq</guid>
+			
+
+			<title><![CDATA[ 29堆的应用：如何快速获取到Top10最热门的搜索关键词？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29堆的应用：如何快速获取到Top10最热门的搜索关键词？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29堆的应用：如何快速获取到Top10最热门的搜索关键词？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29堆的应用：如何快速获取到Top10最热门的搜索关键词？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TKvN2t-Ph-nprWZF-9Dn0VbF6dIDo-Sq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TIgq9NGTUKV2vmK65U84FVgIrZi6RPGE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TIgq9NGTUKV2vmK65U84FVgIrZi6RPGE</guid>
+			
+
+			<title><![CDATA[ 28堆和堆排序：为什么说堆排序没有快速排序快？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28堆和堆排序：为什么说堆排序没有快速排序快？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28堆和堆排序：为什么说堆排序没有快速排序快？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28堆和堆排序：为什么说堆排序没有快速排序快？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TIgq9NGTUKV2vmK65U84FVgIrZi6RPGE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T-aXygJ8OgbPt731Vz7FWa_MqTs_A9m3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T-aXygJ8OgbPt731Vz7FWa_MqTs_A9m3</guid>
+			
+
+			<title><![CDATA[ 27递归树：如何借助树来求解递归算法的时间复杂度？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27递归树：如何借助树来求解递归算法的时间复杂度？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27递归树：如何借助树来求解递归算法的时间复杂度？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27递归树：如何借助树来求解递归算法的时间复杂度？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T-aXygJ8OgbPt731Vz7FWa_MqTs_A9m3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ShmFGeytv9Mou2ndbzeJEn7X-XzBcm6x</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ShmFGeytv9Mou2ndbzeJEn7X-XzBcm6x</guid>
+			
+
+			<title><![CDATA[ 26红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26红黑树（下）：掌握这些技巧，你也可以实现一个红黑树.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ShmFGeytv9Mou2ndbzeJEn7X-XzBcm6x"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Sg6EbANYq8NZf9K1T1exKK2ou1excENy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Sg6EbANYq8NZf9K1T1exKK2ou1excENy</guid>
+			
+
+			<title><![CDATA[ 25红黑树（上）：为什么工程中都用红黑树这种二叉树？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25红黑树（上）：为什么工程中都用红黑树这种二叉树？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25红黑树（上）：为什么工程中都用红黑树这种二叉树？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25红黑树（上）：为什么工程中都用红黑树这种二叉树？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Sg6EbANYq8NZf9K1T1exKK2ou1excENy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SeZHkA7l6_LjeVOeSfVvyFUnJTITLLDT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SeZHkA7l6_LjeVOeSfVvyFUnJTITLLDT</guid>
+			
+
+			<title><![CDATA[ 24二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SeZHkA7l6_LjeVOeSfVvyFUnJTITLLDT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SeLYdrSFBtd3a4w9XYPNTzS5w4DjeriO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SeLYdrSFBtd3a4w9XYPNTzS5w4DjeriO</guid>
+			
+
+			<title><![CDATA[ 23二叉树基础（上）：什么样的二叉树适合用数组来存储？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23二叉树基础（上）：什么样的二叉树适合用数组来存储？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23二叉树基础（上）：什么样的二叉树适合用数组来存储？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23二叉树基础（上）：什么样的二叉树适合用数组来存储？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SeLYdrSFBtd3a4w9XYPNTzS5w4DjeriO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SQcqUBaKGXu305a7znnTeaUC06GhgT2z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SQcqUBaKGXu305a7znnTeaUC06GhgT2z</guid>
+			
+
+			<title><![CDATA[ 22哈希算法（下）：哈希算法在分布式系统中有哪些应用？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22哈希算法（下）：哈希算法在分布式系统中有哪些应用？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22哈希算法（下）：哈希算法在分布式系统中有哪些应用？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22哈希算法（下）：哈希算法在分布式系统中有哪些应用？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SQcqUBaKGXu305a7znnTeaUC06GhgT2z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SKSjWQ4p3i0PeCfJG3X_0SYtdP4pk6I6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SKSjWQ4p3i0PeCfJG3X_0SYtdP4pk6I6</guid>
+			
+
+			<title><![CDATA[ 21哈希算法（上）：如何防止数据库中的用户信息被脱库？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21哈希算法（上）：如何防止数据库中的用户信息被脱库？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21哈希算法（上）：如何防止数据库中的用户信息被脱库？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21哈希算法（上）：如何防止数据库中的用户信息被脱库？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SKSjWQ4p3i0PeCfJG3X_0SYtdP4pk6I6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SK2P1L7UjckMKJt2EqykfnSZhy-JKdvU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SK2P1L7UjckMKJt2EqykfnSZhy-JKdvU</guid>
+			
+
+			<title><![CDATA[ 20散列表（下）：为什么散列表和链表经常会一起使用？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20散列表（下）：为什么散列表和链表经常会一起使用？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20散列表（下）：为什么散列表和链表经常会一起使用？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20散列表（下）：为什么散列表和链表经常会一起使用？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SK2P1L7UjckMKJt2EqykfnSZhy-JKdvU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SBFrJAzc3Ar7s4MLDYK6qqauIEU8emik</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SBFrJAzc3Ar7s4MLDYK6qqauIEU8emik</guid>
+			
+
+			<title><![CDATA[ 19散列表（中）：如何打造一个工业级水平的散列表？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19散列表（中）：如何打造一个工业级水平的散列表？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19散列表（中）：如何打造一个工业级水平的散列表？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19散列表（中）：如何打造一个工业级水平的散列表？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SBFrJAzc3Ar7s4MLDYK6qqauIEU8emik"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SAz0Qdn9A8n4uxAUZgq2mRAW2OF2OAZi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SAz0Qdn9A8n4uxAUZgq2mRAW2OF2OAZi</guid>
+			
+
+			<title><![CDATA[ 18散列表（上）：Word文档中的单词拼写检查功能是如何实现的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18散列表（上）：Word文档中的单词拼写检查功能是如何实现的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18散列表（上）：Word文档中的单词拼写检查功能是如何实现的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18散列表（上）：Word文档中的单词拼写检查功能是如何实现的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SAz0Qdn9A8n4uxAUZgq2mRAW2OF2OAZi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S3Pi4cvMQRvY3KDnL3l5lmYhJHU8TC7E</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S3Pi4cvMQRvY3KDnL3l5lmYhJHU8TC7E</guid>
+			
+
+			<title><![CDATA[ 17跳表：为什么Redis一定要用跳表来实现有序集合？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17跳表：为什么Redis一定要用跳表来实现有序集合？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17跳表：为什么Redis一定要用跳表来实现有序集合？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17跳表：为什么Redis一定要用跳表来实现有序集合？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S3Pi4cvMQRvY3KDnL3l5lmYhJHU8TC7E"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S2sKPorvNKHjQEKF2iuuVzUCm0N5hO0J</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S2sKPorvNKHjQEKF2iuuVzUCm0N5hO0J</guid>
+			
+
+			<title><![CDATA[ 16二分查找（下）：如何快速定位IP对应的省份地址？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16二分查找（下）：如何快速定位IP对应的省份地址？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16二分查找（下）：如何快速定位IP对应的省份地址？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16二分查找（下）：如何快速定位IP对应的省份地址？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S2sKPorvNKHjQEKF2iuuVzUCm0N5hO0J"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S2P_p-6PJwDFpB9RKcFNh99OGOEqC4zz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S2P_p-6PJwDFpB9RKcFNh99OGOEqC4zz</guid>
+			
+
+			<title><![CDATA[ 15二分查找（上）：如何用最省内存的方式实现快速查找功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15二分查找（上）：如何用最省内存的方式实现快速查找功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15二分查找（上）：如何用最省内存的方式实现快速查找功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15二分查找（上）：如何用最省内存的方式实现快速查找功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S2P_p-6PJwDFpB9RKcFNh99OGOEqC4zz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ry6N_yJsz-NJaThSwFT72KNPqcnkp05s</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ry6N_yJsz-NJaThSwFT72KNPqcnkp05s</guid>
+			
+
+			<title><![CDATA[ 14排序优化：如何实现一个通用的、高性能的排序函数？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14排序优化：如何实现一个通用的、高性能的排序函数？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14排序优化：如何实现一个通用的、高性能的排序函数？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14排序优化：如何实现一个通用的、高性能的排序函数？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ry6N_yJsz-NJaThSwFT72KNPqcnkp05s"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RsvggbcPf2pG9Rol_cPs6qDwKxy8_r3u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RsvggbcPf2pG9Rol_cPs6qDwKxy8_r3u</guid>
+			
+
+			<title><![CDATA[ 13线性排序：如何根据年龄给100万用户数据排序？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13线性排序：如何根据年龄给100万用户数据排序？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13线性排序：如何根据年龄给100万用户数据排序？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13线性排序：如何根据年龄给100万用户数据排序？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RsvggbcPf2pG9Rol_cPs6qDwKxy8_r3u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RsfcQD20BionW5yd7rV6yHspuhpYZ7Tn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RsfcQD20BionW5yd7rV6yHspuhpYZ7Tn</guid>
+			
+
+			<title><![CDATA[ 12排序（下）：如何用快排思想在On内查找第K大元素？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12排序（下）：如何用快排思想在On内查找第K大元素？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12排序（下）：如何用快排思想在On内查找第K大元素？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12排序（下）：如何用快排思想在On内查找第K大元素？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RsfcQD20BionW5yd7rV6yHspuhpYZ7Tn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RnPHl7jjx1OnaKdyqjbA3lvA0OGngeDz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RnPHl7jjx1OnaKdyqjbA3lvA0OGngeDz</guid>
+			
+
+			<title><![CDATA[ 11排序（上）：为什么插入排序比冒泡排序更受欢迎？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11排序（上）：为什么插入排序比冒泡排序更受欢迎？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11排序（上）：为什么插入排序比冒泡排序更受欢迎？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11排序（上）：为什么插入排序比冒泡排序更受欢迎？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RnPHl7jjx1OnaKdyqjbA3lvA0OGngeDz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RmoGymmGx0sJGAZmA1YOrozMKKTa_h_p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RmoGymmGx0sJGAZmA1YOrozMKKTa_h_p</guid>
+			
+
+			<title><![CDATA[ 10递归：如何用三行代码找到“最终推荐人”？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10递归：如何用三行代码找到“最终推荐人”？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10递归：如何用三行代码找到“最终推荐人”？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10递归：如何用三行代码找到“最终推荐人”？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RmoGymmGx0sJGAZmA1YOrozMKKTa_h_p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Rjw8a0pkSYRrRCYpWKiYy4mgR--yC2tQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rjw8a0pkSYRrRCYpWKiYy4mgR--yC2tQ</guid>
+			
+
+			<title><![CDATA[ 09队列：队列在线程池等有限资源池中的应用.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09队列：队列在线程池等有限资源池中的应用.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09队列：队列在线程池等有限资源池中的应用.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09队列：队列在线程池等有限资源池中的应用.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rjw8a0pkSYRrRCYpWKiYy4mgR--yC2tQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RheJCIQuhT0xk-H8i1yBlD032tH3LB_Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RheJCIQuhT0xk-H8i1yBlD032tH3LB_Y</guid>
+			
+
+			<title><![CDATA[ 08栈：如何实现浏览器的前进和后退功能？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08栈：如何实现浏览器的前进和后退功能？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08栈：如何实现浏览器的前进和后退功能？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08栈：如何实现浏览器的前进和后退功能？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RheJCIQuhT0xk-H8i1yBlD032tH3LB_Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RdRJ42c7JwzTb6TcGOENaBBd3h43K1Rd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RdRJ42c7JwzTb6TcGOENaBBd3h43K1Rd</guid>
+			
+
+			<title><![CDATA[ 07链表（下）：如何轻松写出正确的链表代码？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07链表（下）：如何轻松写出正确的链表代码？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07链表（下）：如何轻松写出正确的链表代码？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07链表（下）：如何轻松写出正确的链表代码？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RdRJ42c7JwzTb6TcGOENaBBd3h43K1Rd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Rc9Pqbam4gQ1vvtCVHiCa5xTa-32qzzi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rc9Pqbam4gQ1vvtCVHiCa5xTa-32qzzi</guid>
+			
+
+			<title><![CDATA[ 06链表（上）：如何实现LRU缓存淘汰算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06链表（上）：如何实现LRU缓存淘汰算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06链表（上）：如何实现LRU缓存淘汰算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06链表（上）：如何实现LRU缓存淘汰算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rc9Pqbam4gQ1vvtCVHiCa5xTa-32qzzi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RPtm2CN2DSazEvFa-n4bieIZj_QNxAVj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RPtm2CN2DSazEvFa-n4bieIZj_QNxAVj</guid>
+			
+
+			<title><![CDATA[ 05数组：为什么很多编程语言中数组都从0开始编号？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05数组：为什么很多编程语言中数组都从0开始编号？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05数组：为什么很多编程语言中数组都从0开始编号？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05数组：为什么很多编程语言中数组都从0开始编号？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RPtm2CN2DSazEvFa-n4bieIZj_QNxAVj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RNiCPyOvKIxhrMfewkfwh0nfT6rrGjm3</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RNiCPyOvKIxhrMfewkfwh0nfT6rrGjm3</guid>
+			
+
+			<title><![CDATA[ 04复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RNiCPyOvKIxhrMfewkfwh0nfT6rrGjm3"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RJhvMObFVVrqEjkKWuTKZESi1dA2f2w9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RJhvMObFVVrqEjkKWuTKZESi1dA2f2w9</guid>
+			
+
+			<title><![CDATA[ 03复杂度分析（上）：如何分析、统计算法的执行效率和资源消耗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03复杂度分析（上）：如何分析、统计算法的执行效率和资源消耗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03复杂度分析（上）：如何分析、统计算法的执行效率和资源消耗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03复杂度分析（上）：如何分析、统计算法的执行效率和资源消耗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RJhvMObFVVrqEjkKWuTKZESi1dA2f2w9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RH4eTL7gZOlpXCeVxPJbwDNqZ8PwEGai</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RH4eTL7gZOlpXCeVxPJbwDNqZ8PwEGai</guid>
+			
+
+			<title><![CDATA[ 02如何抓住重点，系统高效地学习数据结构与算法？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02如何抓住重点，系统高效地学习数据结构与算法？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02如何抓住重点，系统高效地学习数据结构与算法？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02如何抓住重点，系统高效地学习数据结构与算法？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RH4eTL7gZOlpXCeVxPJbwDNqZ8PwEGai"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RFx0c_a5dxYYaFw2Lz_lwVPDgoSSyCJa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RFx0c_a5dxYYaFw2Lz_lwVPDgoSSyCJa</guid>
+			
+
+			<title><![CDATA[ 01为什么要学习数据结构和算法？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01为什么要学习数据结构和算法？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01为什么要学习数据结构和算法？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01为什么要学习数据结构和算法？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RFx0c_a5dxYYaFw2Lz_lwVPDgoSSyCJa"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

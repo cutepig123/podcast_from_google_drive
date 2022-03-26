@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .22 深入拆解 Java 虚拟机.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .22 深入拆解 Java 虚拟机.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .22 深入拆解 Java 虚拟机.音频. ]]></itunes:summary>
+		<description><![CDATA[ .22 深入拆解 Java 虚拟机.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1ZYFPp-eMJo-zphyZypc0tK-z-g2-yAgC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZYFPp-eMJo-zphyZypc0tK-z-g2-yAgC</guid>
+			
+
+			<title><![CDATA[ 18即时编译器的中间表达形式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18即时编译器的中间表达形式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18即时编译器的中间表达形式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18即时编译器的中间表达形式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZYFPp-eMJo-zphyZypc0tK-z-g2-yAgC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZUbm2BUuo7q9ZsA96ymv04eP8caMrSqN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZUbm2BUuo7q9ZsA96ymv04eP8caMrSqN</guid>
+			
+
+			<title><![CDATA[ 17 即时编译（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17 即时编译（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17 即时编译（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17 即时编译（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZUbm2BUuo7q9ZsA96ymv04eP8caMrSqN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZS6RZbOsIKUUQHaXUjhojKSGnrTaiV74</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZS6RZbOsIKUUQHaXUjhojKSGnrTaiV74</guid>
+			
+
+			<title><![CDATA[ 16即时编译（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16即时编译（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16即时编译（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16即时编译（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZS6RZbOsIKUUQHaXUjhojKSGnrTaiV74"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZNaSp77cox9nRWMxuGSjfecPpJJt0qNJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZNaSp77cox9nRWMxuGSjfecPpJJt0qNJ</guid>
+			
+
+			<title><![CDATA[ 15Java语法糖与Java编译器.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15Java语法糖与Java编译器.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15Java语法糖与Java编译器.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15Java语法糖与Java编译器.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZNaSp77cox9nRWMxuGSjfecPpJJt0qNJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZGjEoEm047OaEzj9yzhHZEXLGY6noYzR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZGjEoEm047OaEzj9yzhHZEXLGY6noYzR</guid>
+			
+
+			<title><![CDATA[ 14Java虚拟机是怎么实现synchronized的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14Java虚拟机是怎么实现synchronized的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14Java虚拟机是怎么实现synchronized的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14Java虚拟机是怎么实现synchronized的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZGjEoEm047OaEzj9yzhHZEXLGY6noYzR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ZCE2xgWeSxhf0LopoL7ajPPToqHJzGmO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ZCE2xgWeSxhf0LopoL7ajPPToqHJzGmO</guid>
+			
+
+			<title><![CDATA[ 13Java内存模型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13Java内存模型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13Java内存模型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13Java内存模型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ZCE2xgWeSxhf0LopoL7ajPPToqHJzGmO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Z60_szf50VALAsY2yX5Vu7Hq8Xrkfn2q</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Z60_szf50VALAsY2yX5Vu7Hq8Xrkfn2q</guid>
+			
+
+			<title><![CDATA[ 12垃圾回收（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12垃圾回收（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12垃圾回收（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12垃圾回收（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Z60_szf50VALAsY2yX5Vu7Hq8Xrkfn2q"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YwCZTz5rr1zuiPknBinfqieOfUbrWYVM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YwCZTz5rr1zuiPknBinfqieOfUbrWYVM</guid>
+			
+
+			<title><![CDATA[ 11垃圾回收（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11垃圾回收（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11垃圾回收（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11垃圾回收（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YwCZTz5rr1zuiPknBinfqieOfUbrWYVM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YmuxkjiDTScFETN_GTsjqBcbFRuHnuhx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YmuxkjiDTScFETN_GTsjqBcbFRuHnuhx</guid>
+			
+
+			<title><![CDATA[ 10Java对象的内存布局.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10Java对象的内存布局.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10Java对象的内存布局.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10Java对象的内存布局.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YmuxkjiDTScFETN_GTsjqBcbFRuHnuhx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YjrJhz7tFuImx5f4ULYitMcVoukqioWV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YjrJhz7tFuImx5f4ULYitMcVoukqioWV</guid>
+			
+
+			<title><![CDATA[ 09JVM是怎么实现invokedynamic的？（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09JVM是怎么实现invokedynamic的？（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09JVM是怎么实现invokedynamic的？（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09JVM是怎么实现invokedynamic的？（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YjrJhz7tFuImx5f4ULYitMcVoukqioWV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YiofSAqxtFiT1sgviwHD6HeHJxqgJ6iz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YiofSAqxtFiT1sgviwHD6HeHJxqgJ6iz</guid>
+			
+
+			<title><![CDATA[ 08JVM是怎么实现invokedynamic的？（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08JVM是怎么实现invokedynamic的？（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08JVM是怎么实现invokedynamic的？（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08JVM是怎么实现invokedynamic的？（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YiofSAqxtFiT1sgviwHD6HeHJxqgJ6iz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YZHe2WE1Ixx-qhL_86ochkQfX9RBX93D</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YZHe2WE1Ixx-qhL_86ochkQfX9RBX93D</guid>
+			
+
+			<title><![CDATA[ 07JVM是如何实现反射的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07JVM是如何实现反射的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07JVM是如何实现反射的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07JVM是如何实现反射的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YZHe2WE1Ixx-qhL_86ochkQfX9RBX93D"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YTkhMd-C2sEqgSGlw-h5NVnNsophyQRu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YTkhMd-C2sEqgSGlw-h5NVnNsophyQRu</guid>
+			
+
+			<title><![CDATA[ 06JVM是如何处理异常的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06JVM是如何处理异常的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06JVM是如何处理异常的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06JVM是如何处理异常的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YTkhMd-C2sEqgSGlw-h5NVnNsophyQRu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YIBvP9XP1D5D1OkICuIQG6Dg-K_eVQ2e</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YIBvP9XP1D5D1OkICuIQG6Dg-K_eVQ2e</guid>
+			
+
+			<title><![CDATA[ 05JVM是如何执行方法调用的？（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05JVM是如何执行方法调用的？（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05JVM是如何执行方法调用的？（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05JVM是如何执行方法调用的？（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YIBvP9XP1D5D1OkICuIQG6Dg-K_eVQ2e"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YGIFy44vbf7f7VvhKjC7DJyZEmxfX1ST</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YGIFy44vbf7f7VvhKjC7DJyZEmxfX1ST</guid>
+			
+
+			<title><![CDATA[ 04JVM是如何执行方法调用的？（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04JVM是如何执行方法调用的？（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04JVM是如何执行方法调用的？（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04JVM是如何执行方法调用的？（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YGIFy44vbf7f7VvhKjC7DJyZEmxfX1ST"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1YFdzlULgy6qOmk1R2cM-O1C0oncUmWmf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1YFdzlULgy6qOmk1R2cM-O1C0oncUmWmf</guid>
+			
+
+			<title><![CDATA[ 03Java虚拟机是如何加载Java类的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03Java虚拟机是如何加载Java类的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03Java虚拟机是如何加载Java类的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03Java虚拟机是如何加载Java类的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1YFdzlULgy6qOmk1R2cM-O1C0oncUmWmf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y7XCKhgCdePr_Bj9n-VD0VsKhi-HS2WZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y7XCKhgCdePr_Bj9n-VD0VsKhi-HS2WZ</guid>
+			
+
+			<title><![CDATA[ 02Java的基本类型.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02Java的基本类型.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02Java的基本类型.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02Java的基本类型.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y7XCKhgCdePr_Bj9n-VD0VsKhi-HS2WZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y7S_pMejfJ6N55pjrMGCw_xVHGAsOAQU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y7S_pMejfJ6N55pjrMGCw_xVHGAsOAQU</guid>
+			
+
+			<title><![CDATA[ 01 Java代码是怎么运行的？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01 Java代码是怎么运行的？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01 Java代码是怎么运行的？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01 Java代码是怎么运行的？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y7S_pMejfJ6N55pjrMGCw_xVHGAsOAQU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Y5IGES4loXK9yGVK4YYDxh50IZf6IAlx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Y5IGES4loXK9yGVK4YYDxh50IZf6IAlx</guid>
+			
+
+			<title><![CDATA[ 00开篇词  为什么我们要学习Java虚拟机？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00开篇词  为什么我们要学习Java虚拟机？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00开篇词  为什么我们要学习Java虚拟机？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00开篇词  为什么我们要学习Java虚拟机？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Y5IGES4loXK9yGVK4YYDxh50IZf6IAlx"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

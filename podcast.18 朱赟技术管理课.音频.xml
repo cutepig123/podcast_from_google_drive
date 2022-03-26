@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .18 朱赟技术管理课.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .18 朱赟技术管理课.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .18 朱赟技术管理课.音频. ]]></itunes:summary>
+		<description><![CDATA[ .18 朱赟技术管理课.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1P3YXCd8js1ffrg2vH_vj5U8ltMjpbV9T</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1P3YXCd8js1ffrg2vH_vj5U8ltMjpbV9T</guid>
+			
+
+			<title><![CDATA[ 39新书 《跃迁：从技术到管理的硅谷路径》.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39新书 《跃迁：从技术到管理的硅谷路径》.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39新书 《跃迁：从技术到管理的硅谷路径》.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39新书 《跃迁：从技术到管理的硅谷路径》.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1P3YXCd8js1ffrg2vH_vj5U8ltMjpbV9T"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OkTeSjVH4loifaKLpwrqPQjsfAGAA1oS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OkTeSjVH4loifaKLpwrqPQjsfAGAA1oS</guid>
+			
+
+			<title><![CDATA[ 38尾声：成长不是顿悟，而是练习.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38尾声：成长不是顿悟，而是练习.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38尾声：成长不是顿悟，而是练习.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38尾声：成长不是顿悟，而是练习.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OkTeSjVH4loifaKLpwrqPQjsfAGAA1oS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Oei99CxMkZXRH1t5DLPStK30vjTBN88m</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Oei99CxMkZXRH1t5DLPStK30vjTBN88m</guid>
+			
+
+			<title><![CDATA[ 37如何对更多的工作说“不”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37如何对更多的工作说“不”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37如何对更多的工作说“不”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37如何对更多的工作说“不”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Oei99CxMkZXRH1t5DLPStK30vjTBN88m"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Obg8Yy0WIfFfOXW7k3PqCVsvmTStCKqs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Obg8Yy0WIfFfOXW7k3PqCVsvmTStCKqs</guid>
+			
+
+			<title><![CDATA[ 36理解并建立自己的工作弹性.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36理解并建立自己的工作弹性.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36理解并建立自己的工作弹性.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36理解并建立自己的工作弹性.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Obg8Yy0WIfFfOXW7k3PqCVsvmTStCKqs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OH2frr-zsuHv8VsN7gH8frPgtX34hiTl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OH2frr-zsuHv8VsN7gH8frPgtX34hiTl</guid>
+			
+
+			<title><![CDATA[ 35如何从错误中成长.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35如何从错误中成长.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35如何从错误中成长.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35如何从错误中成长.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OH2frr-zsuHv8VsN7gH8frPgtX34hiTl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OFdzg51S1ZFnDIjAWOiNXM17hx_lNG8y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OFdzg51S1ZFnDIjAWOiNXM17hx_lNG8y</guid>
+			
+
+			<title><![CDATA[ 34技术人的犯错成本.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34技术人的犯错成本.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34技术人的犯错成本.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34技术人的犯错成本.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OFdzg51S1ZFnDIjAWOiNXM17hx_lNG8y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OD3snLO3YehhatKrVeI835vBwziAtlTC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OD3snLO3YehhatKrVeI835vBwziAtlTC</guid>
+			
+
+			<title><![CDATA[ 33硅谷人如何做 Code Review.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33硅谷人如何做 Code Review.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33硅谷人如何做 Code Review.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33硅谷人如何做 Code Review.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OD3snLO3YehhatKrVeI835vBwziAtlTC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OB_9bFsvrbnGJwiS3t6DT5txa-5BuvVW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OB_9bFsvrbnGJwiS3t6DT5txa-5BuvVW</guid>
+			
+
+			<title><![CDATA[ 32工程师、产品经理、数据工程师是如何一起工作的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32工程师、产品经理、数据工程师是如何一起工作的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32工程师、产品经理、数据工程师是如何一起工作的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32工程师、产品经理、数据工程师是如何一起工作的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OB_9bFsvrbnGJwiS3t6DT5txa-5BuvVW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O8Njf-tC_x9A_-dVOWwLvPzmsVrFSOHL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O8Njf-tC_x9A_-dVOWwLvPzmsVrFSOHL</guid>
+			
+
+			<title><![CDATA[ 31编程马拉松.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31编程马拉松.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31编程马拉松.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31编程马拉松.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O8Njf-tC_x9A_-dVOWwLvPzmsVrFSOHL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O1ac9_Axb3O7TIMJxDfRvH9fefYeqCHj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O1ac9_Axb3O7TIMJxDfRvH9fefYeqCHj</guid>
+			
+
+			<title><![CDATA[ 30说说硅谷互联网公司的开发流程.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30说说硅谷互联网公司的开发流程.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30说说硅谷互联网公司的开发流程.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30说说硅谷互联网公司的开发流程.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O1ac9_Axb3O7TIMJxDfRvH9fefYeqCHj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Ny-H5TsEPrbGXp4GqieykqsVnld2R1nt</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Ny-H5TsEPrbGXp4GqieykqsVnld2R1nt</guid>
+			
+
+			<title><![CDATA[ 29如何激发团队人员的责任心.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29如何激发团队人员的责任心.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29如何激发团队人员的责任心.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29如何激发团队人员的责任心.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Ny-H5TsEPrbGXp4GqieykqsVnld2R1nt"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NomRVVxW4vhriBSPtbkCdb7rft3UO8oJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NomRVVxW4vhriBSPtbkCdb7rft3UO8oJ</guid>
+			
+
+			<title><![CDATA[ 28小议Java语言.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28小议Java语言.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28小议Java语言.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28小议Java语言.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NomRVVxW4vhriBSPtbkCdb7rft3UO8oJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nj1m4-0_qBsVGmrlpcIuGLKbWAwGDfsx</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nj1m4-0_qBsVGmrlpcIuGLKbWAwGDfsx</guid>
+			
+
+			<title><![CDATA[ 27如何做自己的职场规划.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27如何做自己的职场规划.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27如何做自己的职场规划.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27如何做自己的职场规划.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nj1m4-0_qBsVGmrlpcIuGLKbWAwGDfsx"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nd310_LK6kmth-b55DbhPfnARLxFSNdg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nd310_LK6kmth-b55DbhPfnARLxFSNdg</guid>
+			
+
+			<title><![CDATA[ 26兼容并包的领导方式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26兼容并包的领导方式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26兼容并包的领导方式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26兼容并包的领导方式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nd310_LK6kmth-b55DbhPfnARLxFSNdg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Nabk337wxQhJ0f4t5X2c8MbvHm3GPUX-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Nabk337wxQhJ0f4t5X2c8MbvHm3GPUX-</guid>
+			
+
+			<title><![CDATA[ 25编程语言漫谈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25编程语言漫谈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25编程语言漫谈.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25编程语言漫谈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Nabk337wxQhJ0f4t5X2c8MbvHm3GPUX-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N_0l1tAWTblOOXtX-YbIQgymXc5kBTXd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N_0l1tAWTblOOXtX-YbIQgymXc5kBTXd</guid>
+			
+
+			<title><![CDATA[ 24编程语言漫谈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24编程语言漫谈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24编程语言漫谈.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24编程语言漫谈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N_0l1tAWTblOOXtX-YbIQgymXc5kBTXd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NY13QPpMHbzHtczBy_cODZGNiC4H4aOa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NY13QPpMHbzHtczBy_cODZGNiC4H4aOa</guid>
+			
+
+			<title><![CDATA[ 23如何处理工作中的人际关系.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23如何处理工作中的人际关系.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23如何处理工作中的人际关系.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23如何处理工作中的人际关系.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NY13QPpMHbzHtczBy_cODZGNiC4H4aOa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NOZWOAAi-649Rw9H8DStm_22Kg3cuxya</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NOZWOAAi-649Rw9H8DStm_22Kg3cuxya</guid>
+			
+
+			<title><![CDATA[ 22不要做微观的管理者.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22不要做微观的管理者.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22不要做微观的管理者.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22不要做微观的管理者.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NOZWOAAi-649Rw9H8DStm_22Kg3cuxya"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NKdqn0PTkl1eDExA4GkujPNL9kMtgeGw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NKdqn0PTkl1eDExA4GkujPNL9kMtgeGw</guid>
+			
+
+			<title><![CDATA[ 21每个工程师都应该了解的：中美在支付技术和大环境下的差异.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21每个工程师都应该了解的：中美在支付技术和大环境下的差异.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21每个工程师都应该了解的：中美在支付技术和大环境下的差异.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21每个工程师都应该了解的：中美在支付技术和大环境下的差异.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NKdqn0PTkl1eDExA4GkujPNL9kMtgeGw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NAXQBBifSXKsh54gNrb7E0bIyXoP654F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NAXQBBifSXKsh54gNrb7E0bIyXoP654F</guid>
+			
+
+			<title><![CDATA[ 20项目管理中的三个技巧.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20项目管理中的三个技巧.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20项目管理中的三个技巧.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20项目管理中的三个技巧.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NAXQBBifSXKsh54gNrb7E0bIyXoP654F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1N5lDvd37imvGrfmFXtpSZ5q0SY5tL8JK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1N5lDvd37imvGrfmFXtpSZ5q0SY5tL8JK</guid>
+			
+
+			<title><![CDATA[ 19硅谷面试：那些你应该知道的事儿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19硅谷面试：那些你应该知道的事儿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19硅谷面试：那些你应该知道的事儿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19硅谷面试：那些你应该知道的事儿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1N5lDvd37imvGrfmFXtpSZ5q0SY5tL8JK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MwSKIErH9VB19rfM5hNLDcKed8SqL4sS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MwSKIErH9VB19rfM5hNLDcKed8SqL4sS</guid>
+			
+
+			<title><![CDATA[ 18每个工程师都应该了解的：API 的设计和实现.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18每个工程师都应该了解的：API 的设计和实现.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18每个工程师都应该了解的：API 的设计和实现.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18每个工程师都应该了解的：API 的设计和实现.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MwSKIErH9VB19rfM5hNLDcKed8SqL4sS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MugO_mQeF07N_LjOvtbNUUAwp7qnT65u</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MugO_mQeF07N_LjOvtbNUUAwp7qnT65u</guid>
+			
+
+			<title><![CDATA[ 17管理者不用亲力亲为：关键是什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17管理者不用亲力亲为：关键是什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17管理者不用亲力亲为：关键是什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17管理者不用亲力亲为：关键是什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MugO_mQeF07N_LjOvtbNUUAwp7qnT65u"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MmzgiP9VGOBgiruTXAKo0hYz3cWEa25S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MmzgiP9VGOBgiruTXAKo0hYz3cWEa25S</guid>
+			
+
+			<title><![CDATA[ 16技术人如何建立个人影响力.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16技术人如何建立个人影响力.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16技术人如何建立个人影响力.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16技术人如何建立个人影响力.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MmzgiP9VGOBgiruTXAKo0hYz3cWEa25S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MhCtUzf5Fdk1Fk_kGXf_0z5_k-W8FUkg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MhCtUzf5Fdk1Fk_kGXf_0z5_k-W8FUkg</guid>
+			
+
+			<title><![CDATA[ 15每个工程师都应该了解的：系统拆分.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15每个工程师都应该了解的：系统拆分.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15每个工程师都应该了解的：系统拆分.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15每个工程师都应该了解的：系统拆分.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MhCtUzf5Fdk1Fk_kGXf_0z5_k-W8FUkg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M_9hTBeqlf6kdW5zQxentsdLoiFjk1OL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M_9hTBeqlf6kdW5zQxentsdLoiFjk1OL</guid>
+			
+
+			<title><![CDATA[ 14硅谷人到底忙不忙？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14硅谷人到底忙不忙？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14硅谷人到底忙不忙？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14硅谷人到底忙不忙？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M_9hTBeqlf6kdW5zQxentsdLoiFjk1OL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MUFHp6ts3N88hhqEkliUi39WOmsdufmE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MUFHp6ts3N88hhqEkliUi39WOmsdufmE</guid>
+			
+
+			<title><![CDATA[ 13管理者在进行工作分配时，会考虑哪些问题？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13管理者在进行工作分配时，会考虑哪些问题？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13管理者在进行工作分配时，会考虑哪些问题？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13管理者在进行工作分配时，会考虑哪些问题？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MUFHp6ts3N88hhqEkliUi39WOmsdufmE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MMDWPxPcMhk_h5N-5dFh_p7MtaIWO7mj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MMDWPxPcMhk_h5N-5dFh_p7MtaIWO7mj</guid>
+			
+
+			<title><![CDATA[ 12每个工程师都应该了解的：数据库知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12每个工程师都应该了解的：数据库知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12每个工程师都应该了解的：数据库知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12每个工程师都应该了解的：数据库知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MMDWPxPcMhk_h5N-5dFh_p7MtaIWO7mj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MIogHCV_58qO96h4T07VzqCRfqeNXynl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MIogHCV_58qO96h4T07VzqCRfqeNXynl</guid>
+			
+
+			<title><![CDATA[ 11管理和被管理：期望值差异.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11管理和被管理：期望值差异.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11管理和被管理：期望值差异.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11管理和被管理：期望值差异.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MIogHCV_58qO96h4T07VzqCRfqeNXynl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1MBJr3FDwKGaLNZz3eF8kkrMLdPGaciZ4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1MBJr3FDwKGaLNZz3eF8kkrMLdPGaciZ4</guid>
+			
+
+			<title><![CDATA[ 10项目延期了，作为负责人该怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10项目延期了，作为负责人该怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10项目延期了，作为负责人该怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10项目延期了，作为负责人该怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1MBJr3FDwKGaLNZz3eF8kkrMLdPGaciZ4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M7J0_a4R8FbeBZc0T5ElVc-XrQcCtHz4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M7J0_a4R8FbeBZc0T5ElVc-XrQcCtHz4</guid>
+			
+
+			<title><![CDATA[ 09每个工程师都应该了解的：大数据时代的算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09每个工程师都应该了解的：大数据时代的算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09每个工程师都应该了解的：大数据时代的算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09每个工程师都应该了解的：大数据时代的算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M7J0_a4R8FbeBZc0T5ElVc-XrQcCtHz4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M5kb1aF478Nv94V1jNo-DHRrxfAy3cZY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M5kb1aF478Nv94V1jNo-DHRrxfAy3cZY</guid>
+			
+
+			<title><![CDATA[ 08说说硅谷公司中的一对一沟通.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08说说硅谷公司中的一对一沟通.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08说说硅谷公司中的一对一沟通.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08说说硅谷公司中的一对一沟通.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M5kb1aF478Nv94V1jNo-DHRrxfAy3cZY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1M0VOj7HPp4QFRZ4AxBxoGLb7XD7L71vH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1M0VOj7HPp4QFRZ4AxBxoGLb7XD7L71vH</guid>
+			
+
+			<title><![CDATA[ 07当别人给我们提意见时，该如何应对？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07当别人给我们提意见时，该如何应对？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07当别人给我们提意见时，该如何应对？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07当别人给我们提意见时，该如何应对？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1M0VOj7HPp4QFRZ4AxBxoGLb7XD7L71vH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LuJ6ANGynDwK1X7bVPZQY9sy5l7exddJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LuJ6ANGynDwK1X7bVPZQY9sy5l7exddJ</guid>
+			
+
+			<title><![CDATA[ 06每个工程师都应该了解的：聊聊幂等.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06每个工程师都应该了解的：聊聊幂等.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06每个工程师都应该了解的：聊聊幂等.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06每个工程师都应该了解的：聊聊幂等.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LuJ6ANGynDwK1X7bVPZQY9sy5l7exddJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LeQEoxFvvly9aMZ9LT2Ihiq52n7jAyhq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LeQEoxFvvly9aMZ9LT2Ihiq52n7jAyhq</guid>
+			
+
+			<title><![CDATA[ 05当我们给别人提意见时，要注意些什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05当我们给别人提意见时，要注意些什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05当我们给别人提意见时，要注意些什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05当我们给别人提意见时，要注意些什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LeQEoxFvvly9aMZ9LT2Ihiq52n7jAyhq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LQ3jf7bC4GMWWcxL4dwzASfOwnZ59kvN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LQ3jf7bC4GMWWcxL4dwzASfOwnZ59kvN</guid>
+			
+
+			<title><![CDATA[ 04如何帮助团队成员成长.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04如何帮助团队成员成长.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04如何帮助团队成员成长.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04如何帮助团队成员成长.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LQ3jf7bC4GMWWcxL4dwzASfOwnZ59kvN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LHyZ63FUhv6G3Qb_fAO27HtxenL2lHOJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LHyZ63FUhv6G3Qb_fAO27HtxenL2lHOJ</guid>
+			
+
+			<title><![CDATA[ 03每个工程师都应该了解的：AorB测试.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03每个工程师都应该了解的：AorB测试.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03每个工程师都应该了解的：AorB测试.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03每个工程师都应该了解的：AorB测试.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LHyZ63FUhv6G3Qb_fAO27HtxenL2lHOJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1LFzDNao2D8V84qRWitzTpoUEuAVnDSeh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1LFzDNao2D8V84qRWitzTpoUEuAVnDSeh</guid>
+			
+
+			<title><![CDATA[ 02Bug引发事故，该不该追究责任？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02Bug引发事故，该不该追究责任？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02Bug引发事故，该不该追究责任？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02Bug引发事故，该不该追究责任？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1LFzDNao2D8V84qRWitzTpoUEuAVnDSeh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L8arfO-QIZgHtRiD8PZ4frRh-f01KCJj</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L8arfO-QIZgHtRiD8PZ4frRh-f01KCJj</guid>
+			
+
+			<title><![CDATA[ 01职场分身术：从给答案到做引导.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01职场分身术：从给答案到做引导.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01职场分身术：从给答案到做引导.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01职场分身术：从给答案到做引导.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L8arfO-QIZgHtRiD8PZ4frRh-f01KCJj"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1L5lIsH9GXhr14K8yZ1PI59y9BFiK5Eyi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1L5lIsH9GXhr14K8yZ1PI59y9BFiK5Eyi</guid>
+			
+
+			<title><![CDATA[ 00开篇词  从工程师到管理者，我的思考与实践.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00开篇词  从工程师到管理者，我的思考与实践.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00开篇词  从工程师到管理者，我的思考与实践.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00开篇词  从工程师到管理者，我的思考与实践.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1L5lIsH9GXhr14K8yZ1PI59y9BFiK5Eyi"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .53 Linux性能优化实战 ]]></title>
+		<itunes:subtitle><![CDATA[ .53 Linux性能优化实战 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .53 Linux性能优化实战. ]]></itunes:summary>
+		<description><![CDATA[ .53 Linux性能优化实战 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1JhWbXF_VOvA7dwXjzzIm3aFwLmeuC0Bl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JhWbXF_VOvA7dwXjzzIm3aFwLmeuC0Bl</guid>
+			
+
+			<title><![CDATA[ 开篇词讲别再让Linux性能问题成为你的绊脚石.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲别再让Linux性能问题成为你的绊脚石.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲别再让Linux性能问题成为你的绊脚石.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲别再让Linux性能问题成为你的绊脚石.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JhWbXF_VOvA7dwXjzzIm3aFwLmeuC0Bl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1JgM7x4F7yrDTerM_rRABBERXxdnh5O7I</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1JgM7x4F7yrDTerM_rRABBERXxdnh5O7I</guid>
+			
+
+			<title><![CDATA[ 结束语 愿你攻克性能难关.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语 愿你攻克性能难关.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语 愿你攻克性能难关.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语 愿你攻克性能难关.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1JgM7x4F7yrDTerM_rRABBERXxdnh5O7I"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1J7T2aWUAeVnclJsged36QVNcEmRYyGVW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1J7T2aWUAeVnclJsged36QVNcEmRYyGVW</guid>
+			
+
+			<title><![CDATA[ Linux性能优化专栏加餐（一）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ Linux性能优化专栏加餐（一）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ Linux性能优化专栏加餐（一）.mp3 ]]></description>
+			<content:encoded><![CDATA[ Linux性能优化专栏加餐（一）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1J7T2aWUAeVnclJsged36QVNcEmRYyGVW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IzT1aJCgQ4dV0DZzMgK7tFeuW8aLjLbd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IzT1aJCgQ4dV0DZzMgK7tFeuW8aLjLbd</guid>
+			
+
+			<title><![CDATA[ Linux 性能优化专栏加餐（二）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ Linux 性能优化专栏加餐（二）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ Linux 性能优化专栏加餐（二）.mp3 ]]></description>
+			<content:encoded><![CDATA[ Linux 性能优化专栏加餐（二）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IzT1aJCgQ4dV0DZzMgK7tFeuW8aLjLbd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IwaXFwTYJ8zuXnWr07GdQEFdIut1cZHz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IwaXFwTYJ8zuXnWr07GdQEFdIut1cZHz</guid>
+			
+
+			<title><![CDATA[ 58 答疑（六）：容器冷启动如何性能分析？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 58 答疑（六）：容器冷启动如何性能分析？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 58 答疑（六）：容器冷启动如何性能分析？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 58 答疑（六）：容器冷启动如何性能分析？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IwaXFwTYJ8zuXnWr07GdQEFdIut1cZHz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IkAfqJFUxAhlcTfyPaqgT_ZxN--hc-5D</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IkAfqJFUxAhlcTfyPaqgT_ZxN--hc-5D</guid>
+			
+
+			<title><![CDATA[ 57套路篇：Linux性能工具速查.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 57套路篇：Linux性能工具速查.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 57套路篇：Linux性能工具速查.mp3 ]]></description>
+			<content:encoded><![CDATA[ 57套路篇：Linux性能工具速查.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IkAfqJFUxAhlcTfyPaqgT_ZxN--hc-5D"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IhqW9qrtPeAbbztGbqlLEdSJ3UchRaLd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IhqW9qrtPeAbbztGbqlLEdSJ3UchRaLd</guid>
+			
+
+			<title><![CDATA[ 56套路篇：优化性能问题的一般方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 56套路篇：优化性能问题的一般方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 56套路篇：优化性能问题的一般方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 56套路篇：优化性能问题的一般方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IhqW9qrtPeAbbztGbqlLEdSJ3UchRaLd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I_TjbhEEKGimZOAKoaf6D4z5bxWav7w1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I_TjbhEEKGimZOAKoaf6D4z5bxWav7w1</guid>
+			
+
+			<title><![CDATA[ 55 套路篇：分析性能问题的一般步骤.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 55 套路篇：分析性能问题的一般步骤.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 55 套路篇：分析性能问题的一般步骤.mp3 ]]></description>
+			<content:encoded><![CDATA[ 55 套路篇：分析性能问题的一般步骤.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I_TjbhEEKGimZOAKoaf6D4z5bxWav7w1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IJ8WEnyk-ck2itxiSmUAUQL9L1HrTdad</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IJ8WEnyk-ck2itxiSmUAUQL9L1HrTdad</guid>
+			
+
+			<title><![CDATA[ 54套路篇：应用监控的一般思路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 54套路篇：应用监控的一般思路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 54套路篇：应用监控的一般思路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 54套路篇：应用监控的一般思路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IJ8WEnyk-ck2itxiSmUAUQL9L1HrTdad"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ICxX3yvW0DXq3PhX4U7ByTHnOYDLAYGe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ICxX3yvW0DXq3PhX4U7ByTHnOYDLAYGe</guid>
+			
+
+			<title><![CDATA[ 53 套路篇：系统监控的综合思路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 53 套路篇：系统监控的综合思路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 53 套路篇：系统监控的综合思路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 53 套路篇：系统监控的综合思路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ICxX3yvW0DXq3PhX4U7ByTHnOYDLAYGe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I1ciBfy3p9yjk86zRolc7eiwwTE5aCii</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I1ciBfy3p9yjk86zRolc7eiwwTE5aCii</guid>
+			
+
+			<title><![CDATA[ 52 案例篇：服务吞吐量下降很厉害，怎么分析？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 52 案例篇：服务吞吐量下降很厉害，怎么分析？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 52 案例篇：服务吞吐量下降很厉害，怎么分析？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 52 案例篇：服务吞吐量下降很厉害，怎么分析？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I1ciBfy3p9yjk86zRolc7eiwwTE5aCii"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HyVfoaOBbFEqImMr_mObOLLOjNM2TMYq</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HyVfoaOBbFEqImMr_mObOLLOjNM2TMYq</guid>
+			
+
+			<title><![CDATA[ 51 案例篇：动态追踪怎么用？（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 51 案例篇：动态追踪怎么用？（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 51 案例篇：动态追踪怎么用？（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 51 案例篇：动态追踪怎么用？（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HyVfoaOBbFEqImMr_mObOLLOjNM2TMYq"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HvJRMJI4YYdbHsZQ41tH8kplrbeV1P-J</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HvJRMJI4YYdbHsZQ41tH8kplrbeV1P-J</guid>
+			
+
+			<title><![CDATA[ 50 案例篇：动态追踪怎么用？（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 50 案例篇：动态追踪怎么用？（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 50 案例篇：动态追踪怎么用？（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 50 案例篇：动态追踪怎么用？（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HvJRMJI4YYdbHsZQ41tH8kplrbeV1P-J"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Hqa0OnWJwWs8vHaQZ7VB4OquQ4KOgLeS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Hqa0OnWJwWs8vHaQZ7VB4OquQ4KOgLeS</guid>
+			
+
+			<title><![CDATA[ 49 案例篇：内核线程 CPU 利用率太高，我该怎么办？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 49 案例篇：内核线程 CPU 利用率太高，我该怎么办？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 49 案例篇：内核线程 CPU 利用率太高，我该怎么办？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 49 案例篇：内核线程 CPU 利用率太高，我该怎么办？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Hqa0OnWJwWs8vHaQZ7VB4OquQ4KOgLeS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HlFh5YSZMXrb3IjCTm6aZoOFg-_OC41v</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HlFh5YSZMXrb3IjCTm6aZoOFg-_OC41v</guid>
+			
+
+			<title><![CDATA[ 48 案例篇：服务器总是时不时丢包，我该怎么办？（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 48 案例篇：服务器总是时不时丢包，我该怎么办？（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 48 案例篇：服务器总是时不时丢包，我该怎么办？（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 48 案例篇：服务器总是时不时丢包，我该怎么办？（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HlFh5YSZMXrb3IjCTm6aZoOFg-_OC41v"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HfuSDu3g1scxizA9O9erAane-q-CB17R</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HfuSDu3g1scxizA9O9erAane-q-CB17R</guid>
+			
+
+			<title><![CDATA[ 47 案例篇：服务器总是时不时丢包，我该怎么办？（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 47 案例篇：服务器总是时不时丢包，我该怎么办？（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 47 案例篇：服务器总是时不时丢包，我该怎么办？（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 47 案例篇：服务器总是时不时丢包，我该怎么办？（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HfuSDu3g1scxizA9O9erAane-q-CB17R"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HdDoFVrl2QKOd39348eYIXKMn6_Hp7Vg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HdDoFVrl2QKOd39348eYIXKMn6_Hp7Vg</guid>
+			
+
+			<title><![CDATA[ 46 案例篇：为什么应用容器化后，启动慢了很多？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 46 案例篇：为什么应用容器化后，启动慢了很多？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 46 案例篇：为什么应用容器化后，启动慢了很多？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 46 案例篇：为什么应用容器化后，启动慢了很多？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HdDoFVrl2QKOd39348eYIXKMn6_Hp7Vg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HY9CYwqwoJkof7xMinbfL7CiEvvna32T</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HY9CYwqwoJkof7xMinbfL7CiEvvna32T</guid>
+			
+
+			<title><![CDATA[ 45 Linux 性能优化答疑（五）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 45 Linux 性能优化答疑（五）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 45 Linux 性能优化答疑（五）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 45 Linux 性能优化答疑（五）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HY9CYwqwoJkof7xMinbfL7CiEvvna32T"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HJKZXBL3-luyRZjwnXR3h7ZwX52v1IRF</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HJKZXBL3-luyRZjwnXR3h7ZwX52v1IRF</guid>
+			
+
+			<title><![CDATA[ 44 套路篇：网络性能优化的几个思路（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 44 套路篇：网络性能优化的几个思路（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 44 套路篇：网络性能优化的几个思路（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 44 套路篇：网络性能优化的几个思路（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HJKZXBL3-luyRZjwnXR3h7ZwX52v1IRF"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HEk0InwxSm9HbdPC_X6y6JX8QPhEYOMf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HEk0InwxSm9HbdPC_X6y6JX8QPhEYOMf</guid>
+			
+
+			<title><![CDATA[ 43 套路篇：网络性能优化的几个思路（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 43 套路篇：网络性能优化的几个思路（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 43 套路篇：网络性能优化的几个思路（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 43 套路篇：网络性能优化的几个思路（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HEk0InwxSm9HbdPC_X6y6JX8QPhEYOMf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H9cp9yIYMwiJk3Tk-71aeqIwQcNr2VhZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H9cp9yIYMwiJk3Tk-71aeqIwQcNr2VhZ</guid>
+			
+
+			<title><![CDATA[ 42 案例篇：如何优化 NAT 性能？（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42 案例篇：如何优化 NAT 性能？（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42 案例篇：如何优化 NAT 性能？（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42 案例篇：如何优化 NAT 性能？（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H9cp9yIYMwiJk3Tk-71aeqIwQcNr2VhZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H8wUmOiO8BIImz1diJiQMbW2ke03hjBN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H8wUmOiO8BIImz1diJiQMbW2ke03hjBN</guid>
+			
+
+			<title><![CDATA[ 41 案例篇：如何优化 NAT 性能？（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41 案例篇：如何优化 NAT 性能？（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41 案例篇：如何优化 NAT 性能？（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41 案例篇：如何优化 NAT 性能？（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H8wUmOiO8BIImz1diJiQMbW2ke03hjBN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H0WUBiUixkmeZB_DQUSXoUoYRh1QR3FJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H0WUBiUixkmeZB_DQUSXoUoYRh1QR3FJ</guid>
+			
+
+			<title><![CDATA[ 40讲案例篇：网络请求延迟变大了，我该怎么办_MP3.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲案例篇：网络请求延迟变大了，我该怎么办_MP3.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲案例篇：网络请求延迟变大了，我该怎么办_MP3.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲案例篇：网络请求延迟变大了，我该怎么办_MP3.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H0WUBiUixkmeZB_DQUSXoUoYRh1QR3FJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gq0b5BfJGpBesVQ2laF1Z6jLgjO4fK7V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gq0b5BfJGpBesVQ2laF1Z6jLgjO4fK7V</guid>
+			
+
+			<title><![CDATA[ 39讲案例篇：怎么缓解DDoS攻击带来的性能下降问题_MP3.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲案例篇：怎么缓解DDoS攻击带来的性能下降问题_MP3.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲案例篇：怎么缓解DDoS攻击带来的性能下降问题_MP3.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲案例篇：怎么缓解DDoS攻击带来的性能下降问题_MP3.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gq0b5BfJGpBesVQ2laF1Z6jLgjO4fK7V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gb7JzYNUMw0mBDjl_uUYvBOjAF8-Qtbr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gb7JzYNUMw0mBDjl_uUYvBOjAF8-Qtbr</guid>
+			
+
+			<title><![CDATA[ 38讲案例篇：怎么使用tcpdump和Wireshark分析网络流量_MP3.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲案例篇：怎么使用tcpdump和Wireshark分析网络流量_MP3.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲案例篇：怎么使用tcpdump和Wireshark分析网络流量_MP3.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲案例篇：怎么使用tcpdump和Wireshark分析网络流量_MP3.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gb7JzYNUMw0mBDjl_uUYvBOjAF8-Qtbr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GUYPfU_GHElQB5I7i1FYVLTPYKNcDRpX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GUYPfU_GHElQB5I7i1FYVLTPYKNcDRpX</guid>
+			
+
+			<title><![CDATA[ 37讲案例篇：DNS解析时快时慢，我该怎么办.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲案例篇：DNS解析时快时慢，我该怎么办.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲案例篇：DNS解析时快时慢，我该怎么办.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲案例篇：DNS解析时快时慢，我该怎么办.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GUYPfU_GHElQB5I7i1FYVLTPYKNcDRpX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FyJ6wB7QOLDNYuXSxHocmYFMTAxxfqh6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FyJ6wB7QOLDNYuXSxHocmYFMTAxxfqh6</guid>
+			
+
+			<title><![CDATA[ 36讲套路篇：怎么评估系统的网络性能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36讲套路篇：怎么评估系统的网络性能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36讲套路篇：怎么评估系统的网络性能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36讲套路篇：怎么评估系统的网络性能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FyJ6wB7QOLDNYuXSxHocmYFMTAxxfqh6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Fj0fky90NHL5uNMn0G5x2sgm5ljscK52</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Fj0fky90NHL5uNMn0G5x2sgm5ljscK52</guid>
+			
+
+			<title><![CDATA[ 35讲基础篇：C10K和C1000K回顾.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲基础篇：C10K和C1000K回顾.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲基础篇：C10K和C1000K回顾.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲基础篇：C10K和C1000K回顾.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Fj0fky90NHL5uNMn0G5x2sgm5ljscK52"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FRgRcZ34erQqzjuCB5SNhKrNOxWYEI4r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FRgRcZ34erQqzjuCB5SNhKrNOxWYEI4r</guid>
+			
+
+			<title><![CDATA[ 34讲关于Linux网络，你必须知道这些（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲关于Linux网络，你必须知道这些（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲关于Linux网络，你必须知道这些（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲关于Linux网络，你必须知道这些（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FRgRcZ34erQqzjuCB5SNhKrNOxWYEI4r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FHcVuIVyvNf80kbXukrPOtQ87Uz_rPT7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FHcVuIVyvNf80kbXukrPOtQ87Uz_rPT7</guid>
+			
+
+			<title><![CDATA[ 33讲关于Linux网络，你必须知道这些（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33讲关于Linux网络，你必须知道这些（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33讲关于Linux网络，你必须知道这些（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33讲关于Linux网络，你必须知道这些（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FHcVuIVyvNf80kbXukrPOtQ87Uz_rPT7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1F4d73OWLwr8VNdMW67oV63PUkRtpOCJz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1F4d73OWLwr8VNdMW67oV63PUkRtpOCJz</guid>
+			
+
+			<title><![CDATA[ 32讲Linux性能优化答疑（四）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲Linux性能优化答疑（四）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲Linux性能优化答疑（四）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲Linux性能优化答疑（四）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1F4d73OWLwr8VNdMW67oV63PUkRtpOCJz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1EY0KSPs8d-_D9VfXPpYDt2w8rAMymaQk</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1EY0KSPs8d-_D9VfXPpYDt2w8rAMymaQk</guid>
+			
+
+			<title><![CDATA[ 29讲案例篇：Redis响应严重延迟，如何解决.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲案例篇：Redis响应严重延迟，如何解决.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲案例篇：Redis响应严重延迟，如何解决.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲案例篇：Redis响应严重延迟，如何解决.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1EY0KSPs8d-_D9VfXPpYDt2w8rAMymaQk"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1E4QI65axAh6JBhK8-wyKBYriMWQtS-LE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1E4QI65axAh6JBhK8-wyKBYriMWQtS-LE</guid>
+			
+
+			<title><![CDATA[ 28讲案例篇：一个SQL查询要15秒，这是怎么回事.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲案例篇：一个SQL查询要15秒，这是怎么回事.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲案例篇：一个SQL查询要15秒，这是怎么回事.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲案例篇：一个SQL查询要15秒，这是怎么回事.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1E4QI65axAh6JBhK8-wyKBYriMWQtS-LE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1DB_-qjN0cf9hzcnPDUDzs3XIEViy5lPD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1DB_-qjN0cf9hzcnPDUDzs3XIEViy5lPD</guid>
+			
+
+			<title><![CDATA[ 26讲案例篇：如何找出狂打日志的“内鬼”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲案例篇：如何找出狂打日志的“内鬼”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲案例篇：如何找出狂打日志的“内鬼”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲案例篇：如何找出狂打日志的“内鬼”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1DB_-qjN0cf9hzcnPDUDzs3XIEViy5lPD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1CG8rLmLHtda92n6CmzLuFyYo-H8KhXJ9</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1CG8rLmLHtda92n6CmzLuFyYo-H8KhXJ9</guid>
+			
+
+			<title><![CDATA[ 23讲基础篇：Linux文件系统是怎么工作的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲基础篇：Linux文件系统是怎么工作的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲基础篇：Linux文件系统是怎么工作的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲基础篇：Linux文件系统是怎么工作的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1CG8rLmLHtda92n6CmzLuFyYo-H8KhXJ9"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1C0-NPoNS2nh-4kBCM6qbE0ZiwUyz5tgo</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1C0-NPoNS2nh-4kBCM6qbE0ZiwUyz5tgo</guid>
+			
+
+			<title><![CDATA[ 22讲Linux性能优化答疑（三）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲Linux性能优化答疑（三）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲Linux性能优化答疑（三）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲Linux性能优化答疑（三）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1C0-NPoNS2nh-4kBCM6qbE0ZiwUyz5tgo"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BpPGm_INj7Y7JqGzPyqeVv5OSV5j0T-J</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BpPGm_INj7Y7JqGzPyqeVv5OSV5j0T-J</guid>
+			
+
+			<title><![CDATA[ 21讲套路篇：如何“快准狠”找到系统内存的问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲套路篇：如何“快准狠”找到系统内存的问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲套路篇：如何“快准狠”找到系统内存的问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲套路篇：如何“快准狠”找到系统内存的问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BpPGm_INj7Y7JqGzPyqeVv5OSV5j0T-J"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BW3TK5rcISAW5sx3pq3VZMjhvLkN4CKb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BW3TK5rcISAW5sx3pq3VZMjhvLkN4CKb</guid>
+			
+
+			<title><![CDATA[ 20讲案例篇：为什么系统的Swap变高了（下）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲案例篇：为什么系统的Swap变高了（下）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲案例篇：为什么系统的Swap变高了（下）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲案例篇：为什么系统的Swap变高了（下）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BW3TK5rcISAW5sx3pq3VZMjhvLkN4CKb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BLFv1W_dsSsldHZH2tlhM6xdYhEjSoTX</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BLFv1W_dsSsldHZH2tlhM6xdYhEjSoTX</guid>
+			
+
+			<title><![CDATA[ 19讲案例篇：为什么系统的Swap变高了（上）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲案例篇：为什么系统的Swap变高了（上）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲案例篇：为什么系统的Swap变高了（上）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲案例篇：为什么系统的Swap变高了（上）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BLFv1W_dsSsldHZH2tlhM6xdYhEjSoTX"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1BFNi1tD68sEBKT-bzyY5_AftVGZYkTy5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1BFNi1tD68sEBKT-bzyY5_AftVGZYkTy5</guid>
+			
+
+			<title><![CDATA[ 18讲案例篇：内存泄漏了，我该如何定位和处理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲案例篇：内存泄漏了，我该如何定位和处理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲案例篇：内存泄漏了，我该如何定位和处理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲案例篇：内存泄漏了，我该如何定位和处理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1BFNi1tD68sEBKT-bzyY5_AftVGZYkTy5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1B8bR0pqzYnlrnPgGi78mYPd4jlrvd442</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1B8bR0pqzYnlrnPgGi78mYPd4jlrvd442</guid>
+			
+
+			<title><![CDATA[ 17讲案例篇：如何利用系统缓存优化程序的运行效率.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲案例篇：如何利用系统缓存优化程序的运行效率.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲案例篇：如何利用系统缓存优化程序的运行效率.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲案例篇：如何利用系统缓存优化程序的运行效率.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1B8bR0pqzYnlrnPgGi78mYPd4jlrvd442"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1B1q9zdSdLo6CYTEz3zyL6BItIj3GukZ_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1B1q9zdSdLo6CYTEz3zyL6BItIj3GukZ_</guid>
+			
+
+			<title><![CDATA[ 16讲基础篇：怎么理解内存中的Buffer和Cache.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲基础篇：怎么理解内存中的Buffer和Cache.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲基础篇：怎么理解内存中的Buffer和Cache.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲基础篇：怎么理解内存中的Buffer和Cache.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1B1q9zdSdLo6CYTEz3zyL6BItIj3GukZ_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1As1Ax2v4kiOI6sccebX8CZ1r7Pj4Xwzd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1As1Ax2v4kiOI6sccebX8CZ1r7Pj4Xwzd</guid>
+			
+
+			<title><![CDATA[ 15讲基础篇：Linux内存是怎么工作的.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲基础篇：Linux内存是怎么工作的.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲基础篇：Linux内存是怎么工作的.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲基础篇：Linux内存是怎么工作的.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1As1Ax2v4kiOI6sccebX8CZ1r7Pj4Xwzd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A_XmqL8vS0A0yMs7UpR-gv4ZajJoZWTc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A_XmqL8vS0A0yMs7UpR-gv4ZajJoZWTc</guid>
+			
+
+			<title><![CDATA[ 14讲Linux性能优化答疑（二）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲Linux性能优化答疑（二）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲Linux性能优化答疑（二）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲Linux性能优化答疑（二）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A_XmqL8vS0A0yMs7UpR-gv4ZajJoZWTc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ABVnftteGKjwmrzakV68lQn-9r8LzC-U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ABVnftteGKjwmrzakV68lQn-9r8LzC-U</guid>
+			
+
+			<title><![CDATA[ 13讲Linux性能优化答疑（一）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲Linux性能优化答疑（一）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲Linux性能优化答疑（一）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲Linux性能优化答疑（一）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ABVnftteGKjwmrzakV68lQn-9r8LzC-U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1A4mv0HmfMXiXVUvvmkwZGC7nBesSuFXO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1A4mv0HmfMXiXVUvvmkwZGC7nBesSuFXO</guid>
+			
+
+			<title><![CDATA[ 12讲套路篇：CPU性能优化的几个思路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲套路篇：CPU性能优化的几个思路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲套路篇：CPU性能优化的几个思路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲套路篇：CPU性能优化的几个思路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1A4mv0HmfMXiXVUvvmkwZGC7nBesSuFXO"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .01 左耳听风.mp3 ]]></title>
+		<itunes:subtitle><![CDATA[ .01 左耳听风.mp3 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .01 左耳听风.mp3. ]]></itunes:summary>
+		<description><![CDATA[ .01 左耳听风.mp3 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=15yLnHHFmicL7wg22Y-ItEcZXQ_kyEsZR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15yLnHHFmicL7wg22Y-ItEcZXQ_kyEsZR</guid>
+			
+
+			<title><![CDATA[ 2018-10-04_左耳朵耗子：业精于勤，行成于思.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-10-04_左耳朵耗子：业精于勤，行成于思.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-10-04_左耳朵耗子：业精于勤，行成于思.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-10-04_左耳朵耗子：业精于勤，行成于思.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15yLnHHFmicL7wg22Y-ItEcZXQ_kyEsZR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15yJxQsCViSiRfwJ7_Pk3G0edpo1a4rCS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15yJxQsCViSiRfwJ7_Pk3G0edpo1a4rCS</guid>
+			
+
+			<title><![CDATA[ 2018-10-02_左耳朵耗子谈好好说话的艺术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-10-02_左耳朵耗子谈好好说话的艺术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-10-02_左耳朵耗子谈好好说话的艺术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-10-02_左耳朵耗子谈好好说话的艺术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15yJxQsCViSiRfwJ7_Pk3G0edpo1a4rCS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15ooctUEvVnMZOcZpYb3X_5WilsaTMb-U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15ooctUEvVnMZOcZpYb3X_5WilsaTMb-U</guid>
+			
+
+			<title><![CDATA[ 2018-09-27_左耳朵耗子___高效沟通：好老板要善于提问.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-27_左耳朵耗子___高效沟通：好老板要善于提问.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-27_左耳朵耗子___高效沟通：好老板要善于提问.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-27_左耳朵耗子___高效沟通：好老板要善于提问.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15ooctUEvVnMZOcZpYb3X_5WilsaTMb-U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15ZzgM2K9y2T5T3miyiHvyikJyPIYyM95</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15ZzgM2K9y2T5T3miyiHvyikJyPIYyM95</guid>
+			
+
+			<title><![CDATA[ 2018-09-25_左耳朵耗子：高效沟通的四个关键技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-25_左耳朵耗子：高效沟通的四个关键技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-25_左耳朵耗子：高效沟通的四个关键技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-25_左耳朵耗子：高效沟通的四个关键技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15ZzgM2K9y2T5T3miyiHvyikJyPIYyM95"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15SEMAtRDcPJWiyH8Lodx7bVNb9jlg24L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15SEMAtRDcPJWiyH8Lodx7bVNb9jlg24L</guid>
+			
+
+			<title><![CDATA[ 2018-09-20_尊重对方、倾听对方、情绪控制，谈高效沟通的三个方式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-20_尊重对方、倾听对方、情绪控制，谈高效沟通的三个方式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-20_尊重对方、倾听对方、情绪控制，谈高效沟通的三个方式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-20_尊重对方、倾听对方、情绪控制，谈高效沟通的三个方式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15SEMAtRDcPJWiyH8Lodx7bVNb9jlg24L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15S7LaCkWdLueTWy6rjU-9CwzDdQTJxt8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15S7LaCkWdLueTWy6rjU-9CwzDdQTJxt8</guid>
+			
+
+			<title><![CDATA[ 2018-09-18_左耳朵耗子：高效沟通的几个阻碍和应对方法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-18_左耳朵耗子：高效沟通的几个阻碍和应对方法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-18_左耳朵耗子：高效沟通的几个阻碍和应对方法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-18_左耳朵耗子：高效沟通的几个阻碍和应对方法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15S7LaCkWdLueTWy6rjU-9CwzDdQTJxt8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15QWErKVe2J10YlM0_cTKXWKh_Jdox5XN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15QWErKVe2J10YlM0_cTKXWKh_Jdox5XN</guid>
+			
+
+			<title><![CDATA[ 2018-09-13_左耳朵耗子：对于程序员来说，Talk和Code同等重要.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-13_左耳朵耗子：对于程序员来说，Talk和Code同等重要.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-13_左耳朵耗子：对于程序员来说，Talk和Code同等重要.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-13_左耳朵耗子：对于程序员来说，Talk和Code同等重要.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15QWErKVe2J10YlM0_cTKXWKh_Jdox5XN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15M9pWXuzOEvHBPDSjlcoNQ_ZRsDdl6jr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15M9pWXuzOEvHBPDSjlcoNQ_ZRsDdl6jr</guid>
+			
+
+			<title><![CDATA[ 2018-09-11_左耳朵耗子___高效学习：面对枯燥和量大的知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-11_左耳朵耗子___高效学习：面对枯燥和量大的知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-11_左耳朵耗子___高效学习：面对枯燥和量大的知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-11_左耳朵耗子___高效学习：面对枯燥和量大的知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15M9pWXuzOEvHBPDSjlcoNQ_ZRsDdl6jr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15KvucdPIPhPP2B8xgwu3Ze11QYmjR5H5</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15KvucdPIPhPP2B8xgwu3Ze11QYmjR5H5</guid>
+			
+
+			<title><![CDATA[ 2018-09-06_左耳朵耗子_高效学习：如何学习和阅读代码.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-06_左耳朵耗子_高效学习：如何学习和阅读代码.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-06_左耳朵耗子_高效学习：如何学习和阅读代码.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-06_左耳朵耗子_高效学习：如何学习和阅读代码.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15KvucdPIPhPP2B8xgwu3Ze11QYmjR5H5"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15DyLwtO3Nd1aIPhTql6yyeRYFv7sBdW7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15DyLwtO3Nd1aIPhTql6yyeRYFv7sBdW7</guid>
+			
+
+			<title><![CDATA[ 2018-09-04_左耳朵耗子_高效学习：深度，归纳和坚持实践.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-09-04_左耳朵耗子_高效学习：深度，归纳和坚持实践.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-09-04_左耳朵耗子_高效学习：深度，归纳和坚持实践.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-09-04_左耳朵耗子_高效学习：深度，归纳和坚持实践.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15DyLwtO3Nd1aIPhTql6yyeRYFv7sBdW7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=15D1-fJDEJAlL0ONWijSDWOaM8zVW_h3g</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=15D1-fJDEJAlL0ONWijSDWOaM8zVW_h3g</guid>
+			
+
+			<title><![CDATA[ 2018-08-30_左耳朵耗子_高效学习：源头、原理和知识地图.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-30_左耳朵耗子_高效学习：源头、原理和知识地图.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-30_左耳朵耗子_高效学习：源头、原理和知识地图.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-30_左耳朵耗子_高效学习：源头、原理和知识地图.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=15D1-fJDEJAlL0ONWijSDWOaM8zVW_h3g"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=159b16oR0Si8Y9QSafG6xEsglJCNXmWVG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=159b16oR0Si8Y9QSafG6xEsglJCNXmWVG</guid>
+			
+
+			<title><![CDATA[ 2018-08-28_左耳朵耗子_高效学习：端正学习态度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-28_左耳朵耗子_高效学习：端正学习态度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-28_左耳朵耗子_高效学习：端正学习态度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-28_左耳朵耗子_高效学习：端正学习态度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=159b16oR0Si8Y9QSafG6xEsglJCNXmWVG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=159VWyaIyjK38Zlhs3Sh8uFV_li0KCfry</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=159VWyaIyjK38Zlhs3Sh8uFV_li0KCfry</guid>
+			
+
+			<title><![CDATA[ 2018-08-23_左耳朵耗子_程序员面试攻略：实力才是王中王.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-23_左耳朵耗子_程序员面试攻略：实力才是王中王.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-23_左耳朵耗子_程序员面试攻略：实力才是王中王.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-23_左耳朵耗子_程序员面试攻略：实力才是王中王.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=159VWyaIyjK38Zlhs3Sh8uFV_li0KCfry"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=157H2WZcgkOrRo89A8JElutet2YzaryWb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=157H2WZcgkOrRo89A8JElutet2YzaryWb</guid>
+			
+
+			<title><![CDATA[ 2018-08-21_左耳朵耗子_程序员面试攻略：面试风格.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-21_左耳朵耗子_程序员面试攻略：面试风格.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-21_左耳朵耗子_程序员面试攻略：面试风格.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-21_左耳朵耗子_程序员面试攻略：面试风格.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=157H2WZcgkOrRo89A8JElutet2YzaryWb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14z4bnTS6fsOUx1J1h21HxS4EZ4RqY5MW</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14z4bnTS6fsOUx1J1h21HxS4EZ4RqY5MW</guid>
+			
+
+			<title><![CDATA[ 2018-08-16_左耳朵耗子_程序员面试攻略：面试中的技巧.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-16_左耳朵耗子_程序员面试攻略：面试中的技巧.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-16_左耳朵耗子_程序员面试攻略：面试中的技巧.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-16_左耳朵耗子_程序员面试攻略：面试中的技巧.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14z4bnTS6fsOUx1J1h21HxS4EZ4RqY5MW"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14lVoE2hH772J0voHiWNIjdyAzz8yFEQP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14lVoE2hH772J0voHiWNIjdyAzz8yFEQP</guid>
+			
+
+			<title><![CDATA[ 2018-08-14_左耳朵耗子_程序员面试攻略：面试前的准备.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-14_左耳朵耗子_程序员面试攻略：面试前的准备.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-14_左耳朵耗子_程序员面试攻略：面试前的准备.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-14_左耳朵耗子_程序员面试攻略：面试前的准备.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14lVoE2hH772J0voHiWNIjdyAzz8yFEQP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14kp717xhwmgKarwWt3SbX07ladIj2hYs</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14kp717xhwmgKarwWt3SbX07ladIj2hYs</guid>
+			
+
+			<title><![CDATA[ 2018-08-09_左耳朵耗子_程序员练级攻略（2018）：技术资源集散地.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-09_左耳朵耗子_程序员练级攻略（2018）：技术资源集散地.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-09_左耳朵耗子_程序员练级攻略（2018）：技术资源集散地.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-09_左耳朵耗子_程序员练级攻略（2018）：技术资源集散地.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14kp717xhwmgKarwWt3SbX07ladIj2hYs"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14jgJXaW6M8QiNDYA4WXkfHAJ8xHa3h6r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14jgJXaW6M8QiNDYA4WXkfHAJ8xHa3h6r</guid>
+			
+
+			<title><![CDATA[ 2018-08-02_左耳朵耗子_程序员练级攻略（2018）：前端性能优化和框架.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-08-02_左耳朵耗子_程序员练级攻略（2018）：前端性能优化和框架.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-08-02_左耳朵耗子_程序员练级攻略（2018）：前端性能优化和框架.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-08-02_左耳朵耗子_程序员练级攻略（2018）：前端性能优化和框架.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14jgJXaW6M8QiNDYA4WXkfHAJ8xHa3h6r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14fUFl--njs4m9oaXPp_9qNjmDMFzQ5MG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14fUFl--njs4m9oaXPp_9qNjmDMFzQ5MG</guid>
+			
+
+			<title><![CDATA[ 2018-07-31_左耳朵耗子_程序员练级攻略（2018）：前端基础和底层原理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-31_左耳朵耗子_程序员练级攻略（2018）：前端基础和底层原理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-31_左耳朵耗子_程序员练级攻略（2018）：前端基础和底层原理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-31_左耳朵耗子_程序员练级攻略（2018）：前端基础和底层原理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14fUFl--njs4m9oaXPp_9qNjmDMFzQ5MG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14echzKMN7_d0xEKpd-tV1DtZV3rrbGne</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14echzKMN7_d0xEKpd-tV1DtZV3rrbGne</guid>
+			
+
+			<title><![CDATA[ 2018-07-26_左耳朵耗子_程序员练级攻略（2018）：机器学习和人工智能.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-26_左耳朵耗子_程序员练级攻略（2018）：机器学习和人工智能.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-26_左耳朵耗子_程序员练级攻略（2018）：机器学习和人工智能.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-26_左耳朵耗子_程序员练级攻略（2018）：机器学习和人工智能.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14echzKMN7_d0xEKpd-tV1DtZV3rrbGne"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14YkBuzC2TtrQ0Cfu2HKBBqS4Qgr0C8ne</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14YkBuzC2TtrQ0Cfu2HKBBqS4Qgr0C8ne</guid>
+			
+
+			<title><![CDATA[ 2018-07-24_左耳朵耗子_程序员练级攻略（2018）：容器化和自动化运维.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-24_左耳朵耗子_程序员练级攻略（2018）：容器化和自动化运维.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-24_左耳朵耗子_程序员练级攻略（2018）：容器化和自动化运维.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-24_左耳朵耗子_程序员练级攻略（2018）：容器化和自动化运维.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14YkBuzC2TtrQ0Cfu2HKBBqS4Qgr0C8ne"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Xw6kInaM63nsWnZg_oZETwLDeQ3Jsqe</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Xw6kInaM63nsWnZg_oZETwLDeQ3Jsqe</guid>
+			
+
+			<title><![CDATA[ 2018-07-19_左耳朵耗子_程序员练级攻略（2018）：微服务.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-19_左耳朵耗子_程序员练级攻略（2018）：微服务.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-19_左耳朵耗子_程序员练级攻略（2018）：微服务.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-19_左耳朵耗子_程序员练级攻略（2018）：微服务.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Xw6kInaM63nsWnZg_oZETwLDeQ3Jsqe"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14UKelI-3V9ik6JKaTbydBCo0MmVkmQAf</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14UKelI-3V9ik6JKaTbydBCo0MmVkmQAf</guid>
+			
+
+			<title><![CDATA[ 2018-07-17_左耳朵耗子_程序员练级攻略（2018）：分布式架构工程设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-17_左耳朵耗子_程序员练级攻略（2018）：分布式架构工程设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-17_左耳朵耗子_程序员练级攻略（2018）：分布式架构工程设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-17_左耳朵耗子_程序员练级攻略（2018）：分布式架构工程设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14UKelI-3V9ik6JKaTbydBCo0MmVkmQAf"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14RJbOAexn-XWl7rayamb_o5vsPibMl3X</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14RJbOAexn-XWl7rayamb_o5vsPibMl3X</guid>
+			
+
+			<title><![CDATA[ 2018-07-12_左耳朵耗子_程序员练级攻略（2018）：分布式架构经典图书和论文.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-12_左耳朵耗子_程序员练级攻略（2018）：分布式架构经典图书和论文.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-12_左耳朵耗子_程序员练级攻略（2018）：分布式架构经典图书和论文.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-12_左耳朵耗子_程序员练级攻略（2018）：分布式架构经典图书和论文.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14RJbOAexn-XWl7rayamb_o5vsPibMl3X"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Qu6H7J-TWvvjnoAjxMjd_mJz-ZLvb1d</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Qu6H7J-TWvvjnoAjxMjd_mJz-ZLvb1d</guid>
+			
+
+			<title><![CDATA[ 2018-07-10_左耳朵耗子_程序员练级攻略（2018）：分布式架构入门.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-10_左耳朵耗子_程序员练级攻略（2018）：分布式架构入门.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-10_左耳朵耗子_程序员练级攻略（2018）：分布式架构入门.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-10_左耳朵耗子_程序员练级攻略（2018）：分布式架构入门.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Qu6H7J-TWvvjnoAjxMjd_mJz-ZLvb1d"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14PWZGf0npyyZP2xh3bgWpaSAp1qW7q5o</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14PWZGf0npyyZP2xh3bgWpaSAp1qW7q5o</guid>
+			
+
+			<title><![CDATA[ 2018-07-05_左耳朵耗子_程序员练级攻略（2018）：数据库.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-05_左耳朵耗子_程序员练级攻略（2018）：数据库.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-05_左耳朵耗子_程序员练级攻略（2018）：数据库.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-05_左耳朵耗子_程序员练级攻略（2018）：数据库.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14PWZGf0npyyZP2xh3bgWpaSAp1qW7q5o"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14IVk0OTvBVb93QrooVT88AeA9E0Dp4Lv</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14IVk0OTvBVb93QrooVT88AeA9E0Dp4Lv</guid>
+			
+
+			<title><![CDATA[ 2018-07-03_左耳朵耗子_程序员练级攻略（2018）：Java底层知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-07-03_左耳朵耗子_程序员练级攻略（2018）：Java底层知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-07-03_左耳朵耗子_程序员练级攻略（2018）：Java底层知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-07-03_左耳朵耗子_程序员练级攻略（2018）：Java底层知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14IVk0OTvBVb93QrooVT88AeA9E0Dp4Lv"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=14Aezk-RceCqxYPH1N_CH7wMpBHzzZO5L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=14Aezk-RceCqxYPH1N_CH7wMpBHzzZO5L</guid>
+			
+
+			<title><![CDATA[ 2018-06-28_程序员练级攻略（2018）：异步I_O模型和Lock-Free编程.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-28_程序员练级攻略（2018）：异步I_O模型和Lock-Free编程.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-28_程序员练级攻略（2018）：异步I_O模型和Lock-Free编程.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-28_程序员练级攻略（2018）：异步I_O模型和Lock-Free编程.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=14Aezk-RceCqxYPH1N_CH7wMpBHzzZO5L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13yb409VN0DbyEzlgj16zmy7eS-yYL2EP</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13yb409VN0DbyEzlgj16zmy7eS-yYL2EP</guid>
+			
+
+			<title><![CDATA[ 2018-06-26_左耳朵耗子_程序员练级攻略（2018）：Linux系统、内存和网络.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-26_左耳朵耗子_程序员练级攻略（2018）：Linux系统、内存和网络.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-26_左耳朵耗子_程序员练级攻略（2018）：Linux系统、内存和网络.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-26_左耳朵耗子_程序员练级攻略（2018）：Linux系统、内存和网络.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13yb409VN0DbyEzlgj16zmy7eS-yYL2EP"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13u_ZHz6aTCWY1Jc5izHePXUGgGrGJO42</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13u_ZHz6aTCWY1Jc5izHePXUGgGrGJO42</guid>
+			
+
+			<title><![CDATA[ 2018-06-21_左耳朵耗子_程序员练级攻略（2018）：软件设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-21_左耳朵耗子_程序员练级攻略（2018）：软件设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-21_左耳朵耗子_程序员练级攻略（2018）：软件设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-21_左耳朵耗子_程序员练级攻略（2018）：软件设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13u_ZHz6aTCWY1Jc5izHePXUGgGrGJO42"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13mtYcePc_3zg_otEofhg-2jBj7oUVaIl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13mtYcePc_3zg_otEofhg-2jBj7oUVaIl</guid>
+			
+
+			<title><![CDATA[ 2018-06-19_左耳朵耗子_程序员练级攻略（2018）：系统知识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-19_左耳朵耗子_程序员练级攻略（2018）：系统知识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-19_左耳朵耗子_程序员练级攻略（2018）：系统知识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-19_左耳朵耗子_程序员练级攻略（2018）：系统知识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13mtYcePc_3zg_otEofhg-2jBj7oUVaIl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13kMdECs36fh08dd7VpUh8dpNaHzKo0HT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13kMdECs36fh08dd7VpUh8dpNaHzKo0HT</guid>
+			
+
+			<title><![CDATA[ 2018-06-14_左耳朵耗子_程序员练级攻略（2018）：理论学科.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-14_左耳朵耗子_程序员练级攻略（2018）：理论学科.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-14_左耳朵耗子_程序员练级攻略（2018）：理论学科.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-14_左耳朵耗子_程序员练级攻略（2018）：理论学科.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13kMdECs36fh08dd7VpUh8dpNaHzKo0HT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13ePFE-wJV1uUVKGPY_bA5ngbk7uk9sh8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13ePFE-wJV1uUVKGPY_bA5ngbk7uk9sh8</guid>
+			
+
+			<title><![CDATA[ 2018-06-12_左耳朵耗子_程序员练级攻略（2018）：编程语言.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-12_左耳朵耗子_程序员练级攻略（2018）：编程语言.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-12_左耳朵耗子_程序员练级攻略（2018）：编程语言.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-12_左耳朵耗子_程序员练级攻略（2018）：编程语言.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13ePFE-wJV1uUVKGPY_bA5ngbk7uk9sh8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13Wxl10hGns7fSzviemhrV3M0Dxs1B1ZJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13Wxl10hGns7fSzviemhrV3M0Dxs1B1ZJ</guid>
+			
+
+			<title><![CDATA[ 2018-06-07_左耳朵耗子_程序员练级攻略（2018）：程序员修养.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-07_左耳朵耗子_程序员练级攻略（2018）：程序员修养.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-07_左耳朵耗子_程序员练级攻略（2018）：程序员修养.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-07_左耳朵耗子_程序员练级攻略（2018）：程序员修养.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13Wxl10hGns7fSzviemhrV3M0Dxs1B1ZJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13VwUIb3_hpwM2AXpUXYJlcveqihWHt7F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13VwUIb3_hpwM2AXpUXYJlcveqihWHt7F</guid>
+			
+
+			<title><![CDATA[ 2018-06-05_左耳朵耗子_程序员练级攻略（2018）：正式入门.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-06-05_左耳朵耗子_程序员练级攻略（2018）：正式入门.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-06-05_左耳朵耗子_程序员练级攻略（2018）：正式入门.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-06-05_左耳朵耗子_程序员练级攻略（2018）：正式入门.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13VwUIb3_hpwM2AXpUXYJlcveqihWHt7F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13TGD-jkCz4ujQXnS7mSqoL0lczBiP9pp</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13TGD-jkCz4ujQXnS7mSqoL0lczBiP9pp</guid>
+			
+
+			<title><![CDATA[ 2018-05-31_左耳朵耗子_程序员练级攻略（2018）：零基础启蒙.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-31_左耳朵耗子_程序员练级攻略（2018）：零基础启蒙.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-31_左耳朵耗子_程序员练级攻略（2018）：零基础启蒙.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-31_左耳朵耗子_程序员练级攻略（2018）：零基础启蒙.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13TGD-jkCz4ujQXnS7mSqoL0lczBiP9pp"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13SN0ghb_emwJQ_ic_ZCqk_DA7QGaXN2r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13SN0ghb_emwJQ_ic_ZCqk_DA7QGaXN2r</guid>
+			
+
+			<title><![CDATA[ 2018-05-29_左耳朵耗子：程序员练级攻略（2018）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-29_左耳朵耗子：程序员练级攻略（2018）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-29_左耳朵耗子：程序员练级攻略（2018）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-29_左耳朵耗子：程序员练级攻略（2018）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13SN0ghb_emwJQ_ic_ZCqk_DA7QGaXN2r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13PcwbgLqyjuXVcUezsirCZT6y7UHk4zU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13PcwbgLqyjuXVcUezsirCZT6y7UHk4zU</guid>
+			
+
+			<title><![CDATA[ 2018-05-24_分布式系统设计模式_性能设计篇之边缘计算.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-24_分布式系统设计模式_性能设计篇之边缘计算.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-24_分布式系统设计模式_性能设计篇之边缘计算.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-24_分布式系统设计模式_性能设计篇之边缘计算.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13PcwbgLqyjuXVcUezsirCZT6y7UHk4zU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13LWgS0fFzuJ4ayq6UWlc2RBfic_CKDUu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13LWgS0fFzuJ4ayq6UWlc2RBfic_CKDUu</guid>
+			
+
+			<title><![CDATA[ 2018-05-22_分布式系统设计模式_性能设计篇之秒杀.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-22_分布式系统设计模式_性能设计篇之秒杀.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-22_分布式系统设计模式_性能设计篇之秒杀.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-22_分布式系统设计模式_性能设计篇之秒杀.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13LWgS0fFzuJ4ayq6UWlc2RBfic_CKDUu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13Kv6ASgrd3XbqoNwta-GjtBGUd75729L</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13Kv6ASgrd3XbqoNwta-GjtBGUd75729L</guid>
+			
+
+			<title><![CDATA[ 2018-05-17_分布式系统设计模式_性能设计篇之数据库扩展.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-17_分布式系统设计模式_性能设计篇之数据库扩展.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-17_分布式系统设计模式_性能设计篇之数据库扩展.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-17_分布式系统设计模式_性能设计篇之数据库扩展.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13Kv6ASgrd3XbqoNwta-GjtBGUd75729L"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13JqGP2Y72JTDtxy1fixVgriPMNX8wQyD</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13JqGP2Y72JTDtxy1fixVgriPMNX8wQyD</guid>
+			
+
+			<title><![CDATA[ 2018-05-15_分布式系统设计模式_性能设计篇之异步处理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-15_分布式系统设计模式_性能设计篇之异步处理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-15_分布式系统设计模式_性能设计篇之异步处理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-15_分布式系统设计模式_性能设计篇之异步处理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13JqGP2Y72JTDtxy1fixVgriPMNX8wQyD"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13JPkGkJX5NSeIsBoBWmr7dJkaq10qxTi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13JPkGkJX5NSeIsBoBWmr7dJkaq10qxTi</guid>
+			
+
+			<title><![CDATA[ 2018-05-10_分布式系统设计模式_性能设计篇之缓存.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-10_分布式系统设计模式_性能设计篇之缓存.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-10_分布式系统设计模式_性能设计篇之缓存.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-10_分布式系统设计模式_性能设计篇之缓存.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13JPkGkJX5NSeIsBoBWmr7dJkaq10qxTi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13IkXcJzHUCjt2Gob9h9dHwC9eAwuFHcy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13IkXcJzHUCjt2Gob9h9dHwC9eAwuFHcy</guid>
+			
+
+			<title><![CDATA[ 2018-05-08_分布式系统设计模式_管理设计篇之部署升级策略.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-08_分布式系统设计模式_管理设计篇之部署升级策略.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-08_分布式系统设计模式_管理设计篇之部署升级策略.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-08_分布式系统设计模式_管理设计篇之部署升级策略.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13IkXcJzHUCjt2Gob9h9dHwC9eAwuFHcy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13E9IeDyRye-AVrIK1PFbZGKA3MhxrMtV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13E9IeDyRye-AVrIK1PFbZGKA3MhxrMtV</guid>
+			
+
+			<title><![CDATA[ 2018-05-03_分布式系统设计模式_管理设计篇之网关模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-03_分布式系统设计模式_管理设计篇之网关模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-03_分布式系统设计模式_管理设计篇之网关模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-03_分布式系统设计模式_管理设计篇之网关模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13E9IeDyRye-AVrIK1PFbZGKA3MhxrMtV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13C0k_TFCeb4a7S3rpaFULOO_yw3oSO-a</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13C0k_TFCeb4a7S3rpaFULOO_yw3oSO-a</guid>
+			
+
+			<title><![CDATA[ 2018-05-01_分布式系统设计模式_管理设计篇之服务网格.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-05-01_分布式系统设计模式_管理设计篇之服务网格.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-05-01_分布式系统设计模式_管理设计篇之服务网格.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-05-01_分布式系统设计模式_管理设计篇之服务网格.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13C0k_TFCeb4a7S3rpaFULOO_yw3oSO-a"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=13A4n3ENMqaMls7TtWa2vdNJaNJbW8fKu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=13A4n3ENMqaMls7TtWa2vdNJaNJbW8fKu</guid>
+			
+
+			<title><![CDATA[ 2018-04-26_分布式系统设计模式_管理设计篇之边车模式.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-26_分布式系统设计模式_管理设计篇之边车模式.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-26_分布式系统设计模式_管理设计篇之边车模式.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-26_分布式系统设计模式_管理设计篇之边车模式.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=13A4n3ENMqaMls7TtWa2vdNJaNJbW8fKu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=136c1fU3b996Au_Dtx_CWsfNA2ze-HGp1</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=136c1fU3b996Au_Dtx_CWsfNA2ze-HGp1</guid>
+			
+
+			<title><![CDATA[ 2018-04-24_分布式系统设计模式_管理设计篇之配置中心.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-24_分布式系统设计模式_管理设计篇之配置中心.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-24_分布式系统设计模式_管理设计篇之配置中心.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-24_分布式系统设计模式_管理设计篇之配置中心.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=136c1fU3b996Au_Dtx_CWsfNA2ze-HGp1"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=131vFsiKcVkHqdbvfZgcvPJsyeBmD66CC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=131vFsiKcVkHqdbvfZgcvPJsyeBmD66CC</guid>
+			
+
+			<title><![CDATA[ 2018-04-19_分布式系统设计模式_管理设计篇之分布式锁.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-19_分布式系统设计模式_管理设计篇之分布式锁.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-19_分布式系统设计模式_管理设计篇之分布式锁.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-19_分布式系统设计模式_管理设计篇之分布式锁.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=131vFsiKcVkHqdbvfZgcvPJsyeBmD66CC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12tLGfuPJO77XJrczoUDvPC1OvPHmd70B</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12tLGfuPJO77XJrczoUDvPC1OvPHmd70B</guid>
+			
+
+			<title><![CDATA[ 2018-04-17_左耳朵耗子谈传统金融和虚拟货币.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-17_左耳朵耗子谈传统金融和虚拟货币.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-17_左耳朵耗子谈传统金融和虚拟货币.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-17_左耳朵耗子谈传统金融和虚拟货币.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12tLGfuPJO77XJrczoUDvPC1OvPHmd70B"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12sjXQE5cvkRPVdU7cNQTr_pPFi0EAM2_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12sjXQE5cvkRPVdU7cNQTr_pPFi0EAM2_</guid>
+			
+
+			<title><![CDATA[ 2018-04-12_左耳朵耗子谈智能合约.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-12_左耳朵耗子谈智能合约.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-12_左耳朵耗子谈智能合约.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-12_左耳朵耗子谈智能合约.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12sjXQE5cvkRPVdU7cNQTr_pPFi0EAM2_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12oKkXSaQQKgEjoo_23YKO1GNPQ5PvbPa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12oKkXSaQQKgEjoo_23YKO1GNPQ5PvbPa</guid>
+			
+
+			<title><![CDATA[ 2018-04-10_左耳朵耗子谈区块链中的去中心化共识机制.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-10_左耳朵耗子谈区块链中的去中心化共识机制.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-10_左耳朵耗子谈区块链中的去中心化共识机制.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-10_左耳朵耗子谈区块链中的去中心化共识机制.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12oKkXSaQQKgEjoo_23YKO1GNPQ5PvbPa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12mLlmRuY5cJIbKjpafmZuYE1eAn-Gq7V</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12mLlmRuY5cJIbKjpafmZuYE1eAn-Gq7V</guid>
+			
+
+			<title><![CDATA[ 2018-04-05_左耳朵耗子谈区块链技术细节-加密和挖矿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-05_左耳朵耗子谈区块链技术细节-加密和挖矿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-05_左耳朵耗子谈区块链技术细节-加密和挖矿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-05_左耳朵耗子谈区块链技术细节-加密和挖矿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12mLlmRuY5cJIbKjpafmZuYE1eAn-Gq7V"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12kgkAt95pqQTrUcDB5i6oDGp0Oer40dZ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12kgkAt95pqQTrUcDB5i6oDGp0Oer40dZ</guid>
+			
+
+			<title><![CDATA[ 2018-04-03_左耳朵耗子谈区块链技术细节-哈希算法.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-04-03_左耳朵耗子谈区块链技术细节-哈希算法.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-04-03_左耳朵耗子谈区块链技术细节-哈希算法.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-04-03_左耳朵耗子谈区块链技术细节-哈希算法.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12kgkAt95pqQTrUcDB5i6oDGp0Oer40dZ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12ch6Aba60ky0t93O7eSwUXVIL0z1dwiS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12ch6Aba60ky0t93O7eSwUXVIL0z1dwiS</guid>
+			
+
+			<title><![CDATA[ 2018-03-29_左耳朵耗子谈区块链的革命性.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-29_左耳朵耗子谈区块链的革命性.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-29_左耳朵耗子谈区块链的革命性.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-29_左耳朵耗子谈区块链的革命性.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12ch6Aba60ky0t93O7eSwUXVIL0z1dwiS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12_byxmAWIetXIj-Oz_YOnfX3PwzXqVN4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12_byxmAWIetXIj-Oz_YOnfX3PwzXqVN4</guid>
+			
+
+			<title><![CDATA[ 2018-03-27_分布式系统设计模式_弹力设计篇之弹力设计总结.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-27_分布式系统设计模式_弹力设计篇之弹力设计总结.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-27_分布式系统设计模式_弹力设计篇之弹力设计总结.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-27_分布式系统设计模式_弹力设计篇之弹力设计总结.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12_byxmAWIetXIj-Oz_YOnfX3PwzXqVN4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12_6MkpkORPpeavjGldWL5t5L2jaS-aRU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12_6MkpkORPpeavjGldWL5t5L2jaS-aRU</guid>
+			
+
+			<title><![CDATA[ 2018-03-22_分布式系统设计模式_弹力设计篇之“降级设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-22_分布式系统设计模式_弹力设计篇之“降级设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-22_分布式系统设计模式_弹力设计篇之“降级设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-22_分布式系统设计模式_弹力设计篇之“降级设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12_6MkpkORPpeavjGldWL5t5L2jaS-aRU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12U0Er8X6nxBLi60C0mgIw1pojSWfzrF7</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12U0Er8X6nxBLi60C0mgIw1pojSWfzrF7</guid>
+			
+
+			<title><![CDATA[ 2018-03-20_分布式系统设计模式_弹力设计篇之“限流设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-20_分布式系统设计模式_弹力设计篇之“限流设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-20_分布式系统设计模式_弹力设计篇之“限流设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-20_分布式系统设计模式_弹力设计篇之“限流设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12U0Er8X6nxBLi60C0mgIw1pojSWfzrF7"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12K4ChhKFC7o0LzcighqsVUIolc4MOToi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12K4ChhKFC7o0LzcighqsVUIolc4MOToi</guid>
+			
+
+			<title><![CDATA[ 2018-03-15_分布式系统设计模式_弹力设计篇之熔断设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-15_分布式系统设计模式_弹力设计篇之熔断设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-15_分布式系统设计模式_弹力设计篇之熔断设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-15_分布式系统设计模式_弹力设计篇之熔断设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12K4ChhKFC7o0LzcighqsVUIolc4MOToi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=12FGiYAk6wOg635dNfcG7kUuKybQPooU-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=12FGiYAk6wOg635dNfcG7kUuKybQPooU-</guid>
+			
+
+			<title><![CDATA[ 2018-03-13_分布式系统设计模式_弹力设计篇之重试设计.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-13_分布式系统设计模式_弹力设计篇之重试设计.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-13_分布式系统设计模式_弹力设计篇之重试设计.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-13_分布式系统设计模式_弹力设计篇之重试设计.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=12FGiYAk6wOg635dNfcG7kUuKybQPooU-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=126NBnexv1Eclhzx40TiqGMdOmbSRwVUg</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=126NBnexv1Eclhzx40TiqGMdOmbSRwVUg</guid>
+			
+
+			<title><![CDATA[ 2018-03-08_分布式系统设计模式_弹力设计篇之“补偿事务”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-08_分布式系统设计模式_弹力设计篇之“补偿事务”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-08_分布式系统设计模式_弹力设计篇之“补偿事务”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-08_分布式系统设计模式_弹力设计篇之“补偿事务”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=126NBnexv1Eclhzx40TiqGMdOmbSRwVUg"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=124h8mw3uyKRBf8vxMgddTcm3k8_NGnIw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=124h8mw3uyKRBf8vxMgddTcm3k8_NGnIw</guid>
+			
+
+			<title><![CDATA[ 2018-03-06_分布式系统设计模式_弹力设计篇之“服务的状态”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-06_分布式系统设计模式_弹力设计篇之“服务的状态”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-06_分布式系统设计模式_弹力设计篇之“服务的状态”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-06_分布式系统设计模式_弹力设计篇之“服务的状态”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=124h8mw3uyKRBf8vxMgddTcm3k8_NGnIw"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=122qFRFnSuUH5J3UAMBeoEPDhth4kKlK8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=122qFRFnSuUH5J3UAMBeoEPDhth4kKlK8</guid>
+			
+
+			<title><![CDATA[ 2018-03-01_分布式系统设计模式_弹力设计篇之“幂等性设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-03-01_分布式系统设计模式_弹力设计篇之“幂等性设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-03-01_分布式系统设计模式_弹力设计篇之“幂等性设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-03-01_分布式系统设计模式_弹力设计篇之“幂等性设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=122qFRFnSuUH5J3UAMBeoEPDhth4kKlK8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=121X34AgHK_wdyz-6RV-PX68a1of8loXB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=121X34AgHK_wdyz-6RV-PX68a1of8loXB</guid>
+			
+
+			<title><![CDATA[ 2018-02-27_分布式系统设计模式_弹力设计篇之“异步通讯设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-02-27_分布式系统设计模式_弹力设计篇之“异步通讯设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-02-27_分布式系统设计模式_弹力设计篇之“异步通讯设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-02-27_分布式系统设计模式_弹力设计篇之“异步通讯设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=121X34AgHK_wdyz-6RV-PX68a1of8loXB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=120ZTrR894TGGRA-QmJ7nDaDUQ89d4E8r</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=120ZTrR894TGGRA-QmJ7nDaDUQ89d4E8r</guid>
+			
+
+			<title><![CDATA[ 2018-02-22_分布式系统设计模式_弹力设计篇之“隔离设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-02-22_分布式系统设计模式_弹力设计篇之“隔离设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-02-22_分布式系统设计模式_弹力设计篇之“隔离设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-02-22_分布式系统设计模式_弹力设计篇之“隔离设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=120ZTrR894TGGRA-QmJ7nDaDUQ89d4E8r"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11yBoyVSrxbSJkN6eHwlm13tlwlVzJMtG</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11yBoyVSrxbSJkN6eHwlm13tlwlVzJMtG</guid>
+			
+
+			<title><![CDATA[ 2018-02-20_分布式系统设计模式_弹力设计篇之“认识故障和弹力设计”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-02-20_分布式系统设计模式_弹力设计篇之“认识故障和弹力设计”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-02-20_分布式系统设计模式_弹力设计篇之“认识故障和弹力设计”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-02-20_分布式系统设计模式_弹力设计篇之“认识故障和弹力设计”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11yBoyVSrxbSJkN6eHwlm13tlwlVzJMtG"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11wWPa3MVvfQg1NL9-LqYEuSSA4ryE13Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11wWPa3MVvfQg1NL9-LqYEuSSA4ryE13Y</guid>
+			
+
+			<title><![CDATA[ 2018-01-02_左耳朵耗子推荐的分布式系统架构经典学习资料.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2018-01-02_左耳朵耗子推荐的分布式系统架构经典学习资料.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2018-01-02_左耳朵耗子推荐的分布式系统架构经典学习资料.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2018-01-02_左耳朵耗子推荐的分布式系统架构经典学习资料.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11wWPa3MVvfQg1NL9-LqYEuSSA4ryE13Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11uKutlVSB3GGn7JHNNPIQiI0vJaYk6gM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11uKutlVSB3GGn7JHNNPIQiI0vJaYk6gM</guid>
+			
+
+			<title><![CDATA[ 2017-12-28_左耳朵耗子：洞悉PaaS平台的本质.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-28_左耳朵耗子：洞悉PaaS平台的本质.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-28_左耳朵耗子：洞悉PaaS平台的本质.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-28_左耳朵耗子：洞悉PaaS平台的本质.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11uKutlVSB3GGn7JHNNPIQiI0vJaYk6gM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11qdnUrv7Nvn3Bg2K7bJg6NxnyQuK2Ict</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11qdnUrv7Nvn3Bg2K7bJg6NxnyQuK2Ict</guid>
+			
+
+			<title><![CDATA[ 2017-12-26_左耳朵耗子谈分布式系统关键技术——流量与数据调度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-26_左耳朵耗子谈分布式系统关键技术——流量与数据调度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-26_左耳朵耗子谈分布式系统关键技术——流量与数据调度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-26_左耳朵耗子谈分布式系统关键技术——流量与数据调度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11qdnUrv7Nvn3Bg2K7bJg6NxnyQuK2Ict"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11pAfpIoYyhsRaMzt0KdF-cDt6mTFEMvm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11pAfpIoYyhsRaMzt0KdF-cDt6mTFEMvm</guid>
+			
+
+			<title><![CDATA[ 2017-12-21_左耳朵耗子谈分布式系统关键技术——服务调度.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-21_左耳朵耗子谈分布式系统关键技术——服务调度.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-21_左耳朵耗子谈分布式系统关键技术——服务调度.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-21_左耳朵耗子谈分布式系统关键技术——服务调度.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11pAfpIoYyhsRaMzt0KdF-cDt6mTFEMvm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11YpuodYZa4OPHJk7rkxBCaW7vuyBjM_F</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11YpuodYZa4OPHJk7rkxBCaW7vuyBjM_F</guid>
+			
+
+			<title><![CDATA[ 2017-12-19_左耳朵耗子谈分布式系统关键技术——全栈监控.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-19_左耳朵耗子谈分布式系统关键技术——全栈监控.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-19_左耳朵耗子谈分布式系统关键技术——全栈监控.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-19_左耳朵耗子谈分布式系统关键技术——全栈监控.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11YpuodYZa4OPHJk7rkxBCaW7vuyBjM_F"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11YN163CE8-Usu9DIKR0150v2dvA0eq_p</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11YN163CE8-Usu9DIKR0150v2dvA0eq_p</guid>
+			
+
+			<title><![CDATA[ 2017-12-14_左耳朵耗子：分布式系统的技术栈.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-14_左耳朵耗子：分布式系统的技术栈.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-14_左耳朵耗子：分布式系统的技术栈.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-14_左耳朵耗子：分布式系统的技术栈.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11YN163CE8-Usu9DIKR0150v2dvA0eq_p"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11OTZdkGVP904Dtam-gWf8EWB2h-7jHWI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11OTZdkGVP904Dtam-gWf8EWB2h-7jHWI</guid>
+			
+
+			<title><![CDATA[ 2017-12-12_左耳朵耗子：从亚马逊的实践，谈分布式系统的难点.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-12_左耳朵耗子：从亚马逊的实践，谈分布式系统的难点.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-12_左耳朵耗子：从亚马逊的实践，谈分布式系统的难点.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-12_左耳朵耗子：从亚马逊的实践，谈分布式系统的难点.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11OTZdkGVP904Dtam-gWf8EWB2h-7jHWI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11NexdsQkDrFycFSn9PipqPdc0D7ogEXn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11NexdsQkDrFycFSn9PipqPdc0D7ogEXn</guid>
+			
+
+			<title><![CDATA[ 2017-12-07_左耳朵耗子：分布式系统架构的冰与火.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-07_左耳朵耗子：分布式系统架构的冰与火.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-07_左耳朵耗子：分布式系统架构的冰与火.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-07_左耳朵耗子：分布式系统架构的冰与火.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11NexdsQkDrFycFSn9PipqPdc0D7ogEXn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11NMWkwru1Me2BmoFDjehQoezl9MOhRcl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11NMWkwru1Me2BmoFDjehQoezl9MOhRcl</guid>
+			
+
+			<title><![CDATA[ 2017-12-05_左耳朵耗子：我们应该能够识别的表象和本质.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-12-05_左耳朵耗子：我们应该能够识别的表象和本质.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-12-05_左耳朵耗子：我们应该能够识别的表象和本质.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-12-05_左耳朵耗子：我们应该能够识别的表象和本质.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11NMWkwru1Me2BmoFDjehQoezl9MOhRcl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11KwfuZ9-NRUKhd9SyFbqICCO_sUUugR8</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11KwfuZ9-NRUKhd9SyFbqICCO_sUUugR8</guid>
+			
+
+			<title><![CDATA[ 2017-11-30_故障处理最佳实践：故障改进.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-30_故障处理最佳实践：故障改进.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-30_故障处理最佳实践：故障改进.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-30_故障处理最佳实践：故障改进.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11KwfuZ9-NRUKhd9SyFbqICCO_sUUugR8"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11KvAdNidplH7QzG62WEUhoxw1PuFa_Cr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11KvAdNidplH7QzG62WEUhoxw1PuFa_Cr</guid>
+			
+
+			<title><![CDATA[ 2017-11-28_故障处理最佳实践：应对故障.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-28_故障处理最佳实践：应对故障.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-28_故障处理最佳实践：应对故障.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-28_故障处理最佳实践：应对故障.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11KvAdNidplH7QzG62WEUhoxw1PuFa_Cr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11Jrmyo0hiIQLTphdIuZojBri6IrhE0Ex</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11Jrmyo0hiIQLTphdIuZojBri6IrhE0Ex</guid>
+			
+
+			<title><![CDATA[ 2017-11-23_左耳朵耗子教你投资赚取时间.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-23_左耳朵耗子教你投资赚取时间.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-23_左耳朵耗子教你投资赚取时间.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-23_左耳朵耗子教你投资赚取时间.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11Jrmyo0hiIQLTphdIuZojBri6IrhE0Ex"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11Dgb7pCGavRLb3uBFEyJMhu6vo1fzUVm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11Dgb7pCGavRLb3uBFEyJMhu6vo1fzUVm</guid>
+			
+
+			<title><![CDATA[ 2017-11-21_左耳朵耗子教你同扭曲时间的事儿抗争.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-21_左耳朵耗子教你同扭曲时间的事儿抗争.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-21_左耳朵耗子教你同扭曲时间的事儿抗争.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-21_左耳朵耗子教你同扭曲时间的事儿抗争.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11Dgb7pCGavRLb3uBFEyJMhu6vo1fzUVm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=119xkmtuGnHbmWfNmfOzjllzHszhogdtr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=119xkmtuGnHbmWfNmfOzjllzHszhogdtr</guid>
+			
+
+			<title><![CDATA[ 2017-11-16_左耳朵耗子：机器学习101.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-16_左耳朵耗子：机器学习101.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-16_左耳朵耗子：机器学习101.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-16_左耳朵耗子：机器学习101.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=119xkmtuGnHbmWfNmfOzjllzHszhogdtr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=119diiyTSq6CoPcx9C9t16VH36E3XvQUh</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=119diiyTSq6CoPcx9C9t16VH36E3XvQUh</guid>
+			
+
+			<title><![CDATA[ 2017-11-02_左耳朵耗子：如何成为一个大家愿意追随的Leader？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-11-02_左耳朵耗子：如何成为一个大家愿意追随的Leader？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-11-02_左耳朵耗子：如何成为一个大家愿意追随的Leader？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-11-02_左耳朵耗子：如何成为一个大家愿意追随的Leader？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=119diiyTSq6CoPcx9C9t16VH36E3XvQUh"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=119FeCp75h5EWnufX4NgIrfv52mwqtLGm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=119FeCp75h5EWnufX4NgIrfv52mwqtLGm</guid>
+			
+
+			<title><![CDATA[ 2017-10-31_左耳朵耗子：渴望、热情和选择.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-31_左耳朵耗子：渴望、热情和选择.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-31_左耳朵耗子：渴望、热情和选择.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-31_左耳朵耗子：渴望、热情和选择.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=119FeCp75h5EWnufX4NgIrfv52mwqtLGm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=11445ZBRgmUJ6oUnafoC1YD-yxdRVy0eC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=11445ZBRgmUJ6oUnafoC1YD-yxdRVy0eC</guid>
+			
+
+			<title><![CDATA[ 2017-10-26_左耳朵耗子：Go语言，Docker和新技术.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-26_左耳朵耗子：Go语言，Docker和新技术.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-26_左耳朵耗子：Go语言，Docker和新技术.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-26_左耳朵耗子：Go语言，Docker和新技术.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=11445ZBRgmUJ6oUnafoC1YD-yxdRVy0eC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1121INS2946X9r92YmYRUmMDWQeUS_XSE</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1121INS2946X9r92YmYRUmMDWQeUS_XSE</guid>
+			
+
+			<title><![CDATA[ 2017-10-19_左耳朵耗子谈如何拥有技术领导力.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-19_左耳朵耗子谈如何拥有技术领导力.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-19_左耳朵耗子谈如何拥有技术领导力.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-19_左耳朵耗子谈如何拥有技术领导力.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1121INS2946X9r92YmYRUmMDWQeUS_XSE"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10xtCm99nY_1wkxGrlmw0ocxY5jVLKCqm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10xtCm99nY_1wkxGrlmw0ocxY5jVLKCqm</guid>
+			
+
+			<title><![CDATA[ 2017-10-17_左耳朵耗子谈何为技术领导力.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-17_左耳朵耗子谈何为技术领导力.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-17_左耳朵耗子谈何为技术领导力.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-17_左耳朵耗子谈何为技术领导力.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10xtCm99nY_1wkxGrlmw0ocxY5jVLKCqm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10umJSZOsOK9rKk4iJClKx4PpgHc7SfXc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10umJSZOsOK9rKk4iJClKx4PpgHc7SfXc</guid>
+			
+
+			<title><![CDATA[ 2017-10-12_左耳朵耗子：从Equifax信息泄露解读数据安全问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-12_左耳朵耗子：从Equifax信息泄露解读数据安全问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-12_左耳朵耗子：从Equifax信息泄露解读数据安全问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-12_左耳朵耗子：从Equifax信息泄露解读数据安全问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10umJSZOsOK9rKk4iJClKx4PpgHc7SfXc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10rByq1rWlX17rrP2FUjF5IS7VR2LR3bm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10rByq1rWlX17rrP2FUjF5IS7VR2LR3bm</guid>
+			
+
+			<title><![CDATA[ 2017-10-10_左耳朵耗子教你用“手艺”变现.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-10_左耳朵耗子教你用“手艺”变现.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-10_左耳朵耗子教你用“手艺”变现.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-10_左耳朵耗子教你用“手艺”变现.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10rByq1rWlX17rrP2FUjF5IS7VR2LR3bm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10lsOB2mdci1rTSfRBf2eKMXLHSVF6_bT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10lsOB2mdci1rTSfRBf2eKMXLHSVF6_bT</guid>
+			
+
+			<title><![CDATA[ 2017-10-10_左耳朵耗子教你如何让自己的“手艺”升值.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-10_左耳朵耗子教你如何让自己的“手艺”升值.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-10_左耳朵耗子教你如何让自己的“手艺”升值.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-10_左耳朵耗子教你如何让自己的“手艺”升值.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10lsOB2mdci1rTSfRBf2eKMXLHSVF6_bT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10jSm5n06pU-B_ZotvNSwGFCl5GPWMlFA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10jSm5n06pU-B_ZotvNSwGFCl5GPWMlFA</guid>
+			
+
+			<title><![CDATA[ 2017-10-10_左耳朵耗子：看Equifax信息泄露始末.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-10_左耳朵耗子：看Equifax信息泄露始末.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-10_左耳朵耗子：看Equifax信息泄露始末.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-10_左耳朵耗子：看Equifax信息泄露始末.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10jSm5n06pU-B_ZotvNSwGFCl5GPWMlFA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=10hjyHvd5XqZ59Wk9kmFgfW-1g-AYlxra</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=10hjyHvd5XqZ59Wk9kmFgfW-1g-AYlxra</guid>
+			
+
+			<title><![CDATA[ 2017-10-10_左耳朵耗子：洞悉技术的本质，享受科技的乐趣.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 2017-10-10_左耳朵耗子：洞悉技术的本质，享受科技的乐趣.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 2017-10-10_左耳朵耗子：洞悉技术的本质，享受科技的乐趣.mp3 ]]></description>
+			<content:encoded><![CDATA[ 2017-10-10_左耳朵耗子：洞悉技术的本质，享受科技的乐趣.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=10hjyHvd5XqZ59Wk9kmFgfW-1g-AYlxra"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

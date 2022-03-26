@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .02 java核心技术36讲.音频 ]]></title>
+		<itunes:subtitle><![CDATA[ .02 java核心技术36讲.音频 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .02 java核心技术36讲.音频. ]]></itunes:summary>
+		<description><![CDATA[ .02 java核心技术36讲.音频 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1IN_j-dYT5lpyY-vo9aJ0O_FZJ69jGKjz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IN_j-dYT5lpyY-vo9aJ0O_FZJ69jGKjz</guid>
+			
+
+			<title><![CDATA[ 40 技术没有终点.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40 技术没有终点.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40 技术没有终点.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40 技术没有终点.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IN_j-dYT5lpyY-vo9aJ0O_FZJ69jGKjz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IM29GyrmlySRSW7fadhgmkVKrO-j5jxy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IM29GyrmlySRSW7fadhgmkVKrO-j5jxy</guid>
+			
+
+			<title><![CDATA[ 39谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IM29GyrmlySRSW7fadhgmkVKrO-j5jxy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IK1WVgUhgCn4XHnk9TsW8sefpeNNIQhb</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IK1WVgUhgCn4XHnk9TsW8sefpeNNIQhb</guid>
+			
+
+			<title><![CDATA[ 38对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IK1WVgUhgCn4XHnk9TsW8sefpeNNIQhb"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1IFeLa4e2AUz9_36F0gBwmvagdCd3GLjV</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1IFeLa4e2AUz9_36F0gBwmvagdCd3GLjV</guid>
+			
+
+			<title><![CDATA[ 37谈谈Spring Bean的生命周期和作用域？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37谈谈Spring Bean的生命周期和作用域？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37谈谈Spring Bean的生命周期和作用域？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37谈谈Spring Bean的生命周期和作用域？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1IFeLa4e2AUz9_36F0gBwmvagdCd3GLjV"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I4zUGJW32cPjlhDWQoe2F4SIGNjjI8eL</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I4zUGJW32cPjlhDWQoe2F4SIGNjjI8eL</guid>
+			
+
+			<title><![CDATA[ 36谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I4zUGJW32cPjlhDWQoe2F4SIGNjjI8eL"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I4EsMglURn38-wnv4f31ftCtAdfELCG-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I4EsMglURn38-wnv4f31ftCtAdfELCG-</guid>
+			
+
+			<title><![CDATA[ 35JVM优化Java代码时都做了什么？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35JVM优化Java代码时都做了什么？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35JVM优化Java代码时都做了什么？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35JVM优化Java代码时都做了什么？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I4EsMglURn38-wnv4f31ftCtAdfELCG-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1I-kYniNnm25EOS0R43eNFyeGZJxZm0-4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1I-kYniNnm25EOS0R43eNFyeGZJxZm0-4</guid>
+			
+
+			<title><![CDATA[ 34有人说“Lambda能让Java程序慢30倍”，你怎么看？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34有人说“Lambda能让Java程序慢30倍”，你怎么看？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34有人说“Lambda能让Java程序慢30倍”，你怎么看？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34有人说“Lambda能让Java程序慢30倍”，你怎么看？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1I-kYniNnm25EOS0R43eNFyeGZJxZm0-4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HwAh8d8vUpEGUD60U1ydH3b1kdyBiNI0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HwAh8d8vUpEGUD60U1ydH3b1kdyBiNI0</guid>
+			
+
+			<title><![CDATA[ 33后台服务出现明显“变慢”，谈谈你的诊断思路？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33后台服务出现明显“变慢”，谈谈你的诊断思路？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33后台服务出现明显“变慢”，谈谈你的诊断思路？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33后台服务出现明显“变慢”，谈谈你的诊断思路？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HwAh8d8vUpEGUD60U1ydH3b1kdyBiNI0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HvlbyfgVNdGpgn_vEIAP-Dzh7xBI7QkH</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HvlbyfgVNdGpgn_vEIAP-Dzh7xBI7QkH</guid>
+			
+
+			<title><![CDATA[ 32如何写出安全的Java代码？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32如何写出安全的Java代码？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32如何写出安全的Java代码？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32如何写出安全的Java代码？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HvlbyfgVNdGpgn_vEIAP-Dzh7xBI7QkH"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HuFXbX_OHiTtHhMnq7AAxJAiCviyEoYn</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HuFXbX_OHiTtHhMnq7AAxJAiCviyEoYn</guid>
+			
+
+			<title><![CDATA[ 31你了解Java应用开发中的注入攻击吗？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31你了解Java应用开发中的注入攻击吗？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31你了解Java应用开发中的注入攻击吗？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31你了解Java应用开发中的注入攻击吗？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HuFXbX_OHiTtHhMnq7AAxJAiCviyEoYn"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HpL5ryz3B9Zz5ayjo27feGh_Xj2tC-mK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HpL5ryz3B9Zz5ayjo27feGh_Xj2tC-mK</guid>
+			
+
+			<title><![CDATA[ 30Java程序运行在Docker等容器环境有哪些新问题.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30Java程序运行在Docker等容器环境有哪些新问题.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30Java程序运行在Docker等容器环境有哪些新问题.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30Java程序运行在Docker等容器环境有哪些新问题.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HpL5ryz3B9Zz5ayjo27feGh_Xj2tC-mK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HmVNO9ob7R62qtfigV8OcqJXvQI_3FmY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HmVNO9ob7R62qtfigV8OcqJXvQI_3FmY</guid>
+			
+
+			<title><![CDATA[ 29Java内存模型中的happen-before是什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29Java内存模型中的happen-before是什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29Java内存模型中的happen-before是什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29Java内存模型中的happen-before是什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HmVNO9ob7R62qtfigV8OcqJXvQI_3FmY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HZ6whnpp4RUZT2atlAZFBrbzXPDYzhCd</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HZ6whnpp4RUZT2atlAZFBrbzXPDYzhCd</guid>
+			
+
+			<title><![CDATA[ 28谈谈你的GC调优思路.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28谈谈你的GC调优思路.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28谈谈你的GC调优思路.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28谈谈你的GC调优思路.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HZ6whnpp4RUZT2atlAZFBrbzXPDYzhCd"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HWyp0QhCPfh3WNZS_fR46l33Os530AZR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HWyp0QhCPfh3WNZS_fR46l33Os530AZR</guid>
+			
+
+			<title><![CDATA[ 27Java常见的垃圾收集器有哪些？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27Java常见的垃圾收集器有哪些？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27Java常见的垃圾收集器有哪些？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27Java常见的垃圾收集器有哪些？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HWyp0QhCPfh3WNZS_fR46l33Os530AZR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HVP3QhgGrVh75NFAbGUhH7-B0QMAEGe6</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HVP3QhgGrVh75NFAbGUhH7-B0QMAEGe6</guid>
+			
+
+			<title><![CDATA[ 26如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26如何监控和诊断JVM堆内和堆外内存使用？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HVP3QhgGrVh75NFAbGUhH7-B0QMAEGe6"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HUu_Vr9f0-IEEQXD_gGjamkjCrdJsASa</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HUu_Vr9f0-IEEQXD_gGjamkjCrdJsASa</guid>
+			
+
+			<title><![CDATA[ 25谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HUu_Vr9f0-IEEQXD_gGjamkjCrdJsASa"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HPyTN3AQdyCq8UNMbmFPGizD_CuJ-j4U</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HPyTN3AQdyCq8UNMbmFPGizD_CuJ-j4U</guid>
+			
+
+			<title><![CDATA[ 24有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24有哪些方法可以在运行时动态生成一个Java类？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HPyTN3AQdyCq8UNMbmFPGizD_CuJ-j4U"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HBKDkOyk8BjxP1A18Hb5b9UohH7Tfdpy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HBKDkOyk8BjxP1A18Hb5b9UohH7Tfdpy</guid>
+			
+
+			<title><![CDATA[ 23请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23请介绍类加载过程，什么是双亲委派模型？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HBKDkOyk8BjxP1A18Hb5b9UohH7Tfdpy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HAb21lU0cKwnRNLlmDzwhoohicANGok4</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HAb21lU0cKwnRNLlmDzwhoohicANGok4</guid>
+			
+
+			<title><![CDATA[ 22AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HAb21lU0cKwnRNLlmDzwhoohicANGok4"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1HAAaSOQRwU6sJBsPngHpas2SCkryb89z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1HAAaSOQRwU6sJBsPngHpas2SCkryb89z</guid>
+			
+
+			<title><![CDATA[ 21Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21Java并发类库提供的线程池有哪几种？ 分别有什么特点？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1HAAaSOQRwU6sJBsPngHpas2SCkryb89z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1H1GrACObKUsnVXpP95l0ZXcna9k2WCYY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1H1GrACObKUsnVXpP95l0ZXcna9k2WCYY</guid>
+			
+
+			<title><![CDATA[ 20并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1H1GrACObKUsnVXpP95l0ZXcna9k2WCYY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gv20nbkEky8dM9_hRJLRr1idXlyY03Jz</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gv20nbkEky8dM9_hRJLRr1idXlyY03Jz</guid>
+			
+
+			<title><![CDATA[ 19Java并发包提供了哪些并发工具类？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19Java并发包提供了哪些并发工具类？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19Java并发包提供了哪些并发工具类？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19Java并发包提供了哪些并发工具类？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gv20nbkEky8dM9_hRJLRr1idXlyY03Jz"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GtOtg-Qy_bOVnzmHw2gYpByevVK_rY8O</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GtOtg-Qy_bOVnzmHw2gYpByevVK_rY8O</guid>
+			
+
+			<title><![CDATA[ 18什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18什么情况下Java程序会产生死锁？如何定位、修复？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GtOtg-Qy_bOVnzmHw2gYpByevVK_rY8O"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gr05V3xm9bd4BysGsnWhND6oQXH3Dmtl</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gr05V3xm9bd4BysGsnWhND6oQXH3Dmtl</guid>
+			
+
+			<title><![CDATA[ 17一个线程两次调用start()方法会出现什么情况？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17一个线程两次调用start()方法会出现什么情况？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17一个线程两次调用start()方法会出现什么情况？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17一个线程两次调用start()方法会出现什么情况？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gr05V3xm9bd4BysGsnWhND6oQXH3Dmtl"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gq1m45t9O62chuo_BckotjHge28eni9z</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gq1m45t9O62chuo_BckotjHge28eni9z</guid>
+			
+
+			<title><![CDATA[ 16 synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16 synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16 synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16 synchronized底层如何实现？什么是锁的升级、降级？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gq1m45t9O62chuo_BckotjHge28eni9z"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gn_rVlDJtFTc4SRTOegPrhyZgX4JCsIR</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gn_rVlDJtFTc4SRTOegPrhyZgX4JCsIR</guid>
+			
+
+			<title><![CDATA[ 15_1.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15_1.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15_1.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15_1.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gn_rVlDJtFTc4SRTOegPrhyZgX4JCsIR"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GmsRfiDfTUpUA6mnngDsbQOy-6ZKkJNr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GmsRfiDfTUpUA6mnngDsbQOy-6ZKkJNr</guid>
+			
+
+			<title><![CDATA[ 15synchronized和ReentrantLock有什么区别呢？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15synchronized和ReentrantLock有什么区别呢？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15synchronized和ReentrantLock有什么区别呢？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15synchronized和ReentrantLock有什么区别呢？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GmsRfiDfTUpUA6mnngDsbQOy-6ZKkJNr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Gg-Otx2u1Gwl8BF7BY5AquAW0GBXxWLc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Gg-Otx2u1Gwl8BF7BY5AquAW0GBXxWLc</guid>
+			
+
+			<title><![CDATA[ 14谈谈你知道的设计模式？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14谈谈你知道的设计模式？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14谈谈你知道的设计模式？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14谈谈你知道的设计模式？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Gg-Otx2u1Gwl8BF7BY5AquAW0GBXxWLc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GaL-SQXaifYPG-AWPHkiHgO9aq-wleDJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GaL-SQXaifYPG-AWPHkiHgO9aq-wleDJ</guid>
+			
+
+			<title><![CDATA[ 13谈谈接口和抽象类有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13谈谈接口和抽象类有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13谈谈接口和抽象类有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13谈谈接口和抽象类有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GaL-SQXaifYPG-AWPHkiHgO9aq-wleDJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GUecNZSG2g9p-GyWMgMvZMdElSr3UlKB</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GUecNZSG2g9p-GyWMgMvZMdElSr3UlKB</guid>
+			
+
+			<title><![CDATA[ 12Java有几种文件拷贝方式？哪一种最高效？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12Java有几种文件拷贝方式？哪一种最高效？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12Java有几种文件拷贝方式？哪一种最高效？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12Java有几种文件拷贝方式？哪一种最高效？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GUecNZSG2g9p-GyWMgMvZMdElSr3UlKB"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GLZaegU5j76634GAGvZf0A6ZWMUgpxGT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GLZaegU5j76634GAGvZf0A6ZWMUgpxGT</guid>
+			
+
+			<title><![CDATA[ 11Java提供了哪些IO方式？ NIO如何实现多路复用？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 11Java提供了哪些IO方式？ NIO如何实现多路复用？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 11Java提供了哪些IO方式？ NIO如何实现多路复用？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 11Java提供了哪些IO方式？ NIO如何实现多路复用？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GLZaegU5j76634GAGvZf0A6ZWMUgpxGT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GJ46Kx3g3uED6KviME1XI4Y8WqDIGJ6c</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GJ46Kx3g3uED6KviME1XI4Y8WqDIGJ6c</guid>
+			
+
+			<title><![CDATA[ 10如何保证集合是线程安全的ConcurrentHashMap如何实现高效地线程安全.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 10如何保证集合是线程安全的ConcurrentHashMap如何实现高效地线程安全.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 10如何保证集合是线程安全的ConcurrentHashMap如何实现高效地线程安全.mp3 ]]></description>
+			<content:encoded><![CDATA[ 10如何保证集合是线程安全的ConcurrentHashMap如何实现高效地线程安全.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GJ46Kx3g3uED6KviME1XI4Y8WqDIGJ6c"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GD-2kl6D67sJH6CZtvFQrjcQwIjnezdC</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GD-2kl6D67sJH6CZtvFQrjcQwIjnezdC</guid>
+			
+
+			<title><![CDATA[ 09对比Hashtable、HashMap、TreeMap有什么不同？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 09对比Hashtable、HashMap、TreeMap有什么不同？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 09对比Hashtable、HashMap、TreeMap有什么不同？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 09对比Hashtable、HashMap、TreeMap有什么不同？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GD-2kl6D67sJH6CZtvFQrjcQwIjnezdC"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GC7QrqgO9YOLSAGeSiqScmLugoVd9Ghu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GC7QrqgO9YOLSAGeSiqScmLugoVd9Ghu</guid>
+			
+
+			<title><![CDATA[ 08对比Vector、ArrayList、LinkedList有何区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 08对比Vector、ArrayList、LinkedList有何区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 08对比Vector、ArrayList、LinkedList有何区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 08对比Vector、ArrayList、LinkedList有何区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GC7QrqgO9YOLSAGeSiqScmLugoVd9Ghu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1GBEwphrJWSM4sT7-_6SoEpzrqAy6eZvi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1GBEwphrJWSM4sT7-_6SoEpzrqAy6eZvi</guid>
+			
+
+			<title><![CDATA[ 07int和Integer有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 07int和Integer有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 07int和Integer有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 07int和Integer有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1GBEwphrJWSM4sT7-_6SoEpzrqAy6eZvi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G8ZXky4iKcqsHhpgEss_5Fhb6Nwd_XQM</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G8ZXky4iKcqsHhpgEss_5Fhb6Nwd_XQM</guid>
+			
+
+			<title><![CDATA[ 06动态代理是基于什么原理？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 06动态代理是基于什么原理？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 06动态代理是基于什么原理？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 06动态代理是基于什么原理？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G8ZXky4iKcqsHhpgEss_5Fhb6Nwd_XQM"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G6qlrVanh3Fb2z1DbYgTXlzv84YgA1ZJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G6qlrVanh3Fb2z1DbYgTXlzv84YgA1ZJ</guid>
+			
+
+			<title><![CDATA[ 05String、StringBuffer、StringBuilder有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 05String、StringBuffer、StringBuilder有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 05String、StringBuffer、StringBuilder有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 05String、StringBuffer、StringBuilder有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G6qlrVanh3Fb2z1DbYgTXlzv84YgA1ZJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1G4VBD2u4-dNC85YEnSJyZLEQm5vxsbBK</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1G4VBD2u4-dNC85YEnSJyZLEQm5vxsbBK</guid>
+			
+
+			<title><![CDATA[ 04强引用、软引用、弱引用、幻象引用有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 04强引用、软引用、弱引用、幻象引用有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 04强引用、软引用、弱引用、幻象引用有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 04强引用、软引用、弱引用、幻象引用有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1G4VBD2u4-dNC85YEnSJyZLEQm5vxsbBK"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Fygg0_Ti2CNX8R3EC1a222WKNdw7X-Cu</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Fygg0_Ti2CNX8R3EC1a222WKNdw7X-Cu</guid>
+			
+
+			<title><![CDATA[ 03谈谈final、finally、 finalize有什么不同？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 03谈谈final、finally、 finalize有什么不同？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 03谈谈final、finally、 finalize有什么不同？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 03谈谈final、finally、 finalize有什么不同？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Fygg0_Ti2CNX8R3EC1a222WKNdw7X-Cu"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FyE0G80Vfe4GdPnuS1kKVuOOi4EpU39S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FyE0G80Vfe4GdPnuS1kKVuOOi4EpU39S</guid>
+			
+
+			<title><![CDATA[ 02Exception和Error有什么区别？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 02Exception和Error有什么区别？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 02Exception和Error有什么区别？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 02Exception和Error有什么区别？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FyE0G80Vfe4GdPnuS1kKVuOOi4EpU39S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FmgcXD0aZZjSIz1erGcUvjFONLurrJpm</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FmgcXD0aZZjSIz1erGcUvjFONLurrJpm</guid>
+			
+
+			<title><![CDATA[ 01谈谈你对Java平台的理解？.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 01谈谈你对Java平台的理解？.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 01谈谈你对Java平台的理解？.mp3 ]]></description>
+			<content:encoded><![CDATA[ 01谈谈你对Java平台的理解？.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FmgcXD0aZZjSIz1erGcUvjFONLurrJpm"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1FlwfG8uQHA6bPOPyL49_k-GuAZiCwqXi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1FlwfG8uQHA6bPOPyL49_k-GuAZiCwqXi</guid>
+			
+
+			<title><![CDATA[ 00以面试题为切入点，有效提升你的Java内功.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 00以面试题为切入点，有效提升你的Java内功.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 00以面试题为切入点，有效提升你的Java内功.mp3 ]]></description>
+			<content:encoded><![CDATA[ 00以面试题为切入点，有效提升你的Java内功.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1FlwfG8uQHA6bPOPyL49_k-GuAZiCwqXi"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>

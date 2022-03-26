@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+	<channel>
+		<atom:link href="http://192.168.1.112:8080/podcast2.rss" rel="self" type="application/rss+xml" />
+		<link>http://192.168.1.112:8080/</link>
+
+		<title><![CDATA[ .48 白话法律42讲 ]]></title>
+		<itunes:subtitle><![CDATA[ .48 白话法律42讲 ]]></itunes:subtitle>
+		<itunes:summary><![CDATA[ .48 白话法律42讲. ]]></itunes:summary>
+		<description><![CDATA[ .48 白话法律42讲 ]]></description>
+
+		<itunes:category text="Technology" />
+		<itunes:keywords></itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<image>
+			<link>http://192.168.1.112:8080/</link>
+			<url>http://192.168.1.112:8080/images/artwork.jpg</url>
+			<title>Rustacean Station</title>
+		</image>
+		<itunes:image href="http://192.168.1.112:8080/images/artwork.jpg" />
+
+		<language>en-us</language>
+		<pubDate>Fri, 25 Mar 2022 15:33:42 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Mar 2022 15:33:42 +0000</lastBuildDate>
+
+		<managingEditor><![CDATA[ podcast@rustacean-station.org (Rustacean Station) ]]></managingEditor>
+		<webMaster>jon@thesquareplanet.com (Jon Gjengset)</webMaster>
+		<itunes:author><![CDATA[ Rustacean Station ]]></itunes:author>
+		<!-- <googleplay:email>jon@tsp.io</googleplay:email> -->
+		<itunes:owner>
+			<itunes:name>Jon Gjengset</itunes:name>
+			<itunes:email>jon@thesquareplanet.com</itunes:email>
+		</itunes:owner>
+
+		
+		
+				<item>
+			<link>http://docs.google.com/uc?id=1W_c-YGB47PWWnvNj_Ct1an7SNfdafe04</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1W_c-YGB47PWWnvNj_Ct1an7SNfdafe04</guid>
+			
+
+			<title><![CDATA[ 开篇词讲这年头，你真应该懂点法律常识.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 开篇词讲这年头，你真应该懂点法律常识.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 开篇词讲这年头，你真应该懂点法律常识.mp3 ]]></description>
+			<content:encoded><![CDATA[ 开篇词讲这年头，你真应该懂点法律常识.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1W_c-YGB47PWWnvNj_Ct1an7SNfdafe04"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1WWe4uCyO3rxJ8epQ4rhgeY4UiK0pBFWU</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1WWe4uCyO3rxJ8epQ4rhgeY4UiK0pBFWU</guid>
+			
+
+			<title><![CDATA[ 结束语讲法律，不会终止的篇章.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 结束语讲法律，不会终止的篇章.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 结束语讲法律，不会终止的篇章.mp3 ]]></description>
+			<content:encoded><![CDATA[ 结束语讲法律，不会终止的篇章.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1WWe4uCyO3rxJ8epQ4rhgeY4UiK0pBFWU"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1W6nw6TKjJaxgCS0pONUPYWObSs3wdBKr</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1W6nw6TKjJaxgCS0pONUPYWObSs3wdBKr</guid>
+			
+
+			<title><![CDATA[ 42“老周，我想知道”讲律师就在你身边（四）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 42“老周，我想知道”讲律师就在你身边（四）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 42“老周，我想知道”讲律师就在你身边（四）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 42“老周，我想知道”讲律师就在你身边（四）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1W6nw6TKjJaxgCS0pONUPYWObSs3wdBKr"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VlkGA5n7OA2IiU7NV8ZEudXfqrvc06jA</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VlkGA5n7OA2IiU7NV8ZEudXfqrvc06jA</guid>
+			
+
+			<title><![CDATA[ 41讲“网络诈骗”真的离你很远吗.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 41讲“网络诈骗”真的离你很远吗.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 41讲“网络诈骗”真的离你很远吗.mp3 ]]></description>
+			<content:encoded><![CDATA[ 41讲“网络诈骗”真的离你很远吗.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VlkGA5n7OA2IiU7NV8ZEudXfqrvc06jA"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VZqJKhVc9mtiYvyAg1-yqKcruN6JLp4B</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VZqJKhVc9mtiYvyAg1-yqKcruN6JLp4B</guid>
+			
+
+			<title><![CDATA[ 40讲买卖房屋综合法宝.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 40讲买卖房屋综合法宝.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 40讲买卖房屋综合法宝.mp3 ]]></description>
+			<content:encoded><![CDATA[ 40讲买卖房屋综合法宝.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VZqJKhVc9mtiYvyAg1-yqKcruN6JLp4B"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1VEfxm3jRxMwZ8c6Cjy60IY712yliBRS-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1VEfxm3jRxMwZ8c6Cjy60IY712yliBRS-</guid>
+			
+
+			<title><![CDATA[ 39讲婚姻家庭综合法宝.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 39讲婚姻家庭综合法宝.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 39讲婚姻家庭综合法宝.mp3 ]]></description>
+			<content:encoded><![CDATA[ 39讲婚姻家庭综合法宝.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1VEfxm3jRxMwZ8c6Cjy60IY712yliBRS-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UzHWY5asVLFttIHe7R2LbolG_Js4sF9Y</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UzHWY5asVLFttIHe7R2LbolG_Js4sF9Y</guid>
+			
+
+			<title><![CDATA[ 38讲交通事故综合法宝.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 38讲交通事故综合法宝.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 38讲交通事故综合法宝.mp3 ]]></description>
+			<content:encoded><![CDATA[ 38讲交通事故综合法宝.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UzHWY5asVLFttIHe7R2LbolG_Js4sF9Y"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1UiDyc2wIq3XgBGClzS-cS_hunD9No8ql</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1UiDyc2wIq3XgBGClzS-cS_hunD9No8ql</guid>
+			
+
+			<title><![CDATA[ 37讲发生交通事故，如何处理.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 37讲发生交通事故，如何处理.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 37讲发生交通事故，如何处理.mp3 ]]></description>
+			<content:encoded><![CDATA[ 37讲发生交通事故，如何处理.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1UiDyc2wIq3XgBGClzS-cS_hunD9No8ql"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1U6h01OhOUnLuJooH_2fUh5kv3VobVr1P</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1U6h01OhOUnLuJooH_2fUh5kv3VobVr1P</guid>
+			
+
+			<title><![CDATA[ 36“老周，我想知道”讲律师就在你身边（三）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 36“老周，我想知道”讲律师就在你身边（三）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 36“老周，我想知道”讲律师就在你身边（三）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 36“老周，我想知道”讲律师就在你身边（三）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1U6h01OhOUnLuJooH_2fUh5kv3VobVr1P"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1ThPbyFw4V76XFb8HJQGKSgtRFQqXxqx_</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1ThPbyFw4V76XFb8HJQGKSgtRFQqXxqx_</guid>
+			
+
+			<title><![CDATA[ 35讲“伪基站”是你的避风港吗.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 35讲“伪基站”是你的避风港吗.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 35讲“伪基站”是你的避风港吗.mp3 ]]></description>
+			<content:encoded><![CDATA[ 35讲“伪基站”是你的避风港吗.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1ThPbyFw4V76XFb8HJQGKSgtRFQqXxqx_"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TdKgjQBSR8w67TxfDoq7-azjUlfwsNvO</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TdKgjQBSR8w67TxfDoq7-azjUlfwsNvO</guid>
+			
+
+			<title><![CDATA[ 34讲“能动手就别吵吵”，代价你真的知道吗.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 34讲“能动手就别吵吵”，代价你真的知道吗.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 34讲“能动手就别吵吵”，代价你真的知道吗.mp3 ]]></description>
+			<content:encoded><![CDATA[ 34讲“能动手就别吵吵”，代价你真的知道吗.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TdKgjQBSR8w67TxfDoq7-azjUlfwsNvO"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1TTvEBLIg3dro3OFlMpoSIW3ASRGWgX9S</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1TTvEBLIg3dro3OFlMpoSIW3ASRGWgX9S</guid>
+			
+
+			<title><![CDATA[ 33“老周，我想知道”讲律师就在你身边（二）.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 33“老周，我想知道”讲律师就在你身边（二）.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 33“老周，我想知道”讲律师就在你身边（二）.mp3 ]]></description>
+			<content:encoded><![CDATA[ 33“老周，我想知道”讲律师就在你身边（二）.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1TTvEBLIg3dro3OFlMpoSIW3ASRGWgX9S"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1T7cE0TjrZ4kNCjrMHk3EyJT7kHv7I8AJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1T7cE0TjrZ4kNCjrMHk3EyJT7kHv7I8AJ</guid>
+			
+
+			<title><![CDATA[ 32讲老人倒地，“扶”“不服”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 32讲老人倒地，“扶”“不服”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 32讲老人倒地，“扶”“不服”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 32讲老人倒地，“扶”“不服”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1T7cE0TjrZ4kNCjrMHk3EyJT7kHv7I8AJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SrrLALtBLlHveJWkZ-aQVCbYxW2b4bKT</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SrrLALtBLlHveJWkZ-aQVCbYxW2b4bKT</guid>
+			
+
+			<title><![CDATA[ 31讲危险！酒驾为什么被罚那么重.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 31讲危险！酒驾为什么被罚那么重.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 31讲危险！酒驾为什么被罚那么重.mp3 ]]></description>
+			<content:encoded><![CDATA[ 31讲危险！酒驾为什么被罚那么重.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SrrLALtBLlHveJWkZ-aQVCbYxW2b4bKT"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SZkMoZO7sIOG0svt5wQDnue6EzlLj67m</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SZkMoZO7sIOG0svt5wQDnue6EzlLj67m</guid>
+			
+
+			<title><![CDATA[ 30讲如何看待“从删库到跑路”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 30讲如何看待“从删库到跑路”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 30讲如何看待“从删库到跑路”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 30讲如何看待“从删库到跑路”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SZkMoZO7sIOG0svt5wQDnue6EzlLj67m"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1SG5rbJ6mppFYxebKZV9Cyx1GZMmAqJYy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1SG5rbJ6mppFYxebKZV9Cyx1GZMmAqJYy</guid>
+			
+
+			<title><![CDATA[ 29讲远离“套路贷”的套路大全.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 29讲远离“套路贷”的套路大全.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 29讲远离“套路贷”的套路大全.mp3 ]]></description>
+			<content:encoded><![CDATA[ 29讲远离“套路贷”的套路大全.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1SG5rbJ6mppFYxebKZV9Cyx1GZMmAqJYy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1S-SgBQ4WStwrgwkVj62328oab7pWZ5eQ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1S-SgBQ4WStwrgwkVj62328oab7pWZ5eQ</guid>
+			
+
+			<title><![CDATA[ 28讲外挂真能大吉大利吗.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 28讲外挂真能大吉大利吗.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 28讲外挂真能大吉大利吗.mp3 ]]></description>
+			<content:encoded><![CDATA[ 28讲外挂真能大吉大利吗.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1S-SgBQ4WStwrgwkVj62328oab7pWZ5eQ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Rd6r7mKuajDqSy11XSCPTRv1ViF1MZJJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Rd6r7mKuajDqSy11XSCPTRv1ViF1MZJJ</guid>
+			
+
+			<title><![CDATA[ 27讲受贿原来这么“容易”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 27讲受贿原来这么“容易”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 27讲受贿原来这么“容易”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 27讲受贿原来这么“容易”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Rd6r7mKuajDqSy11XSCPTRv1ViF1MZJJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RRsQPhdoxyfhuX4xyB9E1XV9tt4JR6xc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RRsQPhdoxyfhuX4xyB9E1XV9tt4JR6xc</guid>
+			
+
+			<title><![CDATA[ 26讲谁修改了我的积分资产.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 26讲谁修改了我的积分资产.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 26讲谁修改了我的积分资产.mp3 ]]></description>
+			<content:encoded><![CDATA[ 26讲谁修改了我的积分资产.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RRsQPhdoxyfhuX4xyB9E1XV9tt4JR6xc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1RDkYmoF2K-G02ItXjssZ9tCGVE8cErlJ</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1RDkYmoF2K-G02ItXjssZ9tCGVE8cErlJ</guid>
+			
+
+			<title><![CDATA[ 25讲从透支到盗刷：人人须知的银行卡纠纷.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 25讲从透支到盗刷：人人须知的银行卡纠纷.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 25讲从透支到盗刷：人人须知的银行卡纠纷.mp3 ]]></description>
+			<content:encoded><![CDATA[ 25讲从透支到盗刷：人人须知的银行卡纠纷.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1RDkYmoF2K-G02ItXjssZ9tCGVE8cErlJ"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1R-ziZWGmmNqDXqvVM8csoertxXORlCbI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1R-ziZWGmmNqDXqvVM8csoertxXORlCbI</guid>
+			
+
+			<title><![CDATA[ 24讲加班、工资、休假，你知道多少.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 24讲加班、工资、休假，你知道多少.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 24讲加班、工资、休假，你知道多少.mp3 ]]></description>
+			<content:encoded><![CDATA[ 24讲加班、工资、休假，你知道多少.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1R-ziZWGmmNqDXqvVM8csoertxXORlCbI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QfYA_L8JpoctIuVP3wah12xxqcnFzgsS</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QfYA_L8JpoctIuVP3wah12xxqcnFzgsS</guid>
+			
+
+			<title><![CDATA[ 23讲抄袭、盗图为什么做不得.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 23讲抄袭、盗图为什么做不得.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 23讲抄袭、盗图为什么做不得.mp3 ]]></description>
+			<content:encoded><![CDATA[ 23讲抄袭、盗图为什么做不得.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QfYA_L8JpoctIuVP3wah12xxqcnFzgsS"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1QJKfKhuF4v8wELbB9Wcl_7GTxjKYZRUY</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1QJKfKhuF4v8wELbB9Wcl_7GTxjKYZRUY</guid>
+			
+
+			<title><![CDATA[ 22讲如何让欠债还钱真正“天经地义”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 22讲如何让欠债还钱真正“天经地义”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 22讲如何让欠债还钱真正“天经地义”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 22讲如何让欠债还钱真正“天经地义”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1QJKfKhuF4v8wELbB9Wcl_7GTxjKYZRUY"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Q2yfrDBTk77Stc2vm3bzZnoKXTWLtPdN</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Q2yfrDBTk77Stc2vm3bzZnoKXTWLtPdN</guid>
+			
+
+			<title><![CDATA[ 21讲裁员面前，你能做的还有什么.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 21讲裁员面前，你能做的还有什么.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 21讲裁员面前，你能做的还有什么.mp3 ]]></description>
+			<content:encoded><![CDATA[ 21讲裁员面前，你能做的还有什么.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Q2yfrDBTk77Stc2vm3bzZnoKXTWLtPdN"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Pb560tsshKKUALsAgX7GQyS6XZGowKA-</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Pb560tsshKKUALsAgX7GQyS6XZGowKA-</guid>
+			
+
+			<title><![CDATA[ 20讲期权的“前世今生”.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 20讲期权的“前世今生”.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 20讲期权的“前世今生”.mp3 ]]></description>
+			<content:encoded><![CDATA[ 20讲期权的“前世今生”.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Pb560tsshKKUALsAgX7GQyS6XZGowKA-"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1PMnyO38Hxub3mYeiNBL7Mfv19rAmStfi</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1PMnyO38Hxub3mYeiNBL7Mfv19rAmStfi</guid>
+			
+
+			<title><![CDATA[ 19讲孩子学校受伤，谁之过.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 19讲孩子学校受伤，谁之过.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 19讲孩子学校受伤，谁之过.mp3 ]]></description>
+			<content:encoded><![CDATA[ 19讲孩子学校受伤，谁之过.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1PMnyO38Hxub3mYeiNBL7Mfv19rAmStfi"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1P5XdxUEUAYWkjfrApnPYQQG4vUq1_GJ0</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1P5XdxUEUAYWkjfrApnPYQQG4vUq1_GJ0</guid>
+			
+
+			<title><![CDATA[ 18讲又见猝死！工“殇”究竟是不是工伤.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 18讲又见猝死！工“殇”究竟是不是工伤.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 18讲又见猝死！工“殇”究竟是不是工伤.mp3 ]]></description>
+			<content:encoded><![CDATA[ 18讲又见猝死！工“殇”究竟是不是工伤.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1P5XdxUEUAYWkjfrApnPYQQG4vUq1_GJ0"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OoIiARY_Iw1ClYzrIlxl8-JRK53alV3i</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OoIiARY_Iw1ClYzrIlxl8-JRK53alV3i</guid>
+			
+
+			<title><![CDATA[ 17讲黄色网站不仅仅是“黄色”罪名.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 17讲黄色网站不仅仅是“黄色”罪名.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 17讲黄色网站不仅仅是“黄色”罪名.mp3 ]]></description>
+			<content:encoded><![CDATA[ 17讲黄色网站不仅仅是“黄色”罪名.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OoIiARY_Iw1ClYzrIlxl8-JRK53alV3i"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1OCh8mz55pABAGklc126NaJPRuYooRKNc</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1OCh8mz55pABAGklc126NaJPRuYooRKNc</guid>
+			
+
+			<title><![CDATA[ 16讲骗术升级假结婚、假离婚的那些事儿.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 16讲骗术升级假结婚、假离婚的那些事儿.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 16讲骗术升级假结婚、假离婚的那些事儿.mp3 ]]></description>
+			<content:encoded><![CDATA[ 16讲骗术升级假结婚、假离婚的那些事儿.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1OCh8mz55pABAGklc126NaJPRuYooRKNc"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1O3hSlGHm7Zs_dLMAumBxTFaajcoT5QFI</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1O3hSlGHm7Zs_dLMAumBxTFaajcoT5QFI</guid>
+			
+
+			<title><![CDATA[ 15讲致创业：谁动了我的股权.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 15讲致创业：谁动了我的股权.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 15讲致创业：谁动了我的股权.mp3 ]]></description>
+			<content:encoded><![CDATA[ 15讲致创业：谁动了我的股权.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1O3hSlGHm7Zs_dLMAumBxTFaajcoT5QFI"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NvjnOS2Yz8yOV94nD8agQ5xhJTzI79iy</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NvjnOS2Yz8yOV94nD8agQ5xhJTzI79iy</guid>
+			
+
+			<title><![CDATA[ 14讲非法集资到底是个啥.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 14讲非法集资到底是个啥.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 14讲非法集资到底是个啥.mp3 ]]></description>
+			<content:encoded><![CDATA[ 14讲非法集资到底是个啥.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NvjnOS2Yz8yOV94nD8agQ5xhJTzI79iy"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1NUAMtuVI9FfPpOgb48pD_6FJ5NaCN51B</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1NUAMtuVI9FfPpOgb48pD_6FJ5NaCN51B</guid>
+			
+
+			<title><![CDATA[ 13讲遗产继承的爱恨情仇.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 13讲遗产继承的爱恨情仇.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 13讲遗产继承的爱恨情仇.mp3 ]]></description>
+			<content:encoded><![CDATA[ 13讲遗产继承的爱恨情仇.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1NUAMtuVI9FfPpOgb48pD_6FJ5NaCN51B"  type="audio/mpeg"/>
+			
+		</item>
+		<item>
+			<link>http://docs.google.com/uc?id=1Mzmh1ZuBOWSB2vFq7Lh-M_4zNMnNiDcw</link>
+			<pubDate>Fri, 25 Mar 2022 15:30:00 +0000</pubDate>
+			
+			<guid isPermaLink="false">http://docs.google.com/uc?id=1Mzmh1ZuBOWSB2vFq7Lh-M_4zNMnNiDcw</guid>
+			
+
+			<title><![CDATA[ 12讲合同在手欠款难收，报警有用吗.mp3 ]]></title>
+			<itunes:summary><![CDATA[ 12讲合同在手欠款难收，报警有用吗.mp3 ]]></itunes:summary>
+			<description><![CDATA[ 12讲合同在手欠款难收，报警有用吗.mp3 ]]></description>
+			<content:encoded><![CDATA[ 12讲合同在手欠款难收，报警有用吗.mp3 ]]></content:encoded>
+
+			<enclosure url="http://docs.google.com/uc?id=1Mzmh1ZuBOWSB2vFq7Lh-M_4zNMnNiDcw"  type="audio/mpeg"/>
+			
+		</item>
+
+		
+		
+	</channel>
+</rss>
